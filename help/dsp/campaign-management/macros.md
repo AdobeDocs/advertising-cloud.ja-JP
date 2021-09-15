@@ -3,9 +3,9 @@ title: Advertising Cloud DSPマクロ
 description: 一般的な追跡に使用できるマクロを参照し、サードパーティのディスプレイ広告のクリックを追跡します。
 feature: Ads
 exl-id: e31cc2e5-ad1f-4555-a87b-0e4c3731fe5f
-source-git-commit: 185fc7d79798a0a3a9ad5829b701aeb53a4a47c1
+source-git-commit: e0166dbad4fec41fdc64a65cb3a8ac97496c681f
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,9 @@ DSPは、次の場合に、表示タグに表示クリックマクロを自動�
 >[!MORELIKETHIS]
 >
 >* [オーディオ広告の設定](/help/dsp/campaign-management/ads/ad-settings-audio.md)
->* [オーディオ広告の設定](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
->* [オーディオ広告の設定](/help/dsp/campaign-management/ads/ad-settings-display.md)
->* [オーディオ広告の設定](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
->* [オーディオ広告の設定](/help/dsp/campaign-management/ads/ad-settings-native.md)
->* [オーディオ広告の設定](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [接続されたテレビ広告の設定](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+>* [ディスプレイ広告の設定](/help/dsp/campaign-management/ads/ad-settings-display.md)
+>* [モバイル広告の設定](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+>* [ネイティブ広告設定](/help/dsp/campaign-management/ads/ad-settings-native.md)
+>* [プリロール広告の設定](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
 

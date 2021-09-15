@@ -5,8 +5,8 @@ feature: Ads
 exl-id: 4d85b89b-217f-46eb-a8b2-27da4c220be7
 source-git-commit: fcd55f882f56c9eacd82d554d30364400b99555c
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
