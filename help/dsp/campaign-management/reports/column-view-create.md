@@ -1,9 +1,9 @@
 ---
 title: カスタム列表示の作成
 description: カスタム列表示を作成する方法を説明します。
-feature: Campaign Data Views
+feature: DSP Campaign Data Views
 exl-id: f39e6ce9-aa4e-4049-af16-eddb0ba30087
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%

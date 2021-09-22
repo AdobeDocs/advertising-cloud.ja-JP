@@ -1,9 +1,9 @@
 ---
 title: '[!DNL On Demand] オーストラリアとニュージーランドのプレミアムインベントリパブリッシャー'
 description: オーストラリアとニュージーランドで利用可能な [!DNL On Demand] プレミアムインベントリパブリッシャーを参照してください。
-feature: On Demand Inventory
+feature: DSP On Demand Inventory
 exl-id: e46ec570-38a7-4ea6-8c4c-d173971c48b7
-source-git-commit: 3dbba61766411eadbad9a8257e2930b683d0d55b
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%

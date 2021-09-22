@@ -1,9 +1,9 @@
 ---
 title: ' [!DNL On Demand] プレミアムインベントリについて'
 description: DSPがプレミアムパブリッシャーパートナーと事前にネゴシエートした取引について説明します。
-feature: On Demand Inventory
+feature: DSP On Demand Inventory
 exl-id: d23d4e4e-f29f-4dba-afe3-7198ef4ee544
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 0%

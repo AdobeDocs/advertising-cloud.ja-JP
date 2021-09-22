@@ -1,9 +1,9 @@
 ---
 title: 配置の複製
 description: 1つ以上の配置を複製する方法を説明します。
-feature: Placements
+feature: DSP Placements
 exl-id: d22a61a8-4f1b-41ee-b4fb-3124bec81a2f
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%

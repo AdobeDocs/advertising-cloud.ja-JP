@@ -1,9 +1,9 @@
 ---
 title: 使用可能な広告タイプ
 description: 使用可能な広告タイプについて説明します。
-feature: Ads
+feature: DSP Ads
 exl-id: 27df3948-b645-4ddf-a5e0-ade72f15a969
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '529'
 ht-degree: 0%

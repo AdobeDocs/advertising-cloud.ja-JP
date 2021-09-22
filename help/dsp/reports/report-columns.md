@@ -1,9 +1,9 @@
 ---
 title: 使用可能なレポート列
 description: カスタムレポートで使用可能な列の説明を参照してください。
-feature: Custom Reports
+feature: DSP Custom Reports
 exl-id: c96e46ae-2fb2-4364-9c51-f160c00693ba
-source-git-commit: 3dbba61766411eadbad9a8257e2930b683d0d55b
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '1635'
 ht-degree: 0%

@@ -1,9 +1,9 @@
 ---
 title: キー配置設定をすばやく編集する
 description: 主要な配置設定をすばやく変更する方法を説明します。
-feature: Placements
+feature: DSP Placements
 exl-id: 107ec263-a0f2-491b-8380-2cceaf51cae9
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 1%

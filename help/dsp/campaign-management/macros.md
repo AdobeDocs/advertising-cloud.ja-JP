@@ -1,11 +1,11 @@
 ---
 title: Advertising Cloud DSPマクロ
 description: 一般的な追跡に使用できるマクロを参照し、サードパーティのディスプレイ広告のクリックを追跡します。
-feature: Ads
+feature: DSP Ads
 exl-id: e31cc2e5-ad1f-4555-a87b-0e4c3731fe5f
-source-git-commit: e0166dbad4fec41fdc64a65cb3a8ac97496c681f
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---

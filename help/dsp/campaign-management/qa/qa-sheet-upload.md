@@ -1,9 +1,9 @@
 ---
 title: キャンペーンのプレースメント設定のアップロード
 description: Excel QAスプレッドシートを使用して、キャンペーンの主要な配置設定に変更をアップロードする方法を説明します。
-feature: Placements
+feature: DSP Placements
 exl-id: 0f5fdc7e-3a90-4b4b-a23c-75bed7703100
-source-git-commit: fcd55f882f56c9eacd82d554d30364400b99555c
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%

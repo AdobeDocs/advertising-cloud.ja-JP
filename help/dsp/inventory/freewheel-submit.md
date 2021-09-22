@@ -1,9 +1,9 @@
 ---
 title: PG案件の広告を [!DNL FreeWheel]に送信
 description: FreeWheel上のパブリッシャーとのプログラム的に保証された取引に対して広告の承認をリクエストする方法を説明します。
-feature: Private Inventory, Deal IDs
+feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%

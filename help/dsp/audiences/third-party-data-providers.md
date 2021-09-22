@@ -1,9 +1,9 @@
 ---
 title: Advertising Cloud DSPで使用可能なサードパーティデータプロバイダー
 description: 利用可能なすべてのサードパーティデータプロバイダーのリストを参照する。
-feature: Audiences
+feature: DSP Audiences
 exl-id: f67d81a0-bd31-48d8-9bcf-1888afd43894
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

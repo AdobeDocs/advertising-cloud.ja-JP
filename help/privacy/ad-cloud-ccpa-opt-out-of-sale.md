@@ -1,9 +1,9 @@
 ---
 title: Adobe Advertising Cloud州消費者プライバシー法(&#58)のサポート消費者向けオプトアウトオブセールのサポート
 description: 消費者のオプトアウトオブセールのリクエストをキャプチャするためのサポートについて説明します。
-feature: CCPA, CCPA Opt-out-of-sale Segments
+feature: CCPA
 exl-id: 2c0cd4f5-798f-479a-99cd-f555cd676766
-source-git-commit: 185fc7d79798a0a3a9ad5829b701aeb53a4a47c1
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '1036'
 ht-degree: 0%
