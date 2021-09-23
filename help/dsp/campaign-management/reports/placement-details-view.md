@@ -3,16 +3,16 @@ title: プレースメントのサイト、広告、頻度の詳細の表示
 description: 配置のターゲットサイト、広告、頻度データを表示する方法を説明します。
 feature: DSP Placements
 exl-id: 99bb4a4e-dc52-4130-87c4-5458e25bbc1e
-source-git-commit: b91255255d2718b56f41aabd8c1babe52aa32abc
+source-git-commit: 14c484de177a6c5e3d4976076ecdbc4fa9086606
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
 
-# 配置のサイト、広告、頻度および在庫の詳細の表示
+# プレースメントのサイト、広告、頻度の詳細の表示
 
-プレースメント[!UICONTROL Inspector]には、プレースメントのターゲットサイト、広告および掘り出し物がすべて一覧表示されます。 また、配置の頻度データも含まれます。
+プレースメント[!UICONTROL Inspector]には、すべてのターゲットサイトと、配置内のすべての広告が一覧表示されます。 また、配置の頻度データも含まれます。
 
 1. 親キャンペーンまたはパッケージの配置ビューを開きます。
 
@@ -31,7 +31,6 @@ ht-degree: 0%
    * プレースメントのターゲットとなるすべてのサイトを表示するには、**[!UICONTROL Sites]**&#x200B;をクリックします。
    * 配置内のすべての広告を表示するには、**[!UICONTROL Ads]**&#x200B;をクリックします。
    * 配置の頻度データを表示するには、**[!UICONTROL Frequency]**&#x200B;をクリックします。
-   * プレースメントのターゲットとなるすべての取引を表示するには、**[!UICONTROL Inventory]**&#x200B;をクリックします。
 
 1. （オプション）必要に応じて[列表示](column-view-change.md)を変更し、必要な指標を表示します。
 
