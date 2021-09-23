@@ -3,9 +3,9 @@ title: Advertising Cloud DSPでの配置管理について
 description: 配置の管理について説明します。
 feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: 9d35b366122cab460e8d563b36597926ed71b6b0
+source-git-commit: 4a30463e9cb5783beab0ea3fa6989089e7f90457
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 また、ダッシュボードには、デフォルトで、配置ごとにペーシングと配信の指標が表示されます。 オプションで、配置のパフォーマンス指標を表示し、カスタム列セットを作成できます。 データテーブル全体をXLSM（マクロ対応Excelスプレッドシート）形式のレポートとしてブラウザーのデフォルトのダウンロードフォルダーにダウンロードできます。
 
-各配置について、詳細ビュー([[!UICONTROL Inspector]](/help/dsp/campaign-management/reports/campaign-reports-about.md))を開くことができます。このビューには、パフォーマンス指標、ペーシングと配信指標、サイト、広告、在庫別のカスタム列セットが含まれます。頻度指標と頻度指標。 また、サイトの除外、広告の一時停止、取引の編集など、含まれるサイト、広告および在庫に対するクイックアクションを実行することもできます。 インスペクタを開くには、配置行の上にカーソルを置き、**[!UICONTROL More]**&#x200B;をクリックしてから、**[!UICONTROL Sites]**、**[!UICONTROL Ads]**、**[!UICONTROL Frequency]**、**[!UICONTROL Inventory]**&#x200B;をクリックします。 [!UICONTROL Sites]、[!UICONTROL Ads]、[!UICONTROL Frequency]または[!UICONTROL Inventory]タブのデータを、XLSM形式のレポートとしてブラウザーのデフォルトのダウンロードフォルダーに書き出すことができます。
+各配置について、詳細ビュー([[!UICONTROL Inspector]](/help/dsp/campaign-management/reports/campaign-reports-about.md))を開くことができます。このビューには、パフォーマンス指標、ペーシングと配信指標、サイト別および広告別のカスタム列セットが含まれます。頻度指標と頻度指標。 サイトの除外や広告の一時停止など、含まれるサイトや広告に対してクイックアクションを実行することもできます。 インスペクタを開くには、配置行の上にカーソルを置き、**[!UICONTROL More]**&#x200B;をクリックしてから、**[!UICONTROL Sites]**、**[!UICONTROL Ads]**、または&#x200B;**[!UICONTROL Frequency]**&#x200B;をクリックします。 [!UICONTROL Sites]、[!UICONTROL Ads]または[!UICONTROL Frequency]タブのデータを、XLSM形式のレポートとしてブラウザーのデフォルトのダウンロードフォルダーに書き出すことができます。
 
 >[!NOTE]
 >
