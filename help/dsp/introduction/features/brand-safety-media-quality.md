@@ -3,9 +3,9 @@ title: ブランドの安全性とメディア品質
 description: ブランドの安全性とメディア品質の機能の詳細を説明します。
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: 3cc617092f38d20bd01e487c985bb1d05c167506
+source-git-commit: cebe80fa8ed4f6410a7ea3ee7be6e0bf03631a49
 workflow-type: tm+mt
-source-wordcount: '1269'
+source-wordcount: '1266'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Advertising Cloud DSPは、ブランド保護機能のスイートを提供し�
 
 ### [!DNL Ads.txt] をサポートしたインベントリの検証
 
-[[!DNL Ads.txt]] は [!DNL Authorized Digital Sellers](https://iabtechlab.com/ads-txt) の略で、2017 年 6 月に [!DNL Interactive Advertising Bureau]([!DNL IAB]) が開始した取り組みで、市場での在庫の適切な表現を容易にし、トラフィックやドメインスプーフィングの不正な情報源と組み合わせています。 参加するパブリッシャーやディストリビューターは、ドメインの最上位レベル（`example.com/ads.txt` など）に `ads.txt` ページを維持することで、デジタルインベントリを販売する権限を持つ企業とその関係性を公式に宣言します。
+[[!DNL Ads.txt], which stands for [!DNL Authorized Digital Sellers]](https://iabtechlab.com/ads-txt) は、2017 年 6 月に ( [!DNL Interactive Advertising Bureau] [!DNL IAB]) が開始した、公開市場における在庫の適切な表示を促進し、トラフィックの不正な源やドメインスプーフィングと競合するイニシアチブです。参加するパブリッシャーやディストリビューターは、ドメインの最上位レベル（`example.com/ads.txt` など）に `ads.txt` ページを維持することで、デジタルインベントリを販売する権限を持つ企業とその関係性を公式に宣言します。
 
 DSPは、各パブリッシャーの `ads.txt` ファイルを読み取り、検証済みの [!DNL ads.txt] 販売者のみから購入するオプションを提供することで、[!DNL ads.txt] をサポートします。 例えば、`nytimes.com` にアクセスする販売者を New York Times の `ads.txt` ファイルと照合すると、正当でないものを特定でき、検証された販売者からのみ購入するように設定されている場合は、違反者をブロックします。<!-- can we actually mention NY Times? -->
 
