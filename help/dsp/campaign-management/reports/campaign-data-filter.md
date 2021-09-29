@@ -1,24 +1,24 @@
 ---
-title: キャンペーンデータのフィルタリング
-description: 表示されるキャンペーンデータを絞り込むためのフィルターの適用方法を説明します。
+title: キャンペーンデータのフィルター
+description: 表示されるキャンペーンデータを絞り込むフィルターを適用する方法を説明します。
 feature: DSP Campaign Data Views
 exl-id: 784f025c-a96b-45bb-8326-e2e5216197e3
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 2b151d7eef19a7ee3a1286b06dbee0a0a6e28d04
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '93'
 ht-degree: 1%
 
 ---
 
-# キャンペーンデータのフィルタリング
+# キャンペーンデータのフィルター
 
-1. メインツールバーで、![フィルターボタン](/help/dsp/assets/filter.png)をクリックします。
-1. 適用する各フィルターに対して、左側の列のフィルター名をクリックし、フィルター値を指定します。
+1. メインツールバーで、「![ フィルターボタン ](/help/dsp/assets/filter.png)」をクリックします。
+1. 適用する各フィルターに対して、左の列のフィルター名をクリックし、フィルター値を指定します。
 1. クリック **[!UICONTROL Apply]**.
 
 ## 使用可能なフィルター
 
-[!UICONTROL Campaigns]、[!UICONTROL Packages]および[!UICONTROL Placements]ビューでは、次のフィルターを使用できます。
+[!UICONTROL Campaigns]、[!UICONTROL Packages] および [!UICONTROL Placements] ビューでは、次のフィルターを使用できます。
 
 * [!UICONTROL Campaigns] フィルターの表示：
    * [!UICONTROL Campaign status]
@@ -35,7 +35,7 @@ ht-degree: 1%
    * [!UICONTROL Custom ad scheduling]
    * [!UICONTROL Custom goal] （該当する場合）
    * [!UICONTROL End date]
-   * [!UICONTROL Max bid] ([!UICONTROL less than]、 [!UICONTROL greater than]または指 [!UICONTROL equal to] 定値)
+   * [!UICONTROL Max bid] ([!UICONTROL less than]、 [!UICONTROL greater than]または [!UICONTROL equal to] 指定した値 )
    * [!UICONTROL Optimization goal]
    * [!UICONTROL Pacing on] ([!UICONTROL impressions] または [!UICONTROL spend])
    * [!UICONTROL Pacing strategy]
@@ -44,6 +44,13 @@ ht-degree: 1%
    * [!UICONTROL Placement type]
    * [!UICONTROL Placement sub-type]
    * [!UICONTROL Start date]
+   * [!UICONTROL Creation date]
+* [!UICONTROL Ads] フィルターの表示：
+   * [!UICONTROL Adobe ad approval status]
+   * [!UICONTROL Ad ID]
+   * [!UICONTROL Ad name]
+   * [!UICONTROL Ad type]
+   * [!UICONTROL Creation date]
 
 >[!MORELIKETHIS]
 >
