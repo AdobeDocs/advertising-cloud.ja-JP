@@ -3,7 +3,7 @@ title: キャンペーンのアーカイブまたはアーカイブ解除
 description: キャンペーンをアーカイブまたはアーカイブ解除する方法を説明します。
 feature: DSP Campaigns
 exl-id: 9a6822c5-9d93-490a-9a2e-37afb1591028
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 9c92b882fb35874bf7dc8747b121ea3650f8a82d
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -12,24 +12,24 @@ ht-degree: 0%
 
 # キャンペーンのアーカイブまたはアーカイブ解除
 
-アーカイブして使用されていないキャンペーンを非表示にします。 アーカイブ済みキャンペーンに対して実行できるアクションは、アーカイブを解除することだけです。 アーカイブしたキャンペーンは、デフォルトでは表示されませんが、レポートには引き続き使用できます。
+アーカイブして使用されていないキャンペーンを非表示にします。 アーカイブ済みのキャンペーンに対して実行できるアクションは、アーカイブを解除することだけです。 アーカイブしたキャンペーンは、デフォルトでは表示されませんが、レポートでは引き続き使用できます。
 
-キャンペーンのアーカイブを解除して、いつでも以前のステータスに戻すことができます。
+キャンペーンのアーカイブを解除して、以前のステータスをいつでも復元できます。
 
 ## キャンペーンのアーカイブ
 
-1. メインメニューで&#x200B;**[!UICONTROL Campaigns]**&#x200B;をクリックします。
-1. キャンペーン名の横にある&#x200B;**... >[!UICONTROL Archive]**&#x200B;をクリックします。
+1. メインメニューで **[!UICONTROL Campaigns]** をクリックします。
+1. キャンペーン名の横にある **... >[!UICONTROL Archive]** をクリックします。
 1. 確認メッセージで、「**[!UICONTROL Archive]**」をクリックします。
 
 >[!NOTE]
 >
->アーカイブ済みキャンペーンを表示するには、[!UICONTROL Campaigns]ビューをフィルターします。![フィルターボタン](/help/dsp/assets/filter.png)をクリックし、**[!UICONTROL Campaign status]**&#x200B;をクリックして「**[!UICONTROL Archived]**」を選択し、**[!UICONTROL Apply]をクリックします。**
+>アーカイブされたキャンペーンを表示するには、[!UICONTROL Campaigns] ビューを次のようにフィルターします。![ フィルターボタン ](/help/dsp/assets/filter.png) をクリックし、**[!UICONTROL Campaign status]** をクリックして **[!UICONTROL Archived]** を選択し、**[!UICONTROL Apply]をクリックします。**
 
 ## キャンペーンのアーカイブ解除
 
-1. メインメニューで&#x200B;**[!UICONTROL Campaigns]**&#x200B;をクリックします。
-1. キャンペーン名の横にある&#x200B;**... >[!UICONTROL Unarchive]**&#x200B;をクリックします。
+1. メインメニューで **[!UICONTROL Campaigns]** をクリックします。
+1. キャンペーン名の横にある **... >[!UICONTROL Unarchive]** をクリックします。
 1. 確認メッセージで、「**[!UICONTROL Unarchive]**」をクリックします。
 
 >[!MORELIKETHIS]
