@@ -2,9 +2,9 @@
 title: 利用可能  [!DNL Advanced Measurement Solutions]
 description: 高度な測定に使用できるソリューションのリストを参照してください。
 exl-id: 1a8b76ee-d38d-4ee4-981b-e29497fa4095
-source-git-commit: 209dfce05228be879d9ba744590ff52ce572a807
+source-git-commit: d25e768fe5d277ef8d1c9ae7531b7a7d3c563622
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 * ユーザーベースのリーチ
 デスクトップ、モバイル、ネイティブ、オーディオなど、複数のデジタル環境にわたる公開を含め、オーディエンスと戦術がユーザーレベルでどのように重なっているかを理解します。
 
-* [!DNL Dynata] パネルベースの調査：制御/公開された調査を実行し、認知度、習熟度、意図などの指標に対する広告露出の影響を判定します。
+* [!DNL Dynata] パネルベースの調査：制御/公開された調査を実行し、認知度、習熟度、意図などの指標に対する広告露出の影響を判断します。
 
 * 徒歩交通
 
@@ -77,4 +77,4 @@ ht-degree: 0%
 
 ## 詳細情報
 
-高度な測定サービスを活用して、地域の制限や価格など、キャンペーンのカスタム学習アジェンダを作成する方法について詳しくは、[!DNL Adobe Strategic Advertising Consultants] チーム ([!DNL asg@adobe.com]) にお問い合わせください。
+高度な測定ソリューションを活用して、各パッケージの測定可能な形式、地域制限、価格など、キャンペーンのカスタム学習アジェンダを作成する方法について詳しくは、[!DNL Adobe Strategic Advertising Consultants] チーム ([!DNL asg@adobe.com]) にお問い合わせください。
