@@ -5,7 +5,7 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: fddfd66f96f14bc72a8a7d4ed4e681c750b1af9e
+source-git-commit: afdfaed21410fdd1808964d637b5210255af7d81
 workflow-type: tm+mt
 source-wordcount: '1025'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 | 日付 | 機能 | 説明 | 詳細情報 |
 | ---- | ------- | ----------- | -------------------- |
-| 2021 年 9 月 30 日 | ブランドの安全性 | （22 9 月リリース） [!DNL DoubleVerify] ブランドの安全性の事前入札製品が [!DNL Brand Suitability Tiers] に更新され、特定のトピックのすべてのインスタンスを避けることなく、特定のセグメントの 3 つのリスクレベル（低、中、高）から選択できるようになりました。 従来、セグメントには公差レベルは含まれていませんでした。<br><br>新しいセグメント構造に合わ [!DNL DoubleVerify] せて、DSPは既存の Brand Safety セグメントを、推奨される新しい中レベルの *セグメントに移行しました*。必要に応じて、セグメント層を *low*&quot;*または *high* に調整できます。<br><br>**注意：** セグメントの一部には層はありませんが、「迷惑/スパイウェア/マルウェア、ウェアズ」 —> Incentivized/Malware/Clutter などの新しい名前が付けられています。 | — |
+| 2021 年 9 月 30 日 | ブランドの安全性 | （22 9 月リリース） [!DNL DoubleVerify] ブランドの安全性の事前入札製品が [!DNL Brand Suitability Tiers] に更新され、特定のトピックのすべてのインスタンスを避けることなく、特定のセグメントの 3 つのリスクレベル（低、中、高）から選択できるようになりました。 従来、セグメントには公差レベルは含まれていませんでした。<br><br>新しいセグメント構造に合わ [!DNL DoubleVerify] せて、DSPは既存の Brand Safety セグメントを、推奨される新しい中レベルの *セグメントに移行しました*。必要に応じて、セグメント層を *low* または *high* に調整できます。<br><br>**注意：** セグメントの一部には層はありませんが、「迷惑/スパイウェア/マルウェア、ウェアズ」/Incentivized/Malware/Clutter などの新しい名前が付けられています。 | — |
 |  | 最適化 | 次の最適化目標および入札前フィルターは非推奨（廃止予定）となりました。<ul><li>最適化目標：<ul><li>[!UICONTROL Always Max Bid & Highest Viewability Rate (Moat – GroupM)]</li><li>[!UICONTROL Always Max Bid & Highest Viewability Rate (Moat – MRC)]</li></ul><li>事前入札フィルターの目標：<ul><li>[!UICONTROL Viewability IAS]</li><li>[!UICONTROL Viewability Moat]</li></ul></ul> | 「[ 最適化目標とその使用方法 ](/help/dsp/optimization/optimization-goals.md)」および「[ 配置レベルの事前入札フィルターとその使用方法 ](/help/dsp/optimization/optimization-pre-bid-filters.md)」を参照してください。 |
 | 2021 年 9 月 29 日 | キャンペーン管理ビュー | [!UICONTROL Campaigns]、[!UICONTROL Packages]、[!UICONTROL Placements]、および [!UICONTROL Ads] ビューのカスタム列セットで、「[!UICONTROL Creation date]」列を使用できるようになりました。 [!UICONTROL Placements] ビューと [!UICONTROL Ads] ビューを [!UICONTROL Creation date] でフィルタリングすることもできます。 | 「[ カスタム列ビューの作成 ](/help/dsp/campaign-management/reports/column-view-create.md)」および「[ キャンペーンデータのフィルター ](/help/dsp/campaign-management/reports/campaign-data-filter.md)」を参照してください。 |
 |  | プログラムで保証された取引 | （8 9 月リリース）プログラム保証 (PG) 取引のデフォルトの配置に対して [!UICONTROL Max Bid] を編集できるようになりました。 しかし、PG の取引は常に固定 CPM を持っているので、為替手数料を考慮に入れるために [!UICONTROL Max Bid] を編集する必要があるのは、海外の顧客だけです。 | — |
