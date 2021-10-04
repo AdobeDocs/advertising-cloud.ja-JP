@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP ガイド
 user-guide-description: Advertising Cloud DSPを使用してディスプレイ広告戦略を管理、最適化、およびレポートするために必要な主な機能、タスク、設定、その他のリソースについて説明します。
 breadcrumb-title: DSP ガイド
 index: true
-source-git-commit: e41938befafe54da1466e8faab08f1d7a263f4e0
+source-git-commit: ba80cbe9d44694c75f2cf46b448130d7bd29e419
 workflow-type: tm+mt
-source-wordcount: '738'
+source-wordcount: '740'
 ht-degree: 3%
 
 ---
@@ -26,6 +26,7 @@ ht-degree: 3%
       + [ブランドの安全性とメディア品質](/help/dsp/introduction/features/brand-safety-media-quality.md)
       + [クロスデバイス対応ソリューション](/help/dsp/introduction/features/cross-device-solutions.md)
    + [アカウントの資金調達](/help/dsp/introduction/billing/account-funding.md)
+   + [サポートされる通貨](/help/dsp/currency.md)
    + 消費者プライバシーのサポート {#privacy}
       + [EU 一般データ保護規則のサポート](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-gdpr.html)
       + CCPA のサポート {#ccpa}
