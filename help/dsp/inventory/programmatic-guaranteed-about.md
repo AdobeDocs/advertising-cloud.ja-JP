@@ -3,7 +3,7 @@ title: プログラム保証取引について
 description: プログラム保証 (PG) 取引と、提供の認定を受けている SSP について説明します。
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 8cf85ae3-027d-4d9d-95a0-ac39d651627a
-source-git-commit: 8046ec79ec24f47fe33e49c6097e44dbba450f1f
+source-git-commit: 2ebcaa488499485b1da549e0324d15ca8160512a
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 0%
@@ -31,8 +31,8 @@ PG 取引では、DSPが各入札リクエストにリクエストを返し、SS
 * [!DNL Ambient Digital]
 * [!DNL FreeWheel]
 * [!DNL Google Authorized Buyers]
-* [!DNL Magnite CTV]( 以前の [!DNL Telaria])
-* [!DNL Magnite DV+] (  [!DNL Rubicon]
+* [!DNL Magnite CTV] ( 以前の [!DNL Telaria])
+* [!DNL Magnite DV+] ( 以前の [!DNL Rubicon])
 * [!DNL OpenX]
 * [!DNL SpotX]
 
