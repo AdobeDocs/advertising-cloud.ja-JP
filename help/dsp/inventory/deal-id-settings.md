@@ -3,9 +3,9 @@ title: 手動の Deal ID 設定
 description: 手動で入力した Deal ID の設定の説明を参照してください。
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 0cd5e9e8-2b13-4b1e-a2e0-b8b492f75acf
-source-git-commit: c3d0783078adc8afafb55d6b6e7e48cdc875ce7c
+source-git-commit: 5f39608155f9237fb6d69a7b31c007d1b8d0306f
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 | [!UICONTROL Advertisers] | [!UICONTROL Account email] | 取引にアクセスできるユーザーアカウントの電子メールアドレス。 | いいえ | はい |
 |  | [!UICONTROL Advertisers that can access this deal] | この取引にアクセスできるアカウント内の特定の広告主。<br><br><b>注意：</b> この取引は、ビューから追加のアカウントで広告主と共有で [!UICONTROL Deals] きます。Deal 行で **[!UICONTROL #]** をクリックし、**[!UICONTROL share]** をクリックして、E メールアドレスと Deal を共有します。 | はい | はい |
 | [!UICONTROL Tracking] | [!UICONTROL Flight Dates] | この取引を使用するトラフィックの開始日と終了日。 この日付は、追跡の目的でのみ使用され、広告配信には影響しません。<br><br><b>ヒント：</b> > 表示では、 [!UICONTROL Inventory] この列に [!UICONTROL Deals] は、指定したフライト日 [!UICONTROL Pacing & Budget] 付とインプレッションの目標に対して、取引がどのようにペーシングしているかが示されます。配信のペーシング率が低い場合や超過している場合は、パブリッシャーに連絡して、配信がデールを通じて送信するボリュームを調整してください。 | 保証された取引：はい <br> 保証されていない取引：いいえ | はい |
-|  | [!UICONTROL Impressions] | （保証されていない取引の場合はオプション）この取引を使用して実行すると予想されるインプレッションの数。 この値は、追跡の目的のみです。パブリッシャーが広告配信を制御します。 | 保証された取引：はい <br> 保証されていない取引：いいえ | はい |
+|  | [!UICONTROL Impressions] | （保証されていない取引の場合はオプション）この取引を使用して実行すると予想されるインプレッションの数。 この値は追跡の目的でのみ使用します。パブリッシャーが広告配信を制御します。 | 保証された取引：はい <br> 保証されていない取引：いいえ | はい |
 
 {style=&quot;table-layout:auto&quot;}
 
