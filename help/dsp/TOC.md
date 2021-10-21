@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP ガイド
 user-guide-description: Advertising Cloud DSPを使用してディスプレイ広告戦略を管理、最適化、およびレポートするために必要な主な機能、タスク、設定、その他のリソースについて説明します。
 breadcrumb-title: DSP ガイド
 index: true
-source-git-commit: ba80cbe9d44694c75f2cf46b448130d7bd29e419
+source-git-commit: 851b3e5ebb6f6e8dcd6ea672c7220ed28f52dba4
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '742'
 ht-degree: 3%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 3%
 + [新機能](/help/dsp/home.md)
 + はじめに {#introduction}
    + [Adobe Advertising Cloud DSPの概要](/help/dsp/introduction/dsp-about.md)
-   + 主な機能 {#features}
+   + 主な特長 {#features}
       + [最適化](/help/dsp/introduction/features/optimization.md)
       + [ブランドの安全性とメディア品質](/help/dsp/introduction/features/brand-safety-media-quality.md)
       + [クロスデバイス対応ソリューション](/help/dsp/introduction/features/cross-device-solutions.md)
@@ -36,10 +36,10 @@ ht-degree: 3%
       + [広告要件ポリシー](https://experienceleague.adobe.com/docs/advertising-cloud/policies/ad-requirements-policy.html)
       + [許容可能なヘルスセグメントのガイドライン](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
       + [[!DNL DSP] データ使用のガイドライン](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
-   + [利用可能  [!DNL Advanced Measurement Solutions]](/help/dsp/introduction/advanced-measurement-services.md)
+   + [高度な測定ソリューション](/help/dsp/introduction/advanced-measurement-services.md)
 + キャンペーン管理 {#campaign-management}
    + [キャンペーン管理構造の概要](/help/dsp/campaign-management/campaign-management-overview.md)
-   + キャンペーン {#campaigns}
+   + Campaigns {#campaigns}
       + [キャンペーン管理について](/help/dsp/campaign-management/campaigns/campaign-about.md)
       + [キャンペーンの作成](/help/dsp/campaign-management/campaigns/campaign-create.md)
       + [キャンペーンの編集](/help/dsp/campaign-management/campaigns/campaign-edit.md)
@@ -83,7 +83,7 @@ ht-degree: 3%
          + [オーバーレイのデザインのベストプラクティス](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
       + サードパーティ広告の一括 {#bulk-third-party}
          + [複数のサードパーティ広告の作成](/help/dsp/campaign-management/ads/ad-create-third-party.md)
-         + [ [!DNL Flashtalking] で広告を作成](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
+         + [で広告を作成 [!DNL Flashtalking]](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
          + [認定広告提供パートナー](/help/dsp/campaign-management/ads/certified-ad-servers.md)
       + [プレースメントへの広告の添付](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
       + [広告の編集](/help/dsp/campaign-management/ads/ad-edit.md)
@@ -114,7 +114,7 @@ ht-degree: 3%
    + [キーボードショートカット](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
    + [キャンペーン管理に関する FAQ](/help/dsp/campaign-management/campaign-management-faq.md)
 + 最適化 {#optimization}
-   + [ [!DNL DSP]  キャンペーンの最適化方法](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
+   + [方法 [!DNL DSP] キャンペーンの最適化](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
    + [最適化の目標とその使用方法](/help/dsp/optimization/optimization-goals.md)
    + [配置レベルの事前入札フィルターとその使用方法](/help/dsp/optimization/optimization-pre-bid-filters.md)
    + カスタム目標 {#custom-goals}
@@ -123,49 +123,49 @@ ht-degree: 3%
       + [カスタム目標の作成のベストプラクティス](/help/dsp/optimization/custom-goal-best-practices.md)
    + [パフォーマンスキャンペーンの設定のベストプラクティス](/help/dsp/optimization/campaign-best-practices-performance.md)
    + [パフォーマンスのトラブルシューティング](/help/dsp/optimization/troubleshooting-performance.md)
-+ オーディエンス {#audiences}
++ Audiences {#audiences}
    + [Audience Management について](/help/dsp/audiences/audience-about.md)
    + セグメントの管理 {#segments}
       + [カスタムセグメントの作成と実装](/help/dsp/audiences/custom-segment-create.md)
-      + [!UICONTROL CCPA Opt-out-of-Sale] セグメント  {#ccpa-opt-out-of-sale-segments}
-         + [[!UICONTROL CCPA Opt-out-of-Sale] セグメントについて](/help/dsp/audiences/ccpa-opt-out-about.md)
-         + [[!UICONTROL CCPA Opt-out-of-Sale] セグメントの作成と実装](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
-         + [[!UICONTROL Consumer Opt-Out-of-Sale] レポートの取得](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
+      + [!UICONTROL CCPA Opt-out-of-Sale] セグメント {#ccpa-opt-out-of-sale-segments}
+         + [について [!UICONTROL CCPA Opt-out-of-Sale] セグメント](/help/dsp/audiences/ccpa-opt-out-about.md)
+         + [の作成と実装 [!UICONTROL CCPA Opt-out-of-Sale] セグメント](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
+         + [取得 [!UICONTROL Consumer Opt-Out-of-Sale] レポート](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
    + オーディエンス管理 {#reusable-audiences}
       + [再利用可能なオーディエンスの作成](/help/dsp/audiences/reusable-audience-create.md)
       + [オーディエンスの設定](/help/dsp/audiences/audience-settings.md)
       + [オーディエンスセグメントロジックの構文](/help/dsp/audiences/audience-segment-logic-syntax.md)
    + [使用可能なサードパーティデータプロバイダー](/help/dsp/audiences/third-party-data-providers.md)
-+ インベントリ {#inventory}
++ 在庫 {#inventory}
    + [在庫機能の概要](/help/dsp/inventory/inventory-overview.md)
-   + [ [!DNL Roku Inventory] の使用](/help/dsp/inventory/roku-inventory.md)
+   + [の使用 [!DNL Roku Inventory]](/help/dsp/inventory/roku-inventory.md)
    + [SSP パートナー](/help/dsp/inventory/ssp-partners.md)
-   + [!DNL On Demand] 在庫  {#on-demand}
-      + [ [!DNL On Demand]  プレミアムインベントリについて](/help/dsp/inventory/on-demand-inventory-about.md)
-      + [!DNL On Demand] プレミアムインベントリパブリッシャー {#publishers} が利用可能
+   + [!DNL On Demand] 在庫 {#on-demand}
+      + [について [!DNL On Demand] プレミアム在庫](/help/dsp/inventory/on-demand-inventory-about.md)
+      + 利用可能 [!DNL On Demand] Premium Inventory Publishers {#publishers}
          + [[!DNL On Demand] アジア太平洋のプレミアムインベントリパブリッシャー](/help/dsp/inventory/on-demand-inventory-publishers-apac.md)
          + [[!DNL On Demand] オーストラリアとニュージーランドのプレミアムインベントリパブリッシャー](/help/dsp/inventory/on-demand-inventory-publishers-anz.md)
          + [[!DNL On Demand] ヨーロッパ、中東、アフリカのプレミアムインベントリパブリッシャー](/help/dsp/inventory/on-demand-inventory-publishers-emea.md)
          + [[!DNL On Demand] 北米のプレミアム在庫パブリッシャー](/help/dsp/inventory/on-demand-inventory-publishers-na.md)
-      + [ [!DNL On Demand]  プレミアム在庫取引への登録とアクセス要求](/help/dsp/inventory/on-demand-inventory-subscribe.md)
-      + [ [!DNL On Demand]  プレミアム在庫取引の再要求](/help/dsp/inventory/on-demand-inventory-rerequest.md)
-      + [ [!DNL On Demand] Deal Requests と Subscriptions のステータスの表示](/help/dsp/inventory/on-demand-inventory-view-status.md)
-   + プライベートインベントリ {#private-inventory}
+      + [購読してへのアクセスをリクエスト [!DNL On Demand] プレミアム在庫取引](/help/dsp/inventory/on-demand-inventory-subscribe.md)
+      + [再リクエスト [!DNL On Demand] プレミアム在庫取引](/help/dsp/inventory/on-demand-inventory-rerequest.md)
+      + [のステータスの表示 [!DNL On Demand] 案件リクエストと購読](/help/dsp/inventory/on-demand-inventory-view-status.md)
+   + プライベート在庫 {#private-inventory}
       + 取引 ID {#deal-ids}
          + [!UICONTROL Deal ID Inbox] {#inbox}
-            + [[!UICONTROL Deal ID Inbox] について](/help/dsp/inventory/deal-id-inbox-about.md)
-            + [[!UICONTROL Deal ID Inbox] で契約を承認](/help/dsp/inventory/deal-id-inbox-accept.md)
+            + [について [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-about.md)
+            + [内での取引の承認 [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-accept.md)
          + 手動で入力した Deal ID {#manual}
-            + [[!UICONTROL Deal ID] 詳細の手動作成](/help/dsp/inventory/deal-id-create.md)
+            + [手動で作成 [!UICONTROL Deal ID] 詳細](/help/dsp/inventory/deal-id-create.md)
             + [手動 [!UICONTROL Deal ID] 設定](/help/dsp/inventory/deal-id-settings.md)
-      + プログラムで保証された取引 {#programmatic-guaranteed-deal}
+      + プログラム保証取引 {#programmatic-guaranteed-deal}
          + [プログラム保証取引の概要](/help/dsp/inventory/programmatic-guaranteed-about.md)
          + [プログラム的に保証された取引の交渉に関するヒント](/help/dsp/inventory/programmatic-guaranteed-tips.md)
          + [プログラム的に保証された取引の設定](/help/dsp/inventory/programmatic-guaranteed-set-up.md)
-         + [!DNL FreeWheel] プログラム保証取引  {#freewheel}
-            + [ [!DNL FreeWheel] でのプログラム保証取引の設定の概要](/help/dsp/inventory/freewheel-overview.md)
-            + [プログラム保証契約の広告を  [!DNL FreeWheel] に送信](/help/dsp/inventory/freewheel-submit.md)
-            + [ [!DNL FreeWheel]  プログラムで保証された取引の広告のステータスの確認](/help/dsp/inventory/freewheel-check-status.md)
+         + [!DNL FreeWheel] プログラム保証取引 {#freewheel}
+            + [でのプログラム保証取引の設定の概要 [!DNL FreeWheel]](/help/dsp/inventory/freewheel-overview.md)
+            + [プログラム的に保証された取り引きの広告をに送信 [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
+            + [広告のステータスの確認 [!DNL FreeWheel] プログラム保証取引](/help/dsp/inventory/freewheel-check-status.md)
             + [FreeWheel 広告送信のエラーコード](/help/dsp/inventory/freewheel-error-codes.md)
 + カスタムレポート {#custom-reports}
    + [カスタムレポートについて](/help/dsp/reports/report-about.md)
