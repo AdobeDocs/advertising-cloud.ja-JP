@@ -2,7 +2,7 @@
 title: 高度な測定ソリューション
 description: 高度な測定に使用できるソリューションのリストを参照してください。
 exl-id: 1a8b76ee-d38d-4ee4-981b-e29497fa4095
-source-git-commit: 1f1dc0b4b38652beb9bc7392ee17fa4eefad987b
+source-git-commit: b4976cdce6b4d5870c5cc3a1a09c1b5545cd3200
 workflow-type: tm+mt
 source-wordcount: '520'
 ht-degree: 0%
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## 完璧な測定の適合を見つける：ソリューション（垂直）
 
-* 任意の縦
+* **任意の縦：**
 
    * 実験デザイナー（プラセボおよび A/B テスト）
 
@@ -79,13 +79,13 @@ ht-degree: 0%
 
       複数の画面にわたってブランド認知度と認知度を測定したい顧客ニッチな観客に最適
 
-* QSR、小売（レンガとモルタル）
+* **QSR、小売（レンガとモルタル）:**
 
    * トランザクション測定
 
    * 足の交通量
 
-* QSR、小売、旅行
+* **QSR、小売、旅行：**
 
    * トランザクションインサイト
 
