@@ -1,41 +1,41 @@
 ---
-title: ' [!DNL [!DNL FreeWheel]] PG案件の広告のステータスの確認'
-description: ' [!DNL Freewheel] プログラムで保証された取引の広告のステータスを見つける方法を説明します。'
+title: 広告のステータスの [!DNL [!DNL FreeWheel]] PG 取引
+description: 広告のステータスを見つける方法を説明します。 [!DNL Freewheel] プログラム的に保証された取引。
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
-# [!DNL Freewheel]プログラムで保証された取引の広告のステータスの確認
+# 広告のステータスの確認 [!DNL Freewheel] プログラム保証取引
 
-[!DNL Freewheel]への広告送信が成功したかどうかを確認します。 必要に応じて、任意の広告を再送信できます。
+に広告を送信するかどうかを確認する [!DNL Freewheel] 成功した。 必要に応じて任意の広告を再送信できます。
 
-1. メインメニューで&#x200B;**[!UICONTROL Inventory]> [!UICONTROL Deals].**&#x200B;をクリックします。
+1. メインメニューで、 **[!UICONTROL Inventory]> [!UICONTROL Deals].**
 
 1. 次のいずれかの操作を行います。
 
-   * [!UICONTROL Deal ID inbox]の下の「**[!UICONTROL View Freewheel creative status]**」をクリックします。
+   * の [!UICONTROL Deal ID inbox]をクリックします。 **[!UICONTROL View Freewheel creative status]**.
 
-   * ディール行で、![オプションメニュー](/help/dsp/assets/options-menu.png) **[!UICONTROL see Freewheel status]**&#x200B;をクリックします。
+   * 任意の取引行で、「 ![オプションメニュー](/help/dsp/assets/options-menu.png) **>[!UICONTROL see Freewheel status]**.
 
 1. （オプション）特定の掘り出し物や広告を探すのに役立つようにデータをフィルタリングします。
 
-   [!UICONTROL Submission Status]列は、広告が送信され承認されたかどうかを示します。
+   10. [!UICONTROL Submission Status] 列は、広告が送信され承認されたかどうかを示します。
 
-   送信が失敗した場合、[!UICONTROL API]応答列にエラーが示されます。 失敗した送信のエラーコードの完全なリストと、それらを修正する次の手順については、「[ [!DNL FreeWheel] 広告送信のエラーコード](freewheel-error-codes.md)」を参照してください。
+   失敗した送信の場合、 [!UICONTROL API] 応答列はエラーを示します。 送信に失敗したエラーコードの完全なリストと、それらを修正する次の手順については、[のエラーコード [!DNL FreeWheel] 広告送信](freewheel-error-codes.md).」
 
-1. （オプション）承認用に広告を再送信するには、広告行の上にカーソルを置き、**[!UICONTROL More]>[!UICONTROL Resubmit]**&#x200B;をクリックします。
+1. （オプション）承認用に広告を再送信するには、広告行にカーソルを置いて、 **[!UICONTROL More]>[!UICONTROL Resubmit]**.
 
-再送信に関するその他の質問や問題については、担当のAdobeアカウントマネージャーにお問い合わせください。
+再提出に関するその他の質問や問題については、 [!DNL Adobe] アカウントマネージャー
 
 >[!MORELIKETHIS]
 >
->* [FreeWheelでのプログラム保証取引の設定の概要](freewheel-overview.md)
->* [プログラムで保証された契約の広告をFreeWheelに送信](freewheel-submit.md)
->* [FreeWheel広告送信のエラーコード](freewheel-error-codes.md)
->* [Deal IDインボックスでのDealの承認](deal-id-inbox-accept.md)
+>* [FreeWheel でのプログラム保証取引の設定の概要](freewheel-overview.md)
+>* [プログラムで保証された契約の広告を FreeWheel に送信](freewheel-submit.md)
+>* [FreeWheel 広告送信のエラーコード](freewheel-error-codes.md)
+>* [Deal ID インボックスでの Deal の承認](deal-id-inbox-accept.md)
 
