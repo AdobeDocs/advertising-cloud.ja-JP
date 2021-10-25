@@ -3,9 +3,9 @@ title: SSP パートナー
 description: 利用可能なサプライサイドプラットフォーム (SSP) とオープンエクスチェンジパートナーの一覧を参照してください。
 feature: DSP Private Inventory
 exl-id: 8487f4ce-0232-4145-ad8b-b0631fd0ab7f,None
-source-git-commit: 962013a80a968d3c6bf761c1a5145ece0eb7924c
+source-git-commit: 3833f3339adbdd3c41750ff168de93bd2196949b
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,14 +36,14 @@ ht-degree: 0%
 | [!DNL MoPub] | [!DNL Twitter] | [!DNL TubeMogul] | いいえ | グローバル | USD |  | x |  |  |  |  |  |
 | [!DNL OpenX] | [!DNL OpenX] | [!DNL TubeMogul] またはAdobe Advertising Cloud | はい | グローバル | USD | x |  |  | x | x |  |  |
 | [!DNL PubMatic New ortb2.2] | [!DNL Pubmatic] | [!DNL TubeMogul] またはAdobe Advertising Cloud | いいえ | グローバル | USD | x | x | x | x | x |  |  |
-| [!DNL Rubicon] | [!DNL Magnite DV+] | [!DNL TubeMogul] またはAdobe Advertising Cloud | はい | グローバル | USD | x | x | x | x | x |  | x |
+| [!DNL Rubicon] | [!DNL Magnite] ( [!DNL Telaria] および [!DNL Tremor]) | [!DNL TubeMogul] またはAdobe Advertising Cloud | はい | グローバル | USD | x | x | x | x | x |  | x |
 | [!DNL ShareThrough] |  | [!DNL TubeMogul] またはAdobe Advertising Cloud | いいえ | グローバル | USD | x | x |  | x | x | x |  |
 | [!DNL Smart Ad Server] |  | [!DNL TubeMogul] またはAdobe Advertising Cloud | いいえ | グローバル | USD、EUR | x | x |  | x | x |  |  |
 | [!DNL SmartClip] |  | Adobe Advertising Cloud | いいえ | EMEA | すべての通貨 | x | x | x | x | x |  |  |
 | [!DNL SmartStream] |  | Adobe Advertising Cloud | いいえ | EMEA | EUR、米ドル | x | x |  |  |  |  |  |
 | [!DNL Sortable] |  | Adobe Advertising Cloud | いいえ | カルシウム | USD |  |  |  | x | x |  |  |
 | [!DNL Soundcast Audio] |  |  |  |  |  |  |  |  |  |  |  |  |
-| [!DNL SpotX] | [!DNL Magnite] | [!DNL TubeMogul] またはAdobe Advertising Cloud | はい | グローバル | USD | x | x | x |  |  |  |  |
+| [!DNL SpotX] | [!DNL Magnite] ( [!DNL Telaria] および [!DNL Tremor]) | [!DNL TubeMogul] またはAdobe Advertising Cloud | はい | グローバル | USD | x | x | x |  |  |  |  |
 | [!DNL Stroer] |  | Adobe Advertising Cloud | いいえ | EMEA | USD | x | x |  | x | x |  |  |
 | [!DNL Taboola] |  | Adobe Advertising Cloud | いいえ | US/CA | USD | x | x |  |  |  |  |  |
 | [!DNL Teads] |  | [!DNL TubeMogul] またはAdobe Advertising Cloud | いいえ | Outstream ビデオ=グローバル<br>ディスプレイ= NA + EMEA | USD | x | x |  | x | x |  |  |
