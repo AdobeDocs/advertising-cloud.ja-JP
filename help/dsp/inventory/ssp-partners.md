@@ -3,9 +3,9 @@ title: SSP パートナー
 description: 利用可能なサプライサイドプラットフォーム (SSP) とオープンエクスチェンジパートナーの一覧を参照してください。
 feature: DSP Private Inventory
 exl-id: 8487f4ce-0232-4145-ad8b-b0631fd0ab7f,None
-source-git-commit: 3833f3339adbdd3c41750ff168de93bd2196949b
+source-git-commit: fb78f6d590f7a5c407788ce025800cbbe5842eb1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
@@ -48,10 +48,10 @@ ht-degree: 0%
 | [!DNL Taboola] |  | Adobe Advertising Cloud | いいえ | US/CA | USD | x | x |  |  |  |  |  |
 | [!DNL Teads] |  | [!DNL TubeMogul] またはAdobe Advertising Cloud | いいえ | Outstream ビデオ=グローバル<br>ディスプレイ= NA + EMEA | USD | x | x |  | x | x |  |  |
 | [!DNL Magnite CTV] | [!DNL Magnite] ( [!DNL Telaria] および [!DNL Tremor]) | [!DNL TubeMogul] またはAdobe Advertising Cloud | はい | グローバル | AUD、USD | x | x | x |  |  |  |  |
-| [!DNL Tremor] | [!DNL Rhythm One] | Adobe Advertising Cloud | いいえ | 米国+EMEA | USD | x | x |  |  |  |  |  |
 | [!DNL TripleLift] |  | [!DNL TubeMogul] またはAdobe Advertising Cloud | いいえ | グローバル | USD |  |  |  |  |  | x |  |
 | [!DNL TripleLift Display & Outstream] |  | [!DNL TubeMogul] またはAdobe Advertising Cloud | いいえ | グローバル | USD | x | x |  | x | x |  |  |
 | [!DNL Triton] |  | Adobe Advertising Cloud | いいえ | グローバル | USD |  |  |  |  |  |  | x |
+| [!DNL Unruly] | [!DNL Tremor] | Adobe Advertising Cloud | いいえ | 米国+EMEA | USD | x | x |  |  |  |  |  |
 | [!DNL Yahoo] | [!DNL Verizon Media Group] | [!DNL TubeMogul] またはAdobe Advertising Cloud | いいえ | グローバル | USD |  |  |  | x | x |  |  |
 
 {style=&quot;table-layout:auto&quot;}
