@@ -3,7 +3,7 @@ user-guide-title: Adobe Experience Cloudとの統合
 user-guide-description: Advertising Cloud DSPおよびAdvertising Cloud Searchと他のAdobe Experience Cloud製品およびサービスとの統合について説明します。
 breadcrumb-title: Experience Cloudとの統合
 index: true
-source-git-commit: a4c8c2e0d50442e872b48577bde9c3fae7da18d5
+source-git-commit: 1d960a0bf052d347b3f55d522c7276806492fa03
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
       + [Analysis WorkspaceのAdvertising Cloud指標](/help/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
       + [[!DNL Analytics] Advertising Cloudのデータ](/help/integrations/analytics/analytics-data-in-advertising-cloud.md)
       + [A と B の間で予想されるデータの相違 [!DNL Analytics] とAdvertising Cloud](/help/integrations/analytics/data-variances.md)
-   + での作業 [!DNL Analytics Marketing Channels]] {#mc}
+   + での作業 [!DNL Analytics Marketing Channels] {#mc}
       + [の基本 [!DNL Marketing Channels]](/help/integrations/analytics/marketing-channels/mc-overview.md)
       + [Advertising Cloud ID を使用した作成 [!DNL Marketing Channels] 処理ルール](/help/integrations/analytics/marketing-channels/mc-ids.md)
       + [使用 [!DNL Marketing Channels] Advertising Cloud Data を使用](/help/integrations/analytics/marketing-channels/mc-ac-data.md)
