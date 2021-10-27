@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 202b537dba5af3e8926584ae2d5df04df0763a70
+source-git-commit: 4e09e4afe0befb40518c847b99d35689ed2f87a8
 workflow-type: tm+mt
-source-wordcount: '1362'
+source-wordcount: '1365'
 ht-degree: 0%
 
 ---
@@ -50,3 +50,5 @@ ht-degree: 0%
 | 2020 年 10 月 16 日 | プライベート在庫 | すべてのユーザーが、新しい Deal ID フォームを使用して、Deal ID の詳細を設定および編集できるようになりました。これは、従来の [!UICONTROL Smart Ad Serving] フォーム。 新しい Deal ID の詳細を設定するには、以下に移動します。 [!UICONTROL Inventory] > [!UICONTROL Deals]をクリックし、 [!UICONTROL Create]をクリックし、 [!UICONTROL Deal ID Beta]. | 参照：[Deal ID の詳細の手動作成](/help/dsp/inventory/deal-id-create.md)&quot;および&quot;[手動の Deal ID 設定](/help/dsp/inventory/deal-id-settings.md).&quot; |
 |  | プレースメントの予測 | 配置レベルのペーシングを持つ配置の場合、 [!UICONTROL Forecast] 配置設定のセクションには、新しい [!UICONTROL Estimated Maximums] 「 」セクションに表示されます。このセクションには、現在のターゲティング設定で使用できる容量がいくつあるかが示されます。 | — |
 | 2020 年 9 月 3 日 | レポート | 複数のDSPアカウントを持つ組織では、組織のニーズに応じて、オプションでカスタムレポートでクロスアカウントデータを有効にすることができます。 | 詳しくは、[カスタムレポートについて](/help/dsp/reports/report-about.md#cross-account-reporting).&quot; |
+
+{style=&quot;table-layout:auto&quot;}
