@@ -3,7 +3,7 @@ title: プラットフォーム内レポートについて
 description: キャンペーン管理ビューに含まれるレポートデータについて説明します。
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: df462aac1da30c1ebe9e1bb8afd8546d79432fde
+source-git-commit: b2393d5e66ba5d3d2dc9816825c05eda076eaad1
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -13,68 +13,68 @@ ht-degree: 0%
 # プラットフォーム内レポートについて
 
 <!-- rename "About Performance Reports in Campaign Management Views?" -->
-キャンペーン管理ビューには、包括的なレポートデータが含まれます。 使用可能なレポートは、パフォーマンスの高いパッケージや配置、および注意が必要なパッケージを特定するのに役立ちます。 また、クイックアクションボタンを使用すると、生産性が向上します。
+キャンペーン管理ビューには、包括的なレポートデータが含まれます。 使用可能なレポートは、パフォーマンスの高いパッケージや配置、および注意が必要なパッケージを特定するのに役立ちます。 クイックアクションボタンを使用すると、生産性が向上します。
 
 ## すべてのキャンペーンリスト
 
-[!UICONTROL Campaigns]ビューが開き、アカウント内のすべてのキャンペーンのリストが表示されます。 [!UICONTROL Subtotals]行には、表示されているすべての行の各指標の合計値または平均値が表示されます。
+10. [!UICONTROL Campaigns] 「表示」を選択すると、アカウント内のすべてのキャンペーンのリストが表示されます。 10. [!UICONTROL Subtotals] 行には、表示されているすべての行の各指標の合計値または平均値が表示されます。
 
 ![キャンペーンリスト](/help/dsp/assets/campaigns-list.png)
 
-デフォルトでは、各キャンペーン行には、ペーシングと配信指標が含まれます。 ペーシング指標には[!UICONTROL Gross Spend (Lifetime)]が含まれます。これには、キャンペーン内のすべてのパッケージでの実際の目標支出と予想される目標支出の比較が含まれます。これにより、パフォーマンスの低いキャンペーンを一目で特定できます。 オプションで[列ビュー](column-view-change.md)を変更することも、[カスタム列ビュー](column-view-create.md)を作成することもできます。
+デフォルトでは、各キャンペーン行には、ペーシングと配信指標が含まれます。 ペーシング指標は、 [!UICONTROL Gross Spend (Lifetime)]：実際の目標時間と、キャンペーン内のすべてのパッケージで予想される目標時間の支出のゲージを含むので、パフォーマンスの低いキャンペーンを一目で特定できます。 オプションで、 [列表示の変更](column-view-change.md) または [カスタム列表示の作成](column-view-create.md).
 
-さらに[データテーブル](campaign-data-views-about.md)をカスタマイズし、[表示データ](campaign-data-filter.md)をフィルタリングすることもできます。
+さらに詳しく [データテーブルのカスタマイズ](campaign-data-views-about.md) 追加の方法と [表示データのフィルタリング](campaign-data-filter.md).
 
 キャンペーンの詳細を表示するには、キャンペーン名をクリックします。
 
-## 単一キャンペーンレポート
+## 単一キャンペーンレポート {#single-campaign-reporting}
 
-キャンペーン内で、キャンペーンエンティティに基づいてデータをフィルタリングできます。[!UICONTROL Packages]、[!UICONTROL Placements]、および[!UICONTROL Ads]。 さらに[表示データ](campaign-data-filter.md)をフィルターして、表示するパッケージ、配置、広告のみを含めることができます。
+キャンペーン内では、キャンペーンエンティティに基づいてデータをフィルタリングできます。 [!UICONTROL Packages], [!UICONTROL Placements]および [!UICONTROL Ads]. さらに詳しく [表示データのフィルタリング](campaign-data-filter.md) を使用して、表示するパッケージ、配置、広告のみを含めます。
 
 ![キャンペーンエンティティタブ](/help/dsp/assets/campaign-subtabs.png)
 
-各エンティティタブでは、デフォルトで各行にペーシングと配信指標が含まれますが、列ビュー](column-view-change.md)を[変更するか、[カスタム列ビュー](column-view-create.md)を作成してキャンペーンのすべてのサブタブに適用できます。 さらに[データテーブル](campaign-data-views-about.md)をカスタマイズする方法もあります。 各データテーブルには[!UICONTROL Subtotals]行が含まれ、表示されているすべての行の各指標の合計値または平均値が表示されます。
+各エンティティタブでは、各行にデフォルトでペーシングと配信指標が含まれますが、 [列表示の変更](column-view-change.md) または [カスタム列表示の作成](column-view-create.md) をクリックして、キャンペーンのすべてのサブタブに適用します。 さらに詳しく [データテーブルのカスタマイズ](campaign-data-views-about.md) その他の方法で 各データテーブルには、 [!UICONTROL Subtotals] 行：表示されているすべての行の各指標の合計または平均値を示します。
 
-各キャンペーンについて、3つの指標を使用して時系列トレンドグラフをカスタマイズすることもできます。これらの指標は、各エンティティビューで使用できます。 デフォルトでは、[!UICONTROL Net Spend]、[!UICONTROL Impressions]および[!UICONTROL Net CPM]のデータは別々のグラフ（トレリス図）に含まれます。 オプションで指標を変更できます。
+各キャンペーンで、時系列トレンドグラフを 3 つの指標でカスタマイズし、各エンティティビューで利用できます。 デフォルトでは、 [!UICONTROL Net Spend], [!UICONTROL Impressions]および [!UICONTROL Net CPM] は別々のグラフ（トレリス図）に含まれます。 オプションで指標を変更できます。
 
-![3つの指標に関する個別のトレンドグラフ](/help/dsp/assets/trend-chart-separate.png)
+![3 つの指標に関する個別のトレンドグラフ](/help/dsp/assets/trend-chart-separate.png)
 
-また、オプションで3つの指標をオーバーレイして、スケールやパフォーマンスを向上させる異常値や領域を簡単に検出できます。
+また、オプションで 3 つの指標をオーバーレイして、異常値や、スケールやパフォーマンスを向上させる領域を簡単に検出することもできます。
 
 ![オーバーレイを使用したトレンドグラフ](/help/dsp/assets/trend-chart.png)
 
-[キャンペーン別にトレンドグラフ](campaign-data-visualization-manage.md)をカスタマイズでき、同じ指標がキャンペーンのすべてのトレンドグラフで保持されます。
+次の操作が可能です。 [トレンドグラフのカスタマイズ](campaign-data-visualization-manage.md) キャンペーンごとに保存され、同じ指標がキャンペーンのすべてのトレンドグラフで保持されます。
 
-### 配置インスペクタ
+### 配置検査
 
-各配置に対して、 （詳細ビュー[!UICONTROL Inspector]）](placement-details-view.md)を[開くことができます。この中には、次の詳細データが含まれています。
+各配置に対して、次の操作を実行できます。 [( 詳細ビューを開く [!UICONTROL Inspector])](placement-details-view.md)：以下の詳細データを含みます。
 
-* **[!UICONTROL Sites]:** プレースメントにインプレッションがあるすべてのサイト。
+* **[!UICONTROL Sites]:** 配置にインプレッションがあったすべてのサイト。
 
-   [!UICONTROL Sites]タブには、検索およびフィルター機能、メインページで使用可能な標準およびカスタムの列表示オプション、各行に[!UICONTROL Exclude]ボタンが含まれているので、配置からサイトをすばやく除外できます。
+   10. [!UICONTROL Sites] タブには、検索およびフィルター機能、メインページで使用できる標準およびカスタムの列表示オプション、 [!UICONTROL Exclude] 」ボタンをクリックして、配置からサイトをすばやく除外できます。
 
 * **[!UICONTROL Ads]:** 配置内のすべての広告。
 
-   [!UICONTROL Ads]タブには、検索およびフィルター機能、メインページで使用可能な標準およびカスタムの列表示オプション、および[!UICONTROL Pause]などの各行のクイックアクションボタンが含まれています（広告をすばやく一時停止できます）。
+   10. [!UICONTROL Ads] タブには、検索およびフィルタ機能、メインページで使用できる標準およびカスタムの列表示オプション、および各行のクイックアクションボタン ( [!UICONTROL Pause] （広告をすばやく一時停止できます）。
 
-* **[!UICONTROL Frequency]:** 配置の広告頻度レベルごとのデータ。以下を含みます。
-   * 広告頻度レベル（ユーザーが1回広告を見たすべてのインスタンスの「1」など）
-   * 指定した頻度レベルでインプレッションを受け取ったデバイス/ブラウザーまたはユーザーの推定ユニーク数（配置に指定した[!UICONTROL Cross Device Level]に応じて異なる）
-   * 指定された頻度レベルでのインプレッション数の推定値
-   * 指定した頻度レベルの推定平均頻度。 この値は（推定インプレッション数）/（推定ユニーク数）と等しくなります。
+* **[!UICONTROL Frequency]:** 配置の広告頻度レベルごとのデータ。次を含みます。
+   * 広告頻度レベル（ユーザーが 1 回広告を閲覧したすべてのインスタンスの「1」など）
+   * デバイス/ブラウザーまたはユーザーの推定ユニーク数 ( 指定した [!UICONTROL Cross Device Level] （配置に関して）指定された頻度レベルでインプレッションを受け取った人
+   * 指定した頻度レベルでのインプレッション数の推定
+   * 指定した頻度レベルの推定平均頻度。 この値は、 (Estimated Impressions)/(Estimated Uniques) と等しくなります。
 
 ![配置検査](/help/dsp/assets/placement-inspector-sites.png)
 
-[!UICONTROL Sites]、[!UICONTROL Ads]または[!UICONTROL Frequency]タブのデータを、XLSM形式のレポートとしてブラウザーのデフォルトのダウンロードフォルダーに書き出すことができます。
+データを [!UICONTROL Sites], [!UICONTROL Ads]または [!UICONTROL Frequency] 」タブをクリックし、XLSM 形式のレポートとしてブラウザーのデフォルトのダウンロードフォルダーに移動します。
 
 ### その他のタイプのキャンペーンレベルのレポート
 
-その他のデータ分類については、[従来のキャンペーンレベルのレポートページ](/help/dsp/campaign-management/campaigns/campaign-view-report.md)を[!UICONTROL Campaigns Classic]から参照してください。 レガシーレポートには、[!UICONTROL Geography]、[!UICONTROL Device]、[!UICONTROL Viewability]、[!UICONTROL Audience Performance]の各データに関する節が含まれます。
+その他のデータブレークアウトの場合は、 [従来のキャンペーンレベルのレポートページ](/help/dsp/campaign-management/campaigns/campaign-view-report.md) から [!UICONTROL Campaigns Classic]. レガシーレポートには、 [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability]および [!UICONTROL Audience Performance] データ。
 
 >[!MORELIKETHIS]
 >
->* [プレースメントのサイト、広告、頻度の詳細の表示](placement-details-view.md)
->* [Campaignのデータビューについて](campaign-data-views-about.md)
+>* [サイト、広告、頻度の詳細を表示](placement-details-view.md)
+>* [Campaign のデータビューについて](campaign-data-views-about.md)
 >* [カスタム列表示の作成](column-view-create.md)
 >* [列表示の変更](column-view-change.md)
 >* [データビジュアライゼーションの管理](campaign-data-visualization-manage.md)
