@@ -3,9 +3,9 @@ title: プラットフォーム内レポートについて
 description: キャンペーン管理ビューに含まれるレポートデータについて説明します。
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 0b0f5df3ae9180dcbc2aeb5d7833956934767915
+source-git-commit: 1ca7639fac40eb8d3fbc3b4f7e0f45b29368f49b
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '929'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 各エンティティタブでは、デフォルトで、各行にペーシングと配信指標が含まれますが、 [列表示を変更する](column-view-change.md) または [カスタム列表示の作成](column-view-create.md) をクリックして、キャンペーンのすべてのサブタブに適用します。 さらに [データテーブルのカスタマイズ](campaign-data-views-about.md) その他の方法では 各データテーブルには、 [!UICONTROL Subtotals] 行：表示されているすべての行の各指標の合計または平均値を表示します。
 
-キャンペーンごとに、3 つの指標を使用して時系列トレンドグラフをカスタマイズすることもできます。これらの指標は、各エンティティビューで使用できます。 デフォルトでは、 [!UICONTROL Net Spend], [!UICONTROL Impressions]、および [!UICONTROL Net CPM] は別々のグラフ（トレリス図）に含まれます。 オプションで指標を変更できます。
+キャンペーンごとに、3 つの指標を使用して時系列トレンドグラフをカスタマイズすることもできます。これらの指標は、各エンティティビューで使用できます。 デフォルトでは、 [!UICONTROL Net Spend], [!UICONTROL Impressions]、および [!UICONTROL Net CPM] は別々のグラフ（トレリス図）に含まれます。 オプションで指標を変更できます。 時系列トレンドグラフの時間別データを有効にするには、日付の選択を 1 日 ([!UICONTROL Today], [!UICONTROL Yesterday]、または特定の日 )。
 
 ![3 つの指標に関する個別のトレンドグラフ](/help/dsp/assets/trend-chart-separate.png)
 
