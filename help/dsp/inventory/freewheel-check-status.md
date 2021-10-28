@@ -3,9 +3,9 @@ title: 広告のステータスの確認 [!DNL [!DNL FreeWheel]] PG 契約
 description: 広告のステータスを見つける方法を説明します [!DNL Freewheel] プログラム的に保証された取引。
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: 55854d9ab1a535767315941fe4ca5777a8069b5e
+source-git-commit: 07b964aca7f634a29342e4d09a5e5352570f4d79
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,18 @@ ht-degree: 0%
 広告が [!DNL Freewheel] が成功した。 必要に応じて任意の広告を再送信できます。
 
 再提出に関するその他の質問や問題については、 [!DNL Adobe] アカウントマネージャー。
+
+## ステータスを [!UICONTROL Ads] 表示
+
+1. メインメニューで、 **[!UICONTROL Campaigns]**.
+
+1. キャンペーンの名前をクリックします。
+
+1. サブメニューで、 **[!UICONTROL Ads]**.
+
+1. 広告名の横にある  **[!UICONTROL ...]>[!UICONTROL see Freewheel status]**.
+
+1. （オプション）承認用に広告を再送信するには、広告行にカーソルを置き、 **[!UICONTROL More]>[!UICONTROL Resubmit]**.
 
 ## ステータスを [!UICONTROL Deals] 表示
 
@@ -31,18 +43,6 @@ ht-degree: 0%
    この [!UICONTROL Submission Status] 列は、広告が送信され承認されたかどうかを示します。
 
    失敗した送信の場合、 [!UICONTROL API] 「応答」列にエラーが示されます。 送信に失敗したエラーコードの完全なリストと、それらを修正する次の手順については、[のエラーコード [!DNL FreeWheel] 広告送信](freewheel-error-codes.md).&quot;
-
-1. （オプション）承認用に広告を再送信するには、広告行にカーソルを置き、 **[!UICONTROL More]>[!UICONTROL Resubmit]**.
-
-## ステータスを [!UICONTROL Ads] 表示
-
-1. メインメニューで、 **[!UICONTROL Campaigns]**.
-
-1. キャンペーンの名前をクリックします。
-
-1. サブメニューで、 **[!UICONTROL Ads]**.
-
-1. 広告名の横にある  **... >[!UICONTROL see Freewheel status]**.
 
 1. （オプション）承認用に広告を再送信するには、広告行にカーソルを置き、 **[!UICONTROL More]>[!UICONTROL Resubmit]**.
 
