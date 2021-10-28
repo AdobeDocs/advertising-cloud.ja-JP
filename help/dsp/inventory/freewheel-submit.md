@@ -3,9 +3,9 @@ title: PG 契約の広告をに提出 [!DNL FreeWheel]
 description: FreeWheel 上のパブリッシャーとのプログラム的に保証された契約に対して、広告の承認をリクエストする方法を説明します。
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: c2caed80f0afc0cbe3572d01dc2c89f13ed13712
+source-git-commit: 1f485caddf4d28fd19667a8f2a54538ec7fa8275
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -18,43 +18,30 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->の使用 [!DNL Adobe] アカウントチームが [!DNL DSP] アカウントには、 [!DNL FreeWheel] プログラムで保証されたワークフロー。
+>Adobeアカウントチームと協力して、 [!DNL DSP] アカウントには、 [!DNL FreeWheel] プログラムで保証されたワークフロー。
 
-## 広告キーをコピーしてと共に使用 [!DNL FreeWheel] 契約 {#copy-ad-key}
+1. FreeWheel 契約で使用する広告の広告キーをコピーします。
 
-1. キャンペーンの名前をクリックします。
+   1. キャンペーンの名前をクリックします。
 
-1. サブメニューで、 **[!UICONTROL Ads]**.
+   1. サブメニューで、 **[!UICONTROL Ads]**.
 
-1. クリック  **[!UICONTROL ...]>[!UICONTROL Edit]** 広告名の横に表示されます。
+   1. クリック  **[!UICONTROL ...]>[!UICONTROL Edit]** 広告名の横に表示されます。
 
-1. 広告設定が開いたら、ブラウザーのアドレスバーに表示される URL の英数字の広告キーをコピーします。
+   1. 広告設定が開いたら、ブラウザーのアドレスバーに表示される URL の英数字の広告キーをコピーします。
 
-例えば、次の URL では、広告キーは `3NtNC5ZbaGZtqbei8jD3`
+      例えば、次の URL では、広告キーは `3NtNC5ZbaGZtqbei8jD3`
 
-`https://advertising.adobe.com/configurator/ad/3NtNC5ZbaGZtqbei8jD3?referrer=/playtime/ads`
+      `https://advertising.adobe.com/configurator/ad/3NtNC5ZbaGZtqbei8jD3?referrer=/playtime/ads`
 
-## から広告を送信 [!UICONTROL Ads] 表示
+1. 広告を FreeWheel に送信：
 
-1. [広告の広告キーをコピーします](#copy-ad-key).
+   1. 次のいずれかの操作を行います。
 
-1. 広告名の横にある  **[!UICONTROL ...]>[!UICONTROL submit to FreeWheel]**.
+      * 広告名の横にある  **[!UICONTROL ...]>[!UICONTROL submit to FreeWheel]**.
 
-1. 契約 ID を確認し、を入力します。 [の **[!UICONTROL Ad Key]**](#copy-ad-key)をクリックし、**[!UICONTROL Submit]**.
-
-   広告を実行する前に、送信して承認する必要があります。
-
-1. [広告送信ステータスの確認](freewheel-check-status.md).
-
-## から広告を送信 [!UICONTROL Deals] 表示
-
-1. [広告の広告キーをコピーします](#copy-ad-key).
-
-1. メインメニューで、 **[!UICONTROL Inventory]> [!UICONTROL Deals].**
-
-1. 契約行で、「 ![オプションメニュー](/help/dsp/assets/options-menu.png) **>[!UICONTROL submit to FreeWheel]**.
-
-1. 契約 ID を確認し、を入力します。 [の **[!UICONTROL Ad Key]**](#copy-ad-key)をクリックし、**[!UICONTROL Submit]**.
+      * メインメニューで、 **[!UICONTROL Inventory]> [!UICONTROL Deals].** 1.契約行で、「 ![オプションメニュー](/help/dsp/assets/options-menu.png) **>[!UICONTROL submit to FreeWheel]**.
+   1. 契約 ID を確認し、 **[!UICONTROL Ad Key]** 手順 1 でコピーし、次に「 **[!UICONTROL Submit]**.
 
    広告を実行する前に、送信して承認する必要があります。
 
