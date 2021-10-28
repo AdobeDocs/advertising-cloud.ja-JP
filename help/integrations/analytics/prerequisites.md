@@ -3,9 +3,9 @@ title: 実装の前提条件と主な情報 [!DNL Analytics for Advertising Clou
 description: 実装の前提条件と主な情報 [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
-source-git-commit: 688aece01640647a61df730cbe464597b476b033
+source-git-commit: d4d743ade0e2dad2b967b8316ff2261d0a82d5b0
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -80,6 +80,8 @@ Advertising Cloud実装チームに以下の情報を提供します。
 お問い合わせ [!DNL Adobe] 各チャネルでサポートされる最新の広告環境のアカウントマネージャー。
 
 ## 導入の前に知っておくべきこと
+
+* Advertising Cloud実装チームが統合を設定します。
 
 * この統合に対して追加のコストは請求されず、サーバー呼び出しによって追加の費用が発生することもありません [!DNL Analytics] Advertising Cloud料
 
