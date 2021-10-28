@@ -1,46 +1,60 @@
 ---
-title: PG 取引の広告をに送信 [!DNL FreeWheel]
-description: FreeWheel 上のパブリッシャーとのプログラム的に保証された取引に対して、広告の承認をリクエストする方法を説明します。
+title: PG 契約の広告をに提出 [!DNL FreeWheel]
+description: FreeWheel 上のパブリッシャーとのプログラム的に保証された契約に対して、広告の承認をリクエストする方法を説明します。
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: b149804bc3e9de5cd48a00f0611c09d1f2e7c7ca
+source-git-commit: c2caed80f0afc0cbe3572d01dc2c89f13ed13712
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# プログラムで保証された契約の広告を FreeWheel に送信
+# プログラム的に保証された契約の広告を FreeWheel に送信
 
 *を持つ [!DNL FreeWheel] Programmatic Guranted 権限のみ*
 
-一度 [FreeWheel の出版社とのプログラム的に保証された契約を受け入れる](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox)広告の選択や、契約に使用するプログラムで保証されたデフォルト・プレースメントの作成を含め、広告は FreeWheel に送信して承認を受ける必要があります。
+一度 [FreeWheel の出版社とのプログラム的な保証契約を受け入れる](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox)広告の選択や、契約に使用するプログラム的に保証されたデフォルトプレースメントの作成を含め、承認を得るには、広告を FreeWheel に送信する必要があります。
 
 >[!PREREQUISITES]
 >
->の使用 [!DNL Adobe] アカウントチームが、 [!DNL DSP] アカウントには、 [!DNL FreeWheel] プログラムで保証されたワークフロー。
+>の使用 [!DNL Adobe] アカウントチームが [!DNL DSP] アカウントには、 [!DNL FreeWheel] プログラムで保証されたワークフロー。
 
-1. FreeWheel 取引で使用する広告の広告キーをコピーします。
+## 広告キーをコピーしてと共に使用 [!DNL FreeWheel] 契約 {#copy-ad-key}
 
-   1. キャンペーンの名前をクリックします。
+1. キャンペーンの名前をクリックします。
 
-   1. サブメニューで、 **[!UICONTROL Ads]**.
+1. サブメニューで、 **[!UICONTROL Ads]**.
 
-   1. クリック  **[!UICONTROL ...]>[!UICONTROL Edit]** をクリックします。
+1. クリック  **[!UICONTROL ...]>[!UICONTROL Edit]** 広告名の横に表示されます。
 
-   1. 広告設定が開いたら、ブラウザーのアドレスバーに表示される URL の英数字の広告キーをコピーします。
+1. 広告設定が開いたら、ブラウザーのアドレスバーに表示される URL の英数字の広告キーをコピーします。
 
-      例えば、次の URL では、広告キーは `3NtNC5ZbaGZtqbei8jD3`
+例えば、次の URL では、広告キーは `3NtNC5ZbaGZtqbei8jD3`
 
-      `https://advertising.adobe.com/configurator/ad/3NtNC5ZbaGZtqbei8jD3?referrer=/playtime/ads`
+`https://advertising.adobe.com/configurator/ad/3NtNC5ZbaGZtqbei8jD3?referrer=/playtime/ads`
 
-1. 広告を FreeWheel に送信：
+## から広告を送信 [!UICONTROL Ads] 表示
 
-   1. の [!UICONTROL Deals] を表示し、取引を検索します。
+1. [広告の広告キーをコピーします](#copy-ad-key).
 
-   1. 取引行で、「 ![オプションメニュー](/help/dsp/assets/options-menu.png) **>[!UICONTROL submit to [!DNL FreeWheel]]**.
+1. 広告名の横にある  **[!UICONTROL ...]>[!UICONTROL submit to FreeWheel]**.
 
-   1. 取引 ID を確認し、 **[!UICONTROL Ad Key]** 手順 1 でコピーし、 **[!UICONTROL Submit]**.
+1. 契約 ID を確認し、を入力します。 [の **[!UICONTROL Ad Key]**](#copy-ad-key)をクリックし、**[!UICONTROL Submit]**.
+
+   広告を実行する前に、送信して承認する必要があります。
+
+1. [広告送信ステータスの確認](freewheel-check-status.md).
+
+## から広告を送信 [!UICONTROL Deals] 表示
+
+1. [広告の広告キーをコピーします](#copy-ad-key).
+
+1. メインメニューで、 **[!UICONTROL Inventory]> [!UICONTROL Deals].**
+
+1. 契約行で、「 ![オプションメニュー](/help/dsp/assets/options-menu.png) **>[!UICONTROL submit to FreeWheel]**.
+
+1. 契約 ID を確認し、を入力します。 [の **[!UICONTROL Ad Key]**](#copy-ad-key)をクリックし、**[!UICONTROL Submit]**.
 
    広告を実行する前に、送信して承認する必要があります。
 
@@ -48,8 +62,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [FreeWheel でのプログラム保証取引の設定の概要](freewheel-overview.md)
->* [Deal ID インボックスでの Deal の承認](deal-id-inbox-accept.md)
->* [広告のステータスの確認 [!DNL FreeWheel] プログラム保証取引](freewheel-check-status.md)
+>* [FreeWheel でのプログラム保証契約の設定の概要](freewheel-overview.md)
+>* [Deal ID インボックスでの契約の承認](deal-id-inbox-accept.md)
+>* [次の広告のステータスの確認 [!DNL FreeWheel] プログラム的に保証された取引](freewheel-check-status.md)
 >* [FreeWheel 広告送信のエラーコード](freewheel-error-codes.md)
 
