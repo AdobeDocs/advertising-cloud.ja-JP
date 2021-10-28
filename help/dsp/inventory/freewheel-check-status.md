@@ -3,9 +3,9 @@ title: 広告のステータスの確認 [!DNL [!DNL FreeWheel]] PG 契約
 description: 広告のステータスを見つける方法を説明します [!DNL Freewheel] プログラム的に保証された取引。
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: 07b964aca7f634a29342e4d09a5e5352570f4d79
+source-git-commit: a0619f77aac5e6c527fc344570bbcedf17dcfe36
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -48,8 +48,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [FreeWheel でのプログラム保証契約の設定の概要](freewheel-overview.md)
->* [プログラム的に保証された契約の広告を FreeWheel に送信](freewheel-submit.md)
->* [FreeWheel 広告送信のエラーコード](freewheel-error-codes.md)
+>* [プログラムで保証された取引の設定の概要 [!DNL Freewheel]](freewheel-overview.md)
+>* [プログラム的に保証された契約の広告をに送信する [!DNL Freewheel]](freewheel-submit.md)
+>* [のエラーコード [!DNL Freewheel] 広告送信](freewheel-error-codes.md)
 >* [Deal ID インボックスでの契約の承認](deal-id-inbox-accept.md)
 

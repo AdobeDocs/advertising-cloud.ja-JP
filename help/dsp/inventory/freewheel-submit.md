@@ -1,26 +1,26 @@
 ---
 title: PG 契約の広告をに提出 [!DNL FreeWheel]
-description: FreeWheel 上のパブリッシャーとのプログラム的に保証された契約に対して、広告の承認をリクエストする方法を説明します。
+description: パブリッシャーとのプログラム的に保証された契約に対して、広告の承認をリクエストする方法を説明します。 [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: a124f9cce3be5e68843c2d8df56640962644d5f4
+source-git-commit: a0619f77aac5e6c527fc344570bbcedf17dcfe36
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
-# プログラム的に保証された契約の広告を FreeWheel に送信
+# プログラム的に保証された契約の広告をに送信する [!DNL Freewheel]
 
 *を持つ [!DNL FreeWheel] Programmatic Guranted 権限のみ*
 
-一度 [FreeWheel の出版社とのプログラム的な保証契約を受け入れる](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox)広告の選択や、契約に使用するプログラム的に保証されたデフォルトプレースメントの作成を含め、承認を得るには、広告を FreeWheel に送信する必要があります。
+一度 [FreeWheel の出版社とのプログラム的な保証契約を受け入れる](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox)（広告の選択や、契約に使用するプログラムで保証されたデフォルトプレースメントの作成を含む）、広告をに送信する必要があります。 [!DNL Freewheel] 承認用。
 
 >[!PREREQUISITES]
 >
 >Adobeアカウントチームと協力して、 [!DNL DSP] アカウントには、 [!DNL FreeWheel] プログラムで保証されたワークフロー。
 
-1. FreeWheel 契約で使用する広告の広告キーをコピーします。
+1. と共に使用する広告の広告キーをコピーします。 [!DNL Freewheel] 契約：
 
    1. キャンペーンの名前をクリックします。
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
       `https://advertising.adobe.com/configurator/ad/3NtNC5ZbaGZtqbei8jD3?referrer=/playtime/ads`
 
-1. 広告を FreeWheel に送信：
+1. 広告をに送信 [!DNL Freewheel]:
 
    1. 次のいずれかの操作を行います。
 
@@ -49,8 +49,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [FreeWheel でのプログラム保証契約の設定の概要](freewheel-overview.md)
+>* [プログラムで保証された取引の設定の概要 [!DNL Freewheel]](freewheel-overview.md)
 >* [Deal ID インボックスでの契約の承認](deal-id-inbox-accept.md)
 >* [次の広告のステータスの確認 [!DNL FreeWheel] プログラム的に保証された取引](freewheel-check-status.md)
->* [FreeWheel 広告送信のエラーコード](freewheel-error-codes.md)
+>* [のエラーコード [!DNL Freewheel] 広告送信](freewheel-error-codes.md)
 
