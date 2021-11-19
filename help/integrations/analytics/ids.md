@@ -3,9 +3,9 @@ title: Advertising Cloud ID 使用者 [!DNL Analytics]
 description: Advertising Cloud ID 使用者 [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: 1ba45d789c4ad365166df829ac74e0200cdc8851
+source-git-commit: 143e8e756d13597bf923d0b6f5b2510f834e6e0f
 workflow-type: tm+mt
-source-wordcount: '1156'
+source-wordcount: '1157'
 ht-degree: 0%
 
 ---
@@ -69,13 +69,13 @@ EF ID は、Advertising Cloudがアクティビティをオンラインクリッ
 
 In [!DNL Analytics] レポートでは、EF ID データを検索するには、 [!UICONTROL EF ID] ディメンションと使用 [!UICONTROL EF ID Instance] 指標。
 
-`EF IDs` は、Analysis Workspaceで 500,000 個の一意の ID に対する制限を受けます。 500,000 個の値に達すると、すべての新しいトラッキングコードが 1 行項目のタイトル「[!UICONTROL Low Traffic].&quot; レポートの正確性が失われる可能性があるので、 `EF IDs` が分類されず、でのセグメントやレポートに使用しない [!DNL Analytics].
+EF ID には、Analysis Workspaceでの 500,000 個の一意の ID 制限が適用されます。 500,000 個の値に達すると、すべての新しいトラッキングコードが 1 行項目のタイトル「[!UICONTROL Low Traffic].&quot; レポートの正確性が欠落する可能性があるので、EF ID は分類されず、でのセグメントやレポートに使用しないでください [!DNL Analytics].
 
 ## Advertising Cloud AMO ID
 
 AMO ID は、より詳細なレベルで一意の広告の組み合わせを追跡し、 [!DNL Analytics] Advertising Cloudからの広告指標（インプレッション数、クリック数、コストなど）のデータ分類と取り込み AMO ID は、 [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) または rVar ディメンション (AMO ID)。でのレポートにのみ使用されます。 [!DNL Analytics].
 
-AMO ID は、 `s_kwcid`「イカ」とも呼ばれる。
+AMO ID は、 `s_kwcid`(「[!DNL the squid].&quot;
 
 ### の AMO ID フォーマット [!DNL DSP]
 
