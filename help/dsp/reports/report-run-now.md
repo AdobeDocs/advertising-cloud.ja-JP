@@ -2,8 +2,7 @@
 title: カスタムレポートの実行
 description: カスタムレポートを直ちに実行する方法を説明します。
 feature: DSP Custom Reports
-exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -15,11 +14,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[作成](report-create.md)または[編集](report-edit.md)の際に、カスタムレポートを実行することもできます。
+>また、 [作成](report-create.md) または [編集](report-edit.md) それは。
 
-1. メインメニューで&#x200B;**[!UICONTROL Reports]**&#x200B;をクリックします。
-1. レポート行の[!UICONTROL Options]列で、**[!UICONTROL options]/[!UICONTROL Run Now]**&#x200B;をクリックします。
-1. 確認メッセージで、「**[!UICONTROL OK]**」をクリックします。
+1. メインメニューで、 **[!UICONTROL Reports]**.
+1. 内 [!UICONTROL Options] 列をクリックし、 **[!UICONTROL options]>[!UICONTROL Run Now]**.
+1. 確認メッセージで、 **[!UICONTROL OK]**.
 
    レポートが完了すると、レポート設定で指定されたすべての電子メールアドレスに送信されます。
 

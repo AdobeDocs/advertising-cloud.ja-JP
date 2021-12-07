@@ -2,8 +2,7 @@
 title: のエラーコード [!DNL FreeWheel] 広告送信
 description: に対する広告送信で返されるエラーコードを参照します。 [!DNL FreeWheel].
 feature: DSP Private Inventory, DSP Deal IDs
-exl-id: null
-source-git-commit: a0619f77aac5e6c527fc344570bbcedf17dcfe36
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '684'
 ht-degree: 2%

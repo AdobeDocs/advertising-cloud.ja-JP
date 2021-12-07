@@ -1,38 +1,37 @@
 ---
-title: Advertising Cloudと [!DNL Marketing Channels]でチャネルデータが異なる理由
-description: AMO IDで追跡されるチャネルデータが、 [!DNL Analytics Marketing Channels]で追跡されるチャネルデータと異なる可能性がある理由を説明します。
+title: Advertising Cloudと [!DNL Marketing Channels]
+description: AMO ID でトラッキングされるチャネルデータが、 [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
-exl-id: null
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '422'
 ht-degree: 0%
 
 ---
 
-# Advertising Cloudと[!DNL Marketing Channels]でチャネルデータが異なる理由
+# Advertising Cloudと [!DNL Marketing Channels]
 
 *Advertising CloudとAdobe Analyticsの統合のみの広告主*
 
-Advertising Cloudと[!DNL Marketing Channels]データセットの統合について学習するユーザーからの一般的な質問は、「AMO IDと[!DNL Marketing Channels]の間のデータの相違の原因は何ですか？」です。 「データが壊れた理由は？ レポート全体で一致する指標がすべて必要です。」 幸いなことに、不一致は、データが「壊れている」ことを示しておらず、不一致が予想され、さらには望ましい場合もあります。 統合がこのように設計された理由を見てみましょう。
+Advertising Cloudと [!DNL Marketing Channels] データセットは、「AMO ID との間でデータの相違が生じる原因 [!DNL Marketing Channels]?」 「データが壊れたのはなぜですか？ レポート全体で一致する指標がすべて必要です。」 幸いにも、不一致は、データが「壊れている」ことを示しておらず、不一致が予想され、さらには望ましいことも示していません。 統合がこのように設計された理由を見てみましょう。
 
-2つのデータセットの主な使用例は次のとおりです。
+2 つのデータセットの主な使用例は異なります。
 
-* [!DNL Marketing Channels]:の主な使用例は、複数のチ [!DNL Marketing Channels] ャネルにわたるデータを共通のアトリビューションモデルと比較することです。アナリストは、[!UICONTROL Marketing Channel]ディメンションを使用して、チャネルが相互にどのように関わっているかに関するインサイトを得ることができます。 このインサイトは、各チャネルへの投資方法に関するマクロレベルの決定に役立ち、各チャネルからの訪問者がWebサイトとどのようにやり取りするかに関するインサイトを得ることができます。
+* [!DNL Marketing Channels]:の主な使用例 [!DNL Marketing Channels] は、複数のチャネルをまたいだデータを共通のアトリビューションモデルと比較するためのものです。 アナリストは、 [!UICONTROL Marketing Channel] ディメンションを使用して、チャネルが相互にどのように関わっているかに関するインサイトを増やすことができます。 このインサイトは、各チャネルへの投資方法に関するマクロレベルの決定を促進し、各チャネルからの訪問者が Web サイトとどのようにやり取りするかに関するインサイトを導くのに役立ちます。
 
-   したがって、 [!DNL Analytics] [!UICONTROL Marketing Channel]ディメンションは、すべてのチャネルをキャプチャして追跡するように設定されます。 [!DNL Marketing Channels] は、Advertising Cloud DSPビュースルー数とクリックスルー数を取り込むように設定することもできます。他のマーケティングチャネルとの関係でも同様です。
+   この [!DNL Analytics] [!UICONTROL Marketing Channel] したがって、ディメンションは、すべてのチャネルをキャプチャして追跡するように設定されます。 [!DNL Marketing Channels] は、Advertising Cloud DSPビュースルー数およびクリックスルー数を取り込むように設定することもできます。他のマーケティングチャネルとの関連で取り込みます。
 
-* Advertising Cloud AMO ID:Advertising Cloud AMO IDデータの主な使用例は、Advertising Cloudの高度な[!DNL Adobe Sensei]を利用した入札アルゴリズムをフィードすることです。 このアルゴリズムは、広告費用を最大化し、[!DNL DSP]キャンペーンまたは[!DNL Search]ポートフォリオの目標を達成するために、毎日おこなわれる数千のマイクロレベル入札決定を自動的に行います。 アルゴリズムがキャンペーンを結び付けるコンバージョンデータが多いほど、アルゴリズムがこれらの入札に関する意思決定を行うことができます。
+* Advertising Cloud AMO ID :Advertising Cloud AMO ID データの主な使用例は、Advertising Cloud の詳細設定をフィードすることです [!DNL Adobe Sensei]-powered 入札アルゴリズム。 アルゴリズムは、広告費用を最大化し、 [!DNL DSP] キャンペーンまたは [!DNL Search] ポートフォリオ アルゴリズムがキャンペーンを結び付けることができるコンバージョンデータが多いほど、アルゴリズムがこれらの入札の決定を下すことができます。
 
-   このデータを収集するために、[!DNL Analytics for Advertising Cloud]統合は、Adobe AnalyticsのAMO IDディメンションに、クリックスルーおよびビュースルートラッキングコードとして変換できる生のAMO IDを渡します。このコードは、カスタム変数(eVar)または予約変数(rVar)として保存されます。 他のチャネルのクリックスルーはAMO IDディメンションに設定されないので、AMO IDディメンションは、これらの他のチャネルからのエントリを追跡できません。 その結果、AMO IDは[!DNL Marketing Channes]lエントリポイントを通じて保持されます。
+   このデータを収集するには、 [!DNL Analytics for Advertising Cloud] 統合では、Adobe Analyticsの AMO ID ディメンションにクリックスルーおよびビュースルートラッキングコードとして変換できる生の AMO ID を渡します。これは、カスタム変数 (eVar) または予約変数 (rVar) として保存されます。 他のチャネルのクリックスルーは AMO ID ディメンションに設定されないので、AMO ID ディメンションは、これらの他のチャネルからのエントリを追跡できません。 その結果、AMO ID は [!DNL Marketing Channes]l 個のエントリポイント。
 
-Advertising Cloudで追跡されたデータと[!DNL Analytics]で追跡されたデータのデータの相違について詳しくは、「[ [!DNL Analytics] とAdvertising Cloud](../data-variances.md)で予想されるデータの相違」を参照してください。
+Advertising Cloud追跡データとのデータの相違について詳しくは、 [!DNL Analytics]-tracked データ：[A と B の間で予想されるデータの相違 [!DNL Analytics] とAdvertising Cloud](../data-variances.md).&quot;
 
 >[!MORELIKETHIS]
 >
->* [とAdvertising Cloudの間で予想され [!DNL Analytics] るデータの相違](/help/integrations/analytics/data-variances.md)
+>* [A と B の間で予想されるデータの相違 [!DNL Analytics] とAdvertising Cloud](/help/integrations/analytics/data-variances.md)
 >* [の基本 [!DNL Analytics Marketing Channels]](mc-overview.md)
->* [Advertising Cloud IDを使用した処 [!DNL Marketing Channels] 理ルールの作成](mc-ids.md)
->* [ [!DNL Analytics Marketing Channels] Advertising Cloudデータの使用](mc-ac-data.md)
+>* [Advertising Cloud ID を使用した作成 [!DNL Marketing Channels] 処理ルール](mc-ids.md)
+>* [使用 [!DNL Analytics Marketing Channels] Advertising Cloud Data を使用](mc-ac-data.md)
 >* [ビデオ：Advertising Cloudを使用したレポート [!DNL Marketing Channels]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html)
 
