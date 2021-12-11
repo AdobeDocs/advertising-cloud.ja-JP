@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 8721411c1cd9905d362dff6ea5da39767dcb2c9b
+source-git-commit: d7203d4fa3098b4e47d0474c388d833fe41f5942
 workflow-type: tm+mt
-source-wordcount: '1411'
+source-wordcount: '1460'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,9 @@ ht-degree: 0%
 
 以下の機能は、新しい機能または最近変更された機能です。
 
-<!--  -->
-
 | 日付 | 機能 | 説明 | 詳細情報 |
 | ---- | ------- | ----------- | -------------------- |
+| 2021 年 12 月 10 日 | ビデオチュートリアル | その他のビデオチュートリアルを利用できます。「Advertising Cloud DSPの概要」、「アカウント構造とユーザーインターフェイス」、「パッケージの作成方法」、「サードパーティの広告タグを一括アップロードする方法」、「一括編集ツールを使用した配置の編集方法」。 | [[Advertising CloudTutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/overview.html). |
 | 2021 年 11 月 13 日 | [!UICONTROL Deal IDs] | 内 [!UICONTROL Deal ID] 設定， &quot;[!DNL Rubicon]」が「[!DNL Magnite DV+],&quot;ここで [!DNL DV+] は、ディスプレイ、ビデオ、およびオーディオなどの他の形式を表します。 これは、 [!DNL Magnite] SSP。 **注意：** [!DNL Magnite DV+] は、「[!DNL Rubicon]」 [!UICONTROL Deal ID Inbox]. | 参照：[SSP パートナー](/help/dsp/inventory/ssp-partners.md).&quot; |
 | 2021 年 10 月 27 日 | カスタムレポート | 以下を作成および管理できます。 [!DNL Amazon S3] という名前の、FTP の配信場所の *[!DNL report destinations]*（カスタムレポート用） レポートの宛先を設定したら、新しいカスタムレポートをそれぞれ 1 つ以上の宛先タイプの場所に配信したり、電子メールの受信者に配信したりするように設定できます。 の更新 [!DNL Amazon S3] および FTP 資格情報によってレポートの配信が中断されることはありません。<br><br>既存のレポートは、指定した電子メール受信者に送信されます。 別のレポートの宛先への配信を設定するには、新しい宛先で新しいレポートを作成します。 | 参照：[について [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md),&quot; &quot;[の作成 [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-create.md),&quot; &quot;[[!UICONTROL Report Destination] 設定](/help/dsp/reports/report-destinations/report-destination-settings.md),&quot;および&quot;[カスタムレポート設定](/help/dsp/reports/report-settings.md).&quot; |
 |  | [!UICONTROL Packages], [!UICONTROL Placements]、および [!UICONTROL Ads] ビュー | 1 日分のデータを表示する場合、トレンドグラフに時間別データが含まれるようになりました。 任意の時点にカーソルを置くと、その時間のデータが表示されます。 | 参照：[単一キャンペーンレポート](/help/dsp/campaign-management/reports/campaign-reports-about.md#single-campaign-reporting).&quot; |
