@@ -3,9 +3,9 @@ title: Advertising Cloud DSPのキャンペーン管理の概要
 description: キャンペーン管理の階層とコンポーネントについて説明します。
 feature: DSP Packages, DSP Placements, DSP Ads
 exl-id: c94e08d0-0dd5-4cf9-8df2-9eb4c591375c
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Advertising Cloud DSPキャンペーンの階層は次のとおりです。
 
-* キャンペーン
+* Campaign
    * パッケージ
       * 配置
          * 広告
@@ -27,43 +27,44 @@ In Advertising Cloud DSP, an insertion order is represented as a campaign, and l
 
 ## [!UICONTROL Campaigns]
 
-[](/help/dsp/campaign-management/campaigns/campaign-about.md) キャンペーンは、フライト設定の包括的なフレームワークです。各キャンペーンには、広告主、開始日と終了日、全体的な予算、クロスデバイスターゲティングオプションとデフォルトの頻度制限、および視認性、不正行為、ブランド安全性、オーディエンス検証のレポートオプションが設定されます。 すべてのキャンペーンレベルの設定は、キャンペーン内の各パッケージおよび配置に自動的に適用されます。
+[キャンペーン](/help/dsp/campaign-management/campaigns/campaign-about.md) は、フライト設定の包括的なフレームワークです。 各キャンペーンには、広告主、開始日と終了日、予算全体、クロスデバイスターゲティングオプションとデフォルトの頻度キャップ、および視認性、詐欺、ブランドの安全性、オーディエンスの検証に関するレポートオプションが設定されています。 すべてのキャンペーンレベルの設定は、キャンペーン内の各パッケージおよび配置に自動的に適用されます。
 
 ## [!UICONTROL Packages]
 
-各キャンペーンには、1つ以上の[パッケージ](/help/dsp/campaign-management/packages/package-about.md)を含めることができます。各パッケージには、一連の配置が含まれます。
+各キャンペーンには、1 つ以上の [パッケージ](/help/dsp/campaign-management/packages/package-about.md)：それぞれに一連の配置が含まれます。
 
-パッケージを使用して、設定された予算、パフォーマンス目標、カスタムペーシング戦略に配信する配置をグループ化します。 DSPは、予算をパッケージ内の最もパフォーマンスの高い配置に移行することで、パッケージを最適化します。 配置形式、在庫のタイプ、データプロバイダー、ペルソナ、またはその他の区別可能な特性別にパッケージを整理できます。
+パッケージを使用して、設定された予算、パフォーマンス目標、カスタムペーシング戦略に対する配信用の配置をグループ化します。 DSPは、予算をパッケージ内の最もパフォーマンスの高い配置に移行することで、パッケージを最適化します。 配置形式、在庫のタイプ、データプロバイダー、ペルソナ、またはその他の区別可能な特性別にパッケージを整理できます。
 
 パッケージはオプションですが、推奨されます。
 
 ## [!UICONTROL Placements]
 
-[配置](/help/dsp/campaign-management/placements/placement-about.md)は、同じ広告タイプの1つ以上の広告のターゲティングパラメーターを格納します。 1つのキャンペーンまたはパッケージ用にプレースメントを作成し、そのキャンペーンに広告を割り当てることができます。
+A [配置](/help/dsp/campaign-management/placements/placement-about.md) は、同じ広告タイプの 1 つ以上の広告のターゲティングパラメーターを格納します。 単一のキャンペーンまたはパッケージ用のプレースメントを作成して、そのプレースメントに広告を割り当てることができます。
 
 ## [!UICONTROL Ads]
 
-[](/help/dsp/campaign-management/ads/ad-about.md) クリエイティブアセットとトラッキングURLを追加します。クリエイティブアセットをアップロードして、DSPでそれらを使用する広告を無料で提供するか、サードパーティの広告配信タグをアップロードできます。
+[広告](/help/dsp/campaign-management/ads/ad-about.md) クリエイティブアセットとトラッキング URL を含めます。 クリエイティブアセットをアップロードすると、DSPでそれらを使用する広告が無料で提供されます。または、サードパーティの広告配信タグをアップロードできます。
 
-広告を設定したら、各広告を配置に添付する必要があります。 1つの広告を1つ以上のプレースメントに添付できます。
+広告を設定したら、各広告をプレースメントに添付する必要があります。 1 つの広告を 1 つ以上のプレースメントに添付できます。
 
-アクティブなキャンペーン内のアクティブなプレースメントにある、アクティブで承認済みの広告は、すべて、プレースメントターゲットパラメーターに基づいて実行できます。
+アクティブなキャンペーン内のアクティブな配置にある、アクティブで承認済みの広告は、すべて、配置ターゲティングパラメーターに基づいて実行する資格があります。
 
 ## [!UICONTROL Creatives]
 
 指定したキャンペーンの広告で使用するオーディオおよびビデオファイルをアップロードできます。
 <!-- add link to [About Creative Management](/help/dsp/campaign-management/creatives/creative-about.md) when it's available-->
 
-アップロードしたクリエイティブを使用して広告を直ちに作成することも、後でクリエイティブビューまたは広告ビューから広告を作成することもできます。
+アップロードしたクリエイティブを使用して広告を直ちに作成することも、後で「クリエイティブ」ビューまたは「広告」ビューから広告を作成することもできます。
 
 >[!MORELIKETHIS]
 >
 >* [キャンペーン管理について](/help/dsp/campaign-management/campaigns/campaign-about.md)
 >* [パッケージ管理について](/help/dsp/campaign-management/packages/package-about.md)
->* [プレースメント管理について](/help/dsp/campaign-management/placements/placement-about.md)
+>* [配置管理について](/help/dsp/campaign-management/placements/placement-about.md)
 >* [広告管理について](/help/dsp/campaign-management/ads/ad-about.md)
->* [Campaign Launchチェックリスト](/help/dsp/campaign-management/campaign-launch-checklist.md)
+>* [Campaign Launch チェックリスト](/help/dsp/campaign-management/campaign-launch-checklist.md)
 >* [パフォーマンスキャンペーンの設定のベストプラクティス](/help/dsp/optimization/campaign-best-practices-performance.md)
 >* [プラットフォーム内レポートについて](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [Campaignのデータビューについて](/help/dsp/campaign-management/reports/campaign-data-views-about.md)
+>* [Campaign のデータビューについて](/help/dsp/campaign-management/reports/campaign-data-views-about.md)
+>* [ビデオ：DSPアカウント構造とユーザーインターフェイス](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/ui.html)
 
