@@ -3,58 +3,58 @@ title: 複数のサードパーティ広告の作成
 description: 一度に複数のサードパーティ広告を作成する方法を説明します。
 feature: DSP Ads
 exl-id: 83d35d27-1ab6-4fcf-877f-650a2dc6975a
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
 
 # 複数のサードパーティ広告の作成
 
-サードパーティの広告サーバーでホストされるクリエイティブアセットを指すタグをアップロードすることで、一度に最大500個のサードパーティ広告を作成できます。 広告の追跡ピクセルを含めることができます。<!-- The bulksheet template for other ad servers says you can include 200. Which is it: 200 or 500? -->
+サードパーティの広告サーバーでホストされるクリエイティブアセットを指すタグをアップロードすることで、一度に最大 500 個のサードパーティ広告を作成できます。 広告のトラッキングピクセルを含めることができます。<!-- The bulksheet template for other ad servers says you can include 200. Which is it: 200 or 500? -->
 
-[!DNL DoubleClick]タグシートと[!DNL Flashtalking]タグシート、または提供されたテンプレートを使用して手動で入力したファイルをアップロードできます。
+次のいずれかをアップロードできます。 [!DNL DoubleClick] および [!DNL Flashtalking] タグシート、または提供されたテンプレートを使用して手動で入力したファイル。
 
-サードパーティ広告を1つ作成するには、[広告の作成](ad-create.md)を参照してください。
+単一のサードパーティ広告を作成するには、 [広告の作成](ad-create.md).
 
 >[!TIP]
 >
-> ベストプラクティスは、HTTPSを使用して安全に提供されるサードパーティの広告を使用することです。 HTTPSを使用して提供されるURLは「https」で始まります。
+> ベストプラクティスは、HTTPS を使用して安全に提供されるサードパーティの広告を使用することです。 HTTPS を使用して提供された URL は、「https」で始まります。
 
-1. メインメニューで&#x200B;**[!UICONTROL Campaigns]**&#x200B;をクリックします。
+1. メインメニューで、 **[!UICONTROL Campaigns]**.
 
 1. 広告を含めるキャンペーンの名前をクリックします。
 
-1. データテーブルの上にある&#x200B;**[!UICONTROL Create]**&#x200B;をクリックします。 メニューの「広告タイプ」セクションで、「**[!UICONTROL Bulk upload ads]**」をクリックします。
+1. データテーブルの上にある **[!UICONTROL Create]**. メニューの「広告タイプ」セクションで、 **[!UICONTROL Bulk upload ads]**.
 
-1. 広告がホストされている広告サーバーを選択します。*[!UICONTROL DoubleClick]*、*[!UICONTROL Flashtalking]*、または&#x200B;*[!UICONTROL Other]*。
+1. 広告がホストされている広告サーバーを選択します。 *[!UICONTROL DoubleClick]*, *[!UICONTROL Flashtalking]*&#x200B;または *[!UICONTROL Other]*.
 
-1. （[!DNL DoubleClick]および[!DNL Flashtalking]広告）各ビデオアセットと各表示アセットに使用するタグタイプを選択します。 使用可能なオプションは、広告サーバーによって異なります。
+1. ([!DNL DoubleClick] および [!DNL Flashtalking] ads) 各ビデオアセットおよび各ディスプレイアセットに使用するタグタイプを選択します。 使用可能なオプションは、広告サーバーによって異なります。
 
-1. （[!DNL DoubleClick]と[!DNL Flashtalking]を除くすべての広告サーバーで広告）**[!UICONTROL Download this template]**&#x200B;をクリックして、テンプレートを[!DNL Microsoft Excel]スプレッドシート(XLSX)形式でダウンロードし、広告データを入力してローカルに保存できます。 必要な列は、[!UICONTROL Ad Name]、[!UICONTROL VAST/VPAID URL or Ad Tag]、[!UICONTROL Ad Types]です。
+1. ( 以下を除くすべての広告サーバーの広告 [!DNL DoubleClick] および [!DNL Flashtalking]) クリック **[!UICONTROL Download this template]** テンプレートを [!DNL Microsoft Excel] スプレッドシート (XLSX) 形式。広告データを入力し、ローカルに保存できます。 必要な列は次のとおりです。 [!UICONTROL Ad Name], [!UICONTROL VAST/VPAID URL or Ad Tag]、および [!UICONTROL Ad Types].
 
-1. **[!UICONTROL Upload]**&#x200B;をクリックし、デバイスまたはネットワークから.xlsx形式または.xls形式のファイルを選択します。
+1. クリック **[!UICONTROL Upload]** お使いのデバイスまたはネットワークから.xlsx 形式または.xls 形式のファイルを選択します。
 
-   [!DNL DoubleClick]および[!DNL Flashtalking]広告の場合は、編集されていないタグシートを広告サーバーからアップロードします。 その他の広告サーバーの場合は、手順3でダウンロードしたテンプレートを使用します。
+   の場合 [!DNL DoubleClick] および [!DNL Flashtalking] 広告を開き、編集されていないタグシートを広告サーバーからアップロードします。 その他の広告サーバーの場合は、手順 3 でダウンロードしたテンプレートを使用します。
 
-1. アップロードが完了したら、「**[!UICONTROL Start Building Ads]**」をクリックします。
+1. アップロードが完了したら、 **[!UICONTROL Start Building Ads]**.
 
 1. 各広告の詳細とステータスを確認します。
 
-   1. 各広告のステータスを確認します。これは、アップロードされたタグの検証チェックに基づいています。
+   1. 各広告のステータスを確認します。これは、アップロードされたタグに対する検証チェックに基づいています。
    1. （オプション）各広告に対して、次のいずれかの操作を実行します。
-      * 広告をプレビューするには、広告行の「![play](/help/dsp/assets/play.png)」をクリックします。
-      * 広告の詳細を編集するには、![edit](/help/dsp/assets/edit.png)をクリックし、詳細を編集して、「**保存**」をクリックします。
-      * 広告を削除するには、広告の行の&#x200B;**[!UICONTROL X]**&#x200B;をクリックします。
+      * 広告をプレビューするには、 ![play](/help/dsp/assets/play.png) 広告行に表示されます。
+      * 広告の詳細を編集するには、 ![編集](/help/dsp/assets/edit.png)、詳細を編集し、 **保存**.
+      * 広告を削除するには、 **[!UICONTROL X]** 広告行に表示されます。
 
-1. 「**[!UICONTROL Create *N *広告]**」をクリックします。
+1. クリック **[!UICONTROL Create *N *広告]**.
 
 1. 次のいずれかの操作を行います。
 
    * クリック **[!UICONTROL Done]**.
 
-   * （広告が拒否された場合）（オプション）広告レコードを編集し、広告をレビュー用に再送信するには：
+   * ( 広告が拒否された場合。（オプション）広告レコードを編集し、レビュー用に広告を再送信するには、次の手順に従います。
       1. 広告名をクリックします。
       1. 広告設定を編集します。
       1. クリック **[!UICONTROL Save & submit for review]**.
@@ -63,6 +63,7 @@ ht-degree: 0%
 >
 >* [広告管理について](ad-about.md)
 >* [広告の作成](ad-create.md)
->* [使用可能な広告タイプ](ad-types.md)
+>* [利用可能な広告タイプ](ad-types.md)
 >* [広告の仕様](/help/dsp/assets/ad-specs.pdf)
+>* [ビデオ：サードパーティの広告タグの一括アップロード方法](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-upload-third-party-ad-tags.html)
 
