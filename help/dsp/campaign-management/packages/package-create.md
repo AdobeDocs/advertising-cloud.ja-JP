@@ -3,9 +3,9 @@ title: パッケージの作成
 description: パッケージの作成方法を説明します。
 feature: DSP Packages
 exl-id: 009b65b4-0686-46ca-9f47-01ad4c6a4683
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '96'
 ht-degree: 1%
 
 ---
@@ -14,12 +14,12 @@ ht-degree: 1%
 
 >[!TIP]
 >
->ベストプラクティスは、ターゲティング戦術、広告タイプ、パフォーマンス目標に基づいてパッケージを分離することです。
+>ベストプラクティスは、ターゲティング戦術、広告のタイプ、パフォーマンス目標に基づいてパッケージを分離することです。
 
-1. メインメニューで&#x200B;**[!UICONTROL Campaigns]**&#x200B;をクリックします。
+1. メインメニューで、 **[!UICONTROL Campaigns]**.
 1. パッケージを作成するキャンペーンの名前をクリックします。
-1. 「パッケージ」タブで、**[!UICONTROL Create]/[!UICONTROL Package]**&#x200B;をクリックします。
-1. [パッケージ設定](package-settings.md)を入力します。
+1. 「パッケージ」タブで、 **[!UICONTROL Create]>[!UICONTROL Package]**.
+1. 次を入力します。 [パッケージ設定](package-settings.md).
 1. クリック **[!UICONTROL Save and Close]**.
 
 パッケージを作成したら、そのパッケージに配置を割り当てることができます。
@@ -28,6 +28,7 @@ ht-degree: 1%
 >
 >* [パッケージ管理について](package-about.md)
 >* [パッケージの編集](package-edit.md)
->* [パッケージへの配置の添付](package-attach-placement.md)
+>* [パッケージに配置を添付する](package-attach-placement.md)
 >* [パッケージ設定](package-settings.md)
+>* [ビデオ：パッケージの作成方法](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/package-create.html)
 
