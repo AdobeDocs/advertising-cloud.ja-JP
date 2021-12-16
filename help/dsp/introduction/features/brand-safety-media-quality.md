@@ -3,9 +3,9 @@ title: ブランドの安全性とメディア品質
 description: ブランドの安全性とメディア品質の機能の詳細をご覧ください。
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: 75227ae12d1095c8a537444b1924023bc2b54be3
+source-git-commit: 80444d9bbbeaee33ada33d4b6c0a28bc24d43a2e
 workflow-type: tm+mt
-source-wordcount: '1310'
+source-wordcount: '1315'
 ht-degree: 0%
 
 ---
@@ -114,11 +114,11 @@ Advertising Cloud DSPは、広告の実行が安全でないと見なされる�
 
 ### トピックのターゲティング
 
-DSPトピックのターゲット設定では、業界をリードするコンテキストパートナーを活用して、キーワードリストをターゲティングまたはブロックできます [!DNL Comscore] および [!DNL Oracle Data Cloud] ([!DNL Grapeshot]) をクリックします。
-
-トピックのターゲティングを使用すると、有害なコンテンツのブロックや、より大きな成果を確実に得るためのコンテキストでの支出を含め、ブランドに沿った環境で広告を常に提供できます。
+DSPトピックのターゲット設定では、業界をリードするコンテキストパートナーを活用して、キーワードリストをターゲティングまたはブロックできます [!DNL Comscore] および [!DNL Oracle Data Cloud] ([!DNL Grapeshot]) をクリックします。 トピックのターゲティングを使用すると、有害なコンテンツのブロックや、より大きな成果を確実に得るためのコンテキストでの支出を含め、ブランドに沿った環境で広告を常に提供できます。
 
 トピックのターゲティングでは、を使用してカスタムトピックセグメントを直接作成する必要があります。 [!DNL Comscore] または [!DNL Grapeshot] ( [!DNL Oracle Data Cloud]) をクリックします。 これらをパートナープラットフォームで作成したら、次の操作を実行できます。 [セグメント ID を [!UICONTROL Audience Targeting] 各配置のセクション](/help/dsp/campaign-management/placements/placement-settings.md). この機能には追加料金が適用される場合があります。
+
+カスタムトピックセグメントを作成するには：
 
 * を作成するには、以下を実行します。 [!DNL Comscore] アカウントを作成してカスタムセグメントを作成すると、 [!DNL Activation Segment Manager] ]http://agents.comscore.com](http://agents.comscore.com) にあります。 詳しくは、 [[!DNL Comscore] ヘルプセンター](https://comscoreactivation.zendesk.com/hc/) を参照してください。 カスタムセグメントの料金は、 [!DNL Segment Manager] 作成時に
 
