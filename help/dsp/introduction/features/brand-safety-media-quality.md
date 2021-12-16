@@ -3,9 +3,9 @@ title: ブランドの安全性とメディア品質
 description: ブランドの安全性とメディア品質の機能の詳細をご覧ください。
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: 7d158d5882bf23582c274ad49d632e0d937a1bd3
+source-git-commit: 75227ae12d1095c8a537444b1924023bc2b54be3
 workflow-type: tm+mt
-source-wordcount: '1308'
+source-wordcount: '1310'
 ht-degree: 0%
 
 ---
@@ -120,7 +120,7 @@ DSPトピックのターゲット設定では、業界をリードするコン�
 
 トピックのターゲティングでは、を使用してカスタムトピックセグメントを直接作成する必要があります。 [!DNL Comscore] または [!DNL Grapeshot] ( [!DNL Oracle Data Cloud]) をクリックします。 これらをパートナープラットフォームで作成したら、次の操作を実行できます。 [セグメント ID を [!UICONTROL Audience Targeting] 各配置のセクション](/help/dsp/campaign-management/placements/placement-settings.md). この機能には追加料金が適用される場合があります。
 
-* を作成するには、以下を実行します。 [!DNL Comscore] アカウントを作成してカスタムセグメントを作成すると、 [!DNL Activation Segment Manager] (http://agents.comscore.com/)。 詳しくは、 [[!DNL Comscore] ヘルプセンター](https://comscoreactivation.zendesk.com/hc/) を参照してください。 カスタムセグメントの料金は、 [!DNL Segment Manager] 作成時に
+* を作成するには、以下を実行します。 [!DNL Comscore] アカウントを作成してカスタムセグメントを作成すると、 [!DNL Activation Segment Manager] ]http://agents.comscore.com](http://agents.comscore.com) にあります。 詳しくは、 [[!DNL Comscore] ヘルプセンター](https://comscoreactivation.zendesk.com/hc/) を参照してください。 カスタムセグメントの料金は、 [!DNL Segment Manager] 作成時に
 
 * を使い始めるには、以下を実行します。 [!DNL Oracle Data Cloud]，連絡先 [!DNL Oracle Data Cloud] または [!DNL Adobe] アカウントマネージャー。
 
