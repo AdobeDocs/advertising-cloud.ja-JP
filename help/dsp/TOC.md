@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP ガイド
 user-guide-description: Advertising Cloud DSPを使用してディスプレイ広告戦略を管理、最適化、およびレポートするために必要な主な機能、タスク、設定、その他のリソースについて説明します。
 breadcrumb-title: DSP ガイド
 index: true
-source-git-commit: b113d8337e5108ccc1a2ba99d23900bb1cb72cee
+source-git-commit: aba948d8840aa986bc7fe3e8a167da2316bdbdd0
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '768'
 ht-degree: 3%
 
 ---
@@ -182,6 +182,9 @@ ht-degree: 3%
       + [の編集 [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
       + [の削除 [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
       + [[!UICONTROL Report Destination] 設定](/help/dsp/reports/report-destinations/report-destination-settings.md)
++ 管理 {#admin}
+   + [アカウントレベルおよび広告主レベルのブロック済みサイトリストについて](/help/dsp/admin/blocked-sites-list-about.md)
+   + [アカウントレベルまたは広告主レベルのブロック済みサイトリストの編集](/help/dsp/admin/blocked-sites-list-edit.md)
 + [Adobe Experience Cloudとの統合](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
 + [カスタマーサポート](https://helpx.adobe.com/jp/contact/enterprise-support.ec.html)
 + [Adobe Experience Cloud のリリースノート](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)

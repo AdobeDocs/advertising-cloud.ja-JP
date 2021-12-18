@@ -1,17 +1,12 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: アカウントレベルまたは広告主レベルのブロック済みサイトリストの編集
-description: アカウントレベルまたは広告主レベルのブロック済みサイトリストの編集
-source-git-commit: 27367fdee872cea9016cccd12aa082aa7455dbce
+description: アカウントまたは広告主のブロックされたサイトリストを管理する方法を説明します。
+source-git-commit: bfed4856e9b67537a84bd3169b284e6e027ca957
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # アカウントレベルまたは広告主レベルのブロック済みサイトリストの編集
 
@@ -43,6 +38,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
-> [ブランドの安全性とメディア品質](/help/dsp/introduction/features/brand-safety-media-quality.md)
+>* [アカウントレベルおよび広告主レベルのブロック済みサイトリストについて](/help/dsp/admin/blocked-sites-list-about.md)
+   > [ブランドの安全性とメディア品質](/help/dsp/introduction/features/brand-safety-media-quality.md)
 >* [配置設定](/help/dsp/campaign-management/placements/placement-settings.md)
 
