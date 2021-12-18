@@ -1,7 +1,7 @@
 ---
 title: アカウントレベルおよび広告主レベルのブロック済みサイトリストについて
 description: アカウントまたは広告主のブロック済みサイトリストの詳細を説明します。
-source-git-commit: 32988f3bd4e4b63304f6b2a53949eda7842a60f0
+source-git-commit: 490147fb8479474ce95c17d59b512254596746c2
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Advertising Cloudアカウント全体に使用されるブロックされたサ
 
 >[!NOTE]
 >
->* アカウントレベルおよび広告主レベルのブロックサイトリストは、Advertising Cloud DSP [グローバルブロックサイトリスト](/help/dsp/introduction/features/brand-safety-media-quality.md)：広告で安全でないと見なされるサイトを含みます。
+>* アカウントレベルおよび広告主レベルのブロックサイトリストは、Advertising Cloud DSP [グローバルブロックサイトリスト](/help/dsp/introduction/features/brand-safety-media-quality.md#global-blocked-sites)：広告で安全でないと見なされるサイトを含みます。
 >* また、ユーザーは任意のプレースメントにターゲットサイトを追加できます。
 >* ブロックされたサイトリストは、常にターゲットサイトリストを上書きします。 配置が広告の同じターゲットを除外して含む場合、そのターゲットは除外されます。
 

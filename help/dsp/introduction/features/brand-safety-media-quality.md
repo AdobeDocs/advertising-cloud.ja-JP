@@ -3,7 +3,7 @@ title: ブランドの安全性とメディア品質
 description: ブランドの安全性とメディア品質の機能の詳細をご覧ください。
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: 6a0b863d1cdf31eb8a659196a83e9636a3a49ff5
+source-git-commit: fac152a5e3d040bcfacda97f05f3990fd17f677d
 workflow-type: tm+mt
 source-wordcount: '1315'
 ht-degree: 0%
@@ -72,7 +72,7 @@ DSPは、アドビのプラットフォーム全体で不正を管理するた�
 
 Advertising Cloud DSPは、グローバルにブロックされたサイトリストと、広告主やアカウントのカスタムブロックされたサイトリストを作成するオプションの両方を提供します。
 
-#### Advertising Cloud DSPグローバルブロック済みサイトリスト
+#### Advertising Cloud DSPグローバルブロック済みサイトリスト {#global-blocked-sites}
 
 Advertising Cloud DSPは、広告の実行が安全でないと見なされる、グローバルにブロックされたサイトリストを管理します。 このリストには、好ましくないコンテンツ（憎しみや恐怖など）や、ボットに感染したサイト、偽のプリロール、不一致のドメイン、その他の不正なアクティビティを含むサイトが含まれています。
 
