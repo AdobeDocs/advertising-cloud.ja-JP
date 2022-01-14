@@ -3,7 +3,7 @@ title: ブランドの安全性とメディア品質
 description: ブランドの安全性とメディア品質の機能の詳細をご覧ください。
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: fac152a5e3d040bcfacda97f05f3990fd17f677d
+source-git-commit: 3bca3d5b4a1ec0bf9bb23946248de350b8bbf2a6
 workflow-type: tm+mt
 source-wordcount: '1315'
 ht-degree: 0%
@@ -120,7 +120,7 @@ DSPトピックのターゲット設定では、業界をリードするコン�
 
 カスタムトピックセグメントを作成するには：
 
-* を作成するには、以下を実行します。 [!DNL Comscore] アカウントを作成してカスタムセグメントを作成すると、 [!DNL Activation Segment Manager] 時刻 [http://agents.comscore.com](http://agents.comscore.com). 詳しくは、 [[!DNL Comscore] ヘルプセンター](https://comscoreactivation.zendesk.com/hc/) を参照してください。 カスタムセグメントの料金は、 [!DNL Segment Manager] 作成時に
+* を作成するには、以下を実行します。 [!DNL Comscore] アカウントを作成してカスタムセグメントを作成すると、 [!DNL Activation Segment Manager] 時刻 [https://agents.comscore.com](https://agents.comscore.com). 詳しくは、 [[!DNL Comscore] ヘルプセンター](https://comscoreactivation.zendesk.com/hc/) を参照してください。 カスタムセグメントの料金は、 [!DNL Segment Manager] 作成時に
 
 * を使い始めるには、以下を実行します。 [!DNL Oracle Data Cloud]，連絡先 [!DNL Oracle Data Cloud] または [!DNL Adobe] アカウントマネージャー。
 
