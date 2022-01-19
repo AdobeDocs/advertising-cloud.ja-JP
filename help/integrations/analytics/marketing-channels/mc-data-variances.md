@@ -2,9 +2,10 @@
 title: Advertising Cloudと [!DNL Marketing Channels]
 description: AMO ID でトラッキングされるチャネルデータが、 [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 4605dc7d-43d7-414f-a509-6096c6cf5fd2
+source-git-commit: b99d0ce78dc2adc16e555ef618393ef2fc11067d
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ Advertising Cloudと [!DNL Marketing Channels] データセットは、「AMO ID
 
 * Advertising Cloud AMO ID :Advertising Cloud AMO ID データの主な使用例は、Advertising Cloud の詳細設定をフィードすることです [!DNL Adobe Sensei]-powered 入札アルゴリズム。 アルゴリズムは、広告費用を最大化し、 [!DNL DSP] キャンペーンまたは [!DNL Search] ポートフォリオ アルゴリズムがキャンペーンを結び付けることができるコンバージョンデータが多いほど、アルゴリズムがこれらの入札の決定を下すことができます。
 
-   このデータを収集するには、 [!DNL Analytics for Advertising Cloud] 統合では、Adobe Analyticsの AMO ID ディメンションにクリックスルーおよびビュースルートラッキングコードとして変換できる生の AMO ID を渡します。これは、カスタム変数 (eVar) または予約変数 (rVar) として保存されます。 他のチャネルのクリックスルーは AMO ID ディメンションに設定されないので、AMO ID ディメンションは、これらの他のチャネルからのエントリを追跡できません。 その結果、AMO ID は [!DNL Marketing Channes]l 個のエントリポイント。
+   このデータを収集するには、 [!DNL Analytics for Advertising Cloud] 統合では、Adobe Analyticsの AMO ID ディメンションにクリックスルーおよびビュースルートラッキングコードとして変換できる生の AMO ID を渡します。これは、カスタム変数 (eVar) または予約変数 (rVar) として保存されます。 他のチャネルのクリックスルーは AMO ID ディメンションに設定されないので、AMO ID ディメンションは、これらの他のチャネルからのエントリを追跡できません。 その結果、AMO ID は [!DNL Marketing Channels] エントリポイント
 
 Advertising Cloud追跡データとのデータの相違について詳しくは、 [!DNL Analytics]-tracked データ：[A と B の間で予想されるデータの相違 [!DNL Analytics] とAdvertising Cloud](../data-variances.md).&quot;
 
