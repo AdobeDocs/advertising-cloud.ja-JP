@@ -3,9 +3,9 @@ title: SSP パートナー
 description: 利用可能なサプライサイドプラットフォーム (SSP) とオープン交換パートナーの一覧を参照してください。
 feature: DSP Private Inventory
 exl-id: 8487f4ce-0232-4145-ad8b-b0631fd0ab7f
-source-git-commit: fa8c8c1637dfc7a3e9409f6637f77d751d96ae6c
+source-git-commit: c34487bef4504f5187bfe28e87f6114ec01ff489
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '457'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,8 @@ ht-degree: 0%
 | SSP リスト | 会社 | シート ID | プログラムで保証されたサポート | 地域 | サポートされる通貨 | ビデオデスクトップ | ビデオモバイル | ビデオ CTV | デスクトップを表示 | モバイルを表示 | ネイティブ表示 | オーディオデスクトップおよびモバイル |
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 | [!DNL Adap.tv] | [!DNL Verizon Media Group] | [!DNL TubeMogul] またはAdobe Advertising Cloud | いいえ | グローバル | USD | X | X | X |  |  |  |  |
-| [!DNL AdColony] ( 以前 [!DNL Opera]) | [!DNL Digital Turbine] | [!DNL TubeMogul] | いいえ | グローバル | USD |  | x |  |  |  |  |  |
-| [!DNL AdsWizz] | [!DNL Sirius XM Pandora] | Adobe Advertising Cloud | いいえ | グローバル | USD, EUR, GBP |  |  |  |  |  |  | x |
+| [!DNL AdColony] ( 以前 [!DNL Opera]) | [!DNL Digital Turbine] | [!DNL TubeMogul] | いいえ | グローバル | USD |  | x |  | x | x |  |  |
+| [!DNL AdsWizz] | [!DNL Sirius XM Pandora] | Adobe Advertising Cloud | はい | グローバル | USD, EUR, GBP |  |  |  |  |  |  | x |
 | [!DNL Ambient Digital] | 該当なし | [!DNL TubeMogul] | はい | SEA | USD |  | x |  | x |  |  | x |
 | [!DNL AppNexus] | [!DNL Xandr] | ビデオシート ID:9094<br>シート ID を表示：3939 | いいえ | グローバル | USD | x | x | x | x | x |  |  |
 | [!DNL DailyMotion] | 該当なし | [!DNL TubeMogul] またはAdobe Advertising Cloud | いいえ | 米国+EMEA | USD、EUR | x | x | x |  |  |  |  |
