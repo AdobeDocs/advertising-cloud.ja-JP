@@ -1,9 +1,9 @@
 ---
-title: Advertising Cloud DSPで使用可能なサードパーティデータプロバイダー
-description: 利用可能なすべてのサードパーティデータプロバイダーのリストを参照します。
+title: Advertising Cloud DSPで利用可能なサードパーティデータプロバイダー
+description: 利用可能なすべてのサードパーティデータプロバイダーの一覧を参照します。
 feature: DSP Audiences
 exl-id: f67d81a0-bd31-48d8-9bcf-1888afd43894
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 <!-- feature: audiences -->
 
-# Advertising Cloud DSPで使用可能なサードパーティデータプロバイダー
+# Advertising Cloud DSPで利用可能なサードパーティデータプロバイダー
 
 次のサードパーティデータプロバイダーのデータカテゴリとセグメントは、 [!DNL DSP]. これらのセグメントは、主に米国のオーディエンスで使用できます。
 
-各セグメントの使用料は、配置設定でセグメント名の横に表示され、保存されたオーディエンス設定に表示されます。
+各セグメントの使用料金は、配置設定のセグメント名の横に、保存されたオーディエンス設定に表示されます。
 
 * [!DNL Acxiom]
 * [!DNL Adsquare]
@@ -51,11 +51,11 @@ ht-degree: 0%
 * [!DNL TruSignal]
 * [!DNL Weborama]
 
-お使いのアカウントのカスタムサードパーティセグメントのインポートについて詳しくは、 [!DNL Adobe] アカウントマネージャー
+お使いのアカウントのカスタムサードパーティセグメントをインポートする方法について詳しくは、 [!DNL Adobe] アカウントチーム。
 
 >[!MORELIKETHIS]
 >
 >* [Audience Management について](audience-about.md)
->* [再利用可能なオーディエンスの作成](reusable-audience-create.md)
->* [オーディエンスの設定](audience-settings.md)
+>* [再利用可能なオーディエンスを作成](reusable-audience-create.md)
+>* [オーディエンス設定](audience-settings.md)
 

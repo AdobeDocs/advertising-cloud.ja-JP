@@ -2,7 +2,7 @@
 title: '[!UICONTROL Simple Ad Serving] 契約設定'
 description: 使用可能な設定の詳細 [!UICONTROL Simple Ad Serving] 契約
 feature: DSP Simple Ad Serving
-source-git-commit: 22f5d8279fadfcf79e2cd41566321f423d63eb16
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '474'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 | パラメータ | 説明 |
 |-----------|-------------|
 | **[!UICONTROL Serving Type]** | この契約のメディアタイプ： *[!UICONTROL Video],* *[!UICONTROL Display],* または *[!UICONTROL Audio].* |
-| **[!UICONTROL Publisher Site Served On]** | この在庫を販売している発行者の名前。 名前の最初の 2 文字以上を入力して、投稿者を検索します。 リストに表示されていない投稿者を追加するには、 [!DNL Adobe] アカウントマネージャー。 |
+| **[!UICONTROL Publisher Site Served On]** | この在庫を販売している発行者の名前。 名前の最初の 2 文字以上を入力して、投稿者を検索します。 リストに表示されていない投稿者を追加するには、 [!DNL Adobe] アカウントチーム。 |
 | **[!UICONTROL Advertiser]** | この契約にアクセスできる、アカウント内の 1 人の広告主。 また、キャンペーンと、その契約が使用可能なパッケージ（オプション）も選択します。 |
 | **[!UICONTROL Media Quality Assessment?]** | （一部のユーザー）サードパーティの検証のために、別のDSPで広告を実行できるようにします。 <!-- Who can select this? It's disabled for me. Need to see if there are additional fields when this is enabled. --> |
 | **[!UICONTROL Ad Source]** | 唯一のオプションは *[!UICONTROL Site Serve (Event Pixels)]*. |
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 | パラメータ | 説明 |
 |-----------|-------------|
-| **[!UICONTROL Media CPM]** | インプレッション数 1,000 回あたりのコスト (CPM)。契約の料金カードに反映されます。 お問い合わせ [!DNL Adobe] この値のアカウントマネージャー。 <br><br>契約の通貨も指定します。 すべてのユーザーが USD を選択できます。SSP が追加の通貨をサポートしている場合は、DSPアカウントの通貨を選択できます。 |
+| **[!UICONTROL Media CPM]** | インプレッション数 1,000 回あたりのコスト (CPM)。契約の料金カードに反映されます。 お問い合わせ [!DNL Adobe] この値のアカウントチーム。 <br><br>契約の通貨も指定します。 すべてのユーザーが USD を選択できます。SSP が追加の通貨をサポートしている場合は、DSPアカウントの通貨を選択できます。 |
 | **[!UICONTROL Third Party Billed Fees]** | （オプション）請求不可コストとして追跡される静的なサードパーティ料金と、契約の通貨。<br><br>すべてのユーザーが USD を選択できます。SSP が追加の通貨をサポートしている場合は、DSPアカウントの通貨を選択できます。 **注意：** 請求可能な料金は、 [!UICONTROL Net CPM] 指標。 |
 | **[!UICONTROL Third Party Fee Description]** | （オプション）サードパーティの料金の説明。 |
 | **[!UICONTROL Flight Dates]** | この契約を使用するトラフィックの開始日と終了日。 フライト日は、キャンペーンのフライト日に含める必要があります。 広告タグは、指定されたフライト中にのみ応答を返します。<br><br> 1 年間の期間を持つ個別のシンプルな広告配信キャンペーンを作成し、その中にトラッキングピクセルを作成することをお勧めします。 |

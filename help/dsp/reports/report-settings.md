@@ -2,13 +2,13 @@
 title: カスタムレポート設定
 description: カスタムレポート設定の説明を参照してください。
 feature: DSP Custom Reports
-source-git-commit: ff14691fd2b6fa56c303dca3ac0e4c897c322f72
+exl-id: 1d37fc96-0f9b-4eb2-ba8d-9534f627adaf
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1129'
 ht-degree: 0%
 
 ---
-
 
 # カスタムレポート設定
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 **[!UICONTROL Add Filters]:** （オプション）ディメンションがレポートの列として含まれているかどうかに関わらず、データをフィルタリングする追加のディメンション： *[!UICONTROL Account]*,\* *[!UICONTROL Advertiser]*, *[!UICONTROL Campaign]*, *[!UICONTROL Placement]*, *[!UICONTROL Ad]*, *[!UICONTROL Ad Type]*, *[!UICONTROL Video]*, *[!UICONTROL Video Duration]*, *[!UICONTROL Country]*、および *[!UICONTROL Package]*.
 
-\* *[!UICONTROL Account]* は、組織が [クロスアカウントレポート](report-about.md#cross-account-reporting):  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)]、および [!UICONTROL Conversion]. お問い合わせ [!DNL Adobe] アカウントマネージャーを参照してください。
+\* *[!UICONTROL Account]* は、組織が [クロスアカウントレポート](report-about.md#cross-account-reporting):  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)]、および [!UICONTROL Conversion]. お問い合わせ [!DNL Adobe] アカウントチームを参照してください。
 
 1 つ以上のフィルターを適用するには、次の手順を実行します。
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 **[!UICONTROL Report Headers]:** 次を実行するかどうか *[!UICONTROL Include]* または *[!UICONTROL Do Not Include]* 列ヘッダー。
 
-**[!UICONTROL Attribution Rule Settings]:** ( すべて [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment]、および [!UICONTROL Site] レポート [!UICONTROL Conversion Metrics] または [!UICONTROL Custom Goals] 列；Advertising Cloudコンバージョントラッキングのみを使用する広告主 ) レポート内で、コンバージョンにつながる一連のイベントのコンバージョンデータをどのように属性付けるか。 ルール間の違いを比較する場合は、複数のルールを選択できます。
+**[!UICONTROL Attribution Rule Settings]:** ( すべて [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment]、および [!UICONTROL Site] レポート [!UICONTROL Conversion Metrics] または [!UICONTROL Custom Goals] 列；Advertising Cloudコンバージョントラッキングのみを使用する広告主 ) レポート内で、コンバージョンにつながる一連のイベントにコンバージョンデータを関連付ける方法を説明します。 ルール間の違いを比較する場合は、複数のルールを選択できます。
 
 >[!NOTE]
 >

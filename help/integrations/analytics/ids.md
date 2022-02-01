@@ -3,7 +3,7 @@ title: Advertising Cloud ID 使用者 [!DNL Analytics]
 description: Advertising Cloud ID 使用者 [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: 143e8e756d13597bf923d0b6f5b2510f834e6e0f
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1157'
 ht-degree: 0%
@@ -120,7 +120,7 @@ AMO ID の例：AC!iIMvXqlOa6Nia2lDvtgw!GrV6o2oV2qQLjQiXLC7
 * `{ef_userid}` は、Advertising Cloudが広告主に割り当てる一意の数値ユーザー ID です。
 * `{ef_sid}` は、Advertising Cloudが指定した検索エンジンに使用する数値 ID です（例： ）。 `3` 対象 [!DNL Google Ads] または `10` 対象 [!DNL Microsoft Advertising].
 
-以下は、いくつかの検索エンジンでの完全な AMO ID 形式です。 他の検索エンジンの AMO ID 形式については、 [!DNL Adobe] アカウントマネージャー。
+以下は、いくつかの検索エンジンでの完全な AMO ID 形式です。 他の検索エンジンの AMO ID 形式については、 [!DNL Adobe] アカウントチーム。
 
 の AMO ID フォーマット [!DNL Google Ads]:
 

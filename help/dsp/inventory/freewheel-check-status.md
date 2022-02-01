@@ -1,10 +1,11 @@
 ---
-title: 広告のステータスの確認 [!DNL [!DNL FreeWheel]] PG 契約
+title: '[!DNL] の広告のステータスの確認 [!DNL FreeWheel]] PG 契約'
 description: 広告のステータスを見つける方法を説明します [!DNL Freewheel] プログラム的に保証された取引。
 feature: DSP Private Inventory, DSP Deal IDs
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 57c365f6-41cf-4ab6-b71d-fe9984eaf115
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 広告が [!DNL Freewheel] が成功した。 必要に応じて任意の広告を再送信できます。
 
-再提出に関するその他の質問や問題については、 [!DNL Adobe] アカウントマネージャー。
+再提出に関するその他の質問や問題については、 [!DNL Adobe] アカウントチーム。
 
 ## ステータスを [!UICONTROL Ads] 表示
 

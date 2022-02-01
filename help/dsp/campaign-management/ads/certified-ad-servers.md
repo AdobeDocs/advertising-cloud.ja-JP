@@ -2,7 +2,8 @@
 title: 認定広告配信パートナー
 description: 認定済み広告サーバーと広告ユニットをすべて表示します。
 feature: DSP Ads
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -40,7 +41,7 @@ ht-degree: 0%
 | [!DNL Innovid] | X | X |  | X |  |
 | [!DNL InSkin] |  |  | X |  | Inskin インベントリネットワーク全体で、180x150 のディスプレイ取引 ID から、高い影響を与えるスキンを提供する必要があります。 |
 | [!DNL Jivox] |  | X |  |  |  |
-| [!DNL Kargo] |  | X |  |  | 320 x 50 アンカー、BYOC、ホバー、ブレークアウト、サイドキック。300x250 アウトストリーム </br></br>お問い合わせ [!DNL Adobe] 広告ユニットの設定に関するサポートが必要な場合は、アカウントマネージャーにお問い合わせください。 |
+| [!DNL Kargo] |  | X |  |  | 320 x 50 アンカー、BYOC、ホバー、ブレークアウト、サイドキック。300x250 アウトストリーム </br></br>お問い合わせ [!DNL Adobe] 広告ユニットの設定に関するサポートが必要な場合は、アカウントチームにお問い合わせください。 |
 | [!DNL Linkstorm] |  |  | X |  |  |
 | [!DNL mCanvas] |  |  | X |  |  |
 | [!DNL Medialets] |  | X |  |  |  |

@@ -1,24 +1,24 @@
 ---
 title: について [!UICONTROL Deal ID Inbox]
-description: 詳しくは、 [!UICONTROL Deal ID inbox] 機能。 [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] ( [!DNL Rubicon]) をクリックします。
+description: 詳しくは、 [!UICONTROL Deal ID inbox] 機能を使用すると、 [!DNL FreeWheel], [!DNL Google Authorized Buyers] ( 旧称： [!DNL AdX]), and [!DNL Magnite DV+] ( 以前の [!DNL Rubicon]) をクリックします。
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd
-source-git-commit: 2539d9b8ec7de7202dd6c3400dda85aa133853e3
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
 
 # について [!UICONTROL Deal ID Inbox]
 
-DSP [!UICONTROL Deal ID inbox] では、サプライサイドプラットフォーム (SSP) を使用してAdvertising Cloud DSPからパブリッシャーから読み込んだ取引をすばやく設定できるので、各取引を手動で設定する必要がありません。 で既にパブリッシャーとネゴシエートした保証付きおよび保証なしのプライベートインベントリ取引を受け入れることができます。 [!DNL FreeWheel], [!DNL Google Authorized Buyers] ( 旧称： [!DNL AdX]) および [!DNL Magnite DV+] ( [!DNL Rubicon]) を [!UICONTROL Deal ID inbox].
+DSP [!UICONTROL Deal ID inbox] では、サプライサイドプラットフォーム (SSP) を通じてAdvertising Cloud DSPがパブリッシャーからインポートした契約をすばやく設定できるので、各契約を手動で設定する必要がありません。 既にパブリッシャーと交渉した保証付きの、保証されていない非保証のプライベートインベントリ取引を受け入れることができます。 [!DNL FreeWheel], [!DNL Google Authorized Buyers] ( 旧称： [!DNL AdX]) および [!DNL Magnite DV+] ( 以前の [!DNL Rubicon]) を [!UICONTROL Deal ID inbox].
 
 >[!NOTE]
 >
 >Advertising Cloud DSPは、 [!DNL FreeWheel] API
 
-の [!UICONTROL Deal ID inbox]を使用すると、パブリッシャーが表示した案件の詳細を確認し、案件の設定を迅速に行い、手動での入力エラーを回避できます。
+内 [!UICONTROL Deal ID inbox]を使用すると、パブリッシャーが契約を確認したときに契約の詳細を表示し、契約の設定を迅速化し、手動入力エラーを回避できます。
 
 <!-- 
 Accepting a deal automatically pre-populates a new Deal ID record with details from the publisher, and you need to enter only the publisher [always? or just in some cases?], the media type, who can access the deal, and any attribute labels to apply to the deal so it's easy to find. [Are labels a dimension you can report on?]
@@ -30,49 +30,49 @@ You can accept any available deal or move an incorrect deal to the Ignored Deals
 For each deal, you can select one publisher and one media type (Desktop Video, Mobile Video, Connected TV, Display, or Audio), and you can share the deal with specific advertisers and with all advertisers for a specific account.
  -->
 
-DSPは、米国東部標準時間の午前 4 時 30 分に、すべての取引の詳細を自動的に更新します。 また、すべての [!DNL FreeWheel] 既存の取引の詳細 [!DNL Google] および [!DNL Magnite DV+] 1 時間ごと また、取引の詳細を手動で更新して、新規取引をいつでも入力できます。
+DSPは、米国東部標準時の午前 4 時 30 分に、すべての契約の詳細を自動的に更新します。 また、すべての [!DNL FreeWheel] 既存の契約の契約と更新 [!DNL Google] および [!DNL Magnite DV+] 1 時間ごと。 また、契約の詳細を手動で更新して、新しい契約をいつでも作成できます。
 
 <!-- MC: I'm not sure where I got the following. Is this currently true? -->
 >[!NOTE]
 >
->を通じてプログラム的に保証された取引の場合 [!DNL Google Authorized Buyers]を使用している場合、予算の 90%以上を配信する必要があります。配信しないと、アカウントから [!DNL Google] 取引 [!UICONTROL Deal ID inbox].
+>を通じてプログラムで保証された取引の場合 [!DNL Google Authorized Buyers]を使用する場合、予算の 90%以上を配信する必要があります。配信しないと、アカウントが [!DNL Google] 契約 [!UICONTROL Deal ID inbox].
 
 ## の実装 [!UICONTROL Deal ID Inbox]
 
-お客様の [!UICONTROL Deal ID inbox]の場合、SSP アカウントは組織のDSPアカウントを SSP アカウントにマッピングする必要があります。 DSPは、組織のアカウント名を関連する SSP と共有します。 お問い合わせ [!DNL Adobe] アカウントマネージャーを参照してください。
+お客様の契約を [!UICONTROL Deal ID inbox]の場合、SSP アカウントは組織のDSPアカウントを SSP アカウントにマッピングする必要があります。 DSPは、組織のアカウント名を関連する SSP と共有します。 お問い合わせ [!DNL Adobe] アカウントチームを参照してください。
 
-取引ネゴシエーション中に、パブリッシャーに対して、親DSPアカウントではなく、購入者に取引を送信するように指示します。 取引 ID は、SSP に応じて、名前または ID になります。
+契約ネゴシエーション中に、親DSPアカウントではなく購入者に契約を送信するようにパブリッシャーに伝えます。 契約識別子は、SSP に応じて、名前または ID にすることができます。
 
-## お客様の取引に対して実行できるアクション
+## 契約に対して実行できるアクション
 
-* **取引のレビュー** SSP が正しい発行者、フライト日、CPM、その他の案件の詳細を送信したことを確認する。 パブリッシャーが間違いを犯した場合は、DSPの外部で問い合わせて、取引を修正し、再送できるようにします。
+* **契約のレビュー** SSP が正しい発行者、フライト日、CPM、その他の契約の詳細を送信したことを確認する。 パブリッシャーが誤った場合は、DSPの外部で問い合わせて、契約を修正し、再送信できるようにします。
 
-* **取引の承認** レビュー後、 [!UICONTROL Deal ID inbox]. 受け入れられた取引は、 [!UICONTROL Inventory] > [!UICONTROL Deals] およびは、広告主のプレースメント内でターゲット設定する準備が整っています。
+* **契約の承認** 確認後、これらは [!UICONTROL Deal ID inbox]. 受け入れられた契約は、 [!UICONTROL Inventory] > [!UICONTROL Deals] 広告主の配置内でターゲティングする準備が整っている。
 
-* **詳細を無視** 不要なものや、迷惑をかけているものを除き、 無視された取引は、 [!UICONTROL Ignored Deals] タブ内の [!UICONTROL Deal ID inbox]：アーカイブとして機能します。 オファーを無視した場合、DSPは SSP および発行者にアラートを出しません。
+* **契約を無視** 不要なものや迷惑をかけているものを除き、 無視された契約は、 [!UICONTROL Ignored Deals] タブ内の [!UICONTROL Deal ID inbox]：アーカイブとして機能します。 契約を無視した場合、DSPは SSP および発行者に警告しません。
 
-* **既に受け入れられた取引の詳細を変更** から [!UICONTROL Inventory] > [!UICONTROL Deals] ( [!UICONTROL Deal ID inbox]) をクリックします。 同様に、パブリッシャーが掘り出し物に変更を送信する場合、広告主は、 [!UICONTROL Inventory] > [!UICONTROL Deals] なぜなら [!UICONTROL Deal ID inbox] では、詳細の設定後に SSP からの変更は同期されません。
+* **既に承諾済みの契約の詳細を変更** から [!UICONTROL Inventory] > [!UICONTROL Deals] ( [!UICONTROL Deal ID inbox]) をクリックします。 同様に、パブリッシャーが契約に変更を送信する場合、広告主は、 [!UICONTROL Inventory] > [!UICONTROL Deals] なぜなら [!UICONTROL Deal ID inbox] は、契約の設定後に SSP からの変更を同期しません。
 
-## 受け入れられない取引の種類
+## 受け入れられない契約のタイプは何ですか？
 
-取引リストに ![確定](/help/dsp/assets/accept.png) アイコンまたは [!UICONTROL Accept] ボタンをクリックすると、 [!UICONTROL Deal ID inbox]. 代わりに、 [取引 ID の詳細を手動で作成する](/help/dsp/inventory/deal-id-create.md).
+契約リストに ![確定](/help/dsp/assets/accept.png) アイコンまたは [!UICONTROL Accept] ボタンをクリックした場合、 [!UICONTROL Deal ID inbox]. 代わりに、 [契約 ID の詳細を手動で作成する](/help/dsp/inventory/deal-id-create.md).
 
-次の種類の取引は受け入れられません。
+次の種類の契約は受け入れられません。
 
-* [!DNL Google] 米ドルではない取引。
+* [!DNL Google] の契約です。
 
 * [!DNL Magnite DV+] 米ドル以外の取引
 
-* [!DNL FreeWheel] 取引先企業の口座通貨ではない取引先企業。
+* [!DNL FreeWheel] 取引先責任者の口座通貨に含まれていない取引先責任者。
 
-* 今日より前に終了日を持つ取引。
+* 今日より前の終了日を持つ契約。
 
-* 古い [!DNL Magnite DV+] 「複数のメディアタイプ」とラベル付けされた取引
+* 古い [!DNL Magnite DV+] 「複数のメディアタイプ」というラベルの付いた契約。
 
-取引の詳細には、取引を受け入れられない理由が含まれます。
+契約の詳細には、契約を承認できない理由が含まれます。
 
 >[!MORELIKETHIS]
 >
->* [Deal ID インボックスでの Deal の承認](deal-id-inbox-accept.md)
+>* [Deal ID インボックスでの契約の承認](deal-id-inbox-accept.md)
 >* [在庫機能の概要](inventory-overview.md)
 

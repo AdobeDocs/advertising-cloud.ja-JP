@@ -3,9 +3,9 @@ title: 実装の前提条件と主な情報 [!DNL Analytics for Advertising Clou
 description: 実装の前提条件と主な情報 [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
-source-git-commit: d4d743ade0e2dad2b967b8316ff2261d0a82d5b0
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '845'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ Advertising Cloud実装チームに以下の情報を提供します。
 
 ## Advertising Cloudでのデータ [!DNL Analytics]
 
-[!DNL Analytics] は、広告主のeVar永続化設定に従って、Analytics ヒット内にAdvertising Cloud ID(AMO ID) を設定します。この設定は、クリックスルーとビュースルーの両方に適用されます。 永続性設定は、Advertising Cloudのバックエンドで設定され、 [!DNL Adobe] アカウントマネージャーが変更できます。
+[!DNL Analytics] は、広告主のeVar永続化設定に従って、Analytics ヒット内にAdvertising Cloud ID(AMO ID) を設定します。この設定は、クリックスルーとビュースルーの両方に適用されます。 永続性設定は、Advertising Cloudのバックエンドで設定され、 [!DNL Adobe] アカウントチームが変更できます。
 
 * [!DNL Analytics for Advertising Cloud] eVarの有効期限：AMO ID のデフォルトで 60 日間
 
@@ -77,7 +77,7 @@ Advertising Cloud実装チームに以下の情報を提供します。
 * オンラインビデオ
 * ネイティブ
 
-お問い合わせ [!DNL Adobe] 各チャネルでサポートされる最新の広告環境のアカウントマネージャー。
+お問い合わせ [!DNL Adobe] 各チャネルでサポートされる最新の広告環境については、アカウントチームにお問い合わせください。
 
 ## 導入の前に知っておくべきこと
 

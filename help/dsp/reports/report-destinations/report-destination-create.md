@@ -2,13 +2,13 @@
 title: レポートの宛先の作成
 description: カスタムレポートの配信先を作成する方法を説明します。
 feature: DSP Custom Reports
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 33c58a98-a7d3-4d05-99e7-5e55ba3e625a
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 2%
 
 ---
-
 
 # レポートの宛先の作成
 
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
-> レポートが任意のタイプの FTP に配信するように設定されている場合、または [!DNL Amazon S3] の場所にある場合、エラーが原因でレポートがキャンセルされた場合は通知を受け取りません。 期待するレポートが届かない場合は、 [!DNL Adobe] アカウントマネージャーに問い合わせてください。
+> レポートが任意のタイプの FTP に配信するように設定されている場合、または [!DNL Amazon S3] の場所にある場合、エラーが原因でレポートがキャンセルされた場合は通知を受け取りません。 期待するレポートが届かない場合は、 [!DNL Adobe] アカウントチームに問い合わせてください。
 
 >[!MORELIKETHIS]
 >

@@ -1,22 +1,22 @@
 ---
-title: 消費者向けオプトアウトオブセールレポートの取得
+title: 消費者オプトアウトオブセールレポートの取得
 description: 販売オプトアウトリクエスト用に送信された ID のレポートを取得する方法を説明します。
 feature: CCPA, DSP Segments
 exl-id: 8ada787a-6dcf-455b-88f4-701743e68292
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-# 消費者向けオプトアウトオブセールレポートの取得
+# 消費者オプトアウトオブセールレポートの取得
 
-顧客がアカウントのオプトアウトオブセールのリクエストのために送信した ID の月別レポートを取得できます。 過去 3 か月間に作成されたレポートを取得できます。 各リンクは 7 日間有効ですが、お客様がリンクを取得しようとするたびに更新されます。
+アカウントのオプトアウトオブセールのリクエスト用に顧客が送信した ID の月別レポートを取得できます。 過去 3 か月間に作成されたレポートを取得できます。 各リンクは 7 日間有効ですが、顧客がリンクを取得しようとするたびに更新されます。
 
 >[!NOTE]
 >
->オプションで、Advertising Cloud [!DNL Trafficking API]. 手順については、 [!DNL Trafficking API]. 組織が [!DNL Trafficking API] しかし、より多くの情報に興味がある場合は、 [!DNL Adobe] アカウントマネージャー
+>オプションで、Advertising Cloudを使用して消費者のオプトアウトオブセールレポートを取得できます [!DNL Trafficking API]. 手順については、 [!DNL Trafficking API]. 組織が [!DNL Trafficking API] しかし、詳細に興味がある場合は、 [!DNL Adobe] アカウントチーム。
 
 1. メインメニューで、 **[!UICONTROL Audiences]>[!UICONTROL Segments]**.
 1. セグメントリストの上にある **[!UICONTROL Access CCPA Reports]**.
