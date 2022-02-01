@@ -2,9 +2,10 @@
 title: プライベート契約のプレースメントと広告のリスト
 description: 個人契約に関連付けられたプレースメントと広告のリストを開く方法を説明します。
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
-source-git-commit: 22f5d8279fadfcf79e2cd41566321f423d63eb16
+exl-id: b7962e2f-933e-4563-b42c-27f5ef3c77e0
+source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---

@@ -2,7 +2,8 @@
 title: 契約 ID へのアクセス権を持つアカウントの編集
 description: 異なるアカウントとの契約 ID の共有を共有および停止する方法について説明します。
 feature: DSP Private Inventory, DSP Deal IDs
-source-git-commit: 22f5d8279fadfcf79e2cd41566321f423d63eb16
+exl-id: 5ddd406d-1ee5-4d13-8e12-be575cbb7551
+source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%

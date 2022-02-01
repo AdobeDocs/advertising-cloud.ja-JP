@@ -2,7 +2,8 @@
 title: 契約 ID へのアクセス権を持つ広告主の編集
 description: どの広告主が契約 ID にアクセスできるかを指定する方法を説明します。
 feature: DSP Private Inventory, DSP Deal IDs
-source-git-commit: 22f5d8279fadfcf79e2cd41566321f423d63eb16
+exl-id: 6efbc5dc-90d8-46a5-88fe-218990c6336d
+source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -27,5 +28,4 @@ ht-degree: 0%
 >* [プライベート在庫について](private-inventory-about.md)
 >* [契約 ID へのアクセス権を持つアカウントの編集](/help/dsp/inventory/deal-id-share.md)
 >* [手動の Deal ID 設定](deal-id-settings.md)
-
 
