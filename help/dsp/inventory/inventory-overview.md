@@ -3,7 +3,7 @@ title: Advertising Cloud DSPの在庫機能の概要
 description: 使用可能な在庫機能について説明します。
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
-source-git-commit: 877771cbd3a8e0668add8da15bc2abe02ab4380b
+source-git-commit: 3039557f4929b716d86840cd3cb4a5aa54125145
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -20,7 +20,7 @@ DSPで在庫契約にアクセスしたり、特定したりしたら、それ�
 
 * **[!DNL On Demand]在庫：** Adobeがプレミアムパブリッシャーパートナーとキュレーションした、事前にネゴシエートされた、保証されていない契約を調べます。
 
-* **プライベート在庫：** パブリッシャーと直接 1:1 でネゴシエートしたプライベートマーケットプレイス契約 (PMP) を設定および管理します。
+* **プライベート在庫 [!DNL Deal IDs]:** パブリッシャーと直接 1:1 でネゴシエートしたプライベートマーケットプレイス契約 (PMP) を設定および管理します。
 
 * **[!DNL Simple Ad Serving]:** 合理化されたテクノロジーを使用して、保証された、決定されない広告配信と、パブリッシャーが取引 ID を介して契約を実行できない場合にレポートを作成できます。
 

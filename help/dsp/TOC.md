@@ -8,7 +8,7 @@ user-guide-title: Advertising Cloud DSP ガイド
 user-guide-description: Advertising Cloud DSPを使用してディスプレイ広告戦略を管理、最適化、およびレポートするために必要な主な機能、タスク、設定、その他のリソースについて説明します。
 breadcrumb-title: DSP ガイド
 index: true
-source-git-commit: cf08c97a6a9fecd637f1776b186a18a5c5cc6435
+source-git-commit: c44113736f472c4971729403835a61ed6e07b47f
 workflow-type: tm+mt
 source-wordcount: '845'
 ht-degree: 2%
@@ -168,19 +168,19 @@ ht-degree: 2%
             + [プログラム的に保証された契約の広告をに送信する [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
             + [次の広告のステータスの確認 [!DNL FreeWheel] プログラム的に保証された取引](/help/dsp/inventory/freewheel-check-status.md)
             + [FreeWheel 広告送信のエラーコード](/help/dsp/inventory/freewheel-error-codes.md)
-      + [Deal ID 設定の編集](/help/dsp/inventory/deal-id-edit.md)
-      + [契約 ID のプレースメントと広告の指定](/help/dsp/inventory/deal-id-attach-placements.md)
-      + [契約 ID へのアクセス権を持つアカウントの編集](/help/dsp/inventory/deal-id-share.md)
-      + [契約 ID へのアクセス権を持つ広告主の編集](/help/dsp/inventory/deal-id-edit-advertisers.md)
-      + [契約 ID の属性タグの編集](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
-      + [プライベート契約のプレースメントと広告のリスト](/help/dsp/inventory/private-deal-view-placements.md)
-      + [個人契約に関する詳細レポートの表示](/help/dsp/inventory/private-deal-view-report.md)
-      + [非公開契約のアーカイブまたはアーカイブ解除](/help/dsp/inventory/private-deal-archive-unarchive.md)
+         + [Deal ID 設定の編集](/help/dsp/inventory/deal-id-edit.md)
+         + [契約 ID のプレースメントと広告の指定](/help/dsp/inventory/deal-id-attach-placements.md)
+         + [契約 ID へのアクセス権を持つアカウントの編集](/help/dsp/inventory/deal-id-share.md)
+         + [契約 ID へのアクセス権を持つ広告主の編集](/help/dsp/inventory/deal-id-edit-advertisers.md)
+         + [契約 ID の属性タグの編集](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
       + [!UICONTROL Simple Ad Serving] 契約 {#sas}
          + [について [!UICONTROL Simple Ad Serving]](/help/dsp/inventory/simple-deal-about.md)
          + [の作成 [!UICONTROL Simple Ad Serving] 契約](/help/dsp/inventory/simple-deal-create.md)
          + [[!UICONTROL Simple Ad Serving] 契約設定](/help/dsp/inventory/simple-deal-settings.md)
          + [イベント追跡ピクセルの表示 [!UICONTROL Simple Ad Serving] 契約](/help/dsp/inventory/simple-deal-show-pixels.md)
+      + [プライベート契約のプレースメントと広告のリスト](/help/dsp/inventory/private-deal-view-placements.md)
+      + [個人契約に関する詳細レポートの表示](/help/dsp/inventory/private-deal-view-report.md)
+      + [非公開契約のアーカイブまたはアーカイブ解除](/help/dsp/inventory/private-deal-archive-unarchive.md)
 + カスタムレポート {#custom-reports}
    + [カスタムレポートについて](/help/dsp/reports/report-about.md)
    + [カスタムレポートの作成](/help/dsp/reports/report-create.md)
