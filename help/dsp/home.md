@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: b4d8b30ca4563b3b0d2ea1b03b8ef5f2810964a2
+source-git-commit: 3a4f9bf2d2889acde67a10ab0b5895a2c1024b56
 workflow-type: tm+mt
-source-wordcount: '1474'
+source-wordcount: '1481'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 | 日付 | 機能 | 説明 | 詳細情報 |
 | ---- | ------- | ----------- | -------------------- |
-| 2022 年 2 月 18 日 | ビデオチュートリアル | 「標準のディスプレイ配置の作成方法」に関する新しいビデオが利用できます。 | 詳しくは、 [Advertising CloudTutorials](https://video.tv.adobe.com/v/340454). |
+| 2022 年 2 月 18 日 | ビデオチュートリアル | 「標準のディスプレイ配置の作成方法」に関する新しいビデオが利用できます。 | 詳しくは、 [Advertising CloudTutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html). |
 | 2022 年 1 月 31 日 | ヘルプ | に関する追加情報 [!DNL Deal IDs] および [!DNL Simple Ad Serving] が利用できるようになりました。 | 在庫/プライベート在庫のサブチャプターを参照してください。 |
 | 2021 年 12 月 10 日 | ビデオチュートリアル | 新しいビデオチュートリアルを利用できます。「Advertising Cloud DSPの概要」、「アカウント構造とユーザーインターフェイス」、「パッケージの作成方法」、「サードパーティの広告タグを一括アップロードする方法」、「一括編集ツールを使用した配置の編集方法」。 | 参照：[Advertising CloudTutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/overview.html).&quot; |
 | 2021 年 11 月 13 日 | [!UICONTROL Deal IDs] | 内 [!UICONTROL Deal ID] 設定， &quot;[!DNL Rubicon]」が「[!DNL Magnite DV+],&quot;ここで [!DNL DV+] は、ディスプレイ、ビデオ、およびオーディオなどの他の形式を表します。 これは、 [!DNL Magnite] SSP。 **注意：** [!DNL Magnite DV+] は、「[!DNL Rubicon]」 [!UICONTROL Deal ID Inbox]. | 参照：[SSP パートナー](/help/dsp/inventory/ssp-partners.md).&quot; |
