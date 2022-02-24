@@ -1,35 +1,35 @@
 ---
-title: '[!DNL On Demand] アジア太平洋のプレミアムインベントリパブリッシャー'
-description: 'アジア太平洋地域の有料のインベントリパブリッシャーを参照してください。 [!DNL On Demand] '
+title: '"[!DNL On Demand] アジア太平洋地域のプレミアムインベントリ発行者»'
+description: 利用可能な [!DNL On Demand] アジア太平洋地域のプレミアム在庫発行者。
 feature: DSP On Demand Inventory
 exl-id: dda5f9fb-2efb-475b-9219-dfa6294f3e01
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 2c94b6c02b4e24878639dd9edbc0455e1751f679
 workflow-type: tm+mt
 source-wordcount: '448'
 ht-degree: 0%
 
 ---
 
-# [!DNL On Demand] アジア太平洋のプレミアムインベントリパブリッシャー{#on-demand-inventory-publishers-apac}
+# [!DNL On Demand] アジア太平洋地域の Premium Inventory Publishers{#on-demand-inventory-publishers-apac}
 
 <!-- get from Amanda Cabrera <acabrera@adobe.com> -->
 
-| 投稿者 | 地域 |
+| 発行者 | 地域 |
 |-----------------------------|---------------|
-| [!DNL BBC] | 大中国 |
-| [!DNL Bloomberg] | 大中国 |
-| [!DNL CBS Interactive] | 大中国 |
-| [!DNL CNN International] | 大中国 |
-| [!DNL Conde Nast] | 大中国 |
-| [!DNL EA] | 大中国 |
-| [!DNL Gameloft] | 大中国 |
-| [!DNL MSN] | 大中国 |
-| [!DNL Tripadvisor] | 大中国 |
-| [!DNL U.S. News] | 大中国 |
-| [!DNL UDN] | 大中国 |
-| [!DNL Vidol.tv] | 大中国 |
-| [!DNL Vungle] | 大中国 |
-| [!DNL Yahoo! Taiwan] | 大中国 |
+| [!DNL BBC] | 中国大 |
+| [!DNL Bloomberg] | 中国大 |
+| [!DNL CBS Interactive] | 中国大 |
+| [!DNL CNN International] | 中国大 |
+| [!DNL Conde Nast] | 中国大 |
+| [!DNL EA] | 中国大 |
+| [!DNL Gameloft] | 中国大 |
+| [!DNL MSN] | 中国大 |
+| [!DNL Tripadvisor] | 中国大 |
+| [!DNL U.S. News] | 中国大 |
+| [!DNL UDN] | 中国大 |
+| [!DNL Vidol.tv] | 中国大 |
+| [!DNL Vungle] | 中国大 |
+| [!DNL Yahoo! Taiwan] | 中国大 |
 | [!DNL BBC] | 香港 |
 | [!DNL Bloomberg] | 香港 |
 | [!DNL CBS Interactive] | 香港 |
@@ -371,9 +371,9 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ [!DNL On Demand] AboutPremiumインベントリ](on-demand-inventory-about.md)
->* [Premiumインベントリの購読とア [!DNL On Demand] クセス要求](on-demand-inventory-subscribe.md)
->* [[!DNL On Demand] オーストラリアとニュージーランドのプレミアムインベントリパブリッシャー](on-demand-inventory-publishers-anz.md)
->* [[!DNL On Demand] ヨーロッパ、中東、アフリカのプレミアムインベントリ発行者](on-demand-inventory-publishers-emea.md)
->* [[!DNL On Demand Premium] 北米の在庫パブリッシャー](on-demand-inventory-publishers-na.md)
+>* [について [!DNL On Demand] プレミアム在庫](on-demand-inventory-about.md)
+>* [購読してへのアクセスをリクエスト [!DNL On Demand] プレミアム在庫](on-demand-inventory-subscribe.md)
+>* [[!DNL On Demand] オーストラリアとニュージーランドの Premium Inventory Publishers](on-demand-inventory-publishers-anz.md)
+>* [[!DNL On Demand] ヨーロッパ、中東、アフリカの Premium Inventory Publishers](on-demand-inventory-publishers-emea.md)
+>* [[!DNL On Demand Premium] 北米の在庫発行者](on-demand-inventory-publishers-na.md)
 

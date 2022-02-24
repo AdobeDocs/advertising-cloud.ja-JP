@@ -1,20 +1,20 @@
 ---
-title: '[!DNL On Demand] ヨーロッパ、中東、アフリカのプレミアムインベントリ発行者'
-description: '[!DNL On Demand] ヨーロッパ、中東、アフリカのプレミアムインベントリ発行者'
+title: '"[!DNL On Demand] ヨーロッパ、中東、アフリカのプレミアムインベントリ出版社»'
+description: '"[!DNL On Demand] ヨーロッパ、中東、アフリカのプレミアムインベントリ出版社»'
 feature: DSP On Demand Inventory
 exl-id: e56fd637-fb01-4bc0-9125-aa6844eeccc4
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 2c94b6c02b4e24878639dd9edbc0455e1751f679
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
 
 ---
 
-# [!DNL On Demand] ヨーロッパ、中東、アフリカのプレミアムインベントリ発行者
+# [!DNL On Demand] ヨーロッパ、中東、アフリカの Premium Inventory Publishers
 
 <!-- get from Amanda Cabrera <acabrera@adobe.com> -->
 
-| 投稿者 | 地域 |
+| 発行者 | 地域 |
 |-------------------------|-------------|
 | [!DNL Aufeminin] | フランス |
 | [!DNL BBC] | フランス |
@@ -90,51 +90,51 @@ ht-degree: 0%
 | [!DNL Targetspot] | オランダ |
 | [!DNL U.S. News] | オランダ |
 | [!DNL USA Today] | オランダ |
-| [!DNL Aller SE] | ノルディス |
-| [!DNL BBC] | ノルディス |
-| [!DNL Bloomberg] | ノルディス |
-| [!DNL DailyMail] | ノルディス |
-| [!DNL eDreams Odigeo] | ノルディス |
-| [!DNL Future] | ノルディス |
-| [!DNL IDG Tech] | ノルディス |
-| [!DNL IP Belgium] | ノルディス |
-| [!DNL Key Mobile] | ノルディス |
-| [!DNL King] | ノルディス |
-| [!DNL Leeads] | ノルディス |
-| [!DNL Life of Svea] | ノルディス |
-| [!DNL NBC Universal] | ノルディス |
-| [!DNL Publicidad] | ノルディス |
-| [!DNL Skyscanner] | ノルディス |
-| [!DNL Tapjoy] | ノルディス |
-| [!DNL Targetspot] | ノルディス |
-| [!DNL TV2.DK] | ノルディス |
-| [!DNL U.S. News] | ノルディス |
-| [!DNL USA Today] | ノルディス |
-| [!DNL Vox Media] | ノルディス |
-| [!DNL Vungle] | ノルディス |
-| [!DNL BBC] | その他のEU |
-| [!DNL Bloomberg] | その他のEU |
-| [!DNL DailyMail] | その他のEU |
-| [!DNL ESI Media] | その他のEU |
-| [!DNL Future] | その他のEU |
-| [!DNL Gentside] | その他のEU |
-| [!DNL Goldbach] | その他のEU |
-| [!DNL IP Belgium] | その他のEU |
-| [!DNL KeyMobile] | その他のEU |
-| [!DNL King] | その他のEU |
-| [!DNL New York Times] | その他のEU |
-| [!DNL OhMyMag] | その他のEU |
-| [!DNL Publicidad] | その他のEU |
-| [!DNL SBS] | その他のEU |
-| [!DNL Skyscanner] | その他のEU |
-| [!DNL Snack Media] | その他のEU |
-| [!DNL Tapjoy] | その他のEU |
-| [!DNL Targetspot] | その他のEU |
-| [!DNL U.S. News] | その他のEU |
-| [!DNL United Internet Media] | その他のEU |
-| [!DNL USA Today] | その他のEU |
-| [!DNL Vox Media] | その他のEU |
-| [!DNL Vungle] | その他のEU |
+| [!DNL Aller SE] | 北欧 |
+| [!DNL BBC] | 北欧 |
+| [!DNL Bloomberg] | 北欧 |
+| [!DNL DailyMail] | 北欧 |
+| [!DNL eDreams Odigeo] | 北欧 |
+| [!DNL Future] | 北欧 |
+| [!DNL IDG Tech] | 北欧 |
+| [!DNL IP Belgium] | 北欧 |
+| [!DNL Key Mobile] | 北欧 |
+| [!DNL King] | 北欧 |
+| [!DNL Leeads] | 北欧 |
+| [!DNL Life of Svea] | 北欧 |
+| [!DNL NBC Universal] | 北欧 |
+| [!DNL Publicidad] | 北欧 |
+| [!DNL Skyscanner] | 北欧 |
+| [!DNL Tapjoy] | 北欧 |
+| [!DNL Targetspot] | 北欧 |
+| [!DNL TV2.DK] | 北欧 |
+| [!DNL U.S. News] | 北欧 |
+| [!DNL USA Today] | 北欧 |
+| [!DNL Vox Media] | 北欧 |
+| [!DNL Vungle] | 北欧 |
+| [!DNL BBC] | その他の EU |
+| [!DNL Bloomberg] | その他の EU |
+| [!DNL DailyMail] | その他の EU |
+| [!DNL ESI Media] | その他の EU |
+| [!DNL Future] | その他の EU |
+| [!DNL Gentside] | その他の EU |
+| [!DNL Goldbach] | その他の EU |
+| [!DNL IP Belgium] | その他の EU |
+| [!DNL KeyMobile] | その他の EU |
+| [!DNL King] | その他の EU |
+| [!DNL New York Times] | その他の EU |
+| [!DNL OhMyMag] | その他の EU |
+| [!DNL Publicidad] | その他の EU |
+| [!DNL SBS] | その他の EU |
+| [!DNL Skyscanner] | その他の EU |
+| [!DNL Snack Media] | その他の EU |
+| [!DNL Tapjoy] | その他の EU |
+| [!DNL Targetspot] | その他の EU |
+| [!DNL U.S. News] | その他の EU |
+| [!DNL United Internet Media] | その他の EU |
+| [!DNL USA Today] | その他の EU |
+| [!DNL Vox Media] | その他の EU |
+| [!DNL Vungle] | その他の EU |
 | [!DNL BBC] | ポルトガル |
 | [!DNL Bloomberg] | ポルトガル |
 | [!DNL DailyMail] | ポルトガル |
@@ -227,9 +227,9 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ [!DNL On Demand] AboutPremiumインベントリ](on-demand-inventory-about.md)
->* [Premiumインベントリの購読とア [!DNL On Demand] クセス要求](on-demand-inventory-subscribe.md)
->* [[!DNL On Demand] アジア太平洋のプレミアムインベントリパブリッシャー](on-demand-inventory-publishers-apac.md)
->* [[!DNL On Demand] オーストラリアとニュージーランドのプレミアムインベントリパブリッシャー](on-demand-inventory-publishers-anz.md)
->* [[!DNL On Demand] 北米のプレミアム在庫パブリッシャー](on-demand-inventory-publishers-na.md)
+>* [について [!DNL On Demand] プレミアム在庫](on-demand-inventory-about.md)
+>* [購読してへのアクセスをリクエスト [!DNL On Demand] プレミアム在庫](on-demand-inventory-subscribe.md)
+>* [[!DNL On Demand] アジア太平洋地域の Premium Inventory Publishers](on-demand-inventory-publishers-apac.md)
+>* [[!DNL On Demand] オーストラリアとニュージーランドの Premium Inventory Publishers](on-demand-inventory-publishers-anz.md)
+>* [[!DNL On Demand] 北米の Premium Inventory Publishers](on-demand-inventory-publishers-na.md)
 

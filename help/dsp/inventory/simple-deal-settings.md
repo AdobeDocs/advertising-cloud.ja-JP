@@ -1,8 +1,8 @@
 ---
-title: '[!UICONTROL Simple Ad Serving] 契約設定'
+title: '"[!UICONTROL Simple Ad Serving] 契約設定»'
 description: 使用可能な設定の詳細 [!UICONTROL Simple Ad Serving] 契約
 feature: DSP Simple Ad Serving
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 2c94b6c02b4e24878639dd9edbc0455e1751f679
 workflow-type: tm+mt
 source-wordcount: '474'
 ht-degree: 0%

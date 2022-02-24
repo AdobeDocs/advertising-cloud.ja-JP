@@ -1,20 +1,20 @@
 ---
-title: '[!DNL On Demand] 北米のプレミアム在庫パブリッシャー'
-description: 北米で利用可能な [!DNL On Demand] プレミアムインベントリパブリッシャーを参照してください。
+title: '"[!DNL On Demand] 北米のプレミアムインベントリパブリッシャー»'
+description: 利用可能な [!DNL On Demand] 北米のプレミアム在庫発行者。
 feature: DSP On Demand Inventory
 exl-id: 47136e55-aab9-4112-8317-1aafca0b1c49
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 2c94b6c02b4e24878639dd9edbc0455e1751f679
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-# [!DNL On Demand] 北米のプレミアム在庫パブリッシャー
+# [!DNL On Demand] 北米の Premium Inventory Publishers
 
 <!-- get from Amanda Cabrera <acabrera@adobe.com> -->
 
-| 投稿者 | 地域 |
+| 発行者 | 地域 |
 |---------------------------------------------|--------|
 | [!DNL AccuRadio] | カナダ |
 | [!DNL BBC] | カナダ |
@@ -30,7 +30,7 @@ ht-degree: 0%
 | [!DNL Cue Digital Media] | カナダ |
 | [!DNL DAX] | カナダ |
 | [!DNL DAZN] ([!DNL Perform Media]) | カナダ |
-| [!DNL Dotdash] (以前の [!DNL About.com]) | カナダ |
+| [!DNL Dotdash] ( 以前の [!DNL About.com]) | カナダ |
 | [!DNL EA] | カナダ |
 | [!DNL evite] | カナダ |
 | [!DNL Expedia] | カナダ |
@@ -76,7 +76,7 @@ ht-degree: 0%
 | [!DNL BBC] | U.S. |
 | [!DNL Billboard] | U.S. |
 | [!DNL Bloomberg] | U.S. |
-| [!DNL Broadcasters on Hulu] ([!DNL Discovery]、  [!DNL NBC Universal]、  [!DNL FOX]) | U.S. |
+| [!DNL Broadcasters on Hulu] ([!DNL Discovery], [!DNL NBC Universal], [!DNL FOX]) | U.S. |
 | [!DNL Business Insider] | U.S. |
 | [!DNL Buzzfeed] | U.S. |
 | [!DNL CBS Interactive] | U.S. |
@@ -90,7 +90,7 @@ ht-degree: 0%
 | [!DNL DAZN] ([!DNL Perform Media]) | U.S. |
 | [!DNL Discovery] | U.S. |
 | [!DNL Disney Digital Network] | U.S. |
-| [!DNL Dotdash] (以前の [!DNL About.com]) | U.S. |
+| [!DNL Dotdash] ( 以前の [!DNL About.com]) | U.S. |
 | [!DNL EA] | U.S. |
 | [!DNL ebay] | U.S. |
 | [!DNL ESI Media] | U.S. |
@@ -177,9 +177,9 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ [!DNL On Demand] AboutPremiumインベントリ](on-demand-inventory-about.md)
->* [Premiumインベントリの購読とア [!DNL On Demand] クセス要求](on-demand-inventory-subscribe.md)
->* [[!DNL On Demand] アジア太平洋のプレミアムインベントリパブリッシャー](on-demand-inventory-publishers-apac.md)
->* [[!DNL On Demand] オーストラリアとニュージーランドのプレミアムインベントリパブリッシャー](on-demand-inventory-publishers-anz.md)
->* [[!DNL On Demand] ヨーロッパ、中東、アフリカのプレミアムインベントリ発行者](on-demand-inventory-publishers-emea.md)
+>* [について [!DNL On Demand] プレミアム在庫](on-demand-inventory-about.md)
+>* [購読してへのアクセスをリクエスト [!DNL On Demand] プレミアム在庫](on-demand-inventory-subscribe.md)
+>* [[!DNL On Demand] アジア太平洋地域の Premium Inventory Publishers](on-demand-inventory-publishers-apac.md)
+>* [[!DNL On Demand] オーストラリアとニュージーランドの Premium Inventory Publishers](on-demand-inventory-publishers-anz.md)
+>* [[!DNL On Demand] ヨーロッパ、中東、アフリカの Premium Inventory Publishers](on-demand-inventory-publishers-emea.md)
 
