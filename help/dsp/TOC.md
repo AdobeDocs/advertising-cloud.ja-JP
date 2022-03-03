@@ -5,13 +5,13 @@ cloud: Experience Cloud
 solution: Advertising Cloud
 product: advertising cloud
 user-guide-title: Advertising Cloud DSP ガイド
-user-guide-description: Advertising Cloud DSPを使用してディスプレイ広告戦略を管理、最適化、およびレポートするために必要な主な機能、タスク、設定、その他のリソースについて説明します。
+user-guide-description: Advertising Cloud DSP を使用してディスプレイ広告戦略を管理、最適化およびレポートするために必要な主要機能、タスク、設定およびその他のリソースについて学習します。
 breadcrumb-title: DSP ガイド
 index: true
-source-git-commit: c44113736f472c4971729403835a61ed6e07b47f
+source-git-commit: 18ae0e34f518e58f045c123cfe75f65b12b46fb7
 workflow-type: tm+mt
-source-wordcount: '845'
-ht-degree: 2%
+source-wordcount: '864'
+ht-degree: 6%
 
 ---
 
@@ -197,8 +197,14 @@ ht-degree: 2%
       + [の削除 [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
       + [[!UICONTROL Report Destination] 設定](/help/dsp/reports/report-destinations/report-destination-settings.md)
 + 管理 {#admin}
-   + [アカウントレベルおよび広告主レベルのブロック済みサイトリストについて](/help/dsp/admin/blocked-sites-list-about.md)
-   + [アカウントレベルまたは広告主レベルのブロック済みサイトリストの編集](/help/dsp/admin/blocked-sites-list-edit.md)
-+ [Adobe Experience Cloudとの統合](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
+   + [プロファイルを編集](/help/dsp/admin/user-own-profile-edit.md)
+   + ユーザー {#users}
+      + [新しいユーザーの招待](/help/dsp/admin/user-invite.md)
+      + [保留中のユーザーの招待状の再送信](/help/dsp/admin/user-resend-invite.md)
+      + [保留中のユーザーの招待解除](/help/dsp/admin/user-uninvite.md)
+   + ブロック済みサイト {#sites}
+      + [アカウントレベルおよび広告主レベルのブロック済みサイトリストについて](/help/dsp/admin/blocked-sites-list-about.md)
+      + [アカウントレベルまたは広告主レベルのブロック済みサイトリストの編集](/help/dsp/admin/blocked-sites-list-edit.md)
++ [Adobe Experience Cloud との統合](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
 + [カスタマーサポート](https://helpx.adobe.com/jp/contact/enterprise-support.ec.html)
 + [Adobe Experience Cloud のリリースノート](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
