@@ -1,7 +1,7 @@
 ---
 title: 保留中のユーザーの招待解除
 description: 保留中のユーザーの招待を取り消す方法を説明します。
-source-git-commit: 93006a63b5d0298d9bd866c2ffd79da67ef11811
+source-git-commit: baa351de79532352f28d2dc5691c2e425a8e3207
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
@@ -17,6 +17,7 @@ ht-degree: 0%
 1. 次のいずれかの操作を行います。
 
    * メインメニューで、 **[!UICONTROL Settings]>[!UICONTROL Users]**.
+
    * メインメニューで、 **[!UICONTROL Settings]>[!UICONTROL Account]**&#x200B;をクリックし、 **[!UICONTROL Edit users]**.
 
 1. 内 **[!UICONTROL Invitations]** セクションで、 **[!UICONTROL X]** をクリックします。
