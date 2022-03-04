@@ -1,9 +1,9 @@
 ---
 title: 保留中のユーザーの招待解除
 description: 保留中のユーザーの招待を取り消す方法を説明します。
-source-git-commit: baa351de79532352f28d2dc5691c2e425a8e3207
+source-git-commit: 315fd6189e1805f9f1f4184cc0aa47d12740616a
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [組織アカウントへの新しいユーザーの招待](user-invite.md)
->* [組織アカウントの保留中のユーザー招待の再送信](user-resend-invite.md)
+>* [保留中のユーザーの招待状の再送信](user-resend-invite.md)
 
 
 <!-- >* [Edit User Permissions or Delete a User](user-edit.md) -->

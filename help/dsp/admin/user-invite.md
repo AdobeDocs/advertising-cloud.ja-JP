@@ -1,9 +1,9 @@
 ---
 title: 組織アカウントへの新しいユーザーの招待
 description: 新しいユーザーを招待してアカウントに参加させる方法を説明します。
-source-git-commit: 65d5b9275b24d66972f464a07d6e1a751721ada2
+source-git-commit: cd1ded08b07735cb3e156ec401e3ea1a920183d3
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [組織アカウントの保留中のユーザー招待の再送信](user-resend-invite.md)
+>* [保留中のユーザーの招待状の再送信](user-resend-invite.md)
 >* [保留中のユーザーの招待解除](user-uninvite.md)
 
 
