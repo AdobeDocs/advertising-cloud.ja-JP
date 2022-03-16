@@ -1,11 +1,11 @@
 ---
-title: の作成 [!UICONTROL Simple Ad Serving] 契約
+title: について [!UICONTROL Simple Ad Serving]
 description: 詳細 [!UICONTROL Simple Ad Serving] は、イベント追跡ピクセルを使用します。
 feature: DSP Simple Ad Serving
 exl-id: d65d1d8e-4d10-4d1d-86d3-f4457c29ae8d
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: 05578e9252f0eec6dd4e003d317742007edb3351
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 [!UICONTROL Simple Ad Serving] は、1 つの専用の配置を使用して、指定したパブリッシャーと単一の広告タイプに対して、決定されない保証された広告配信およびレポートを提供します。 用途 [!DNL Simple Ad Serving] パブリッシャーが deal ID を使用して契約を実行できない場合に発生します。 すべてのターゲティング、予算のペーシングと上限、頻度キャップは、投稿者が処理します。 イベント追跡ピクセルを使用して、これらの取引を実行します。
 
-を使用 [!UICONTROL Simple Ad Serving]各広告はパブリッシャー（サイト提供）によって直接提供され、DSPは、ピクセルを実装しDSP広告をトラフィックする必要があるパブリッシャーに送信するイベントトラッキングピクセルを提供します。 インベントリタイプに応じて、イベントピクセルはインプレッション、クリックスルー、ビデオ再生の各イベントを測定します。
+を使用 [!UICONTROL Simple Ad Serving]各広告はパブリッシャー（サイト提供）によって直接提供され、DSPは、ピクセルを実装しDSP広告をトラフィックする必要があるパブリッシャーに送信するイベントトラッキングピクセルを提供します。 Depending on the inventory type, the event pixels measure impression, clickthrough, and video played events.
 
 次の広告タイプを使用できます。
 
