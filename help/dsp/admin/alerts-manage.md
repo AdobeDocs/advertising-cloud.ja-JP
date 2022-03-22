@@ -1,9 +1,9 @@
 ---
 title: アラート購読の管理
 description: 自動 E メールアラートを管理する方法を説明します。
-source-git-commit: 86987ec2c5d572b5328cb04fc7120609c6c79d26
+source-git-commit: 1cce72f4cd898034c7bf7bfeee8c5b37f43c0a59
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,9 @@ ht-degree: 0%
 
       設定は、アラートタイプによって異なります。
 
-   1. （オプション）すぐにアラートを実行するには、 **[!UICONTROL Alert immediately]**. デフォルトでは、アラートは実行されます <!-- at what time? -->.
+   1. （オプション）すぐにアラートを実行するには、 **[!UICONTROL Alert immediately]**. デフォルトでは、アラートはアカウントのタイムゾーンの 08:00 に実行されます。
 
    1. （オプション）購読にアラートを追加するには、 **[!UICONTROL Add Alert]** アラートを作成します。
-
-      <!-- You can add up to NN alerts per subscription. -->
-      <!-- You can add quite a few, many unlimited -->
 
 1. 内 **[!UICONTROL Add Subscriber Email Addresses]** [!DNL Analytics] フィールドで、アラートを受信する各メールアドレスを入力し、 **[!UICONTROL Enter]** キー。
 

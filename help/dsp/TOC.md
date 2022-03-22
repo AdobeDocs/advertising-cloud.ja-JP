@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP ガイド
 user-guide-description: Advertising Cloud DSP を使用してディスプレイ広告戦略を管理、最適化およびレポートするために必要な主要機能、タスク、設定およびその他のリソースについて学習します。
 breadcrumb-title: DSP ガイド
 index: true
-source-git-commit: 18ae0e34f518e58f045c123cfe75f65b12b46fb7
+source-git-commit: d4537714e884eb1ce1b62d4097b7ad6f30767edf
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '871'
 ht-degree: 6%
 
 ---
@@ -37,10 +37,10 @@ ht-degree: 6%
       + [Acceptable Health Segment Guidelines](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
       + [[!DNL DSP] データ使用のガイドライン](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
    + [高度な測定ソリューション](/help/dsp/introduction/advanced-measurement-services.md)
-+ キャンペーン管理 {#campaign-management}
-   + [キャンペーン管理構造の概要](/help/dsp/campaign-management/campaign-management-overview.md)
++ Campaign Management {#campaign-management}
+   + [Campaign Management構造の概要](/help/dsp/campaign-management/campaign-management-overview.md)
    + キャンペーン {#campaigns}
-      + [キャンペーン管理について](/help/dsp/campaign-management/campaigns/campaign-about.md)
+      + [Campaign Managementについて](/help/dsp/campaign-management/campaigns/campaign-about.md)
       + [キャンペーンの作成](/help/dsp/campaign-management/campaigns/campaign-create.md)
       + [キャンペーンの編集](/help/dsp/campaign-management/campaigns/campaign-edit.md)
       + [キャンペーンの複製](/help/dsp/campaign-management/campaigns/campaign-duplicate.md)
@@ -205,6 +205,9 @@ ht-degree: 6%
    + ブロック済みサイト {#sites}
       + [アカウントレベルおよび広告主レベルのブロック済みサイトリストについて](/help/dsp/admin/blocked-sites-list-about.md)
       + [アカウントレベルまたは広告主レベルのブロック済みサイトリストの編集](/help/dsp/admin/blocked-sites-list-edit.md)
+   + 通知 {#notifications}
+      + [アラート購読について](/help/dsp/admin/alerts-about.md)
+      + [アラート購読の管理](/help/dsp/admin/alerts-manage.md)
 + [Adobe Experience Cloud との統合](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
 + [カスタマーサポート](https://helpx.adobe.com/jp/contact/enterprise-support.ec.html)
 + [Adobe Experience Cloud のリリースノート](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
