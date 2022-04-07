@@ -1,10 +1,11 @@
 ---
-title: '"[!UICONTROL Simple Ad Serving] 契約設定»'
+title: '''[!UICONTROL Simple Ad Serving] 契約設定`'
 description: 使用可能な設定の詳細 [!UICONTROL Simple Ad Serving] 契約
 feature: DSP Simple Ad Serving
-source-git-commit: 2c94b6c02b4e24878639dd9edbc0455e1751f679
+exl-id: 1a8f215c-c52b-4099-a55f-99c4232b7a22
+source-git-commit: 3eb63e9d7161c354736ce53ee21518882c541884
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '471'
 ht-degree: 0%
 
 ---
@@ -33,7 +34,7 @@ ht-degree: 0%
 
 ### [!UICONTROL Select & Upload [Media Type]]
 
-（新しい広告のみ）新しい [ファーストパーティ広告](/help/dsp/campaign-management/ads/ad-create.md) または [サードパーティ広告](/help/dsp/campaign-management/ads/ad-create-third-party.md).
+（新しい広告のみ）新しい [サードパーティ広告](/help/dsp/campaign-management/ads/ad-create-multiple.md).
 
 ### [!UICONTROL Feed Details]
 

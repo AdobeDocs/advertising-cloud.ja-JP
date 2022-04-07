@@ -2,9 +2,9 @@
 title: パブリッシャー固有の広告仕様
 description: サポートされるパブリッシャーの広告仕様を参照します。
 feature: DSP Ads
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+source-git-commit: 3eb63e9d7161c354736ce53ee21518882c541884
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,6 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [広告管理について](ad-about.md)
->* [広告の作成](ad-create.md)
+>* [複数のサードパーティ広告の作成](ad-create-multiple.md)
 >* [広告の仕様](/help/dsp/assets/ad-specs.pdf)
 

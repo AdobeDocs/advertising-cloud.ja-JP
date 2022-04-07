@@ -1,28 +1,16 @@
 ---
-title: ネイティブ広告設定
-description: ネイティブ広告に使用できる広告設定の説明を参照してください。
+title: ネイティブディスプレイ広告設定
+description: ネイティブディスプレイ広告で使用可能な広告設定の説明を参照してください。
 feature: DSP Ads
 exl-id: 3ae59e63-ae64-41b2-8734-3df2da020c7c
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 68af6b1846a37689dce0ca13a05cc1611b1f35a9
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# ネイティブ広告設定
-
-## [!UICONTROL Upload or Select Creative]
-
-*新しいビデオ（ただし、表示は除く）広告のみ*
-
-**[!UICONTROL Upload Audio]:** 生のアセットをDSPにアップロードします。これを選択したら、次の操作を行います。
-
-1. **[!UICONTROL Choose File]**&#x200B;をクリックし、デバイスまたはネットワーク上でファイルを探します。
-1. [!UICONTROL Ads]ビューとレポートで使用するファイルのタイトルを入力します。
-1. クリック **[!UICONTROL Upload]**.
-
-**[!UICONTROL Use Existing Audio]:** アカウント内で、以前にアップロードしたクリエイティブを正しい形式で選択します。
+# ネイティブディスプレイ広告設定
 
 ## [!UICONTROL Ad Options]
 
@@ -30,50 +18,49 @@ ht-degree: 0%
 
 **[!UICONTROL Ad Type]:** （読み取り専用）作成する広告タイプ。広告を添付できる配置タイプに対応します。
 
-**[!UICONTROL Ad Name]:** 広告名。デフォルトでは、広告タイプ（表示ネイティブ）またはビデオタイトル（ビデオ形式）が使用されますが、名前は変更できます。
+**[!UICONTROL Ad Name]:** 広告名。 広告タイプはデフォルトで使用されますが、名前は変更できます。
 
 >[!TIP]
 >
-> 配置、[!UICONTROL Ads]ビューおよびレポートで広告を添付する際に見つけやすい名前を使用します。 例えば、単位タイプといくつかの主要属性（休日の製品プレビューなど）を説明します。15秒ネイティブ」)。
+> 広告をプレースメントに添付する際に見つけやすい名前を、 [!UICONTROL Ads] レポートで、およびを表示します。 たとえば、ユニット・タイプといくつかの主要属性（Holiday Product Preview など）を説明します。15 秒ネイティブ」)。
 
-**[!UICONTROL Native Creative]:** 1200 x 627の画像を使用して、モバイルインベントリでの配信を最大化します。ビデオ広告の場合、これはネイティブビデオが再生される前に表示される画像です。 **[!UICONTROL Browse]**&#x200B;をクリックし、デバイスまたはネットワーク上でファイルを探して、**[!UICONTROL Upload]**&#x200B;をクリックします。
+**[!UICONTROL Native Creative]:** 1200 x 627 の画像で、モバイルインベントリでの配信を最大化します。 クリック **[!UICONTROL Browse]** お使いのデバイスまたはネットワーク上でファイルを探し、 **[!UICONTROL Upload]**.
 
-**[!UICONTROL Title]:** 視聴者を引き付ける、目を引くタイトル。
+**[!UICONTROL Title]:** 視聴者を惹きつける目を引くタイトル。
 
-**[!UICONTROL Description]:** ビデオ広告の場合、広告の短い概要です。ディスプレイ広告の場合、これは広告の本文です。 最大長は100文字です。
+**[!UICONTROL Description]:** 広告の本文。 最大長は 100 文字です。
 
-**[!UICONTROL Landing Page]:** ビューアが広告をクリックしたときに表示されるURL。
+**[!UICONTROL Landing Page]:** ユーザーが広告をクリックしたときに閲覧者が到着した URL。
 
-**[!UICONTROL Final Landing Page]:** 必要な [!UICONTROL Landing Page] Advertising Cloud DSPトラッキングマクロ [が挿入](/help/dsp/campaign-management/macros.md) されたURL（該当する場合）。
+**[!UICONTROL Final Landing Page]:** この [!UICONTROL Landing Page] 必要な [Advertising Cloud DSPトラッキングマクロ](/help/dsp/campaign-management/macros.md) 挿入されています（該当する場合）。
 
 **[!UICONTROL Sponsored By (Advertiser Name)]:** 広告の広告主。
 
-**[!UICONTROL Call to Action]:** （オプション）この広告を表示した後に閲覧者が実行する手順。
+**[!UICONTROL Call to Action]:** （オプション）この広告が表示された後にビューアに実行させる手順です。
 
-**[!UICONTROL Advertiser Logo]:** （オプション）ブランド認知度を高めるため、広告に含める1:1の比率のロゴ。**[!UICONTROL Browse]**&#x200B;をクリックし、デバイスまたはネットワーク上でファイルを探して、**[!UICONTROL Upload]**&#x200B;をクリックします。
+**[!UICONTROL Advertiser Logo]:** （オプション）ブランド認識を高めるために、広告に含める 1:1 の比率のロゴ。 クリック **[!UICONTROL Browse]** お使いのデバイスまたはネットワーク上でファイルを探し、 **[!UICONTROL Upload]**.
 
 ### [!UICONTROL Pixel]
 
-配置の既存のイベントトラッキングピクセルは、すべて自動的に添付されます。 必要に応じて、既存のピクセルを分離し、トラッキングのニーズに応じて新しいピクセルを作成できます。
+配置の既存のイベントトラッキングピクセルはすべて自動的に添付されます。 個々の広告に対するトラッキングのニーズに応じて、必要に応じて、既存のピクセルを分離し、新しいピクセルを作成できます。
 
 作成または編集する各ピクセルには、次の設定が適用されます。
 
-**[!UICONTROL Integration Event]:** 実行するピクセルをトリガー化するイベント。この広告タイプでは、*[!UICONTROL Impression]*&#x200B;または&#x200B;*[!UICONTROL Click-through]*&#x200B;で実行されるピクセルを使用します。
+**[!UICONTROL Integration Event]:** 実行するピクセルをトリガーにするイベント。 この広告タイプでは、 *[!UICONTROL Impression]* または *[!UICONTROL Click-through]*.
 
-**[!UICONTROL Pixel Type]:** ピクセルが(1 x  *[!UICONTROL IMG URL]* 1ピクセルの画像ファイル)、またはの *[!UICONTROL HTML]*&#x200B;どちらであるか。 *[!UICONTROL JavaScript URL]*
+**[!UICONTROL Pixel Type]:** ピクセルが *[!UICONTROL IMG URL]* （1 x 1 ピクセルの画像ファイル）、 *[!UICONTROL HTML]*&#x200B;または *[!UICONTROL JavaScript URL]*.
 
-**[!UICONTROL Pixel URL or Code]:** ピクセル画像のURL（指定したに適した形式） [!UICONTROL Pixel Type]。
+**[!UICONTROL Pixel URL or Code]:** 指定した [!UICONTROL Pixel Type].
 
-**[!UICONTROL Pixel Name]:** ピクセル名。ピクセルを簡単に識別できる名前を使用します。
+**[!UICONTROL Pixel Name]:** ピクセル名。 ピクセルを簡単に識別できる名前を使用します。
 
-**[!UICONTROL Pixel Provider]:** ピクセルプロバイダー： *[!UICONTROL None]*、 *[!UICONTROL Nielsen]*&#x200B;または *[!UICONTROL Comscore]*。
+**[!UICONTROL Pixel Provider]:** ピクセルプロバイダー： *[!UICONTROL None]*, *[!UICONTROL Nielsen]*&#x200B;または *[!UICONTROL Comscore]*.
 
 >[!MORELIKETHIS]
 >
 >* [広告管理について](ad-about.md)
->* [広告の作成](ad-create.md)
->* [広告に関連付けられている配置のリスト](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [使用可能な広告タイプ](ad-types.md)
+>* [単一の広告の作成](ad-create.md)
+>* [広告に関連付けられた配置のリスト](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [広告の仕様](/help/dsp/assets/ad-specs.pdf)
 >* [Advertising Cloud DSPマクロ](/help/dsp/campaign-management/macros.md)
 

@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP ガイド
 user-guide-description: Advertising Cloud DSP を使用してディスプレイ広告戦略を管理、最適化およびレポートするために必要な主要機能、タスク、設定およびその他のリソースについて学習します。
 breadcrumb-title: DSP ガイド
 index: true
-source-git-commit: d4537714e884eb1ce1b62d4097b7ad6f30767edf
+source-git-commit: e77f70e414a1c8d2fe4937766ecddca9fdb6893e
 workflow-type: tm+mt
-source-wordcount: '871'
+source-wordcount: '859'
 ht-degree: 6%
 
 ---
@@ -37,10 +37,10 @@ ht-degree: 6%
       + [Acceptable Health Segment Guidelines](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
       + [[!DNL DSP] データ使用のガイドライン](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
    + [高度な測定ソリューション](/help/dsp/introduction/advanced-measurement-services.md)
-+ Campaign Management {#campaign-management}
++ キャンペーン管理 {#campaign-management}
    + [Campaign Management構造の概要](/help/dsp/campaign-management/campaign-management-overview.md)
    + キャンペーン {#campaigns}
-      + [Campaign Managementについて](/help/dsp/campaign-management/campaigns/campaign-about.md)
+      + [キャンペーン管理について](/help/dsp/campaign-management/campaigns/campaign-about.md)
       + [キャンペーンの作成](/help/dsp/campaign-management/campaigns/campaign-create.md)
       + [キャンペーンの編集](/help/dsp/campaign-management/campaigns/campaign-edit.md)
       + [キャンペーンの複製](/help/dsp/campaign-management/campaigns/campaign-duplicate.md)
@@ -70,27 +70,23 @@ ht-degree: 6%
       + [配置設定](/help/dsp/campaign-management/placements/placement-settings.md)
    + 広告 {#ads}
       + [広告管理について](/help/dsp/campaign-management/ads/ad-about.md)
-      + [利用可能な広告タイプ](/help/dsp/campaign-management/ads/ad-types.md)
-      + Advertising Cloudが提供する広告 {#advertising-cloud-served}
-         + [広告の作成](/help/dsp/campaign-management/ads/ad-create.md)
-         + 広告設定 {#ad-settings}
-            + [オーディオ広告設定](/help/dsp/campaign-management/ads/ad-settings-audio.md)
-            + [接続済み TV 設定](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
-            + [ディスプレイ広告の設定](/help/dsp/campaign-management/ads/ad-settings-display.md)
-            + [モバイル広告設定](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
-            + [ネイティブ広告設定](/help/dsp/campaign-management/ads/ad-settings-native.md)
-            + [プリロール広告の設定](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
-         + [オーバーレイのデザインのベストプラクティス](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
-      + サードパーティ広告の一括 {#bulk-third-party}
-         + [複数のサードパーティ広告の作成](/help/dsp/campaign-management/ads/ad-create-third-party.md)
-         + [で広告を作成 [!DNL Flashtalking]](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
-         + [認定広告配信パートナー](/help/dsp/campaign-management/ads/certified-ad-servers.md)
-      + [プレースメントへの広告の添付](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
+      + [認定広告配信パートナー](/help/dsp/campaign-management/ads/certified-ad-servers.md)
+      + [単一の広告の作成](/help/dsp/campaign-management/ads/ad-create.md)
+      + [複数のサードパーティ広告の作成](/help/dsp/campaign-management/ads/ad-create-multiple.md)
+      + [で広告を作成 [!DNL Flashtalking]](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
       + [広告の編集](/help/dsp/campaign-management/ads/ad-edit.md)
       + [広告の複製](/help/dsp/campaign-management/ads/ad-duplicate.md)
+      + [プレースメントへの広告の添付](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
       + [広告に関連付けられた配置のリスト](/help/dsp/campaign-management/ads/ad-list-placements.md)
       + [広告の詳細レポートの表示](/help/dsp/campaign-management/ads/ad-view-report.md)
       + [広告のアーカイブまたはアーカイブ解除](/help/dsp/campaign-management/ads/ad-archive-unarchive.md)
+      + 広告設定 {#ad-settings}
+         + [オーディオ広告設定](/help/dsp/campaign-management/ads/ad-settings-audio.md)
+         + [接続済み TV 設定](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+         + [ディスプレイ広告の設定](/help/dsp/campaign-management/ads/ad-settings-display.md)
+         + [モバイル広告設定](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+         + [ネイティブディスプレイ広告設定](/help/dsp/campaign-management/ads/ad-settings-native.md)
+         + [プリロール広告の設定](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
       + [サポートされる広告タイプの仕様](/help/dsp/assets/ad-specs.pdf)
    + キャンペーンレポート {#campaign-reports}
       + [プラットフォーム内レポートについて](/help/dsp/campaign-management/reports/campaign-reports-about.md)
@@ -112,7 +108,7 @@ ht-degree: 6%
       + [ダウンロード/アップロード済みスプレッドシートの列](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
    + [Advertising Cloud DSPマクロ](/help/dsp/campaign-management/macros.md)
    + [キーボードショートカット](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
-   + [キャンペーン管理に関する FAQ](/help/dsp/campaign-management/campaign-management-faq.md)
+   + [Campaign Managementに関する FAQ](/help/dsp/campaign-management/campaign-management-faq.md)
 + 最適化 {#optimization}
    + [方法 [!DNL DSP] キャンペーンの最適化](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
    + [最適化目標とその使用方法](/help/dsp/optimization/optimization-goals.md)

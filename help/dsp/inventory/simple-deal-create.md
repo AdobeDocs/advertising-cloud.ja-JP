@@ -3,9 +3,9 @@ title: '" [!UICONTROL Simple Ad Serving] 契約」'
 description: 「 [!UICONTROL Simple Ad Serving] 契約」
 feature: DSP Simple Ad Serving
 exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
-source-git-commit: 05578e9252f0eec6dd4e003d317742007edb3351
+source-git-commit: 3eb63e9d7161c354736ce53ee21518882c541884
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
          * 既存の広告の場合、使用する広告を選択します。
 
-         * 新しい広告の場合は、プロキシを作成します [ファーストパーティ広告](/help/dsp/campaign-management/ads/ad-create.md) または [サードパーティ広告](/help/dsp/campaign-management/ads/ad-create-third-party.md).
+         * 新しい広告の場合は、プロキシを作成します [サードパーティ広告](/help/dsp/campaign-management/ads/ad-create-multiple.md).
       >[!NOTE]
       > DSPは、指定した広告を実際には提供しません。 パブリッシャーは広告を提供します。
 

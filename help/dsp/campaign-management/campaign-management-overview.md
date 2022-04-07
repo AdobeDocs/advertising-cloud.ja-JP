@@ -1,16 +1,16 @@
 ---
-title: Advertising Cloud DSPのキャンペーン管理の概要
+title: Advertising Cloud DSPのCampaign Managementの概要
 description: キャンペーン管理の階層とコンポーネントについて説明します。
 feature: DSP Packages, DSP Placements, DSP Ads
 exl-id: c94e08d0-0dd5-4cf9-8df2-9eb4c591375c
-source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
+source-git-commit: d180b91f7bf5ae72a51e5335638a98c5fc4b4e86
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Advertising Cloud DSPのキャンペーン管理の概要
+# Advertising Cloud DSPのCampaign Managementの概要
 
 Advertising Cloud DSPキャンペーンの階層は次のとおりです。
 
@@ -18,9 +18,7 @@ Advertising Cloud DSPキャンペーンの階層は次のとおりです。
    * パッケージ
       * 配置
          * 広告
-            * クリエイティブ
 
-<!-- Add "Feature: DSP Creatives" once we have other topics on creatives; get Bob to update the feature list. -->
 <!-- Do clients think in terms of insertion orders? If yes, then work in the following info.:
 In Advertising Cloud DSP, an insertion order is represented as a campaign, and line items are represented as packages. Each package will include placements, which can use different strategies and tactics to deliver the line item requirements.
 -->
@@ -43,18 +41,11 @@ A [配置](/help/dsp/campaign-management/placements/placement-about.md) は、�
 
 ## [!UICONTROL Ads]
 
-[広告](/help/dsp/campaign-management/ads/ad-about.md) クリエイティブアセットとトラッキング URL を含めます。 クリエイティブアセットをアップロードすると、DSPでそれらを使用する広告が無料で提供されます。または、サードパーティの広告配信タグをアップロードできます。
+[広告](/help/dsp/campaign-management/ads/ad-about.md) クリエイティブアセットとトラッキング URL を含めます。 サードパーティの広告配信タグは、パートナータグシートまたは一括タグテンプレートを使用して、個別に、または一括でアップロードできます。 また、DSPで提供するネイティブディスプレイ広告を手動で作成することもできます。
 
 広告を設定したら、各広告をプレースメントに添付する必要があります。 1 つの広告を 1 つ以上のプレースメントに添付できます。
 
 アクティブなキャンペーン内のアクティブな配置にある、アクティブで承認済みの広告は、すべて、配置ターゲティングパラメーターに基づいて実行する資格があります。
-
-## [!UICONTROL Creatives]
-
-指定したキャンペーンの広告で使用するオーディオおよびビデオファイルをアップロードできます。
-<!-- add link to [About Creative Management](/help/dsp/campaign-management/creatives/creative-about.md) when it's available-->
-
-アップロードしたクリエイティブを使用して広告を直ちに作成することも、後で「クリエイティブ」ビューまたは「広告」ビューから広告を作成することもできます。
 
 >[!MORELIKETHIS]
 >
