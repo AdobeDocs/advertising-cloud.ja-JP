@@ -3,9 +3,9 @@ title: 実装の前提条件と主な情報 [!DNL Analytics for Advertising Clou
 description: 実装の前提条件と主な情報 [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 11a13816ccd2ef0c47efa615c54c0f7ce2f83734
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Advertising Cloud実装チームに以下の情報を提供します。
 * この [!DNL Analytics] 有料メディアアクティビティのレポートや、Advertising Cloudでの最適化とレポートのためのサイトアクティビティのフィードに使用されるレポートスイート ID です。
 * 会社のExperience Cloud組織 ID （組織 ID）。
 
-これらの ID はどちらも [Adobe Experience Cloud Debugger の概要画面](https://experienceleague.adobe.com/docs/debugger/using/run-debugger.html).
+これらの ID はどちらも [Adobe Experience Cloud Debugger の「概要」タブ](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html).
 
 ![Experience Cloud Debugger概要画面](/help/integrations/assets/a4adc-debugger-summary.png)
 
@@ -111,7 +111,7 @@ Advertising Cloud実装チームに以下の情報を提供します。
 
 正確なデータ統合のために、 [!DNL Analytics for Advertising Cloud] コンテンツを配信または目標指標を記録するアクティビティには、対応する [!DNL Analytics] 同じ追加の ID を共有するヒット。
 
-を使用して [!DNL Analytics]に設定する場合は、 [!DNL Analytics] ヒット数。 内 [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html)の場合、この ID は「 Advertising Cloud 」タブで `sdid` パラメーター。
+を使用して [!DNL Analytics]に設定する場合は、 [!DNL Analytics] ヒット数。 内 [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html)の場合、この ID は「 Advertising Cloud 」タブで `sdid` パラメーター。
 
 >[!NOTE]
 >

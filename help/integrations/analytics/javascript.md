@@ -3,9 +3,9 @@ title: 用 JavaScript コード [!DNL Analytics for Advertising Cloud]
 description: 用 JavaScript コード [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 184508ce-df8d-4fa0-b22b-ca0546a61d58
-source-git-commit: ac7f6110a523d63482f6c2e1a7d0bd5a12a0bab1
+source-git-commit: 0079f4bb37d213a994fefaa709b40c6b96184f7b
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -102,7 +102,7 @@ JavaScript ライブラリは、 [!DNL Analytics] Advertising Cloudは互いに�
 
 #### を使用してコードを確認する方法 [!DNL Adobe Experience Cloud Debugger]
 
-1. を開きます。 [[!DNL Adobe Experience Cloud Debugger]](https://experienceleague.adobe.com/docs/debugger/using/run-debugger.html) をホームページに追加します。
+1. を開きます。 [[!DNL Adobe Experience Cloud Debugger]](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html) をホームページに追加します。
 1. 次に移動： [!UICONTROL Network] タブをクリックします。
 1. 内 [!UICONTROL Solutions Filter] ツールバー、クリック [!UICONTROL Advertising Cloud] および [!UICONTROL Analytics].
 1. 内 [!UICONTROL Request URL – Hostname] パラメータ行、を見つけます。 `lasteventf-tm.everesttech.net`.
