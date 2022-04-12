@@ -2,14 +2,14 @@
 title: 広告の仕様
 description: 一般的な広告仕様およびパブリッシャー固有の広告仕様を参照します。
 feature: DSP Ads
-source-git-commit: 212409be98cb6f48d5aaf13e3ba44e37d2c5342b
+source-git-commit: 2110a30cf41a5cc091ec6224a7cbaf9b170ef1db
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '848'
 ht-degree: 0%
 
 ---
 
-# 広告の仕様
+# サポートされる広告タイプの仕様
 
 ## ビデオ広告（プリロールおよび CTV）
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 ### 高解像度ビデオアセットの要件（必須）
 
-**Video Tag Type:** VPAID 2.0 JavaScript or VAST (CTV). All VPAID ad units must adhere to the [VPAID 2.0 specification](https://iabtechlab.com/wp-content/uploads/2016/04/VPAID_2_0_Final_04-10-2012.pdf) as defined by the Interactive Advertising Bureau (IAB).
+**ビデオタグタイプ：** VPAID 2.0 JavaScript または VAST(CTV)。 すべての VPAID 広告ユニットは、 [VPAID 2.0 仕様](https://iabtechlab.com/wp-content/uploads/2016/04/VPAID_2_0_Final_04-10-2012.pdf) Interactive Advertising Bureau(IAB) によって定義される
 
 **ビデオコーデック：** MP4/H.264
 
-**Resolution:** 1280x720 for 720p, 1920x1080 for 1080p
+**解像度：** 1280x720（720p の場合）、1920x1080（1080p の場合）
 
 **ビットレート：** 1500～2500 kbps （720p の場合）、2500～3500 kbps （1080p の場合）
 
@@ -108,7 +108,9 @@ ht-degree: 0%
 
 デスクトップ、モバイル、タブレット、スマートスピーカー、および接続済み TV
 
-### [サポートされるサードパーティ広告サーバー](certified-ad-servers.md)
+### サポートされるサードパーティ広告サーバー
+
+サポートされるベンダーの完全なリストについては、[認定広告配信パートナー](certified-ad-servers.md).&quot;
 
 ### オーディオアセットの要件（必須）
 
@@ -136,7 +138,7 @@ ht-degree: 0%
    * 最大ファイルサイズ：5 MB
 
 * **[!DNL Pandora]**
-   * Length: 15 or 30 seconds
+   * 長さ：15 または 30 秒
    * ファイルタイプ：MP4（アプリ内）、MP3（デスクトップ）
    * 最大ファイルサイズ：2.2 MB
 
@@ -235,11 +237,11 @@ ht-degree: 0%
 
 オプションのクリックトラッカーを含むクリックスルー URL。
 
-Requirements for click trackers:
+クリックトラッカーの要件：
 
 * サードパーティのインプレッショントラッキングピクセル：1 x 1 画像 URL 形式のみ
 
-* Viewability JavaScript trackers: Supported for IAS only; 1x1 images in JS.append format only
+* 視認性の JavaScript トラッカー：IAS のみサポート。JS.append 形式の 1x1 画像のみ
 
 * サードパーティのクリック追跡ピクセル：URL に埋め込まれたランディングページにリダイレクトする必要があります（HTTP 302 リダイレクト）
 
