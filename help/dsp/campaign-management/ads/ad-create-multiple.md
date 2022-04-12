@@ -3,7 +3,7 @@ title: 複数のサードパーティ広告の作成
 description: 一度に複数のサードパーティ広告を作成する方法を説明します。
 feature: DSP Ads
 exl-id: 83d35d27-1ab6-4fcf-877f-650a2dc6975a
-source-git-commit: 68af6b1846a37689dce0ca13a05cc1611b1f35a9
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -60,7 +60,7 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [広告管理について](ad-about.md)
->* [広告の仕様](/help/dsp/assets/ad-specs.pdf)
+>* [広告の仕様](ad-specs.md)
 >* [単一の広告の作成](ad-create.md)
 >* [ビデオ：サードパーティの広告タグの一括アップロード方法](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-upload-third-party-ad-tags.html)
 

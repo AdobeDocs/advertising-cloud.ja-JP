@@ -3,7 +3,7 @@ title: オーディオ広告設定
 description: オーディオ広告で使用可能な広告設定の説明を参照してください。
 feature: DSP Ads
 exl-id: 746b6f40-ff59-4bbe-bfc0-3579d4461e4a
-source-git-commit: 68af6b1846a37689dce0ca13a05cc1611b1f35a9
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -67,6 +67,6 @@ ht-degree: 0%
 >* [広告管理について](ad-about.md)
 >* [単一の広告の作成](ad-create.md)
 >* [広告に関連付けられた配置のリスト](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [広告の仕様](/help/dsp/assets/ad-specs.pdf)
+>* [広告の仕様](ad-specs.md)
 >* [Advertising Cloud DSPマクロ](/help/dsp/campaign-management/macros.md)
 

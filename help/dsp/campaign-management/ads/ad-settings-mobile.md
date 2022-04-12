@@ -3,9 +3,9 @@ title: モバイル広告設定
 description: モバイル広告で使用可能な広告設定の説明を参照してください。
 feature: DSP Ads
 exl-id: f67c4ba0-1011-4ad6-bd36-98c312b81b67
-source-git-commit: 68af6b1846a37689dce0ca13a05cc1611b1f35a9
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
-source-wordcount: '620'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## [!UICONTROL Ad Options]
 
-### [!UICONTROL Basic]:Mobile Display Ads
+### [!UICONTROL Basic]:モバイルディスプレイ広告
 
 **[!UICONTROL Ad Type]:** （読み取り専用）作成する広告タイプ。広告を添付できる配置タイプに対応します。
 
@@ -105,6 +105,6 @@ ht-degree: 0%
 >* [広告管理について](ad-about.md)
 >* [単一の広告の作成](ad-create.md)
 >* [広告に関連付けられた配置のリスト](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [広告の仕様](/help/dsp/assets/ad-specs.pdf)
+>* [広告の仕様](ad-specs.md)
 >* [Advertising Cloud DSPマクロ](/help/dsp/campaign-management/macros.md)
 

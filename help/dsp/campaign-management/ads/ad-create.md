@@ -3,7 +3,7 @@ title: 単一の広告の作成
 description: 単一のサードパーティ広告を作成する方法を説明します。
 feature: DSP Ads
 exl-id: d93c6a66-a5cb-4117-97e8-424422200fce
-source-git-commit: 63c8b750c9d5e6816da29fe15416d43d6b3e3726
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -49,5 +49,5 @@ ht-degree: 0%
 >* [広告管理について](ad-about.md)
 >* [複数のサードパーティ広告の作成](ad-create-multiple.md)
 >* [広告の編集](ad-edit.md)
->* [広告の仕様](/help/dsp/assets/ad-specs.pdf)
+>* [広告の仕様](ad-specs.md)
 

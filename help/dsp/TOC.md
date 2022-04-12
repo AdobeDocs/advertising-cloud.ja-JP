@@ -8,7 +8,7 @@ user-guide-title: Advertising Cloud DSP ガイド
 user-guide-description: Advertising Cloud DSP を使用してディスプレイ広告戦略を管理、最適化およびレポートするために必要な主要機能、タスク、設定およびその他のリソースについて学習します。
 breadcrumb-title: DSP ガイド
 index: true
-source-git-commit: e77f70e414a1c8d2fe4937766ecddca9fdb6893e
+source-git-commit: 4dd819cd5feb47bce8ad56e5210c6d3c224389cb
 workflow-type: tm+mt
 source-wordcount: '859'
 ht-degree: 6%
@@ -37,10 +37,10 @@ ht-degree: 6%
       + [Acceptable Health Segment Guidelines](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
       + [[!DNL DSP] データ使用のガイドライン](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
    + [高度な測定ソリューション](/help/dsp/introduction/advanced-measurement-services.md)
-+ キャンペーン管理 {#campaign-management}
++ Campaign Management {#campaign-management}
    + [Campaign Management構造の概要](/help/dsp/campaign-management/campaign-management-overview.md)
    + キャンペーン {#campaigns}
-      + [キャンペーン管理について](/help/dsp/campaign-management/campaigns/campaign-about.md)
+      + [Campaign Managementについて](/help/dsp/campaign-management/campaigns/campaign-about.md)
       + [キャンペーンの作成](/help/dsp/campaign-management/campaigns/campaign-create.md)
       + [キャンペーンの編集](/help/dsp/campaign-management/campaigns/campaign-edit.md)
       + [キャンペーンの複製](/help/dsp/campaign-management/campaigns/campaign-duplicate.md)
@@ -87,7 +87,7 @@ ht-degree: 6%
          + [モバイル広告設定](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
          + [ネイティブディスプレイ広告設定](/help/dsp/campaign-management/ads/ad-settings-native.md)
          + [プリロール広告の設定](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
-      + [サポートされる広告タイプの仕様](/help/dsp/assets/ad-specs.pdf)
+      + [サポートされる広告タイプの仕様](/help/dsp/campaign-management/ads/ad-specs.md)
    + キャンペーンレポート {#campaign-reports}
       + [プラットフォーム内レポートについて](/help/dsp/campaign-management/reports/campaign-reports-about.md)
       + [キャンペーン管理ビューからのデータのエクスポート](/help/dsp/campaign-management/reports/campaign-export-data.md)
@@ -108,7 +108,7 @@ ht-degree: 6%
       + [ダウンロード/アップロード済みスプレッドシートの列](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
    + [Advertising Cloud DSPマクロ](/help/dsp/campaign-management/macros.md)
    + [キーボードショートカット](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
-   + [Campaign Managementに関する FAQ](/help/dsp/campaign-management/campaign-management-faq.md)
+   + [キャンペーン管理に関する FAQ](/help/dsp/campaign-management/campaign-management-faq.md)
 + 最適化 {#optimization}
    + [方法 [!DNL DSP] キャンペーンの最適化](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
    + [最適化目標とその使用方法](/help/dsp/optimization/optimization-goals.md)

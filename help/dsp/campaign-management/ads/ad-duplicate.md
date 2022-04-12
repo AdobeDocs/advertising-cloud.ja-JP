@@ -3,7 +3,7 @@ title: 広告の複製
 description: 広告の複製方法を説明します。
 feature: DSP Ads
 exl-id: 65c29be7-ca88-4608-bde2-5f1267d095ef
-source-git-commit: 322823a1df355b687827544f5464d01093b94213
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -35,5 +35,5 @@ ht-degree: 0%
 >* [単一の広告の作成](ad-create.md)
 >* [複数のサードパーティ広告の作成](ad-create-multiple.md)
 >* [広告の編集](ad-edit.md)
->* [広告の仕様](/help/dsp/assets/ad-specs.pdf)
+>* [広告の仕様](ad-specs.md)
 

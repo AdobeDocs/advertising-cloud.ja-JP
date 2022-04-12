@@ -3,9 +3,9 @@ title: 広告の編集
 description: 広告の編集方法を説明します。
 feature: DSP Ads
 exl-id: ef140d61-f04e-4c1c-acdd-9985730dfb07
-source-git-commit: 8d6bb45d90f56331ff52e6514e4732f1ac32d022
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -37,5 +37,5 @@ ht-degree: 0%
 >* [複数のサードパーティ広告の作成](ad-create-multiple.md)
 >* [広告の複製](ad-duplicate.md)
 >* [広告に関連付けられた配置のリスト](ad-list-placements.md)
->* [広告の仕様](/help/dsp/assets/ad-specs.pdf)
+>* [広告の仕様](ad-specs.md)
 
