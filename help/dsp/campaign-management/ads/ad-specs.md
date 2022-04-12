@@ -2,9 +2,10 @@
 title: 広告の仕様
 description: 一般的な広告仕様およびパブリッシャー固有の広告仕様を参照します。
 feature: DSP Ads
-source-git-commit: 2110a30cf41a5cc091ec6224a7cbaf9b170ef1db
+exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
+source-git-commit: f3d4dcfdaaaa4b9546e92ac6d1087e73e5054a26
 workflow-type: tm+mt
-source-wordcount: '848'
+source-wordcount: '855'
 ht-degree: 0%
 
 ---
@@ -110,7 +111,7 @@ ht-degree: 0%
 
 ### サポートされるサードパーティ広告サーバー
 
-サポートされるベンダーの完全なリストについては、[認定広告配信パートナー](certified-ad-servers.md).&quot;
+タグシートは、 [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid]、および [!DNL Sizmek]. サポートされるベンダーの完全なリストについては、[認定広告配信パートナー](certified-ad-servers.md).&quot;
 
 ### オーディオアセットの要件（必須）
 
