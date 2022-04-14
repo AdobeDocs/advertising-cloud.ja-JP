@@ -3,9 +3,9 @@ title: プラットフォーム内レポートについて
 description: キャンペーン管理ビューに含まれるレポートデータについて説明します。
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 1ca7639fac40eb8d3fbc3b4f7e0f45b29368f49b
+source-git-commit: 0adbb7876e38a8fc7b8c42e9897492bb6255e2c3
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '928'
 ht-degree: 0%
 
 ---
@@ -87,7 +87,7 @@ ht-degree: 0%
 
 ### その他のキャンペーンレベルのレポートタイプ
 
-その他のデータ分類の場合は、 [従来のキャンペーンレベルのレポートページ](/help/dsp/campaign-management/campaigns/campaign-view-report.md) から [!UICONTROL Campaigns Classic]. レガシーレポートには、 [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability]、および [!UICONTROL Audience Performance] データ。
+その他のデータ分類の場合は、 [従来のキャンペーンレベルのレポートページ](/help/dsp/campaign-management/campaigns/campaign-view-report.md). レガシーレポートには、 [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability]、および [!UICONTROL Audience Performance] データ。
 
 >[!MORELIKETHIS]
 >
