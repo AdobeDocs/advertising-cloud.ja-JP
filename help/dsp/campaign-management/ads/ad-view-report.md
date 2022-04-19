@@ -1,23 +1,23 @@
 ---
 title: 広告の詳細レポートの表示
-description: 概要、地域、視認性のデータを使用して広告レベルのレポートを開く方法を説明します。
+description: 概要、地域、視認性のデータを使用して広告レベルのレポートを開く方法について説明します。
 feature: DSP Ads, DSP Campaign Data Views
 exl-id: e222e9db-c828-4ac1-9df6-eb350d2ba9ef
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: b6fe8939bb00a73aa534e535d2daaf40723c01c8
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
 # 広告の詳細レポートの表示
 
-従来の広告レベルのレポートには、[!UICONTROL Overview]、[!UICONTROL Geography]、[!UICONTROL Viewability]のデータが含まれます。
+この <!--legacy --> 広告レベルのレポートに含まれる [!UICONTROL Overview], [!UICONTROL Geography]、および [!UICONTROL Viewability] データ。
 
-1. メインメニューで&#x200B;**[!UICONTROL Campaigns]**&#x200B;をクリックします。
+1. メインメニューで、 **[!UICONTROL Campaigns]**.
 1. キャンペーンの名前をクリックします。
-1. サブメニューで&#x200B;**[!UICONTROL Ads]**&#x200B;をクリックします。
-1. 広告名の横にある&#x200B;**... >[!UICONTROL View report]**&#x200B;をクリックします。
+1. サブメニューで、 **[!UICONTROL Ads]**.
+1. 広告名の横にある  **... >[!UICONTROL View report]**.
 
 >[!MORELIKETHIS]
 >

@@ -1,23 +1,23 @@
 ---
 title: キャンペーンの詳細レポートの表示
-description: 地域、デバイス、視認性、オーディエンスパフォーマンスの各データに関するセクションを含む、キャンペーンレベルのレポートを開く方法を説明します。
+description: 地域、デバイス、視認性、オーディエンスパフォーマンスのデータに関するセクションを含む、キャンペーンレベルのレポートを開く方法について説明します。
 feature: DSP Campaigns, DSP Campaign Data Views
 exl-id: 88fd3cdc-18af-4d3c-a93e-88058d56aabc
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: b96f5673079b5f8f4bb5ceebd1935d3f82844eb7
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
 # キャンペーンの詳細レポートの表示
 
-従来のキャンペーンレベルのレポートには、[!UICONTROL Geography]、[!UICONTROL Device]、[!UICONTROL Viewability]および[!UICONTROL Audience Performance]のデータの概要と節が含まれます。
+この <!--legacy --> キャンペーンレベルのレポートには、 [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability]、および [!UICONTROL Audience Performance] データ。
 
-1. メインメニューで&#x200B;**[!UICONTROL Campaigns]**&#x200B;をクリックします。
+1. メインメニューで、 **[!UICONTROL Campaigns]**.
 1. 次のいずれかの操作を行います。
-   * 右上のツールバーで&#x200B;**... >[!UICONTROL View report]**&#x200B;をクリックします。
-   * キャンペーン名の横にある&#x200B;**... >[!UICONTROL View report]**&#x200B;をクリックします。
+   * クリック **... >[!UICONTROL View report]** 」をクリックします。
+   * キャンペーン名の横にある  **... >[!UICONTROL View report]**.
 
 >[!MORELIKETHIS]
 >

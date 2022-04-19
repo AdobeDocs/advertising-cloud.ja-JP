@@ -3,9 +3,9 @@ title: プラットフォーム内レポートについて
 description: キャンペーン管理ビューに含まれるレポートデータについて説明します。
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 1292f39cb2d7d690a46d4e943ed09d98c349ce41
+source-git-commit: 2f985d9ae8343ea0005f1aa9c33acd603d514f1d
 workflow-type: tm+mt
-source-wordcount: '960'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -97,7 +97,7 @@ ht-degree: 0%
 
 ### その他のキャンペーンレベルのレポートタイプ
 
-その他のデータ分類の場合は、 [従来のキャンペーンレベルのレポートページ](/help/dsp/campaign-management/campaigns/campaign-view-report.md). レガシーレポートには、 [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability]、および [!UICONTROL Audience Performance] データ。
+その他のデータ分類の場合は、 [キャンペーンレベルのレポートページ](/help/dsp/campaign-management/campaigns/campaign-view-report.md). この <!--legacy --> レポートには次のセクションが含まれます： [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability]、および [!UICONTROL Audience Performance] データ。
 
 >[!MORELIKETHIS]
 >
@@ -106,6 +106,6 @@ ht-degree: 0%
 >* [カスタム列表示の作成](column-view-create.md)
 >* [列表示の変更](column-view-change.md)
 >* [データビジュアライゼーションの管理](campaign-data-visualization-manage.md)
->* [キャンペーン管理ビューからのデータのエクスポート](campaign-export-data.md)
+>* [Campaign Managementビューからのデータの書き出し](campaign-export-data.md)
 >* [キャンペーンの詳細レポートの表示](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
 
