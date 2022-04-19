@@ -3,10 +3,10 @@ user-guide-title: Adobe Experience Cloud との統合
 user-guide-description: Advertising Cloud DSP および Advertising Cloud Search と他の Adobe Experience Cloud 製品およびサービスとの統合について学習します。
 breadcrumb-title: Experience Cloud との統合
 index: true
-source-git-commit: e5f96bc9f34e568ff51b0b884114d3ebadf704d9
+source-git-commit: 0ede15cbc8031b20e82b8dd574469860ebd0aee6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '129'
+ht-degree: 20%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
       + [実装の前提条件と主な情報 [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/prerequisites.md)
       + [用 JavaScript コード [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/javascript.md)
       + [の使用 [!DNL Last Event Service] Adobe Experience Platformを使用した JavaScript ライブラリ [!DNL Web SDK]](/help/integrations/analytics/web-sdk.md)
-      + [広告タグのマクロ]{#macros}
+      + 広告タグのマクロ {#macros}
          + [追加 [!DNL Analytics for Advertising Cloud] マクロ先 [!DNL Flashtalking] 広告タグ](/help/integrations/analytics/macros-flashtalking.md)
    + 交換されたデータ {#data}
       + [Analysis WorkspaceのAdvertising Cloud指標](/help/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
