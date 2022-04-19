@@ -1,11 +1,11 @@
 ---
-user-guide-title: Adobe Experience Cloudとの統合
-user-guide-description: Advertising Cloud DSPおよびAdvertising Cloud Searchと他のAdobe Experience Cloud製品およびサービスとの統合について説明します。
-breadcrumb-title: Experience Cloudとの統合
+user-guide-title: Adobe Experience Cloud との統合
+user-guide-description: Advertising Cloud DSP および Advertising Cloud Search と他の Adobe Experience Cloud 製品およびサービスとの統合について学習します。
+breadcrumb-title: Experience Cloud との統合
 index: true
-source-git-commit: 1d960a0bf052d347b3f55d522c7276806492fa03
+source-git-commit: e5f96bc9f34e568ff51b0b884114d3ebadf704d9
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,7 @@ ht-degree: 0%
 
 # Advertising CloudとAdobe Experience Cloudの統合 {#integrations}
 <!--  and Adobe Experience Platform -->
+<!--          + [Append [!DNL Analytics for Advertising Cloud] Macros to [!DNL Google Campaign Manager 360] Ad Tags](/help/integrations/analytics/macros-google-campaign-manager.md) -->
 
 + [最新情報](/help/integrations/home.md)
 + [!DNL Analytics for Advertising Cloud] {#analytics}
@@ -22,6 +23,8 @@ ht-degree: 0%
       + [実装の前提条件と主な情報 [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/prerequisites.md)
       + [用 JavaScript コード [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/javascript.md)
       + [の使用 [!DNL Last Event Service] Adobe Experience Platformを使用した JavaScript ライブラリ [!DNL Web SDK]](/help/integrations/analytics/web-sdk.md)
+      + [広告タグのマクロ]{#macros}
+         + [追加 [!DNL Analytics for Advertising Cloud] マクロ先 [!DNL Flashtalking] 広告タグ](/help/integrations/analytics/macros-flashtalking.md)
    + 交換されたデータ {#data}
       + [Analysis WorkspaceのAdvertising Cloud指標](/help/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
       + [[!DNL Analytics] Advertising Cloudのデータ](/help/integrations/analytics/analytics-data-in-advertising-cloud.md)
