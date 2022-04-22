@@ -3,9 +3,9 @@ title: プラットフォーム内レポートについて
 description: キャンペーン管理ビューに含まれるレポートデータについて説明します。
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 2f985d9ae8343ea0005f1aa9c33acd603d514f1d
+source-git-commit: 7d081583ff10675b515aafdd97ccb3053f19c32d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '938'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## すべてのキャンペーン表示
 
-この [!UICONTROL Campaigns] ビューを開くと、アカウント内のすべてのキャンペーンのリストが表示されます。 &lt;!— [!UICONTROL Subtotals] 行には、表示されているすべての行の各指標の合計または平均値が表示されます。  — 小計の行はまだありますか？ 見つかりません。—>
+この [!UICONTROL Campaigns] [ 表示 ] をクリックすると、一連のパフォーマンスデータグラフと、アカウント内のすべてのキャンペーンの一覧が開きます。
 
 ### グラフ表示 {#chart-view}
 
@@ -106,6 +106,6 @@ ht-degree: 0%
 >* [カスタム列表示の作成](column-view-create.md)
 >* [列表示の変更](column-view-change.md)
 >* [データビジュアライゼーションの管理](campaign-data-visualization-manage.md)
->* [Campaign Managementビューからのデータの書き出し](campaign-export-data.md)
+>* [キャンペーン管理ビューからのデータのエクスポート](campaign-export-data.md)
 >* [キャンペーンの詳細レポートの表示](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
 
