@@ -2,9 +2,9 @@
 title: 追加 [!DNL Analytics for Advertising Cloud] マクロ先 [!DNL Google Campaign Manager 360] 広告タグ
 description: 理由と追加方法を説明します [!DNL Analytics for Advertising Cloud] マクロを [!DNL Google Campaign Manager 360] 広告タグ
 feature: Integration with Adobe Analytics
-source-git-commit: fe61dcd97d5509784a20bf8f68bea0ab2699dcfd
+source-git-commit: 2ba5656704319584e475f8c6c68943f215196ae2
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '515'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## にマクロを追加する [!DNL Google Campaign Manager 360] 広告
 
-内 [!DNL Google Campaign Manager 360]を次のパラメーターに追加して、ランディングページの URL に追加します。 `%pamo=!;`
+内 [!DNL Google Campaign Manager 360]を、ディスプレイ広告およびビデオ広告の各ランディングページ URL に追加します。 `%pamo=!;`
 
 ランディングページの URL は、複数の方法で指定できます。 各オプションの手順は、以下のサブセクションに記載されています。
 
@@ -46,20 +46,20 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 >* 他のパラメーターが `amo` パラメーターを追加し、その後にパラメーター（&amp;a=b など）を追加します。 例：`https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;&a=b#login`
 
 
-## 広告主レベルのランディングページの URL サフィックスの設定
+### 広告主レベルのランディングページの URL サフィックスの設定
 
 1. メインメニューで、 [!UICONTROL Advertisers] タブをクリックします。
 1. 広告主名をクリックします。
 1. 内 [!UICONTROL Landing page URL suffix] 設定、含む `%pamo!;` 内 [!UICONTROL URL suffix] フィールドに入力します。
 
-## キャンペーンレベルのランディングページ URL サフィックスの設定
+### キャンペーンレベルのランディングページ URL サフィックスの設定
 
 1. メインメニューで、 [!UICONTROL Campaigns] タブをクリックします。
 1. キャンペーン名をクリックします。
 1. クリック [!UICONTROL Properties].
 1. 内 [!UICONTROL Landing page URL suffix] 設定、含む `%pamo!;` 内 [!UICONTROL URL suffix] フィールドに入力します。
 
-## クリエイティブレベルのランディングページ URL サフィックスの設定
+### クリエイティブレベルのランディングページ URL サフィックスの設定
 
 1. メインメニューで、 [!UICONTROL Campaigns] タブをクリックします。
 1. キャンペーン名をクリックします。
