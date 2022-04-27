@@ -2,9 +2,9 @@
 title: 追加 [!DNL Analytics for Advertising Cloud] マクロ先 [!DNL Google Campaign Manager 360] 広告タグ
 description: 理由と追加方法を説明します [!DNL Analytics for Advertising Cloud] マクロを [!DNL Google Campaign Manager 360] 広告タグ
 feature: Integration with Adobe Analytics
-source-git-commit: 2ba5656704319584e475f8c6c68943f215196ae2
+source-git-commit: 2dfb609e73902fcd929d96c55fbc79588074c65e
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -52,12 +52,16 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 1. 広告主名をクリックします。
 1. 内 [!UICONTROL Landing page URL suffix] 設定、含む `%pamo!;` 内 [!UICONTROL URL suffix] フィールドに入力します。
 
+![広告主レベルの設定](/help/integrations/assets/macro-ggl360-advertiser.png)
+
 ### キャンペーンレベルのランディングページ URL サフィックスの設定
 
 1. メインメニューで、 [!UICONTROL Campaigns] タブをクリックします。
 1. キャンペーン名をクリックします。
 1. クリック [!UICONTROL Properties].
 1. 内 [!UICONTROL Landing page URL suffix] 設定、含む `%pamo!;` 内 [!UICONTROL URL suffix] フィールドに入力します。
+
+![キャンペーンレベルの設定](/help/integrations/assets/macro-ggl360-campaign.png)
 
 ### クリエイティブレベルのランディングページ URL サフィックスの設定
 
@@ -66,6 +70,8 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 1. 内 [!UICONTROL Views] メニュー、選択 [!UICONTROL Creatives].
 1. クリエイティブ名をクリックします。
 1. 内 [!UICONTROL Click tags] 設定、含む `%pamo!;` 内 [!UICONTROL Landing page] 列をクリックします。
+
+![クリエイティブレベルの設定](/help/integrations/assets/macro-ggl360-creative.png)
 
 ## 方法 [!DNL Analytics for Advertising Cloud] マクロはDSPで展開されます
 
