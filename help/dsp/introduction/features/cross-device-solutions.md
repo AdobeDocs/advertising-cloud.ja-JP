@@ -3,9 +3,9 @@ title: クロスデバイス対応ソリューション
 description: クロスデバイス機能の詳細を説明します。
 feature: DSP Introduction
 exl-id: 29f8ec41-35a6-4a29-a638-82a2929a8fe6
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
 workflow-type: tm+mt
-source-wordcount: '1110'
+source-wordcount: '1113'
 ht-degree: 0%
 
 ---
@@ -85,7 +85,7 @@ Advertising Cloud DSPとの統合 [!DNL LiveRamp] および [!DNL Adobe Device C
 
 ### ユーザーベースのアトリビューション測定を有効にする
 
-クロスデバイスのアトリビューション測定を有効にする場合は、 [!DNL Adobe] アカウントチーム。 の場合 [!DNL Adobe Device Co-op] アカウントに署名済みの [!DNL Adobe Device Co-op] 契約とExperience Cloud [!DNL Organization ID] ( 以前の [!DNL IMS org ID]) をクリックします。
+クロスデバイスのアトリビューション測定を有効にする場合は、 [!DNL Adobe] アカウントチーム。 の場合 [!DNL Adobe Device Co-op] アカウントに署名済みの [!DNL Adobe Device Co-op] 契約と組織のExperience CloudID( 旧称： [!DNL IMS org ID]) をクリックします。
 
 アトリビューション測定にデバイスグラフを使用するように広告主アカウントが設定されているかどうかを確認するには：
 

@@ -1,9 +1,9 @@
 ---
 title: よくある質問
 description: xxx
-source-git-commit: 5dfc4e8f2e6d2532e40eb4da8748fec0ed096e71
+source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
@@ -32,5 +32,5 @@ Auditor から、この機能を無効にするよう求められています。
 
 回答：当社の製品で確認し、問題のピクセルはAd Cloud、(DSPに関して ) 特定の在庫/SSP パートナー、およびAAM間の cookie の一致率を高める目的であると述べました。  削除された場合、AAC/AAMと各ピクセルが対象とする在庫パートナーとの間のマッチ率がある程度低下することがありますが、相当なものではないと考えられます。
 
-Ad Cloud Search の場合、IMS Org が Mathworks 用に設定されていますが、Ad Cloudでオーディエンスをアクティブ化するための Mathworks 設定が製品チームに表示されません。 Ad Cloud検索にオーディエンスをAdobeAudience Manager を使用して送信している場合。 そうでない場合、これらを削除しても、現在のワークフローには影響しません。 これらのピクセルを起動したくない場合、AAMカスタマーケアは、これらのピクセルの削除に役立ちます。
+Ad Cloud Search の場合、組織のExperience CloudID が Mathworks 用に設定されていますが、Ad Cloudでオーディエンスをアクティブ化するための Mathworks の設定が製品チームに表示されません。 Ad Cloud検索にオーディエンスをAdobeAudience Manager を使用して送信している場合。 そうでない場合、これらを削除しても、現在のワークフローには影響しません。 これらのピクセルを起動したくない場合、AAMカスタマーケアは、これらのピクセルの削除に役立ちます。
 

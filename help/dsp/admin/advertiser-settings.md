@@ -1,9 +1,9 @@
 ---
 title: 広告主アカウント設定
 description: 使用可能な広告主設定の説明を参照してください。
-source-git-commit: ee5621329aacf54777d28fa1c1f3d50949824cee
+source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
 workflow-type: tm+mt
-source-wordcount: '968'
+source-wordcount: '972'
 ht-degree: 0%
 
 ---
@@ -28,15 +28,15 @@ ht-degree: 0%
 
 ### [!UICONTROL Adobe IMS IDs]
 
-追加のAdobe Experience Cloud製品を持つ広告主は、自社独自の [!DNL Organization ID] Experience Cloud 特定の製品統合は、 [!UICONTROL Integrations] 」セクションに入力します。
+追加のAdobe Experience Cloud製品を持つ広告主は、組織の一意の ID を使用して、一部の製品間でデータをExperience Cloudできます。 特定の製品統合は、 [!UICONTROL Integrations] 」セクションに入力します。
 
-**[!UICONTROL Account IMS org and ID]:** ( 複数のExperience Cloud主との広告アカウントを通じてライセンスを受けたExperience Cloud製品を持つ広告主。（オプション）アカウントのExperience Cloud [!DNL Organization ID].
+**[!UICONTROL Account IMS org and ID]:** ( 複数のExperience Cloud主との広告アカウントを通じてライセンスを受けたExperience Cloud製品を持つ広告主。（オプション）組織のExperience CloudID。
 
-**[!UICONTROL Advertiser IMS org and ID]:** ( 追加のExperience Cloud製品の直接ライセンスを有する広告主（オプション）広告主のExperience Cloud [!DNL Organization ID].
+**[!UICONTROL Advertiser IMS org and ID]:** ( 追加のExperience Cloud製品の直接ライセンスを有する広告主（オプション）組織のExperience CloudID。
 
 ### [!UICONTROL Integrations]
 
-（オプション） DSPアカウントにリンクされた追加のExperience Cloud製品。 製品を同じExperience Cloudに関連付ける必要がある [!DNL Organization ID] 指定された [!UICONTROL Adobe IMS IDs] 」セクションに入力します。
+（オプション） DSPアカウントにリンクされた追加のExperience Cloud製品。 製品は、 [!UICONTROL Adobe IMS IDs] 」セクションに入力します。
 
 **[!UICONTROL Adobe Media Optimizer]:** (Advertising Cloud Searchを持つ広告主、またはAdvertising Cloudコンバージョンピクセルを使用する広告主 ) A [!DNL Search] DSPがアトリビューションデータを交換するアカウント。
 
