@@ -1,9 +1,9 @@
 ---
 title: 広告主アカウント設定
 description: 使用可能な広告主設定の説明を参照してください。
-source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
+source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
 workflow-type: tm+mt
-source-wordcount: '972'
+source-wordcount: '975'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,9 @@ ht-degree: 0%
 
 追加のAdobe Experience Cloud製品を持つ広告主は、組織の一意の ID を使用して、一部の製品間でデータをExperience Cloudできます。 特定の製品統合は、 [!UICONTROL Integrations] 」セクションに入力します。
 
-**[!UICONTROL Account IMS org and ID]:** ( 複数のExperience Cloud主との広告アカウントを通じてライセンスを受けたExperience Cloud製品を持つ広告主。（オプション）組織のExperience CloudID。
+**[!UICONTROL Account IMS org and ID]:** ( 複数のExperience Cloud主との広告アカウントを通じてライセンスを受けたExperience Cloud製品を持つ広告主。（オプション）広告主のExperience Cloud組織 ID。
 
-**[!UICONTROL Advertiser IMS org and ID]:** ( 追加のExperience Cloud製品の直接ライセンスを有する広告主（オプション）組織のExperience CloudID。
+**[!UICONTROL Advertiser IMS org and ID]:** ( 追加のExperience Cloud製品の直接ライセンスを有する広告主（オプション）広告主のExperience Cloud組織 ID。
 
 ### [!UICONTROL Integrations]
 

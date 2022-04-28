@@ -3,9 +3,9 @@ title: Adobe Advertising Cloud州カリフォルニア州消費者プライバ�
 description: 消費者のオプトアウトオブセールのリクエストをキャプチャするためのサポートについて説明します。
 feature: CCPA
 exl-id: 2c0cd4f5-798f-479a-99cd-f555cd676766
-source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
+source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
 workflow-type: tm+mt
-source-wordcount: '1020'
+source-wordcount: '1028'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ CCPA のAdobeプライバシーサービスについて詳しくは、 [Adobeプ
 
 ### 方法 2:Adobe Experience Platform Privacy Service API を使用した CCPA オプトアウトオブセールの通信
 
-*広告主がAdobe Experience Cloud ID のみを割り当てた*
+*広告主がAdobe Experience Cloud組織 ID のみを割り当てた*
 
 1. JavaScript ライブラリをデプロイして、顧客の Cookie を取得します。 同じライブラリ `AdobePrivacy.js`は、すべてのAdobe Experience Cloudソリューションで使用されます。
 
@@ -58,20 +58,20 @@ CCPA のAdobeプライバシーサービスについて詳しくは、 [Adobeプ
 
    ライブラリは Web ページにデプロイする必要があります。このライブラリから、会社のプライバシーポータルなど、販売のオプトアウトリクエストを送信できます。 ライブラリを使用すると、AdobeCookie( 名前空間 ID: `gsurferID`) を使用して、Adobe Experience Platform Privacy Service API を介して販売のオプトアウトリクエストの一部としてこれらの id を送信できます。
 
-1. Experience CloudID を特定し、Advertising Cloudアカウントにリンクされていることを確認します。
+1. Experience Cloudの組織 ID を特定し、Advertising Cloudアカウントにリンクされていることを確認します。
 
-   Experience CloudID は、24 文字の英数字から成る文字列で、末尾に「@AdobeOrg」が付きます。 ほとんどのExperience Cloudのお客様には ID が割り当てられています。 マーケティングチームや内部Adobeシステム管理者が組織の ID を把握していない場合や、組織がプロビジョニングされているかどうかが不明な場合は、Adobeカスタマーケア (gdprsupport@adobe.com) にお問い合わせください。 プライバシー API に要求を送信するには、 `imsOrgID` 名前空間。
+   Experience Cloud組織 ID は、24 文字の英数字から成る文字列で、末尾に「@AdobeOrg」が付きます。 ほとんどのExperience Cloudのお客様には、組織 ID が割り当てられています。 マーケティングチームまたは内部Adobeシステム管理者が組織 ID を把握していない場合や、組織 ID がプロビジョニングされているかどうかが不明な場合は、Adobeカスタマーケア (gdprsupport@adobe.com) にお問い合わせください。 プライバシー API に要求を送信するには、組織 ID が、 `imsOrgID` 名前空間。
 
    >[!IMPORTANT]
    >
-   >貴社のAdvertising Cloud担当者に問い合わせて、組織のAdvertising Cloudアカウント ( [!DNL DSP] アカウントまたは広告主 [!DNL Search] アカウントおよび [!DNL Creative] または [!DNL DCO] アカウント — はExperience CloudID にリンクされます。
+   >貴社のAdvertising Cloud担当者に問い合わせて、組織のAdvertising Cloudアカウント ( [!DNL DSP] アカウントまたは広告主 [!DNL Search] アカウントおよび [!DNL Creative] または [!DNL DCO] アカウント — がExperience Cloud組織 ID にリンクされている。
 
 1. Adobe Experience Platform Privacy Service API を使用して、 [販売オプトアウトリクエストの送信](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/consent.html) をAdvertising Cloudに送信し、既存のリクエストのステータスを確認します。
 
    販売オプトアウトリクエストの例については、以下の付録を参照してください。
 
    >[!NOTE]
-   ビジネスに複数のExperience CloudID がある場合は、それぞれに対して個別の API リクエストを送信する必要があります。 ただし、複数のAdvertising Cloudサブソリューション ([!DNL Search], [!DNL Creative], [!DNL DSP]、および [!DNL DCO]) の代わりに、サブソリューションごとに 1 つのアカウントを使用します。
+   ビジネスに複数のExperience Cloud組織 ID がある場合は、それぞれに対して個別の API リクエストを送信する必要があります。 ただし、複数のAdvertising Cloudサブソリューション ([!DNL Search], [!DNL Creative], [!DNL DSP]、および [!DNL DCO]) の代わりに、サブソリューションごとに 1 つのアカウントを使用します。
 
 これらの手順はすべて、Advertising Cloudからサポートを受けるために必要です。 Adobe Experience Platform Privacy Serviceを使用して実行する必要があるこれらのタスクやその他の関連タスクの詳細、および必要な項目の見つけ方については、 [https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).
 
