@@ -1,63 +1,72 @@
 ---
-title: プログラム的に保証された取引の設定
-description: パブリッシャーとネゴシエートしたプログラム保証 (PG) 取引を設定する方法を説明します。
+title: プログラム的に保証された契約の設定
+description: パブリッシャーとネゴシエートした、プログラム的に保証された (PG) 取引を設定する方法を説明します。
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 9e371606-5428-4635-9653-7dc43449e489
-source-git-commit: 8046ec79ec24f47fe33e49c6097e44dbba450f1f
+source-git-commit: 81b1074f86685f863f89a07ecd33e892e4933512
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# プログラム的に保証された取引の設定
+# プログラム的に保証された契約の設定
 
 *[サポートされる供給側プラットフォームのみ](programmatic-guaranteed-about.md)*
 
-プログラム保証 (PG) 取引をサポート対象のパブリッシャーと交渉した後、[!DNL Deal ID inbox] を使用するか、取引の詳細を手動で入力して、DSP内で取引を設定できます。
+サポート対象のパブリッシャーとプログラム的に保証された (PG) 契約を交渉した後、DSP内で [!DNL Deal ID inbox] または、契約の詳細を手動で入力します。
 
 >[!NOTE]
 >
-> PG 取引の場合、パブリッシャーはすべての予算ペーシング、予算上限、ターゲティングを処理します。 DSPを介して PG を許可するすべての SSP で、パブリッシャーが予算制限を設定できることを確認します。
+> PG 契約の場合、パブリッシャーはすべての予算のペーシング、予算の上限、ターゲティングを処理します。 DSPを介して PG を許可するすべての SSP で、パブリッシャーが予算制限を設定できることが確認されます。
 >
-> [!DNL FreeWheel] でプログラム的に保証された発行者との取引を設定するには、追加の権限と手順が必要です。 詳細は、「[ [!DNL FreeWheel]](freewheel-overview.md) でのプログラム保証取引の設定の概要」を参照してください。
+> の発行者とのプログラム的な保証契約の設定 [!DNL FreeWheel] には、追加の権限と手順が必要です。 参照：[プログラムで保証された取引の設定の概要 [!DNL FreeWheel]](freewheel-overview.md)」を参照してください。
 
-## [!DNL Deal ID Inbox] {#pg-setup-deal-id-inbox}
+## を使用してプログラム的に保証された契約を設定する [!DNL Deal ID Inbox] {#pg-setup-deal-id-inbox}
 
-[!DNL FreeWheel]、[!DNL Google Authorized Buyers]、[!DNL Magnite DV+] には、この方法が推奨されます。
+これは、 [!DNL FreeWheel], [!DNL Google Authorized Buyers]、および [!DNL Magnite DV+].
 
-1. [取引を受け入れる](deal-id-inbox-accept.md)。
+1. [契約を承認](deal-id-inbox-accept.md).
 
-1. 取引を保存した後、その取引に使用する広告を選択し、指示に従って、プログラム的に保証された (PG) デフォルトの配置を作成します。
+1. 契約を保存したら、その契約に使用する広告を選択し、指示に従って、プログラム的に保証された (PG) デフォルトの配置を作成します。
 
-   購入の 100%を提供するには、デフォルトの PG プレースメントを作成する必要があります。 このタイプの配置にはターゲティングがないので、DSPはパブリッシャーからのすべての入札リクエストに入札を返すことができます。
+   購入の 100%を配信するには、契約のデフォルトの PG 配置を作成する必要があります。 このタイプの配置にはターゲティングがないので、DSPはパブリッシャーからのすべての入札リクエストに入札を返すことができます。
 
-   * 1 件の取引を承認すると、PG のデフォルト配置作成ワークフローに自動的にリダイレクトされます。
+   * 単一の契約を承認する場合、PG のデフォルトの配置作成ワークフローに自動的にリダイレクトされます。
 
-      [!DNL FreeWheel] の取引はすべて 1 つの取引として提案されます。
+      すべて [!DNL FreeWheel] 契約は、単一の契約として提案されます。
 
-   * 複数の PG 取引 ID を持つ提案を受け入れる場合は、作成する必要がある各 PG のデフォルトの配置を特定します。 必要な配置をすべて作成すると、「続行」ボタンが有効になります。
+   * 複数の PG 契約 ID を持つ提案を受け入れる場合は、作成する必要のある各 PG のデフォルトの配置を特定します。 必要な配置をすべて作成すると、「続行」ボタンが有効になります。
 
-1. （オプション）PG 案件を追加の非 PG 配置でターゲット設定します。
+1. （オプション）追加の、PG または非 PG の配置で PG の契約をターゲット化するには、 ![オプションメニュー](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
 
-## プログラム的に保証された取引の手動設定
+>[!NOTE]
+>
+>異なるタイプ（CTV、デスクトップ、オーディオなど）をサポートする複数の配置を 同じ取引に
 
-他のすべての SSP にこの方法を使用します。
+## プログラム的に保証された契約の手動設定
 
-1. [取引 ID の詳細を手動で設定します](deal-id-create.md)。
+他のすべての SSP に対してこのメソッドを使用します。
 
-1. 取引を保存した後、その取引に使用する広告を選択し、指示に従って PG のデフォルトの配置を作成します。
+1. [契約 ID の詳細の手動設定](deal-id-create.md).
 
-   購入の 100%を提供するには、ディールの PG デフォルトの配置を作成する必要があります。 このタイプの配置にはターゲティングがないので、DSPはパブリッシャーからのすべての入札リクエストに入札を返すことができます。
+1. 契約を保存したら、その契約に使用する広告を選択し、指示に従って PG のデフォルトの配置を作成します。
 
-1. （オプション）PG 案件を追加の、PG 以外の配置でターゲティングします。
+   購入の 100%を提供するには、契約の PG デフォルトの配置を作成する必要があります。 このタイプの配置にはターゲティングがないので、DSPはパブリッシャーからのすべての入札リクエストに入札を返すことができます。
+
+1. （オプション）追加の、PG または非 PG の配置で PG の契約をターゲット化するには、 ![オプションメニュー](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
+
+>[!NOTE]
+>
+>異なるタイプ（CTV、デスクトップ、オーディオなど）をサポートする複数の配置を 同じ取引に
+
 
 >[!MORELIKETHIS]
 >
->* [プログラム保証取引について](programmatic-guaranteed-about.md)
->* [プログラム的に保証された取引の交渉に関するヒント](/help/dsp/inventory/programmatic-guaranteed-tips.md)
->* [プログラムで保証された取り引きの広告を送信 [!DNL FreeWheel]](freewheel-submit.md)
->* [Deal ID インボックスでの Deal の承認](deal-id-inbox-accept.md)
+>* [プログラムで保証された契約について](programmatic-guaranteed-about.md)
+>* [プログラム的に保証された契約の交渉に関するヒント](/help/dsp/inventory/programmatic-guaranteed-tips.md)
+>* [プログラム的に保証された取引に対する広告の送信 [!DNL FreeWheel]](freewheel-submit.md)
+>* [Deal ID インボックスでの契約の承認](deal-id-inbox-accept.md)
 >* [Deal ID の詳細の手動作成](deal-id-create.md)
 >* [SSP パートナー](ssp-partners.md)
 >* [在庫機能の概要](inventory-overview.md)
