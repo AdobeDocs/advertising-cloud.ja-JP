@@ -3,7 +3,7 @@ title: プログラム的に保証された契約の設定
 description: パブリッシャーとネゴシエートした、プログラム的に保証された (PG) 取引を設定する方法を説明します。
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 9e371606-5428-4635-9653-7dc43449e489
-source-git-commit: 81b1074f86685f863f89a07ecd33e892e4933512
+source-git-commit: 3c9822890e96035fc9e44f8832efcc2889a8cb5f
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -38,11 +38,9 @@ ht-degree: 0%
 
    * 複数の PG 契約 ID を持つ提案を受け入れる場合は、作成する必要のある各 PG のデフォルトの配置を特定します。 必要な配置をすべて作成すると、「続行」ボタンが有効になります。
 
-1. （オプション）追加の、PG または非 PG の配置で PG の契約をターゲット化するには、 ![オプションメニュー](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
+1. （オプション）クリックして、追加の PG または PG 以外の配置で PG 契約をターゲット化します ![オプションメニュー](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
 
->[!NOTE]
->
->異なるタイプ（CTV、デスクトップ、オーディオなど）をサポートする複数の配置を 同じ取引に
+   1 つの契約では、任意の種類のメディア（接続された TV、デスクトップ、オーディオなど）の組み合わせをサポートする複数の配置をターゲットに設定できます。
 
 ## プログラム的に保証された契約の手動設定
 
@@ -54,12 +52,9 @@ ht-degree: 0%
 
    購入の 100%を提供するには、契約の PG デフォルトの配置を作成する必要があります。 このタイプの配置にはターゲティングがないので、DSPはパブリッシャーからのすべての入札リクエストに入札を返すことができます。
 
-1. （オプション）追加の、PG または非 PG の配置で PG の契約をターゲット化するには、 ![オプションメニュー](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
+1. （オプション）クリックして、追加の PG または PG 以外の配置で PG 契約をターゲット化します ![オプションメニュー](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
 
->[!NOTE]
->
->異なるタイプ（CTV、デスクトップ、オーディオなど）をサポートする複数の配置を 同じ取引に
-
+   1 つの契約では、任意の種類のメディア（接続された TV、デスクトップ、オーディオなど）の組み合わせをサポートする複数の配置をターゲットに設定できます。
 
 >[!MORELIKETHIS]
 >
