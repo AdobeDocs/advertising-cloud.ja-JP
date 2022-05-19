@@ -3,15 +3,16 @@ user-guide-title: Adobe Experience Cloud との統合
 user-guide-description: Advertising Cloud DSP および Advertising Cloud Search と他の Adobe Experience Cloud 製品およびサービスとの統合について学習します。
 breadcrumb-title: Experience Cloud との統合
 index: true
-source-git-commit: 9964887b777d430c138a08f7ff6cf53ac39defed
+source-git-commit: 5884da8177dac1313f69ba67a46713b4fd047640
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 20%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Advertising CloudとAdobe Experience Cloudの統合 {#integrations}
+
 <!--  ADD LATER: and Adobe Experience Platform -->
 
 + [最新情報](/help/integrations/home.md)
