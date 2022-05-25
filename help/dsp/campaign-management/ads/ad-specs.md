@@ -3,9 +3,9 @@ title: 広告の仕様
 description: 一般的な広告仕様およびパブリッシャー固有の広告仕様を参照します。
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: f3d4dcfdaaaa4b9546e92ac6d1087e73e5054a26
+source-git-commit: 3c5a114339c2bf41637027c8580316626656fbba
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '901'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,22 @@ ht-degree: 0%
 #### Connected TV 広告に関する追加の公開者要件
 
 * **フル：** Hulu&#39;s を参照 [広告の仕様](https://advertising.hulu.com/ad-products/video-commercial/).
+
+* **最適量：** Paramount&#39;s を参照 [広告の仕様](https://www.paramount.com/digital-ads).
+
+* **検出：** 検出の参照 [広告の仕様](/help/dsp/assets/discovery-networks-ad-specs.pdf).
+
+* **最大 HBO:** HBO Max を参照 [広告の仕様](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
+
+* **A+E ネットワーク：** A+E ネットワークを見る [広告の仕様](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
+
+* **NBCUniversal:**
+
+   * [デジタルビデオ](https://together.nbcuni.com/nbcu-creative-guidelines/digital-video/)
+
+   * [Livestream](https://together.nbcuni.com/nbcu-creative-guidelines/livestream/)
+
+   * [クジャク](https://together.nbcuni.com/nbcu-creative-guidelines/peacock/)
 
 * **ディズニー：**
 
