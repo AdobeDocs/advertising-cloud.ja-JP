@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: e26d6efff8bae08b89ba4bd72748ddf7ef769a87
+source-git-commit: 611589fd6fa7067a6e5c6ddfb1f8bb5ed700a44b
 workflow-type: tm+mt
-source-wordcount: '1498'
+source-wordcount: '1530'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 0%
 
 | 日付 | 機能 | 説明 | 詳細情報 |
 | ---- | ------- | ----------- | -------------------- |
+| 2022 年 5 月 31 日 | オーディエンスソース | （ベータ版機能）Advertising Cloud DSPは、顧客データプラットフォーム (CDP) 内で作成された認証済みシグナルで構成されるファーストパーティセグメントを取り込めるようになりました。 | 参照：[オーディエンスソースからの認証済みセグメントのアクティブ化について](/help/dsp/audiences/sources/source-about.md).&quot; |
 | 2022 年 4 月 13 日 | Campaign Management | 広告の仕様を更新し、現在のサポートを反映しました。 | 参照：[サポートされる広告タイプの仕様](/help/dsp/campaign-management/ads/ad-specs.md).&quot; |
 | 2022 年 2 月 18 日 | ビデオチュートリアル | 「標準のディスプレイ配置の作成方法」に関する新しいビデオが利用できます。 | 詳しくは、 [Advertising CloudTutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html). |
 | 2022 年 1 月 31 日 | ヘルプ | に関する追加情報 [!DNL Deal IDs] および [!DNL Simple Ad Serving] が利用できるようになりました。 | 在庫/プライベート在庫のサブチャプターを参照してください。 |
@@ -43,7 +44,7 @@ ht-degree: 0%
 | 2021 年 5 月 27 日 | ヘルプ | 「Adobe Experience Cloudとの統合」の章は別のガイドになり、 [Advertising Cloudドキュメントのホームページ](https://experienceleague.adobe.com/docs/advertising-cloud.html). 新しいガイドでは、 [!DNL Analytics Marketing Channels].&quot;<br>このDSPガイドの目次には、新しいガイドへのリンクが含まれています。 | 参照：[Adobe Experience Cloudとの統合](/help/integrations/home.md).&quot; |
 | 2021 年 5 月 25 日 | ヘルプ | 「Campaign Management」の章では、Excel QA スプレッドシートを使用してキャンペーンのキー配置設定を確認および編集する方法に関する新しいトピックを参照できます。 | 参照：[スプレッドシートを使用したキャンペーンの配置設定の修正について](/help/dsp/campaign-management/qa/qa-about.md), &quot;[キャンペーンの配置設定のダウンロード](/help/dsp/campaign-management/qa/qa-sheet-download.md),&quot; &quot;[キャンペーンの配置設定のアップロード](/help/dsp/campaign-management/qa/qa-sheet-upload.md)、および[ダウンロード/アップロード済みスプレッドシートの列](/help/dsp/campaign-management/qa/qa-sheet-columns.md). |
 | 2021 年 5 月 6 日 | パッケージ設定 | 新しい Pacing Fill Strategy オプション「Slightly Ahead」が利用可能で、新しいパッケージのデフォルトです。 この方法では配信が加速され、飛行時間の途中で 55～65%完了するようになります。 | 参照：[パッケージ設定](/help/dsp/campaign-management/packages/package-settings.md).&quot; |
-| 2021 年 3 月 18 日 | ヘルプ | 「キャンペーン管理」の章が拡張され、さらに多くの手順や参照が含まれるようになりました。 | 目次で、「Campaign Management」の章とサブセクションを開きます。 |
+| 2021 年 3 月 18 日 | ヘルプ | 「Campaign Management」の章が拡張され、さらに多くの手順や参照が含まれるようになりました。 | 目次で、「Campaign Management」の章とサブセクションを開きます。 |
 | 2021 年 3 月 11 日 | 在庫 | これ以降、 [!UICONTROL Smart Ad Serving] は、VAST タグを使用しておこないます。 代わりに、ディール ID を使用して個人取引を実行できるかどうかをパブリッシャーに問い合わせます。 Deal ID は、 [!UICONTROL Deal ID inbox] または、契約の詳細を手動で入力します。<br><br>既存のスマート広告配信契約は引き続き利用できますが、今年中に終了する予定です。 | 参照：[について [!UICONTROL Deal ID inbox]](/help/dsp/inventory/deal-id-inbox-about.md)&quot;および&quot;[手動で作成 [!UICONTROL Deal ID] 詳細](/help/dsp/inventory/deal-id-create.md)&quot; |
 | 2021 年 2 月 26 日 | ヘルプ | に関するドキュメント [!DNL Analytics for Advertising Cloud]は、Adobe AnalyticsとAdobe Advertising Cloudの統合機能です。 | 統合の概要については、[の概要 [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/overview.md).&quot; 完全なドキュメントについては、「Adobe Experience Cloudとの統合」/「[!DNL Analytics for Advertising Cloud].&quot; |
 | 2020 年 10 月 28 日 | 新しいヘルプ | 従来のヘルプは更新されたページに置き換えられました。ページは、 [!DNL DSP] メインメニューおよびからいつでも利用できます。 [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html). | — |

@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP ガイド
 user-guide-description: Advertising Cloud DSP を使用してディスプレイ広告戦略を管理、最適化およびレポートするために必要な主要機能、タスク、設定およびその他のリソースについて学習します。
 breadcrumb-title: DSP ガイド
 index: true
-source-git-commit: 4dd819cd5feb47bce8ad56e5210c6d3c224389cb
+source-git-commit: b56bda435ef8a34b4dd695a45dea28cef2b51c85
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '886'
 ht-degree: 6%
 
 ---
@@ -90,7 +90,7 @@ ht-degree: 6%
       + [サポートされる広告タイプの仕様](/help/dsp/campaign-management/ads/ad-specs.md)
    + キャンペーンレポート {#campaign-reports}
       + [プラットフォーム内レポートについて](/help/dsp/campaign-management/reports/campaign-reports-about.md)
-      + [キャンペーン管理ビューからのデータのエクスポート](/help/dsp/campaign-management/reports/campaign-export-data.md)
+      + [Campaign Managementビューからのデータの書き出し](/help/dsp/campaign-management/reports/campaign-export-data.md)
       + [プレースメントのサイト、広告、頻度の詳細を表示](/help/dsp/campaign-management/reports/placement-details-view.md)
       + [配置診断レポートの表示](/help/dsp/campaign-management/reports/placement-diagnostics.md)
       + データビューの管理 {#data-views}
@@ -108,7 +108,7 @@ ht-degree: 6%
       + [ダウンロード/アップロード済みスプレッドシートの列](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
    + [Advertising Cloud DSPマクロ](/help/dsp/campaign-management/macros.md)
    + [キーボードショートカット](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
-   + [キャンペーン管理に関する FAQ](/help/dsp/campaign-management/campaign-management-faq.md)
+   + [Campaign Managementに関する FAQ](/help/dsp/campaign-management/campaign-management-faq.md)
 + 最適化 {#optimization}
    + [方法 [!DNL DSP] キャンペーンの最適化](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
    + [最適化目標とその使用方法](/help/dsp/optimization/optimization-goals.md)
@@ -131,6 +131,11 @@ ht-degree: 6%
       + [再利用可能なオーディエンスを作成](/help/dsp/audiences/reusable-audience-create.md)
       + [オーディエンス設定](/help/dsp/audiences/audience-settings.md)
       + [オーディエンスセグメントロジックの構文](/help/dsp/audiences/audience-segment-logic-syntax.md)
+   + ソースの管理 {#sources}
+      + [オーディエンスソースからの認証済みセグメントのアクティブ化について](/help/dsp/audiences/sources/source-about.md)
+      + [永続 ID パートナーから認証済みセグメントをアクティブ化する](/help/dsp/audiences/sources/source-durable-id.md)
+      + [オーディエンスソースを作成してファーストパーティオーディエンスをアクティブ化する](/help/dsp/audiences/sources/source-create.md)
+      + [Audience Source 設定](/help/dsp/audiences/sources/source-settings.md)
    + [利用可能なサードパーティデータプロバイダー](/help/dsp/audiences/third-party-data-providers.md)
 + 在庫 {#inventory}
    + [在庫機能の概要](/help/dsp/inventory/inventory-overview.md)

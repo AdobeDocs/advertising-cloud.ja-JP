@@ -3,9 +3,9 @@ title: Advertising Cloud DSPの Audience Management について
 description: Audience Management 機能について説明します。
 feature: DSP Audiences, DSP Segments
 exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 3b44e8e019bfc4bab2ee65ac028313752cb4a0e0
 workflow-type: tm+mt
-source-wordcount: '1024'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,11 @@ Advertising Cloud DSPでは、オーディエンスセグメントとオーデ�
 
 ## ファーストパーティおよびサードパーティのデータセグメントの読み込み
 
-Advertising Cloud DSPでは、必要に応じて、データ管理プラットフォーム (DMP) から独自のファーストパーティデータセグメントを読み込み、それらを任意の広告主セットに提供できます。
+DSPでは、必要に応じて、データ管理プラットフォーム (DMP) から独自のファーストパーティデータセグメントを読み込み、それらを任意の広告主セットに提供できます。
 
-Advertising Cloud DSPでは、サードパーティセグメントの複雑な組み合わせを含む、カスタムサードパーティセグメントを読み込むこともできます。 必要に応じて、任意の広告主セットにセグメントを提供できます。
+DSPは、 [の [!DNL Adobe Real-Time Customer Data Profile (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html)：認証済みのファーストパーティセグメントを承認済みの広告主やユーザーと共有して、キャンペーンをアクティベートできます。 Real-Time CDP統合について詳しくは、 [ソースセクション](/help/dsp/audiences/sources/source-about.md).
+
+DSPでは、サードパーティセグメントの複雑な組み合わせを含む、カスタムサードパーティセグメントを読み込むこともできます。 必要に応じて、任意の広告主セットにセグメントを提供できます。
 
 お問い合わせ [!DNL Adobe] アカウントチームを参照してください。
 
@@ -40,9 +42,9 @@ Advertising Cloud DSPでは、サードパーティセグメントの複雑な�
 
 配置は、次のすべてのタイプのオーディエンスにターゲット設定できます。
 
-* Advertising Cloud DSPに保存されたすべてのユーザー作成オーディエンスセット。
+* DSPに保存されたすべてのユーザー作成オーディエンスセット。
 
-* Advertising Cloud DSPで作成されたすべてのユーザー作成オーディエンスセグメント：
+* DSPで作成されたすべてのユーザー作成オーディエンスセグメント：
 
    * 特定の Web ページを訪問したユーザーと、特定の広告のインプレッションにさらされたユーザーのカスタムセグメント。
 
@@ -52,21 +54,21 @@ Advertising Cloud DSPでは、サードパーティセグメントの複雑な�
 
 * 読み込まれたすべてのカスタムサードパーティデータセグメント。
 
-* （米国をターゲットとするプレースメントのみ） [30 を超えるプロバイダーからAdvertising Cloud DSPのお客様が利用できるすべてのサードパーティデータセグメント](/help/dsp/audiences/third-party-data-providers.md)を含む [!DNL Acxiom], [!DNL Datalogix], [!DNL eXelate] ([!DNL Nielsen]), [!DNL Lotame], [!DNL Oracle], [!DNL Quantcast]、その他多数
+* （米国をターゲットとするプレースメントのみ） [30 を超えるプロバイダーからDSPのお客様が利用できるすべてのサードパーティデータセグメント](/help/dsp/audiences/third-party-data-providers.md)を含む [!DNL Acxiom], [!DNL Datalogix], [!DNL eXelate] ([!DNL Nielsen]), [!DNL Lotame], [!DNL Oracle], [!DNL Quantcast]、その他多数
 
    特定のセグメントをターゲット設定し、オーディエンスデータ（特定の人口統計、興味、目的、行動プロファイルを持つユーザーなど）に基づいてユーザーをターゲット設定できます。 データプロバイダーとカテゴリで参照したり、名前またはセグメント ID でセグメントを検索したり、データプロバイダー、合計セグメントサイズ、Web ブラウザー数またはデバイス数で結果をフィルタリングしたりできます。
 
    サードパーティセグメントには、追加料金が発生します。各セグメント名の横に表示されます。
 
-* (Adobe Experience Cloud、Adobe Audience ManagerまたはAdobe Analyticsで、Advertising Cloud JavaScript コンバージョンタグのみを使用する広告主 )Adobe Experience Cloudで作成された、Audience Managerで作成された、またはAudience Managerや [!DNL Analytics].
+* (Adobe Experience Platform、 [!DNL Real-Time CDP]、Adobe Audience Manager、またはAdvertising Cloud JavaScript コンバージョンタグのみを使用するAdobe Analytics) [!DNL Real-Time CDP]、Audience Managerで作成、またはAudience ManagerからAdobe Experience Cloudに公開 [!DNL Analytics].
 
-   セグメントを使用するための価格は事前にネゴシエートされており、Advertising Cloudには表示されません。  <!-- Verify -->
+   セグメントを使用するための価格は事前にネゴシエートされており、DSPでは表示されません。
 
-   Adobe Experience Cloudでセグメントを作成または公開してから、約 1 時間後にAdobe Experience Cloudでセグメントを使用できるようになります。 Audience Managerから直接取得されたセグメントは、作成後約 24 時間で利用できます。 <!-- Verify all -->
+   セグメント元 [!DNL Analytics] は、Experience Cloudオーディエンスとして作成または公開してから約 1 時間後に使用可能になります。 Audience Managerまたは [!DNL Real-Time CDP] は、共有後 24 時間以内に利用できます。
 
    >[!NOTE]
    >
-   >詳しくは、 [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics.html)、および [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html) を参照してください。
+   >詳しくは、 [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics.html)、および [の [!DNL Real-Time CDP]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segment-builder-guide.html) を参照してください。
 
 ## オーディエンスサイズデータ
 

@@ -3,7 +3,7 @@ title: オーディエンス設定
 description: 使用可能なオーディエンス設定の説明を参照してください。
 feature: DSP Audiences
 exl-id: 959c1e04-cb09-42f0-a261-580ff98b86be
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 505944d534e04da8f903c24e7899e7a80cb836e4
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -14,31 +14,31 @@ ht-degree: 0%
 
 ## サードパーティセグメント
 
-（オプション）Advertising Cloudのサードパーティのデータ分類を通じて使用可能な標準セグメントで、オーディエンス設定に含めるもの。
+（オプション）Advertising Cloud のサードパーティのデータ分類を通じて利用でき、オーディエンス設定に含める標準セグメント。
 
 ## ファーストパーティセグメント
 
-（オプション）アカウント用に読み込まれたファーストパーティセグメントや、カスタムセグメントをオーディエンス設定に含める場合。
+（オプション）アカウント用にインポートされたファーストパーティセグメントや、カスタムセグメントをオーディエンス設定に含めるためのもの。
 
 ## Adobeセグメント
 
-（オプション）オーディエンス設定に含めるAdobe AnalyticsまたはAdobe Audience Managerセグメント。
+（オプション）任意 [!DNL Adobe Real-Time Customer Data Profile]オーディエンス設定に含めるAdobe AnalyticsまたはAdobe Audience Managerセグメント。
 
 ## カスタムセグメント
 
-（オプション）カスタムのAdvertising Cloudセグメントピクセルを使用してキャプチャされ、オーディエンス設定に含めるユーザー作成セグメント。 これには、標準のカスタムセグメントとCCPAオプトアウトオブセールセグメントが含まれます。
+（オプション）カスタムのAdvertising Cloudセグメントピクセルを使用して取り込まれ、オーディエンス設定に含めるユーザー作成セグメント。 これには、標準のカスタムセグメントと CCPA オプトアウトオブセールセグメントが含まれます。
 
-## 保存されたオーディエンス
+## 保存済みオーディエンス
 
 （オプション）オーディエンスライブラリに組み込まれ、オーディエンス設定に含める既存のオーディエンス。
 
 >[!MORELIKETHIS]
 >
->* [Audience Managementについて](audience-about.md)
->* [再利用可能なオーディエンスの作成](reusable-audience-create.md)
->* [使用可能なサードパーティデータプロバイダー](third-party-data-providers.md)
+>* [Audience Management について](audience-about.md)
+>* [再利用可能なオーディエンスを作成](reusable-audience-create.md)
+>* [利用可能なサードパーティデータプロバイダー](third-party-data-providers.md)
 >* [オーディエンスセグメントロジックの構文](audience-segment-logic-syntax.md)
 >* [カスタムセグメントの作成と実装](custom-segment-create.md)
->* [セグメントの作成と [!UICONTROL CCPA Opt-Out-of-Sale] 実装](ccpa-opt-out-segment-create.md)
+>* [の作成と実装 [!UICONTROL CCPA Opt-Out-of-Sale] セグメント](ccpa-opt-out-segment-create.md)
 >* [配置設定](/help/dsp/campaign-management/placements/placement-settings.md)
 
