@@ -2,7 +2,7 @@
 title: '永続 ID パートナーから認証済みセグメントをアクティブ化する '
 description: 永続的な ID ソリューションを使用して認証済みのオーディエンスをアクティブ化する方法について説明します。
 feature: DSP Audiences
-source-git-commit: 8550b539676588c3a6bc07abe088b38bd4251725
+source-git-commit: 155ab740084bebfba5fd992a23706129668fcc90
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%
@@ -55,7 +55,7 @@ DSPとの統合の詳細については、以下を参照してください。 [
 
 >[!MORELIKETHIS]
 >
->*[オーディエンスソースからの認証済みセグメントのアクティブ化について](source-about.md)
+>* [オーディエンスソースからの認証済みセグメントのアクティブ化について](source-about.md)
 >* [オーディエンスソースを作成してファーストパーティオーディエンスをアクティブ化する](source-create.md)
 >* [Audience Source 設定](source-settings.md)
 >* [Adobe Advertising Cloud DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
