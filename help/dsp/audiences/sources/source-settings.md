@@ -2,9 +2,10 @@
 title: Audience Source 設定
 description: オーディエンスソースの設定について説明します。
 feature: DSP Audiences
-source-git-commit: 285ececc74373be4dee9d0a4bce2c82605082630
+exl-id: 8b17d5cc-488b-4bd2-bada-ef51b35faf92
+source-git-commit: 932b1ff979cb9b617502f9797af29e88ef77adf0
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 **[!UICONTROL Enter IMS Org Id]:** のExperience Cloud組織 ID [!DNL Adobe Experience Platform] アカウント
 
-**[!UICONTROL AAC Source Key]:** ( 読み取り専用、生成されます。 [!UICONTROL Enter IMS Org Id] フィールド ) [で宛先接続を作成する [!DNL Adobe Real-Time Customer Data Profile]](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-dsp-destination.html) オーディエンスをAdvertising Cloud DSPにプッシュする。 その値をクリップボードにコピーして、 [!DNL Adobe Real-Time CDP] 宛先接続設定またはファイルに書き込みます。
+**[!UICONTROL AAC Source Key]:** ( 読み取り専用、生成されます。 [!UICONTROL Enter IMS Org Id] フィールド ) [で宛先接続を作成する [!DNL Adobe Real-Time Customer Data Profile]](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html) オーディエンスをAdvertising Cloud DSPにプッシュする。 その値をクリップボードにコピーして、 [!DNL Adobe Real-Time CDP] 宛先接続設定またはファイルに書き込みます。
 
 >[!MORELIKETHIS]
 >
