@@ -3,9 +3,9 @@ title: 認定広告配信パートナー
 description: 認定済み広告サーバーと広告ユニットをすべて表示します。
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: f9b2dc85c71ac603609d3cd7168cb09b1b7cac16
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -41,23 +41,10 @@ ht-degree: 0%
 | [!DNL Innovid] | X | X |  | X |  |
 | [!DNL InSkin] |  |  | X |  | Inskin インベントリネットワーク全体で、180x150 のディスプレイ取引 ID から、高い影響を与えるスキンを提供する必要があります。 |
 | [!DNL Jivox] |  | X |  |  |  |
-| [!DNL Kargo] |  | X |  |  | 320 x 50 アンカー、BYOC、ホバー、ブレークアウト、サイドキック。300x250 アウトストリーム </br></br>お問い合わせ [!DNL Adobe] 広告ユニットの設定に関するサポートが必要な場合は、アカウントチームにお問い合わせください。 |
-| [!DNL Linkstorm] |  |  | X |  |  |
-| [!DNL mCanvas] |  |  | X |  |  |
-| [!DNL Medialets] |  | X |  |  |  |
-| [!DNL Moat] | X | X |  | X |  |
-| [!DNL PLAYGROUND XYZ] |  |  | X |  |  |
-| [!DNL Pubmatic] |  |  |  | X | VAST のみ |
-| [!DNL RevJet] |  |  |  | X | VAST のみ |
-| [!DNL Seedtag] |  | X |  |  |  |
-| [!DNL Sizmek] |  | X |  |  | UI でタグがレンダリングされるようにするには、タグを次のように囲みます。 `<a>` タグ（先頭と末尾）に追加します。 以下のサンプルタグを参照してください。</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` |
-| [!DNL Spaceback] |  | X |  |  |  |
-| [!DNL Spirable] |  | X |  |  |  |
-| [!DNL SUBLIME] |  |  | X |  |  |
-| [!DNL SundaySky] |  |  |  | X |  |
-| [!DNL Trueffect] |  | X |  |  |  |
-| [!DNL Undertone] |  |  | X |  | Advertising Cloud DSPで 180 x 150 としてアップロードされたカスタムページグラバー広告ユニット</br></br>Index Exchange が 180x150 のオークションを渡し、オークションでDSPが入札してインプレッションを提供すると、クリエイティブはフルページのディスプレイ広告に展開します。</br></br>最初は、Page Grabber、Expandable Destification、Screen Shift の広告ユニットに関する認定を受けていました。 プロセス用にマークされたステップを含む、再認証が必要です。 |
-| [!DNL Vox] |  |  | X |  | [!DNL Athena] 広告の単位 |
-| [!DNL Wunderkind] |  | X |  |  |  |
+| [!DNL Kargo] |  | X |  |  | 320 x 50 アンカー、BYOC、ホバー、ブレークアウト、サイドキック。300x250 アウトストリーム |
+認定された標準のデスクトップディスプレイ広告（特定の広告プラグイン ID は不要）。
+</br></br>お問い合わせ [!DNL Adobe] 広告ユニットの設定に関するサポートが必要な場合は、アカウントチームにお問い合わせください。 | | [!DNL Linkstorm] | | | X | | | | [!DNL mCanvas] | | | X | | | | [!DNL Medialets] | | X | | | | | [!DNL Moat] | X | X | | X | | | [!DNL PLAYGROUND XYZ] | | | X | | | | [!DNL Pubmatic] | | | | X | VAST のみ | | [!DNL RevJet] | | | | X | VAST のみ | | [!DNL Seedtag] | | X | | | | | [!DNL Sizmek] | | X | | | Sizmek は OLV および CTV の認定を受けています。 オーディオは認証されていません。
+UI でタグがレンダリングされるようにするには、タグを次のように囲みます。 `<a>` タグ（先頭と末尾）に追加します。 以下のサンプルタグを参照してください。</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` | | [!DNL Spaceback] | | X | | | | | [!DNL Spirable] | | X | | | | | [!DNL SUBLIME] | | | X | | | | [!DNL SundaySky] | | | | X | | | [!DNL Teads] | | X | | | |ディスプレイ向けに認定されたティード。 Adobeは、Outstream インベントリで VPAID をサポートしていません。
+| [!DNL Trueffect] | | X | | | | | [!DNL Undertone] | | | X | | Advertising Cloud DSPで 180 x 150 としてアップロードされたカスタムページグラバー広告ユニット</br></br>Index Exchange が 180x150 のオークションを渡し、オークションでDSPが入札してインプレッションを提供すると、クリエイティブはフルページのディスプレイ広告に展開します。</br></br>最初は、Page Grabber、Expandable Destification、Screen Shift の広告ユニットに関する認定を受けていました。 プロセス用にマークされたステップを含む、再認証が必要です。 | | [!DNL Vox] | | | X | | [!DNL Athena] 広告の単位 | | [!DNL Wunderkind] | | X | | | |
 
 {style=&quot;table-layout:auto&quot;}
