@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 611589fd6fa7067a6e5c6ddfb1f8bb5ed700a44b
+source-git-commit: 602d2dd36a83f5f438c444e8ccaaec92054f0186
 workflow-type: tm+mt
-source-wordcount: '1530'
+source-wordcount: '1560'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,7 @@ ht-degree: 0%
 | 日付 | 機能 | 説明 | 詳細情報 |
 | ---- | ------- | ----------- | -------------------- |
 | 2022 年 5 月 31 日 | オーディエンスソース | （ベータ版機能）Advertising Cloud DSPは、顧客データプラットフォーム (CDP) 内で作成された認証済みシグナルで構成されるファーストパーティセグメントを取り込めるようになりました。 | 参照：[オーディエンスソースからの認証済みセグメントのアクティブ化について](/help/dsp/audiences/sources/source-about.md).&quot; |
+| 2022 年 5 月 26 日 | 最適化目標 | ビデオおよびネイティブ配置を、カスタム目標「最高の ROAS 」と「最低の CPA 」を持つパッケージに含めることができるようになりました。 | 参照：[最適化目標とその使用方法](/help/dsp/optimization/optimization-goals.md).&quot; |
 | 2022 年 4 月 13 日 | Campaign Management | 広告の仕様を更新し、現在のサポートを反映しました。 | 参照：[サポートされる広告タイプの仕様](/help/dsp/campaign-management/ads/ad-specs.md).&quot; |
 | 2022 年 2 月 18 日 | ビデオチュートリアル | 「標準のディスプレイ配置の作成方法」に関する新しいビデオが利用できます。 | 詳しくは、 [Advertising CloudTutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html). |
 | 2022 年 1 月 31 日 | ヘルプ | に関する追加情報 [!DNL Deal IDs] および [!DNL Simple Ad Serving] が利用できるようになりました。 | 在庫/プライベート在庫のサブチャプターを参照してください。 |
