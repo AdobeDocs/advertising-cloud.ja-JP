@@ -3,9 +3,9 @@ title: 使用可能なレポート列
 description: カスタムレポートで使用可能な列の説明を参照してください。
 feature: DSP Custom Reports
 exl-id: c96e46ae-2fb2-4364-9c51-f160c00693ba
-source-git-commit: 3daf6a25f883a7eef42dff1c95a98a4f5e65f67e
+source-git-commit: 966b4b4ca42b66880e1b7cf29005eeb256887149
 workflow-type: tm+mt
-source-wordcount: '1658'
+source-wordcount: '1659'
 ht-degree: 0%
 
 ---
@@ -100,7 +100,7 @@ ht-degree: 0%
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Total Media CPM] | 1,000 インプレッションあたりの平均純メディアコスト ( [!UICONTROL Net Spend (Media)] / [!UICONTROL Impressions] x 1000 です。 |
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Total Other eCPM] | 他の手数料のインプレッション数 1,000 回あたりの平均純コスト ( [!UICONTROL Net Spend (Other)] / [!UICONTROL Impressions] x 1000 です。 |
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL % bid at Max CPM] | 最大 CPM で入札された合計入札額の割合。 |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Unique Users Bid On] | プレースメントが入札されたユニークユーザーの数。 |
+| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Unique Users Bid On] | プレースメントに対するDSPの入札のユニークユーザーの数。 |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Data Net Spend] | Advertising Cloudを通じて請求されたオーディエンスセグメントデータ料金の合計純コストです。 |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Media Net Spend] | Advertising Cloudを通じて請求される、技術費を含む請求可能なメディアの合計純コスト。 |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Other Net Spend] | Advertising Cloudを通じて請求されるその他のサービス料（サードパーティの検証パートナー、広告配信など）の合計コスト |
