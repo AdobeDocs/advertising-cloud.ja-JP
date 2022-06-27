@@ -8,7 +8,7 @@ user-guide-title: Advertising Cloud DSP ガイド
 user-guide-description: Advertising Cloud DSP を使用してディスプレイ広告戦略を管理、最適化およびレポートするために必要な主要機能、タスク、設定およびその他のリソースについて学習します。
 breadcrumb-title: DSP ガイド
 index: true
-source-git-commit: b56bda435ef8a34b4dd695a45dea28cef2b51c85
+source-git-commit: f4719ee56f340c5969795dfc482e2b409244757b
 workflow-type: tm+mt
 source-wordcount: '886'
 ht-degree: 6%
@@ -165,10 +165,10 @@ ht-degree: 6%
             + [プログラム的に保証された契約の交渉に関するヒント](/help/dsp/inventory/programmatic-guaranteed-tips.md)
             + [プログラム的に保証された契約の設定](/help/dsp/inventory/programmatic-guaranteed-set-up.md)
             + [!DNL FreeWheel] プログラム的に保証された取引 {#freewheel}
-            + [プログラムで保証された取引の設定の概要 [!DNL FreeWheel]](/help/dsp/inventory/freewheel-overview.md)
-            + [プログラム的に保証された契約の広告をに送信する [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
-            + [次の広告のステータスの確認 [!DNL FreeWheel] プログラム的に保証された取引](/help/dsp/inventory/freewheel-check-status.md)
-            + [FreeWheel 広告送信のエラーコード](/help/dsp/inventory/freewheel-error-codes.md)
+               + [プログラムで保証された取引の設定の概要 [!DNL FreeWheel]](/help/dsp/inventory/freewheel-overview.md)
+               + [プログラム的に保証された契約の広告をに送信する [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
+               + [次の広告のステータスの確認 [!DNL FreeWheel] プログラム的に保証された取引](/help/dsp/inventory/freewheel-check-status.md)
+               + [FreeWheel 広告送信のエラーコード](/help/dsp/inventory/freewheel-error-codes.md)
          + [Deal ID 設定の編集](/help/dsp/inventory/deal-id-edit.md)
          + [契約 ID のプレースメントと広告の指定](/help/dsp/inventory/deal-id-attach-placements.md)
          + [契約 ID へのアクセス権を持つアカウントの編集](/help/dsp/inventory/deal-id-share.md)
