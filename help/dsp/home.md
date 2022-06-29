@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 602d2dd36a83f5f438c444e8ccaaec92054f0186
+source-git-commit: 6d9c4db1b16a68217c6bc110cf3e0b9a93c2caa6
 workflow-type: tm+mt
-source-wordcount: '1560'
+source-wordcount: '1604'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 0%
 
 | 日付 | 機能 | 説明 | 詳細情報 |
 | ---- | ------- | ----------- | -------------------- |
+| 2022 年 6 月 30 日 | 在庫 | 新しい [!UICONTROL Inventory] > [!UICONTROL Deals] ビューには、 [!UICONTROL Campaigns] ビュー（フィルターを含む）、標準ビューとカスタムビュー、列の並べ替え、テーブルビューとグラフビューを使用するオプション。 各行でコマンドメニューを開くには、 [!UICONTROL ...] 契約名の後に。 | — |
 | 2022 年 5 月 31 日 | オーディエンスソース | （ベータ版機能）Advertising Cloud DSPは、顧客データプラットフォーム (CDP) 内で作成された認証済みシグナルで構成されるファーストパーティセグメントを取り込めるようになりました。 | 参照：[オーディエンスソースからの認証済みセグメントのアクティブ化について](/help/dsp/audiences/sources/source-about.md).&quot; |
 | 2022 年 5 月 26 日 | 最適化目標 | ビデオおよびネイティブ配置を、カスタム目標「最高の ROAS 」と「最低の CPA 」を持つパッケージに含めることができるようになりました。 | 参照：[最適化目標とその使用方法](/help/dsp/optimization/optimization-goals.md).&quot; |
 | 2022 年 4 月 13 日 | Campaign Management | 広告の仕様を更新し、現在のサポートを反映しました。 | 参照：[サポートされる広告タイプの仕様](/help/dsp/campaign-management/ads/ad-specs.md).&quot; |
