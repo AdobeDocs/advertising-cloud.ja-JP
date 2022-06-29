@@ -1,16 +1,15 @@
 ---
-title: 個人契約に関する詳細レポートの表示
+title: 非公開の詳細レポートの表示 [!UICONTROL On Demand]または [!UICONTROL Simple Ad Serving] 契約
 description: 契約レベルのレポートを開く方法を説明します。
-feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
-exl-id: 80ed239f-16c9-4aba-b1d2-2471133c676b
-source-git-commit: 83a4f400959846381b5a339edd2f4901e04b9826
+feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals, DSP On Demand Inventory, DSP Simple Ad Serving
+source-git-commit: 08b58c1d5c46761c7ab3ebf88ca87dddaadaaa47
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
-# 個人契約に関する詳細レポートの表示
+# 契約の詳細レポートの表示
 
 契約レベルのレポートには、オークション数、入札率、獲得率、インプレッション数、合計純費用、有効な CMP(eCPM)、完了率が含まれます。 広告主、キャンペーン、配置、広告タイプおよびサイト別に、追加のパフォーマンス指標を表示できます。
 
@@ -22,6 +21,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
+>* [について [!DNL On Demand] プレミアム在庫](on-demand-inventory-about.md)
 >* [プライベート在庫について](private-inventory-about.md)
->* [プライベート契約のプレースメントと広告のリスト](private-deal-view-placements.md)
+>* [について [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
 

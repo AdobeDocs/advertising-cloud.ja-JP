@@ -3,9 +3,9 @@ title: について [!UICONTROL Simple Ad Serving]
 description: 詳細 [!UICONTROL Simple Ad Serving] は、イベント追跡ピクセルを使用します。
 feature: DSP Simple Ad Serving
 exl-id: d65d1d8e-4d10-4d1d-86d3-f4457c29ae8d
-source-git-commit: 5a8aaa3fba6cca33915fc9720c78493f98244b61
+source-git-commit: cdb4f7c014ee4c7606c2e6acd5b3e2bfd08b275d
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 [!UICONTROL Simple Ad Serving] は、1 つの専用の配置を使用して、指定したパブリッシャーと単一の広告タイプに対して、決定されない保証された広告配信およびレポートを提供します。 用途 [!DNL Simple Ad Serving] パブリッシャーが deal ID を使用して契約を実行できない場合に発生します。 すべてのターゲティング、予算のペーシングと上限、頻度キャップは、投稿者が処理します。 イベント追跡ピクセルを使用して、これらの取引を実行します。
 
-を使用 [!UICONTROL Simple Ad Serving]各広告はパブリッシャー（サイト提供）によって直接提供され、DSPは、ピクセルを実装しDSP広告をトラフィックする必要があるパブリッシャーに送信するイベントトラッキングピクセルを提供します。 インベントリタイプに応じて、イベントピクセルはインプレッション、クリックスルー、ビデオ再生の各イベントを測定します。
+を使用 [!UICONTROL Simple Ad Serving]各広告はパブリッシャー（サイト提供）によって直接提供され、DSPは、パブリッシャーに送信するイベントトラッキングピクセルを提供します。このピクセルは、DSP広告を実装してトラフィックを伝える必要があります。 インベントリタイプに応じて、イベントピクセルはインプレッション、クリックスルー、ビデオ再生の各イベントを測定します。
 
 次の広告タイプを使用できます。
 
@@ -31,6 +31,11 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [の作成 [!UICONTROL Simple Ad Serving] 契約](simple-deal-create.md)
+>* [編集 [!UICONTROL Simple Ad Serving] 契約設定](simple-deal-edit.md)
 >* [[!UICONTROL Simple Ad Serving] 設定](simple-deal-settings.md)
->* [イベント追跡ピクセルの表示 [!UICONTROL Simple Ad Serving] 契約](simple-deal-show-pixels.md)
+>* [契約の詳細レポートの表示](/help/dsp/inventory/deal-view-report.md)
 
+
+<!-- add back when reimplemented:
+>* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+-->

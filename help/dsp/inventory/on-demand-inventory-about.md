@@ -3,9 +3,9 @@ title: について [!DNL On Demand] プレミアム在庫
 description: DSPがプレミアムパブリッシャーパートナーと事前にネゴシエートした契約について説明します。
 feature: DSP On Demand Inventory
 exl-id: d23d4e4e-f29f-4dba-afe3-7198ef4ee544
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *アカウントタイプを持つユーザーは利用できません [!UICONTROL Ad Network], [!UICONTROL Publisher Audience Extension]、および [!UICONTROL Other];カテゴリを持つ広告主 [!UICONTROL Other];および販売者*
 
-この [!DNL On Demand] ギャラリーは、Advertising Cloud DSPがプレミアムパブリッシャーパートナーとキュレーションした、事前に交渉された契約を調査するためのプレミアム在庫検出ツールです。 1 対 1 のネゴシエーションや契約を行う必要なく、地域のトップレベルのパブリッシャーから、保証されていないインベントリにアクセスできます。 個々の契約をリクエストし、パブリッシャーを購読して、パブリッシャーの契約をすべて一度にリクエストできます。
+この [!DNL On Demand] ギャラリーは、プレミアムパブリッシャーパートナーとキュレーションされた、事前にネゴシエートされた契約を調査するためのプレミアム在庫検出ツールです。 1 対 1 のネゴシエーションや契約を行う必要なく、地域のトップレベルのパブリッシャーから、保証されていないインベントリにアクセスできます。 個々の契約をリクエストし、パブリッシャーを購読して、パブリッシャーの契約をすべて一度にリクエストできます。
 
 Advertising Cloud DSP premium marketplace では、次のことが可能です。
 

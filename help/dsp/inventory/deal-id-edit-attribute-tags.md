@@ -3,9 +3,9 @@ title: 契約 ID の属性タグの編集
 description: ディール ID の属性タグを作成および編集する方法について説明します。
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 9a0190e7-26d0-4236-abbb-f1264b5d61e9
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
    * 既存のタグを契約に割り当てるには、 [!UICONTROL Custom Tags] リスト。
 
-   * 新しいタグを作成して契約に関連付けるには、 **[!UICONTROL Create new tag(s)]** 「 」フィールドで「 」をクリックし、 **[!UICONTROL Create and Associate Tag]**.
+   * タグを作成して契約に関連付けるには、 **[!UICONTROL Create new tag(s)]** 「 」フィールドで「 」をクリックし、 **[!UICONTROL Create and Associate Tag]**.
 
    * 契約から既存のタグを削除するには、 [!UICONTROL Custom Tags] リスト。
 

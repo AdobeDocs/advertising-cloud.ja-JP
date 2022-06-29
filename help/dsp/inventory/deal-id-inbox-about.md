@@ -3,9 +3,9 @@ title: について [!UICONTROL Deal ID Inbox]
 description: 詳しくは、 [!UICONTROL Deal ID inbox] 機能を使用すると、 [!DNL FreeWheel], [!DNL Google Authorized Buyers] ( 旧称： [!DNL AdX]), and [!DNL Magnite DV+] ( 以前の [!DNL Rubicon]) をクリックします。
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '491'
 ht-degree: 0%
 
 ---
@@ -45,11 +45,11 @@ DSPは、米国東部標準時の午前 4 時 30 分に、すべての契約の�
 
 ## 契約に対して実行できるアクション
 
-* **契約のレビュー** SSP が正しい発行者、フライト日、CPM、その他の契約の詳細を送信したことを確認する。 パブリッシャーが誤った場合は、DSPの外部で問い合わせて、契約を修正し、再送信できるようにします。
+* **契約のレビュー** SSP が正しい発行者、フライト日、CPM、その他の契約の詳細を送信したことを確認する。 パブリッシャーが間違いを犯した場合は、DSPの外部で問い合わせて、契約を修正し、再送信できるようにします。
 
 * **契約の承認** 確認後、これらは [!UICONTROL Deal ID inbox]. 受け入れられた契約は、 [!UICONTROL Inventory] > [!UICONTROL Deals] 広告主の配置内でターゲティングする準備が整っている。
 
-* **契約を無視** 不要なものや迷惑をかけているものを除き、 無視された契約は、 [!UICONTROL Ignored Deals] タブ内の [!UICONTROL Deal ID inbox]：アーカイブとして機能します。 契約を無視した場合、DSPは SSP および発行者に警告しません。
+* **契約を無視** 不要なものや迷惑をかけているものを除き、 無視された契約は、 [!UICONTROL Ignored Deals] タブ内の [!UICONTROL Deal ID inbox]：アーカイブとして機能します。 契約を無視した場合、DSPは SSP および発行者に警告を出しません。
 
 * **既に承諾済みの契約の詳細を変更** から [!UICONTROL Inventory] > [!UICONTROL Deals] ( [!UICONTROL Deal ID inbox]) をクリックします。 同様に、パブリッシャーが契約に変更を送信する場合、広告主は、 [!UICONTROL Inventory] > [!UICONTROL Deals] なぜなら [!UICONTROL Deal ID inbox] は、契約の設定後に SSP からの変更を同期しません。
 

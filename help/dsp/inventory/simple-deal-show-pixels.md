@@ -2,9 +2,10 @@
 title: のイベントピクセルの表示 [!UICONTROL Simple Ad Serving] 契約
 description: イベント追跡ピクセルのコピーを取得する方法を説明します。 [!UICONTROL Simple Ad Serving] 契約
 feature: DSP Simple Ad Serving
-source-git-commit: 22f5d8279fadfcf79e2cd41566321f423d63eb16
+exl-id: 88d18ddd-98ba-4e36-890c-d6ddfb7d59e5
+source-git-commit: a29019ee7af0124ad9182f0578811c4d0e666937
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -25,5 +26,7 @@ ht-degree: 0%
 >
 >* [について [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
 >* [の作成 [!UICONTROL Simple Ad Serving] 契約](simple-deal-create.md)
+>* [編集 [!UICONTROL Simple Ad Serving] 契約設定](simple-deal-edit.md)
 >* [[!UICONTROL Simple Ad Serving] 設定](simple-deal-settings.md)
+>* [契約の詳細レポートの表示](/help/dsp/inventory/deal-view-report.md)
 

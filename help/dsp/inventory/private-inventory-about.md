@@ -3,9 +3,9 @@ title: プライベート在庫について
 description: プライベート在庫について
 feature: DSP Private Inventory
 exl-id: 6b3923ca-ccd1-450e-bff0-139e3838c999
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ RTB を超えた広告主は、専用のメディアトランザクションを�
 
 ### 契約 ID
 
-パブリッシャーと直接の関係を持っている場合は、Advertising Cloud DSPのプレースメントで、独自のプライベート契約と、ネゴシエートされた在庫と価格を使用して、メディアの購入プロセスとワークフローを合理化できます。 アカウントを設定すると、DSPはすべてのパブリッシャーと統合されます。 後でその他の発行者にアクセスしたい場合は、 [!DNL Adobe] アクセスを設定するアカウントチーム。 <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
+パブリッシャーと直接の関係を持っている場合は、Advertising Cloud DSPのプレースメントで、独自のプライベート契約と、ネゴシエートされた在庫と価格を使用して、メディアの購入プロセスとワークフローを合理化できます。 DSPは、アカウントの設定時にすべてのパブリッシャーと統合されます。 後でその他の発行者にアクセスしたい場合は、 [!DNL Adobe] アクセスを設定するアカウントチーム。 <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
 
 契約 ID を持つすべての個人取引は、次の方法で資金を調達し、請求します [!DNL Adobe].
 
@@ -38,7 +38,7 @@ Deal ID は、次のいずれかの方法で使用できます。
 
 [!UICONTROL Simple Ad Serving] は、Advertising Cloud DSP以外で提供されるメディアに対して、決定されない、保証された広告配信およびレポートを提供します。
 
-各広告はパブリッシャーによって直接提供され、DSPは、ピクセルを実装し広告をトラフィックする必要があるパブリッシャーに送信するイベントトラッキングピクセルを提供します。
+各広告はパブリッシャーによって直接提供され、DSPは、パブリッシャーに送信するイベントトラッキングピクセルを提供します。このピクセルは、ピクセルを実装し、広告をトラフィックする必要があります。
 
 詳しくは、[について [!UICONTROL Simple Ad Serving]](simple-deal-about.md).&quot;
 

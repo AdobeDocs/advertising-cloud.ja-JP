@@ -3,9 +3,9 @@ title: '" [!UICONTROL Simple Ad Serving] 契約」'
 description: 「 [!UICONTROL Simple Ad Serving] 契約」
 feature: DSP Simple Ad Serving
 exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
-source-git-commit: 3eb63e9d7161c354736ce53ee21518882c541884
+source-git-commit: 089d91f7d1b06e29d27ac95a46834127d19c141d
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
          * 新しい広告の場合は、プロキシを作成します [サードパーティ広告](/help/dsp/campaign-management/ads/ad-create-multiple.md).
       >[!NOTE]
-      > DSPは、指定した広告を実際には提供しません。 パブリッシャーは広告を提供します。
+      > DSPは、指定した広告を提供しません。 パブリッシャーが広告を提供します。
 
       1. クリック **[!UICONTROL Next]**.
    1. 「 Feed Details 」で、フィードの詳細を編集し、 **[!UICONTROL Next]**.
@@ -48,7 +48,7 @@ ht-degree: 0%
          * デバイス上の電子メールアプリケーションの電子メールメッセージに情報を貼り付けるには、 **[!UICONTROL Email & Done]** 電子メールアプリケーションを選択します。 この [!UICONTROL CC:] フィールドに [!DNL Adobe] サポートアドレス。 その後、投稿者に適した連絡先にメッセージを送信できます。
 
          * 情報をクリップボードにコピーするには、 **[!UICONTROL Copy Email].** その後、電子メールメッセージにコンテンツを手動で貼り付け、投稿者に適した連絡先に送信できます。 コピー (CC:) をに含める必要があります `publisher-support-global@adobe.com`. メッセージのコピーが完了したら、 **[!UICONTROL Email & Done]**.
-      1. （必要に応じて）投稿者に進んで、タグに適切なマクロが含まれているかどうかを確認し、投稿者の広告サーバーでタグが機能するようにします。
+      1. （必要に応じて）投稿者に対してフォローアップを実行し、タグに適切なマクロが含まれているかどうかを確認します。これにより、タグが投稿者の広告サーバーで機能するようになります。
    * （オプション）パブリッシャーにイベント追跡ピクセルを手動で送信します。
 
       1. 内の契約行 [!UICONTROL Deals] 表示、クリック ![オプションメニュー](/help/dsp/assets/options-menu.png) **>[!UICONTROL show pixel]**.
@@ -63,5 +63,9 @@ ht-degree: 0%
 >
 >* [について [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
 >* [[!UICONTROL Simple Ad Serving] 設定](simple-deal-settings.md)
->* [イベント追跡ピクセルの表示 [!UICONTROL Simple Ad Serving] 契約](simple-deal-show-pixels.md)
+>* [契約の詳細レポートの表示](/help/dsp/inventory/deal-view-report.md)
 
+
+<!-- add back when reimplemented:
+>* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+-->

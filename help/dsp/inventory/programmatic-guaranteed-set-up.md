@@ -3,9 +3,9 @@ title: プログラム的に保証された契約の設定
 description: パブリッシャーとネゴシエートした、プログラム的に保証された (PG) 取引を設定する方法を説明します。
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 9e371606-5428-4635-9653-7dc43449e489
-source-git-commit: 3c9822890e96035fc9e44f8832efcc2889a8cb5f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## を使用してプログラム的に保証された契約を設定する [!DNL Deal ID Inbox] {#pg-setup-deal-id-inbox}
 
-これは、 [!DNL FreeWheel], [!DNL Google Authorized Buyers]、および [!DNL Magnite DV+].
+次の方法が、 [!DNL FreeWheel], [!DNL Google Authorized Buyers]、および [!DNL Magnite DV+].
 
 1. [契約を承認](deal-id-inbox-accept.md).
 

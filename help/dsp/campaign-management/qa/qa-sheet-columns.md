@@ -3,9 +3,9 @@ title: ダウンロード/アップロード済みスプレッドシートの列
 description: ダウンロードおよびアップロードした Excel QA スプレッドシートの列を参照します。
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 15f1e22dbc742d372dcabf2c029f2f7d72ff1d2f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '733'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ ht-degree: 0%
 | [!UICONTROL Brand Safety] | [!UICONTROL Site Safety Block] | サイトの安全ブロックが有効かどうか： *[!UICONTROL ON]* または *[!UICONTROL OFF]*.<!-- Whether or not the advertiser-level setting Enable Site Safety Block is enabled: *ON* or *OFF*.I don’t see this option at the placement level. Should there be one? --> | — |
 | [!UICONTROL Tracking] | [!UICONTROL Tracking Pixels #] | 配置に関連付けられているサードパーティのイベント追跡ピクセルの数、または *[!UICONTROL None]*. | — |
 | [!UICONTROL Tracking] | [!UICONTROL Conversion Pixels #] | 配置に関連付けられているコンバージョントラッキングピクセルの数、または *[!UICONTROL None]*. | — |
-| [!UICONTROL Tracking] | [!UICONTROL 3rd-party fees] | インプレッション数 1,000 回あたりの請求不可コストとして追跡される、静的なサードパーティの料金（該当する場合）。 | — |
+| [!UICONTROL Tracking] | [!UICONTROL 3rd-party fees] | 該当する場合、1,000 インプレッションあたりの請求不可コストとして追跡される、静的なサードパーティの料金。 | — |
 | [!UICONTROL Ads] | [!UICONTROL # of Ads Attached] | 配置に添付されている広告の数（添付されている場合）、または *[!UICONTROL None]*. | — |
 | [!UICONTROL Ads] | [!UICONTROL Ad Names] | 配置に関連付けられている広告の名前（関連付けられている場合）、または *[!UICONTROL None]*. | — |
 

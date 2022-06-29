@@ -1,10 +1,11 @@
 ---
 title: での PG 契約の設定の概要 [!DNL Freewheel]
-description: 'の公開者とプログラム的に保証された取引のために広告を実行するために必要な前提条件と追加手順について説明します。 [!DNL Freewheel]. '
+description: の公開者とプログラム的に保証された取引のために広告を実行するために必要な前提条件と追加手順について説明します。 [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: acf8351b-88fb-4f18-8fca-9a2d6674cdec
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,7 @@ ht-degree: 0%
 
    一部の英国のパブリッシャーの場合、 [!DNL Clearcast] 広告の時刻番号。
 
-1. [契約 ID を承認](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) の発行者と既に交渉を行っています [!DNL Freewheel] Deal ID インボックスを使用します。
+1. [契約 ID を承認](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) あなたが既に～の出版社と交渉している [!DNL Freewheel] Deal ID インボックスを使用します。
 
    契約を承認したら、プロンプトに従って 1) 契約に使用する広告を選択し、2) 広告を提供するプログラム的に保証されたデフォルトの配置を作成します。
 

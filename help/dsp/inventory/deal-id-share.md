@@ -1,20 +1,20 @@
 ---
-title: 契約 ID へのアクセス権を持つアカウントの編集
-description: 異なるアカウントとの契約 ID の共有を共有および停止する方法について説明します。
+title: 個人契約へのアクセス権を持つアカウントの編集
+description: 様々なアカウントとの個人取引の共有を停止する方法を説明します。
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 5ddd406d-1ee5-4d13-8e12-be575cbb7551
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: a29019ee7af0124ad9182f0578811c4d0e666937
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
-# 契約 ID へのアクセス権を持つアカウントの編集
+# 個人契約へのアクセス権を持つアカウントの編集
 
 複数のアカウントで 1 つの契約 ID を共有できます。 この契約は、指定したアカウント内のすべての広告主と共有されるので、これらのアカウントのすべてのユーザーが契約を編集したり、配置のターゲットとして使用したりできます。
 
-アカウントとの契約の共有を停止して、編集機能やターゲティング機能を削除できますが、レポート表示では、そのアカウントに対してフィードが表示されたままになります。
+アカウントとの契約の共有を停止して、編集機能やターゲティング機能を削除できますが、レポート表示では、これらのアカウントに対してフィードが表示されたままになります。
 
 >[!NOTE]
 >
@@ -24,21 +24,19 @@ ht-degree: 0%
 
 1. メインメニューで、 **[!UICONTROL Inventory]>[!UICONTROL Deals]**.
 
-1. 契約行で、「 ![オプションメニュー](/help/dsp/assets/options-menu.png) **>[!UICONTROL share]**.
+1. 契約行で、「 **[!UICONTROL ...]>[!UICONTROL Share]**.
 
 1. 共有する各アカウントについて：
 
-1. 次を入力します。 **[!UICONTROL Email Address]** 契約にアクセスできるアカウントの
+1. 次を入力します。 **[!UICONTROL Email Address]** 契約へのアクセス権を持つアカウントの
 
 1. クリック **[!UICONTROL Share]**.
-
-1. クリック **[!UICONTROL Cancel]** をクリックしてウィンドウを閉じます。
 
 ## アカウントとの契約 ID の共有を停止する
 
 1. メインメニューで、 **[!UICONTROL Inventory]>[!UICONTROL Deals]**.
 
-1. 契約行で、「 ![オプションメニュー](/help/dsp/assets/options-menu.png) **>[!UICONTROL share]**.
+1. 契約行で、「 **[!UICONTROL ...]>[!UICONTROL Share]**.
 
 1. 次の [!UICONTROL Account Email] 値を入力し、 **[!UICONTROL Unshare].**
 

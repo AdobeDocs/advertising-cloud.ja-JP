@@ -3,9 +3,9 @@ title: 配置設定
 description: 使用可能な配置設定の説明を参照してください。
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: c2fbaf3381ca4380c18d55931e9f4f662da892af
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '3278'
+source-wordcount: '3277'
 ht-degree: 0%
 
 ---
@@ -440,7 +440,7 @@ ht-degree: 0%
             広告主の IT 部門やその他のグループは、タグの導入をスケジュールしたり、通知を受けたりする必要がある場合があります。
    1. クリック **[!UICONTROL Save]**.
 
-**[!UICONTROL 3rd-party Fees]:** （オプション）インプレッション数 1,000 回あたりの請求不可能なコストとして追跡される、静的なサードパーティの料金。 別の値を入力しない限り、新しい配置には、パッケージレベルのデフォルトが自動的に適用されます（該当する場合）。
+**[!UICONTROL 3rd-party Fees]:** （オプション）1,000 件のインプレッションあたり、請求不可のコストとして追跡される、静的なサードパーティの料金。 別の値を入力しない限り、新しい配置には、パッケージレベルのデフォルトが自動的に適用されます（該当する場合）。
 
 >[!NOTE]
 >

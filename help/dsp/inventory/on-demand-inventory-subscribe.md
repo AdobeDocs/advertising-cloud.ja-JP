@@ -1,57 +1,28 @@
 ---
-title: ' [!DNL On Demand] プレミアム在庫取引の購読とリクエスト'
-description: 契約の購読方法と、[!DNL On Demand]契約へのアクセス権のリクエスト方法を説明します。
+title: 購読してへのアクセスをリクエスト [!DNL On Demand] プレミアム在庫取引
+description: 購読方法とへのアクセス権のリクエスト方法を説明します。[!DNL On Demand] 契約
 feature: DSP On Demand Inventory
 exl-id: e66e5bad-526e-4b71-8072-332dd173f105
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
 
-# [!DNL On Demand]プレミアム在庫取引の購読とリクエスト
+# 購読してへのアクセスをリクエスト [!DNL On Demand] プレミアム在庫取引
 
-*アカウントタイプ、 、のユーザーは [!UICONTROL Ad Network]使用 [!UICONTROL Publisher Audience Extension]できま [!UICONTROL Other]せん。カテゴリを持つ広告 [!UICONTROL Other]主および販売者*
+*アカウントタイプを持つユーザーは利用できません [!UICONTROL Ad Network], [!UICONTROL Publisher Audience Extension]、および [!UICONTROL Other];カテゴリを持つ広告主 [!UICONTROL Other];および販売者*
 
-個々のオーディエンスをリクエストしたり、パブリッシャーを購読して、パブリッシャーのすべてのオーディエンスをリクエストできます。 パブリッシャーを購読すると、DSPは、パブリッシャーに代わって新しいオファーを自動的にリクエストします。
+個々の契約をリクエストしたり、パブリッシャーを購読して、パブリッシャーの契約をすべてリクエストしたりできます。 パブリッシャーを購読すると、DSPは、パブリッシャーが代理で提供する新しい契約を自動的にリクエストします。
 
-契約が[承認された](/help/dsp/inventory/on-demand-inventory-view-status.md)の場合、デフォルトでは、すべての[!DNL On Demand]在庫をターゲットにする新しい配置のターゲットとしてその契約が含まれます。 新しいディールは既存のプレースメントのターゲットとしても使用できますが、ディールをターゲットとして追加するには、プレースメント設定を手動で編集する必要があります。
+契約が成立したら [承認済み](/help/dsp/inventory/on-demand-inventory-view-status.md)に含まれる場合は、デフォルトで、すべてをターゲットとする新しい配置のターゲットとして、 [!DNL On Demand] 在庫。 新しい契約は、既存の配置のターゲットとしても使用できますが、配置設定を手動で編集して、契約をターゲットとして追加する必要があります。
 
-## パブリッシャーのすべての契約を購読
+## パブリッシャーの契約のすべてを購読
 
-1. メインメニューで、**[!UICONTROL Inventory]>[!UICONTROL On Demand]**&#x200B;をクリックします。
+1. メインメニューで、 **[!UICONTROL Inventory]>[!UICONTROL On Demand]**.
 
-1. （オプション）次の条件のいずれかで、利用可能なオファーやパブリッシャーをフィルタリングします。
-
-   * キーワード検索
-
-   * **[!UICONTROL Publisher Region]**
-
-   * **[!UICONTROL Media Type]**
-
-   * 承認および拒否された契約(**[!UICONTROL Currently subscribed to]**)を含む、要求した契約または購読
-
-   * 承認された案件(**[!UICONTROL Currently have access to]**)
-
-   * **[!UICONTROL TV Broadcasters]**&#x200B;からの取引
-
-   * 「チューンイン」クリエイティブを受け入れる出版社の契約
-      **[!UICONTROL Tune-In]**)
-
-   * パブリッシャーが21件以上のターゲティングを適用し、アルコール広告を受け入れた契約(**[!UICONTROL Legal drinking age]**)
-
-1. 次のいずれかを実行します。
-
-   * （最近追加された発行者を購読するには）発行者のトップカルーセルで、発行者のロゴの上にカーソルを置き、**[!UICONTROL Subscribe]**&#x200B;をクリックします。
-
-   * （投稿者を購読する場合）**[!UICONTROL Subscription view]**&#x200B;をクリックし、投稿者のロゴの上にカーソルを置いて、**[!UICONTROL Subscribe]**&#x200B;をクリックします。
-
-## 個々の取引へのアクセスのリクエスト
-
-1. メインメニューで、**[!UICONTROL Inventory]>[!UICONTROL On Demand]**&#x200B;をクリックします。
-
-1. （オプション）次の条件のいずれかで、利用可能なオファーやパブリッシャーをフィルタリングします。
+1. （オプション）次の条件のいずれかで、利用可能な契約または発行者をフィルタリングします。
 
    * キーワード検索
 
@@ -59,38 +30,67 @@ ht-degree: 0%
 
    * **[!UICONTROL Media Type]**
 
-   * 承認および拒否された契約(**[!UICONTROL Currently subscribed to]**)を含む、要求した契約または購読
+   * お得な情報や、承認および拒否された情報 (**[!UICONTROL Currently subscribed to]**)
 
-   * 承認された案件(**[!UICONTROL Currently have access to]**)
+   * 承認済みの契約 (**[!UICONTROL Currently have access to]**)
 
-   * **[!UICONTROL TV Broadcasters]**&#x200B;からの取引
+   * 契約元 **[!UICONTROL TV Broadcasters]**
 
-   * 「チューンイン」クリエイティブを受け入れる出版社の契約
+   * 「tune-in」クリエイティブを受け入れる発行者の契約
       **[!UICONTROL Tune-In]**)
 
-   * パブリッシャーが21件以上のターゲティングを適用し、アルコール広告を受け入れた契約(**[!UICONTROL Legal drinking age]**)
+   * パブリッシャーが 21 件以上のターゲティングを適用し、アルコール広告 (**[!UICONTROL Legal drinking age]**)
 
 1. 次のいずれかを実行します。
 
-   * 最近追加した取引をリクエストする手順は、次のとおりです。
+   * （最近追加された発行者を購読するには）発行者の上部のカルーセルで、発行者のロゴの上にカーソルを置き、 **[!UICONTROL Subscribe]**.
 
-      1. 発行者の上部のカルーセルで、発行者のロゴの上にカーソルを置き、**[!UICONTROL See Deals]**&#x200B;をクリックします。
+   * （任意の投稿者を購読するには）をクリックします。 **[!UICONTROL Subscription view]**&#x200B;発行者のロゴの上にカーソルを置き、 **[!UICONTROL Subscribe]**.
 
-      1. 個々のデールを購読するには、該当する行の[!UICONTROL Action]列の&#x200B;**[!UICONTROL Request]**&#x200B;をクリックします。
-   * [!UICONTROL Deal]ビューから取引を要求するには、次の手順に従います。
+## 個々の契約へのアクセスをリクエスト
+
+1. メインメニューで、 **[!UICONTROL Inventory]>[!UICONTROL On Demand]**.
+
+1. （オプション）次の条件のいずれかで、利用可能な契約または発行者をフィルタリングします。
+
+   * キーワード検索
+
+   * **[!UICONTROL Publisher Region]**
+
+   * **[!UICONTROL Media Type]**
+
+   * お得な情報や、承認および拒否された情報 (**[!UICONTROL Currently subscribed to]**)
+
+   * 承認済みの契約 (**[!UICONTROL Currently have access to]**)
+
+   * 契約元 **[!UICONTROL TV Broadcasters]**
+
+   * 「tune-in」クリエイティブを受け入れる発行者の契約
+      **[!UICONTROL Tune-In]**)
+
+   * パブリッシャーが 21 件以上のターゲティングを適用し、アルコール広告 (**[!UICONTROL Legal drinking age]**)
+
+1. 次のいずれかを実行します。
+
+   * 最近追加した契約をリクエストする手順は、次のとおりです。
+
+      1. 発行者の上部のカルーセルで、発行者のロゴの上にカーソルを置き、 **[!UICONTROL See Deals]**.
+
+      1. 個々の契約を購読するには、 **[!UICONTROL Request]** 内 [!UICONTROL Action] 」列をクリックします。
+   * から契約を要求するには [!UICONTROL Deal] 表示：
 
       1. クリック **[!UICONTROL Deal view]**.
 
-      1. [!UICONTROL Action]列で&#x200B;**[!UICONTROL Request]**&#x200B;をクリックします。
+      1. クリック **[!UICONTROL Request]** 内 [!UICONTROL Action] 」列をクリックします。
 
 
 >[!MORELIKETHIS]
 >
->* [ [!DNL On Demand] AboutPremiumインベントリ](on-demand-inventory-about.md)
->* [Deal RequestsとSubscriptionsのス [!DNL On Demand] テータスの表示](on-demand-inventory-view-status.md)
->* [On Demand Premium在庫取引の再要求](on-demand-inventory-rerequest.md)
->* [[!DNL On Demand] アジア太平洋のプレミアムインベントリパブリッシャー](on-demand-inventory-publishers-apac.md)
->* [[!DNL On Demand] オーストラリアとニュージーランドのプレミアムインベントリパブリッシャー](on-demand-inventory-publishers-anz.md)
->* [[!DNL On Demand] ヨーロッパ、中東、アフリカのプレミアムインベントリ発行者](on-demand-inventory-publishers-emea.md)
->* [[!DNL On Demand] 北米のプレミアム在庫パブリッシャー](on-demand-inventory-publishers-na.md)
+>* [について [!DNL On Demand] プレミアム在庫](on-demand-inventory-about.md)
+>* [ステータスの表示 [!DNL On Demand] 契約リクエストと購読](on-demand-inventory-view-status.md)
+>* [オンデマンドプレミアム在庫契約の再要求](on-demand-inventory-rerequest.md)
+>* [[!DNL On Demand] アジア太平洋地域の Premium Inventory Publishers](on-demand-inventory-publishers-apac.md)
+>* [[!DNL On Demand] オーストラリアとニュージーランドの Premium Inventory Publishers](on-demand-inventory-publishers-anz.md)
+>* [[!DNL On Demand] ヨーロッパ、中東、アフリカの Premium Inventory Publishers](on-demand-inventory-publishers-emea.md)
+>* [[!DNL On Demand] 北米の Premium Inventory Publishers](on-demand-inventory-publishers-na.md)
 

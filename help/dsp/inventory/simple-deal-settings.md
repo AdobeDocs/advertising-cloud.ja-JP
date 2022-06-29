@@ -3,7 +3,7 @@ title: '''[!UICONTROL Simple Ad Serving] 契約設定`'
 description: 使用可能な設定の詳細 [!UICONTROL Simple Ad Serving] 契約
 feature: DSP Simple Ad Serving
 exl-id: 1a8f215c-c52b-4099-a55f-99c4232b7a22
-source-git-commit: 3eb63e9d7161c354736ce53ee21518882c541884
+source-git-commit: 17a73b5177b3dd79a32cd0b03bfa28d8ac8bf996
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 | **[!UICONTROL Media Quality Assessment?]** | （一部のユーザー）サードパーティの検証のために、別のDSPで広告を実行できるようにします。 <!-- Who can select this? It's disabled for me. Need to see if there are additional fields when this is enabled. --> |
 | **[!UICONTROL Ad Source]** | 唯一のオプションは *[!UICONTROL Site Serve (Event Pixels)]*. |
 | **[!UICONTROL Ad Creation]** | （新規契約のみ）次のいずれを実行するかを選択します。<ul><li>*[!UICONTROL Create New]:* この契約の広告を作成するには、以下を実行します。</li><li>*[!UICONTROL Select Ads]:* この契約に既存の広告を使用するには、以下を実行します。</li></ul> |
-| **[!UICONTROL Ad Type]** | この契約の広告タイプ。 契約の新しい広告を作成する場合は、リクエストに応じて、広告のサイズまたは期間を含めます。 使用可能なオプションは、メディアタイプによって異なります。 |
+| **[!UICONTROL Ad Type]** | この契約の広告タイプ。 契約の広告を作成する場合は、リクエストに応じて、広告のサイズまたは期間を含めます。 使用可能なオプションは、メディアタイプによって異なります。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 | パラメータ | 説明 |
 |-----------|-------------|
-| **[!UICONTROL Media CPM]** | インプレッション数 1,000 回あたりのコスト (CPM)。契約の料金カードに反映されます。 お問い合わせ [!DNL Adobe] この値のアカウントチーム。 <br><br>契約の通貨も指定します。 すべてのユーザーが USD を選択できます。SSP が追加の通貨をサポートしている場合は、DSPアカウントの通貨を選択できます。 |
+| **[!UICONTROL Media CPM]** | 1,000 インプレッションあたりのコスト (CPM)。契約の料金カードに反映されます。 お問い合わせ [!DNL Adobe] この値のアカウントチーム。 <br><br>契約の通貨も指定します。 すべてのユーザーが USD を選択できます。SSP が追加の通貨をサポートしている場合は、DSPアカウントの通貨を選択できます。 |
 | **[!UICONTROL Third Party Billed Fees]** | （オプション）請求不可コストとして追跡される静的なサードパーティ料金と、契約の通貨。<br><br>すべてのユーザーが USD を選択できます。SSP が追加の通貨をサポートしている場合は、DSPアカウントの通貨を選択できます。 **注意：** 請求可能な料金は、 [!UICONTROL Net CPM] 指標。 |
 | **[!UICONTROL Third Party Fee Description]** | （オプション）サードパーティの料金の説明。 |
 | **[!UICONTROL Flight Dates]** | この契約を使用するトラフィックの開始日と終了日。 フライト日は、キャンペーンのフライト日に含める必要があります。 広告タグは、指定されたフライト中にのみ応答を返します。<br><br> 1 年間の期間を持つ個別のシンプルな広告配信キャンペーンを作成し、その中にトラッキングピクセルを作成することをお勧めします。 |
@@ -82,5 +82,10 @@ But I see:
 >
 >* [について [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
 >* [の作成 [!UICONTROL Simple Ad Serving] 契約](simple-deal-create.md)
->* [イベント追跡ピクセルの表示 [!UICONTROL Simple Ad Serving] 契約](simple-deal-show-pixels.md)
+>* [編集 [!UICONTROL Simple Ad Serving] 契約設定](simple-deal-edit.md)
+>* [契約の詳細レポートの表示](/help/dsp/inventory/deal-view-report.md)
 
+
+<!-- add back when reimplemented:
+>* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+-->

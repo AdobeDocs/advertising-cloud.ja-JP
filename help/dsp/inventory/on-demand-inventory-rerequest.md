@@ -3,7 +3,7 @@ title: 再リクエスト [!DNL On Demand] プレミアム在庫取引
 description: 再リクエスト方法を学ぶ [!DNL On Demand] 以前に拒否された契約。
 feature: DSP On Demand Inventory
 exl-id: db5a5708-16e3-4304-8bd0-f1aa8ecd0e3c
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 0%
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    1. 利用可能な契約をフィルタリングして、リクエストした契約 (**[!UICONTROL Currently subscribed to]**)**。
 
-   1. （オプション） [!UICONTROL Subscriptio] 表示。フィルターに基づくすべての発行者のロゴと [!UICONTROL Deal] 「 」をクリックし、フィルターに基づいて各パブリッシャーのすべての契約が一覧表示されます。 **[!UICONTROL Subscription view]** および **[!UICONTROL Deal view]**&#x200B;必要に応じて。
+   1. （オプション） [!UICONTROL Subscription] 表示。フィルターに基づくすべての発行者のロゴと [!UICONTROL Deal] 「 」をクリックし、フィルターに基づいて各パブリッシャーのすべての契約が一覧表示されます。 **[!UICONTROL Subscription view]** および **[!UICONTROL Deal view]**&#x200B;必要に応じて。
 
    1. 個々の契約を再リクエストします。
    * 次の [!UICONTROL Deal] 表示、クリック **[!UICONTROL Rerequest]** 内 [!UICONTROL Action] 」列をクリックします。
