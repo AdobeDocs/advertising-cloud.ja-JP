@@ -3,9 +3,9 @@ title: プライベート在庫について
 description: プライベート在庫について
 feature: DSP Private Inventory
 exl-id: 6b3923ca-ccd1-450e-bff0-139e3838c999
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad4bdfdc637af34b02c42d6547c39301f2a0cf47
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,7 @@ ht-degree: 0%
 
 RTB を超えた広告主は、専用のメディアトランザクションを容易にするためにプライベートインベントリを使用できます。 非公開の取引所を使用すると、発行者は専用の在庫プールを作成でき、承認された広告主はこのプールを使用してリアルタイムプラットフォームを購入できます。 プライベート交換は、直接購入の信頼性と、効率性、効率化されたワークフロー、一元化されたキャンペーン分析などのプログラム的なメリットを提供します。
 
-## プライベート契約の設定方法
-
-### 契約 ID
+## 契約 ID
 
 パブリッシャーと直接の関係を持っている場合は、Advertising Cloud DSPのプレースメントで、独自のプライベート契約と、ネゴシエートされた在庫と価格を使用して、メディアの購入プロセスとワークフローを合理化できます。 DSPは、アカウントの設定時にすべてのパブリッシャーと統合されます。 後でその他の発行者にアクセスしたい場合は、 [!DNL Adobe] アクセスを設定するアカウントチーム。 <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
 
@@ -34,25 +32,14 @@ Deal ID は、次のいずれかの方法で使用できます。
 
 指定した広告主をまたいだ複数のキャンペーンの配置ターゲットとして、各個人契約を使用できます。 保証された契約の場合、契約の作成後にデフォルトの配置を作成する必要がありますが、追加の配置に同じ配置を追加して、デフォルトの配置を無視することができます。
 
-### [!UICONTROL Simple Ad Serving]
-
-[!UICONTROL Simple Ad Serving] は、Advertising Cloud DSP以外で提供されるメディアに対して、決定されない、保証された広告配信およびレポートを提供します。
-
-各広告はパブリッシャーによって直接提供され、DSPは、パブリッシャーに送信するイベントトラッキングピクセルを提供します。このピクセルは、ピクセルを実装し、広告をトラフィックする必要があります。
-
-詳しくは、[について [!UICONTROL Simple Ad Serving]](simple-deal-about.md).&quot;
-
 ## 「Deals」ビュー
 
-内 [!UICONTROL Inventory] > [!UICONTROL Deals] 表示すると、非公開契約の設定を作成できます。 また、任意の非公開契約の配置や広告のリストを表示したり、非公開契約のレポートを表示したり、非公開契約をアーカイブまたはアーカイブ解除したりすることもできます。
-
-Deal ID の場合は、Deal 設定の編集、Deal への配置と広告の関連付け、Deal にアクセスできる広告主とアカウントの編集、Deal の属性タグの編集もできます。
-
-単純な広告提供の掘り出し物の場合、契約のイベントトラッキングピクセルを表示できます。
+内 [!UICONTROL Inventory] > [!UICONTROL Deals] 表示すると、非公開契約の設定を作成できます。 いくつかの取引設定を編集することもできます。プレースメントと広告のリストを作成し、追加のプレースメントと広告を契約に付加する。契約にアクセスできる広告主とアカウントを編集する。個人契約のレポートを表示する。契約をアーカイブまたはアーカイブ解除します。<!-- ; or edit the attribute tags for a deal -->
 
 >[!MORELIKETHIS]
 >
 >* [在庫機能の概要](/help/dsp/inventory/inventory-overview.md)
 >* [について [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-about.md)
->* [について [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
+>* [Deal ID インボックスでの契約の承認](deal-id-inbox-accept.md)
+>* [Deal ID の詳細の手動作成](deal-id-create.md)
 
