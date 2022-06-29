@@ -3,7 +3,7 @@ title: カスタムセグメントの作成と実装
 description: Web ページを訪問した広告やユーザーにさらされるユーザーを追跡するカスタムセグメントを作成および実装する方法について説明します。
 feature: DSP Segments
 exl-id: 691903e2-773e-4205-837e-822f435f57a7
-source-git-commit: b6e77b91ad5626bb9ece45ec3f01126715dbe37b
+source-git-commit: bc8e476e1218681140a1748998c19f1f6c5c0866
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 0%
@@ -51,7 +51,7 @@ ht-degree: 0%
 
          1. インプレッショントラッキングタグ (「[!UICONTROL Desktop or mobile ads].&quot;
 
-         1. タグを [!UICONTROL Pixel] タブをクリックします。 [!UICONTROL Event Pixels] セクション [[!UICONTROL Tracking] 関連する各配置の設定](/help/dsp/campaign-management/placements/placement-settings.html#placement-tracking).
+         1. タグを [!UICONTROL Pixel] タブをクリックします。 [!UICONTROL Event Pixels] セクション [[!UICONTROL Tracking] 関連する各配置の設定](/help/dsp/campaign-management/placements/placement-settings.md#placement-tracking).
 
 
 トラッキングタグを実装すると、そのセグメントをオーディエンスのターゲットまたは除外で任意の配置に使用できます。
