@@ -3,7 +3,7 @@ title: 配置設定
 description: 使用可能な配置設定の説明を参照してください。
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: 8b1ae7385d7747f7073448aae5ad0a617f323562
 workflow-type: tm+mt
 source-wordcount: '3277'
 ht-degree: 0%
@@ -397,7 +397,7 @@ ht-degree: 0%
 
 **[!UICONTROL DoubleVerify Authentic Brand Safety]:** ( [!UICONTROL DoubleVerify Authentic Brand Safety] （オプション）有効 [!DNL DoubleVerify Authentic Brand Safety]：指定したセグメント ID に対して設定されたカスタムブランド安全ルールを使用して、入札後のインプレッションをブロックします。 DSPは、広告主の設定で指定されたセグメント ID の使用を目的としてアカウントを請求します。
 
-## [!UICONTROL Tracking]
+## [!UICONTROL Tracking] {#placement-tracking}
 
 >[!NOTE]
 >
