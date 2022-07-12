@@ -3,9 +3,9 @@ title: 認定広告配信パートナー
 description: 認定済み広告サーバーと広告ユニットをすべて表示します。
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: eeb7b84e8090f0831aea75a731d022cc099709a3
+source-git-commit: 84a3cbce1993fbb7b1a3d526f3bf8a1266635ce9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 0%
 | [!DNL ADventori] |  | X |  |  |  |
 | [!DNL Artsai] |  | X |  | X |  |
 | [!DNL Atlas] |  |  |  | X |  |
+| [!DNL Big Ads] |  |  | X |  |  | キューブ（デスクトップ）、キューブ（モバイル）、カード（デスクトップ）、ビッグリビール（デスクトップ）。 4 つの広告はすべて、AdobeUI で 300x250 として設定されています。 Magnite DV+経由でのみ認定 |
 | [!DNL Bonzai] |  |  | X |  |  |
 | [!DNL Contobox] |  |  | X |  |  |
 | [!DNL Conversant] |  | X |  |  |  |
@@ -50,7 +51,7 @@ ht-degree: 0%
 | [!DNL Pubmatic] |  |  |  | X | VAST のみ |
 | [!DNL RevJet] |  |  |  | X | VAST のみ |
 | [!DNL Seedtag] |  | X |  |  |  |
-| [!DNL Sizmek] |  | X |  | X | OLV および CTV</br></br>UI でタグがレンダリングされるようにするには、タグを次のように囲みます。 `<a>` タグ（先頭と末尾）に追加します。 以下のサンプルタグを参照してください。</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` |
+| [!DNL Sizmek] | X | X |  | X | OLV および CTV</br></br>UI でタグがレンダリングされるようにするには、タグを次のように囲みます。 `<a>` タグ（先頭と末尾）に追加します。 以下のサンプルタグを参照してください。</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` |
 | [!DNL Spaceback] |  | X |  |  |  |
 | [!DNL Spirable] |  | X |  |  |  |
 | [!DNL SUBLIME] |  |  | X |  |  |
