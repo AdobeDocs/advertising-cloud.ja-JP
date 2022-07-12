@@ -3,9 +3,9 @@ title: 認定広告配信パートナー
 description: 認定済み広告サーバーと広告ユニットをすべて表示します。
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: 84a3cbce1993fbb7b1a3d526f3bf8a1266635ce9
+source-git-commit: d3b2941af8d27447301fd6a4080ebab6352d503d
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 | [!DNL ADventori] |  | X |  |  |  |
 | [!DNL Artsai] |  | X |  | X |  |
 | [!DNL Atlas] |  |  |  | X |  |
-| [!DNL Big Ads] |  |  | X |  |  | キューブ（デスクトップ）、キューブ（モバイル）、カード（デスクトップ）、ビッグリビール（デスクトップ）。 4 つの広告はすべて、AdobeUI で 300x250 として設定されています。 Magnite DV+経由でのみ認定 |
+| [!DNL Big Ads] |  |  | X |  | キューブ（デスクトップ）、キューブ（モバイル）、カード（デスクトップ）、ビッグリビール（デスクトップ）。 これらの広告タイプをすべてDSPで 300x250 に設定します。 認定：経由のみ [!DNL Magnite DV+]. |
 | [!DNL Bonzai] |  |  | X |  |  |
 | [!DNL Contobox] |  |  | X |  |  |
 | [!DNL Conversant] |  | X |  |  |  |
