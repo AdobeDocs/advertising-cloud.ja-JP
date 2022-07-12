@@ -3,9 +3,9 @@ title: ダウンロード/アップロード済みスプレッドシートの列
 description: ダウンロードおよびアップロードした Excel QA スプレッドシートの列を参照します。
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: 0c3984d755131ad98b7ddecfd9567ff4be54b64e
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '751'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ ht-degree: 0%
 | [!UICONTROL Sites] | [!UICONTROL Categories - Excluded #] | 除外されたサイトカテゴリが指定されている場合の数、または *[!UICONTROL All]*. | — |
 | [!UICONTROL Sites] | [!UICONTROL Excluded Sites] | 除外されるサイト（指定されている場合）、または *[!UICONTROL None]*. | — |
 | [!UICONTROL Sites] | [!UICONTROL Language] | ターゲットのサイト言語。 | — |
-| [!UICONTROL Sites] | [!UICONTROL Allow unscreened sites] | 非監査サイトでの広告配信を許可するかどうか： *[!UICONTROL ON]* または *[!UICONTROL OFF]*. | — |
+| [!UICONTROL Sites] | [!UICONTROL Allow unscreened sites] | （標準のディスプレイ配置のみ）監査対象外のサイトでの広告配信を許可するかどうかを指定します。 *[!UICONTROL ON]* または *[!UICONTROL OFF]*. 配置がプライベート在庫をターゲットにする場合、このオプションはブロックされたサイトで広告を配信する可能性があります。 | — |
 | [!UICONTROL Sites] | [!UICONTROL Targeted Sites] | ターゲットサイトが指定されている場合はその数、 *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Included] | ターゲットオーディエンス（指定されている場合）、または *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Excluded] | 除外されたオーディエンス（指定されている場合）、または *[!UICONTROL None]*. | — |

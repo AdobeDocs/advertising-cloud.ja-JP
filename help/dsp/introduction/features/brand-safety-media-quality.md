@@ -3,9 +3,9 @@ title: ブランドの安全性とメディア品質
 description: ブランドの安全性とメディア品質の機能の詳細をご覧ください。
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: b436936e3a0edcb78497fadb6f3c4086412baaa5
 workflow-type: tm+mt
-source-wordcount: '1315'
+source-wordcount: '1365'
 ht-degree: 0%
 
 ---
@@ -79,6 +79,10 @@ Advertising Cloud DSPは、広告の実行が安全でないと見なされる�
 広告主を欺く活動を根絶するための Brand Safety イニシアティブの一環として、すべてのサイトは、グラフブロックサイトリストの測定を使用してスクリーニングされます。 ブランドの安全性チェックに合格しないすべてのサイトは、グローバルにブロックされたサイトリストに追加されます。 Advertising Cloud DSPはこのリストを動的に管理するので、最新のブランド安全性分析に基づいて、サイトはいつでもリストのオン/オフを切り替えることができます。
 
 グローバルにブロックされたサイトのリストにサイトを配置のターゲットとして含めると、サイトには赤い感嘆符 (!) でフラグが付けられます。 これは、フラグ付きのサイトで広告が実行されないことを示します。
+
+>[!NOTE]
+>
+>オプションで、信頼できる非公開取引に添付された標準ディスプレイ広告に対して、グローバルブロックサイトリストをバイパスするには、「[!UICONTROL Allow unscreened sites]」オプションが [配置設定](/help/dsp/campaign-management/placements/placement-settings.md). 必要に応じて、 [!DNL Adobe] アカウントチームは、オプションで、契約のパブリッシャー設定で、公開（オークションレベル）契約のサイトブロックを無効にすることもできます。
 
 #### アカウントレベルのサイトリストと広告主レベルのブロック済みサイトリスト
 

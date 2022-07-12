@@ -3,9 +3,9 @@ title: 配置設定
 description: 使用可能な配置設定の説明を参照してください。
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 8b1ae7385d7747f7073448aae5ad0a617f323562
+source-git-commit: ef8e13dc5f94ead81191862dbb37c17ae762682d
 workflow-type: tm+mt
-source-wordcount: '3277'
+source-wordcount: '3301'
 ht-degree: 0%
 
 ---
@@ -253,7 +253,7 @@ ht-degree: 0%
 
 オプションで、ターゲットサイトとブロックされたサイトのリストをコンマ区切り値 (CSV) ファイルとして書き出すことができます。 リストを書き出すには、 **[!UICONTROL Export full site list]**&#x200B;をクリックし、ブラウザーの通常の手順に従ってファイルを開くか保存します。
 
-<!-- **[!UICONTROL Allow unscreened sites]:** (XXX placements only) Allows you to XXXX.   Optional available for https://advertising.adobe.com/configurator/placement/edit/2432022 -->
+**[!UICONTROL Allow unscreened sites]:** （標準のディスプレイ配置のみ）監査対象でないサイトでの広告配信を有効にします。 配置がプライベート在庫をターゲットにする場合、このオプションはブロックされたサイトで広告を配信する可能性があります。
 
 **[!UICONTROL Paste list of targeted sites]:** 特定のサイトのみをターゲットにできます。 このオプションを有効にすると、その他のサイトのターゲット設定オプションは無効になります。
 
