@@ -5,8 +5,8 @@ breadcrumb-title: Experience Cloud との統合
 index: true
 source-git-commit: 5884da8177dac1313f69ba67a46713b4fd047640
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '134'
+ht-degree: 20%
 
 ---
 
