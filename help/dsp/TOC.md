@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP ガイド
 user-guide-description: Advertising Cloud DSP を使用してディスプレイ広告戦略を管理、最適化およびレポートするために必要な主要機能、タスク、設定およびその他のリソースについて学習します。
 breadcrumb-title: DSP ガイド
 index: true
-source-git-commit: d72707f9628e8e39eae36115b057d1cd332012f5
+source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '881'
 ht-degree: 6%
 
 ---
@@ -181,6 +181,7 @@ ht-degree: 6%
       + [個人契約のプレースメントと広告の指定](/help/dsp/inventory/deal-id-attach-placements.md)
       + [個人契約へのアクセス権を持つアカウントの編集](/help/dsp/inventory/deal-id-share.md)
       + [非公開契約へのアクセス権を持つ広告主の編集](/help/dsp/inventory/deal-id-edit-advertisers.md)
+      + [非公開契約のオークションインサイトの表示](/help/dsp/inventory/private-deal-auction-insights.md)
       + [プライベート契約のプレースメントと広告のリスト](/help/dsp/inventory/private-deal-view-placements.md)
       + [非公開契約のアーカイブまたはアーカイブ解除](/help/dsp/inventory/private-deal-archive-unarchive.md)
    + [!UICONTROL Simple Ad Serving] 契約 {#sas}

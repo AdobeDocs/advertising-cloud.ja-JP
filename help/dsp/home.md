@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 99c808d63e1d17d91832fdd38a2bce3fdf90aa44
+source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
 workflow-type: tm+mt
-source-wordcount: '954'
+source-wordcount: '1023'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 0%
 
 | 日付 | 機能 | 説明 | 詳細情報 |
 | ---- | ------- | ----------- | -------------------- |
+| 2022 年 7 月 27 日 | 在庫 | オークションインサイトは、保証済みと保証されていないプライベート契約の両方の契約構成を分析できる新しいトラブルシューティングツールです。 このツールは、データのビジュアライゼーションを使用して、特定の期間内にキーオークション属性に対して受け取った値のトレンドと相対比率を表示します。<br><br>パブリッシャーからの入札リクエストデータに対する透明性を確保することで、時間のかかるトラブルシューティング手順を避けることができます。 | 参照：[非公開契約のオークションインサイトの表示](/help/dsp/inventory/private-deal-auction-insights.md).&quot; |
 | 2022 年 6 月 30 日 | 在庫 | 新しい [!UICONTROL Inventory] > [!UICONTROL Deals] ビューには、 [!UICONTROL Campaigns] 追加のフィルター、列のカスタマイズ、カスタムビュー、列の並べ替え、データビジュアライゼーション（グラフ）ビューを保存するオプションを含むビュー。 各行でコマンドメニューを開くには、 [!UICONTROL ...] 契約名の後に。 | 参照：[在庫機能の概要](/help/dsp/inventory/inventory-overview.md).&quot; |
 |  | 在庫 [!UICONTROL Inspector] | この [!UICONTROL Inventory] 配置のタブ [!UICONTROL Inspector] には、カスタマイズ可能なデータ視覚化グラフと、次のような拡張されたパフォーマンス指標が含まれます。 [!UICONTROL Viewability Rate], [!UICONTROL Clicks]、および [!UICONTROL Yesterday's CPM]. | 参照：[プレースメントのサイト、広告、頻度および在庫の詳細を表示します](/help/dsp/campaign-management/reports/placement-details-view.md).&quot; |
 | 2022 年 5 月 31 日 | オーディエンスソース | （ベータ版機能）Advertising Cloud DSPは、顧客データプラットフォーム (CDP) 内で作成された認証済みシグナルで構成されるファーストパーティセグメントを取り込めるようになりました。 | 参照：[オーディエンスソースからの認証済みセグメントのアクティブ化について](/help/dsp/audiences/sources/source-about.md).&quot; |

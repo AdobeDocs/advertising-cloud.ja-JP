@@ -3,9 +3,9 @@ title: プライベート在庫について
 description: プライベート在庫について
 feature: DSP Private Inventory
 exl-id: 6b3923ca-ccd1-450e-bff0-139e3838c999
-source-git-commit: 0fb8417ed6ed261077affd4db071e207731058f9
+source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Deal ID は、次のいずれかの方法で使用できます。
 
 ## 「Deals」ビュー
 
-内 [!UICONTROL Inventory] > [!UICONTROL Deals] 表示すると、非公開契約の設定を作成できます。 いくつかの取引設定を編集することもできます。プレースメントと広告のリストを作成し、追加のプレースメントと広告を契約に付加する。契約にアクセスできる広告主とアカウントを編集する。個人契約のレポートを表示する。契約をアーカイブまたはアーカイブ解除します。<!-- ; or edit the attribute tags for a deal -->
+内 [!UICONTROL Inventory] > [!UICONTROL Deals] 表示すると、非公開契約の設定を作成できます。 いくつかの取引設定を編集することもできます。配置と広告をリストし、追加の配置と広告を個人契約に付加する。個人契約にアクセスできる広告主とアカウントを編集する。契約の実績レポートの表示非公開契約のオークションのインサイトを表示したり、契約をアーカイブまたはアーカイブ解除したりします。<!-- ; or edit the attribute tags for a deal -->
 
 さらに、フィルターの適用、表示される列のカスタマイズ、オプションでカスタムビューの保存、列の並べ替え、データをグラフとして表示することで、既存の取引データの表示方法をカスタマイズできます。
 

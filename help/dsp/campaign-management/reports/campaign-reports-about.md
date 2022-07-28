@@ -3,9 +3,9 @@ title: プラットフォーム内レポートについて
 description: キャンペーン管理ビューに含まれるレポートデータについて説明します。
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 7d081583ff10675b515aafdd97ccb3053f19c32d
+source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
 workflow-type: tm+mt
-source-wordcount: '938'
+source-wordcount: '940'
 ht-degree: 0%
 
 ---
@@ -75,7 +75,7 @@ ht-degree: 0%
 
 * **[!UICONTROL Inventory]:** プレースメントのターゲットとなるすべての契約に関する情報。
 
-   この [!UICONTROL Inventory] タブには、検索およびフィルタ機能、メインページで使用可能な標準およびカスタムの列表示オプション、各行のクイックアクションボタン ( [!UICONTROL Edit] および [!UICONTROL View Report]. この [!UICONTROL Inventory] 「 」タブには、パフォーマンス統計を表示することで、すばやくトラブルシューティングできます。 [!UICONTROL Auctions], [!UICONTROL Bids]、および [!UICONTROL Win Rate].
+   この [!UICONTROL Inventory] 「 」タブには、パフォーマンス統計を表示することで、すばやくトラブルシューティングできます。 [!UICONTROL Auctions], [!UICONTROL Bids]、および [!UICONTROL Win Rate]. このタブには、検索およびフィルタ機能、メインページで使用可能な標準およびカスタムの列表示オプション、および各行のクイックアクションボタン ( [!UICONTROL Edit], [!UICONTROL View Report]、および [[!UICONTROL Auction Insights] その他のトラブルシューティング](/help/dsp/inventory/private-deal-auction-insights.md).
 
 #### 在庫のトラブルシューティング
 
@@ -106,6 +106,6 @@ ht-degree: 0%
 >* [カスタム列表示の作成](column-view-create.md)
 >* [列表示の変更](column-view-change.md)
 >* [データビジュアライゼーションの管理](campaign-data-visualization-manage.md)
->* [キャンペーン管理ビューからのデータのエクスポート](campaign-export-data.md)
+>* [Campaign Managementビューからのデータの書き出し](campaign-export-data.md)
 >* [キャンペーンの詳細レポートの表示](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
 
