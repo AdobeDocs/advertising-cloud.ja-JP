@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 0808d101-3c6b-4671-b9e3-6f588427f8b5
-source-git-commit: b73abe16578069a0037cfb0a8520485a5d27790f
+source-git-commit: 5180665a7342d7222aa350298298d5bcc9b2e449
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 0%
 
 | 日付 | 機能 | 説明 | 詳細情報 |
 | ---- | ------- | ----------- | -------------------- |
+| 2022 年 8 月 18 日 | ヘルプ | 新しい章では、Advertising CloudがAdobe Audience Managerと統合されるすべての方法について説明します。 | 「[Advertising CloudとAdobe Audience Managerの統合](/help/integrations/audience-manager/overview.md).&quot; |
 | 2021 年 4 月 28 日 | [!DNL Analytics for Advertising Cloud] | 理由と追加方法を説明します [!DNL Analytics for Advertising Cloud] マクロを [!DNL Google Campaign Manager 360] クリックデータをAdobe Analyticsに送信するための広告タグ。 | 参照：[追加 [!DNL Analytics for Advertising Cloud] マクロ先 [!DNL Google Campaign Manager 360] 広告タグ](/help/integrations/analytics/macros-google-campaign-manager.md).&quot; |
 | 2021 年 4 月 19 日 | [!DNL Analytics for Advertising Cloud] | マクロをに追加する理由と方法を説明します [!DNL Flashtalking] クリックデータをAdobe Analyticsに送信するための広告タグ。 | 参照：[追加 [!DNL Analytics for Advertising Cloud] マクロ先 [!DNL Flashtalking] 広告タグ](/help/integrations/analytics/macros-flashtalking.md).&quot; |
 | 2021 年 10 月 27 日 | [!DNL Analytics for Advertising Cloud] | レガシーAdobe Analyticsの使用から切り替える場合 `visitorAPI.js` ライブラリを [Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html) ライブラリ (`alloy.js`) を参照してください。 | 参照：[の使用 [!DNL Last Event Service] Adobe Experience Platformを使用した JavaScript ライブラリ [!DNL Web SDK]](/help/integrations/analytics/web-sdk.md).&quot; |
