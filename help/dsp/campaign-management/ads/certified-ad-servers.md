@@ -3,7 +3,7 @@ title: 認定広告配信パートナー
 description: 認定済み広告サーバーと広告ユニットをすべて表示します。
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: d04672f1daddb7b57a7ab2ab9a0ad25a7ad40812
+source-git-commit: 2ef6a194f02748de3f8fee072a5c7eb65ecb80f8
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
@@ -40,7 +40,7 @@ ht-degree: 0%
 | [!DNL IAS] | X | X |  | X |  |
 | [!DNL IBM] |  | X |  | X |  |
 | [!DNL Innovid] | X | X |  | X |  |
-| [!DNL InSkin] |  |  | X |  | 高い影響を与えるスキン（Cavai Conversational 広告を含む）は、Inskin の在庫ネットワーク全体で 180x150 のディスプレイ契約 ID から提供する必要があります。 |
+| [!DNL Inskin] |  |  | X |  | 高い影響を与えるスキン（Cavai 対話型広告を含む）は、Inskin インベントリネットワーク全体で 180x150 のディスプレイ取引 ID から提供する必要があります。 |
 | [!DNL Jivox] |  | X |  |  |  |
 | [!DNL Kargo] |  | X |  |  | 320 x 50 アンカー、BYOC、ホバー、ブレークアウト、サイドキック。300x250 Outstream;標準のデスクトップディスプレイ（特定の広告プラグイン ID は不要）。</br></br>お問い合わせ [!DNL Adobe] 広告ユニットの設定に関するサポートが必要な場合は、アカウントチームにお問い合わせください。 |
 | [!DNL Linkstorm] |  |  | X |  |  |
