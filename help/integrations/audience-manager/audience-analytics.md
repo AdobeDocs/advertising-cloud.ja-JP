@@ -1,17 +1,18 @@
 ---
-title: '"[!DNL Adobe][!DNL Audience Analytics] Advertising Cloudのお客様向け»'
-description: 使用方法を学ぶ [!DNL Adobe][!DNL Audience Analytics] 広告のユースケース
+title: '''[!DNL Adobe] [!DNL Audience Analytics] (Advertising Cloudのお客様向け )'
+description: 使用方法を学ぶ [!DNL Adobe] [!DNL Audience Analytics] 広告のユースケース
 feature: Integration with Adobe Audience Manager
-source-git-commit: d83e36847d0e14bc7e83106c0a221680060c2e58
+exl-id: e05ba560-d3d5-4024-b1ba-956e878a2578
+source-git-commit: 4a7766e92ffaa8f32f0fe8941f6c85405bd2df3e
 workflow-type: tm+mt
 source-wordcount: '488'
 ht-degree: 0%
 
 ---
 
-# [!DNL Adobe][!DNL Adobe] (Advertising Cloudのお客様向け )
+# [!DNL Adobe] [!DNL Audience Analytics] (Advertising Cloudのお客様向け )
 
-[[!DNL Adobe][!DNL Audience Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html) は、Adobe Audience ManagerとAdobe Analyticsの統合で、Audience Managerのお客様がにセグメントを送信できるようにします。 [!DNL Analytics] サイトアクティビティに関するインサイトを強化します。
+[[!DNL Adobe] [!DNL Audience Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html) は、Adobe Audience ManagerとAdobe Analyticsの統合で、Audience Managerのお客様がにセグメントを送信できるようにします。 [!DNL Analytics] サイトアクティビティに関するインサイトを強化します。
 
 Advertising Cloudのお客様は、 [!DNL Audience Analytics]. 統合により、次のことが可能になります。
 
