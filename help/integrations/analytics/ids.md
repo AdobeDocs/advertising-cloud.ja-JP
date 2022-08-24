@@ -3,9 +3,9 @@ title: Advertising Cloud ID 使用者 [!DNL Analytics]
 description: Advertising Cloud ID 使用者 [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 8f0765251234b09eddaee721018285aee6b44b6a
 workflow-type: tm+mt
-source-wordcount: '1157'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -43,6 +43,30 @@ EF ID は、Advertising Cloudがアクティビティをオンラインクリッ
 
 ### EF ID 形式
 
+>[!NOTE]
+>
+>EF ID では大文字と小文字が区別されます。 次の場合、 [!DNL Analytics] 実装により、URL トラッキングが強制的に小文字に変換され、Advertising Cloudは EF ID を認識しません。 これはAdvertising Cloudの入札とレポートに影響しますが、内のAdvertising Cloudレポートには影響しません [!DNL Analytics].
+
+#### [!DNL Google Ads] 広告を検索
+
+```{gclid}:G:s```
+
+場所：
+
+* `gclid` が [!DNL Google Click ID] (GCLID) を使用します。
+* `s` はネットワークタイプです（「s」は検索用）。
+
+#### Microsoft Advertising 検索広告
+
+```{msclkid}:G:s```
+
+場所：
+
+* `msclkid` が [!DNL Microsoft Click ID] (MSCLKID)。
+* `s` はネットワークタイプです（「s」は検索用）。
+
+#### 他の検索エンジンでの広告と検索広告の表示
+
 ```<Advertising Cloud visitor ID>:<timestamp>:<channel type>```
 
 <!-- <*Advertising Cloud visitor ID*>:<*timestamp*>:<*channel type*> -->
@@ -60,10 +84,6 @@ EF ID は、Advertising Cloudがアクティビティをオンラインクリッ
    * `s` 検索広告のクリック（検索クリックスルー）。
 
 例 `EF `ID:WcmibgAAHJK1RyY:1551968087687:d
-
->[!NOTE]
->
->EF ID では大文字と小文字が区別されます。 次の場合、 [!DNL Analytics] 実装により、URL トラッキングが強制的に小文字に変換され、Advertising Cloudは EF ID を認識しません。 これはAdvertising Cloudの入札とレポートに影響しますが、内のAdvertising Cloudレポートには影響しません [!DNL Analytics].
 
 ### の EF IDDimension [!DNL Analytics]
 
