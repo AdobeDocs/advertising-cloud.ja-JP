@@ -1,9 +1,9 @@
 ---
 title: 広告主アカウント設定
 description: 使用可能な広告主設定の説明を参照してください。
-source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
+source-git-commit: d7afcc2200adc41e583d21712226cb25f35aab66
 workflow-type: tm+mt
-source-wordcount: '975'
+source-wordcount: '874'
 ht-degree: 0%
 
 ---
@@ -38,25 +38,19 @@ ht-degree: 0%
 
 （オプション） DSPアカウントにリンクされた追加のExperience Cloud製品。 製品は、 [!UICONTROL Adobe IMS IDs] 」セクションに入力します。
 
-**[!UICONTROL Adobe Media Optimizer]:** (Advertising Cloud Searchを持つ広告主、またはAdvertising Cloudコンバージョンピクセルを使用する広告主 ) A [!DNL Search] DSPがアトリビューションデータを交換するアカウント。
+**[!UICONTROL Attribution services]> [!UICONTROL Adobe Media Optimizer]:** (Advertising Cloud Searchを持つ広告主、またはAdvertising Cloudコンバージョンピクセルを使用する広告主 ) A [!DNL Search] DSPがアトリビューションデータを交換するアカウント。
 
-**[!UICONTROL Adobe Device Co-op or 3rd Party Graph]:** (Advertising Cloudコンバージョンピクセルを使用する広告主（オプション）Advertising Cloud Searchの広告主のアカウント設定から、ユーザーベースのアトリビューション測定にデバイスグラフを使用できます。
+**[!UICONTROL Report suites]> [!UICONTROL Adobe Analytics]:** (Adobe Analyticsの広告主オプション；は、 Advertising Cloudコンバージョントラッキングタグを使用して収集され、 [!DNL EF Redirect] およびトークンのみ ) 1 つ以上 [!DNL Analytics] パブリッシャーおよびサプライサイドのパートナーからDSPが収集したデータを送信するレポートスイート。 また、Analytics は、クライアントのサイトから収集したデータをDSPに送信します。
 
->[!NOTE]
->
-> * デバイスアトリビューションは、Advertising Cloudコンバージョントラッキングサービスを使用して追跡されたコンバージョンに対してのみ使用でき、Adobe Analyticsで追跡されたコンバージョンには使用できません。
-> * また、 [キャンペーンレベル](/help/dsp/campaign-management/campaigns/campaign-settings.md). その後、 [配置レベル](/help/dsp/campaign-management/placements/placement-settings.md) そして、次の周波数キャップ [パッケージレベル](/help/dsp/campaign-management/packages/package-settings.md) および [配置レベル](/help/dsp/campaign-management/placements/placement-settings.md). クロスデバイスでのターゲティングと頻度管理には、広告主レベルのアトリビューション測定は必要ありません。代わりに、キャンペーン設定で指定されたデバイスグラフを使用します。
-
-
-**[!UICONTROL Adobe Analytics]:** (Adobe Analyticsの広告主オプション；は、 Advertising Cloudコンバージョントラッキングタグを使用して収集され、 [!DNL EF Redirect] およびトークンのみ ) 1 つ以上 [!DNL Analytics] パブリッシャーおよびサプライサイドのパートナーからDSPが収集したデータを送信するレポートスイート。 また、Analytics は、クライアントのサイトから収集したデータをDSPに送信します。
-
-データをレポートスイートに表示する場合は、 [!DNL Search] 広告主レベルの設定を[!UICONTROL Enable tracking for SAINT feeds]」を有効にする必要があります。 また、 [!DNL Analytics] Advertising Cloudからデータを受け取るようにアカウントを設定する必要があります。 <!-- from Advertising Cloud or DSP in particular? Add cross-reference to file in Integrations section. -->
+データをレポートスイートに表示する場合は、 [!DNL Search] 広告主レベルの設定を[!UICONTROL Enable tracking for SAINT feeds]」を有効にする必要があります。 また、 [!DNL Analytics] Advertising Cloudからデータを受け取るようにアカウントを設定する必要があります。
 
 >[!WARNING]
 >
->以前にリンクしたレポートスイートを削除すると、DSPはそのスイートとのデータ交換を停止します。 データの変動を期待する。 <!-- Fluctuations where? Clarify -->
+>以前にリンクしたレポートスイートを削除すると、DSPはそのスイートとのデータ交換を停止します。 データの変動を期待する。
 
-**[!UICONTROL Adobe Analytics Cloud]:** (Adobe Audience Manager又はAdobe Analyticsの広告主（オプション）Audience Managerまたは [!DNL Analytics] DSPがすべての広告主のAdobeオーディエンスのセグメントメタデータ、階層データおよび一意のオーディエンスデータを取り込むアカウント。 これには、以下のデータが含まれます。
+との統合について詳しくは、 [!DNL Analytics]を参照してください。[の概要 [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/overview.md).&quot;
+
+**[!UICONTROL Audiences]> [!UICONTROL Adobe Analytics Cloud]:** (Adobe Audience Manager又はAdobe Analyticsの広告主（オプション）Audience Managerまたは [!DNL Analytics] DSPがすべての広告主のAdobeオーディエンスのセグメントメタデータ、階層データおよび一意のオーディエンスデータを取り込むアカウント。 これには、以下のデータが含まれます。
 
 * Audience Managerセグメント
 * [!DNL Analytics] Adobe Experience Cloudに公開されたセグメント
