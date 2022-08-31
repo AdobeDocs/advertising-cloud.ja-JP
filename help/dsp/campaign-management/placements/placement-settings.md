@@ -3,9 +3,9 @@ title: 配置設定
 description: 使用可能な配置設定の説明を参照してください。
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: ef8e13dc5f94ead81191862dbb37c17ae762682d
+source-git-commit: 04586c87f134deaa9a28f57d6f7587f023fd217a
 workflow-type: tm+mt
-source-wordcount: '3301'
+source-wordcount: '3304'
 ht-degree: 0%
 
 ---
@@ -288,7 +288,7 @@ ht-degree: 0%
 
 **[!UICONTROL Cross Device Targeting]:** ( 少なくとも 1 つのセグメントまたはオーディエンスを選択し、 [キャンペーンはユーザーベースのクロスデバイスターゲティング用に設定されます](/help/dsp/campaign-management/campaigns/campaign-settings.md). 指定したセグメントにないデバイスも含め、（キャンペーン設定で指定したデバイスグラフごとに）個人の既知のすべてのデバイスにわたってターゲティングを拡張できます。 費用は、キャンペーン用に指定したグラフに応じて適用される場合があります。 デバイスグラフのデータは、現在、北米でのみ使用できます。
 
-**[!UICONTROL Placement Cap]:** （オプション）個別のデバイスまたは人物が ( 指定した [!UICONTROL Cross Device Level]) は、配置から広告を提供します。 次のオプションがあります *[!UICONTROL Unlimited]* または 1 日、1 週間、1 ヶ月あたりの特定の金額。
+**[!UICONTROL Placement Cap]:** （オプション）個別のデバイスまたは人物が ( 指定した [!UICONTROL Cross Device Level] （キャンペーン用）は、配置から広告を提供します。 次のオプションがあります *[!UICONTROL Unlimited]* または 1 日、1 週間、1 ヶ月あたりの特定の金額。
 
 >[!NOTE]
 >

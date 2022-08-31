@@ -3,9 +3,9 @@ title: パッケージ設定
 description: 使用可能なパッケージ設定の説明を参照してください。
 feature: DSP Packages
 exl-id: b4d415d1-86a5-40bd-b645-1709b267c174
-source-git-commit: 4a699912468cd89efec0c1da9fdb6302ca93a3b4
+source-git-commit: 7fe6eb31d3330c5470077ca2766c41ae07c6c67f
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
@@ -73,7 +73,7 @@ ht-degree: 0%
 >
 >このフィールドは、単なるベンチマークであり、決定には使用されません。
 
-**[!UICONTROL Frequency Cap]:** （パッケージレベルのペーシングのみのパッケージ）一意のデバイスまたは人物 ( 指定した [!UICONTROL Cross Device Level]) は、パッケージから広告を提供できます。 次のオプションがあります *[!UICONTROL Unlimited]* または 1 日、1 週間、1 ヶ月あたりの特定の金額。
+**[!UICONTROL Frequency Cap]:** （パッケージレベルのペーシングのみのパッケージ）一意のデバイスまたは人物 ( 指定した [!UICONTROL Cross Device Level] キャンペーンの場合 ) は、パッケージから広告を提供できます。 次のオプションがあります *[!UICONTROL Unlimited]* または 1 日、1 週間、1 ヶ月あたりの特定の金額。
 
 >[!NOTE]
 >

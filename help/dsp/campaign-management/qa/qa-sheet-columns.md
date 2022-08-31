@@ -3,9 +3,9 @@ title: ダウンロード/アップロード済みスプレッドシートの列
 description: ダウンロードおよびアップロードした Excel QA スプレッドシートの列を参照します。
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 0c3984d755131ad98b7ddecfd9567ff4be54b64e
+source-git-commit: a3ddbe1aed444636e7bf45e7d52c8d5ee8ec1382
 workflow-type: tm+mt
-source-wordcount: '751'
+source-wordcount: '772'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ ht-degree: 0%
 | [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Included] | ターゲットオーディエンス（指定されている場合）、または *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Excluded] | 除外されたオーディエンス（指定されている場合）、または *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Demographic booster] | どうか [!DNL Comscore] 人口統計セグメントは、配置（およびキャンペーン内の他の配置）に対して有効になります。 *[!UICONTROL ON]* または *[!UICONTROL OFF]*. この機能は、 [!DNL Audience Verification] 機能は次の場合に有効です： [!DNL Nielsen] および/または [!DNL Comscore].  追加料金が必要です。 | — |
-| [!UICONTROL Audience Targeting] | [!UICONTROL Extend across screens] | デバイスをまたいで広告ターゲティングを拡張するかどうか： *[!UICONTROL ON]* または *[!UICONTROL OFF]*.<!-- Whether or not the Cross Device Targeting setting is enabled for the placement : *ON* or *OFF*. Cross-device targeting extends your targeting across all of a person's known device, per the device graph specified in the campaign settings.--> | — |
+| [!UICONTROL Audience Targeting] | [!UICONTROL Extend across screens] | デバイスをまたいで広告ターゲティングを拡張するかどうか： *[!UICONTROL ON]* または *[!UICONTROL OFF]*. クロスデバイスターゲティングでは、キャンペーン設定で指定されたデバイスグラフに従って、個人の既知のデバイスすべてにわたってターゲティングを拡張します。 | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Topic Targeting]  — 含まれる# | ターゲットとするトピックコードが指定されている場合は、その数、または *[!UICONTROL All]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Topic Targeting - Excluded #] | 除外されるトピックコードの数（指定されている場合）、または *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Device Targeting - Included #] | ターゲットデバイスターゲットの数（指定されている場合）、または *[!UICONTROL All]*. | — |

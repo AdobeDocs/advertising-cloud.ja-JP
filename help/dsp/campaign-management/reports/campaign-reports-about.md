@@ -3,7 +3,7 @@ title: プラットフォーム内レポートについて
 description: キャンペーン管理ビューに含まれるレポートデータについて説明します。
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
+source-git-commit: 093902d577cc4af3bb18bbeddc640fe284d3a179
 workflow-type: tm+mt
 source-wordcount: '940'
 ht-degree: 0%
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 * **[!UICONTROL Frequency]:** 配置の広告頻度レベルごとのデータ。以下を含みます。
    * 広告頻度レベル（ユーザーが 1 回広告を表示したすべてのインスタンスの「1」など）
-   * デバイス/ブラウザーまたはユーザーの推定ユニーク数（指定した数に応じて異なる） [!UICONTROL Cross Device Level] （配置に関して）指定された頻度レベルでインプレッションを受け取った人
+   * デバイス/ブラウザーまたはユーザーの推定ユニーク数（指定した数に応じて異なる） [!UICONTROL Cross Device Level] （キャンペーンの）指定された頻度レベルでインプレッションを受け取った人
    * 指定された頻度レベルでの推定インプレッション数
    * 指定した頻度レベルの推定平均頻度。 この値は、 (Estimated Impressions)/(Estimated Uniques) と等しくなります。
 
