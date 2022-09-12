@@ -3,9 +3,9 @@ title: 配置設定
 description: 使用可能な配置設定の説明を参照してください。
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 04586c87f134deaa9a28f57d6f7587f023fd217a
+source-git-commit: 7bbeb3013ad7cd84bf3a25f5ebf8b16a82a6f591
 workflow-type: tm+mt
-source-wordcount: '3304'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -96,13 +96,25 @@ ht-degree: 0%
 
 **[!UICONTROL Max Bid]:** 1,000 インプレッションに対して支払う最大額。
 
-**[!UICONTROL Pacing Fill Strategy]:** （パッケージレベルのペーシングのみのパッケージ）広告配信のペースを調整する方法：
+**[!UICONTROL Flight pacing]:** （配置レベルのペーシングのみの配置）広告配信のペースを調整する方法：
 
 * *[!UICONTROL Even]:* （デフォルト）各フライトを通じて配信を均等に配置し、フライトの前半の配信のターゲットは 50%になります。
+
+* *[!UICONTROL Slightly Ahead]:* （デフォルト）配信を加速し、飛行時間の途中で 55～65%完了するようにします。
 
 * *[!UICONTROL Frontload]:* 配信を加速し、飛行中に 65～75%完了するようにします。
 
 * *[!UICONTROL Aggressive Frontload]:* 配信を加速し、飛行中に 75～85%完了するようにします。
+
+**[!UICONTROL Intraday pacing]:** （配置レベルのペーシングのみの配置）フライト内の毎日の広告配信を遅らせる方法：
+
+* *[!UICONTROL Even]:* （デフォルト）在庫の可用性に基づいて配信の規模を拡大/縮小します。 一般に、オークション量が多いときは昼間に 1 時間あたりより多くの広告が配信され、朝晩に配信される広告は少なくなります。
+
+* *[!UICONTROL ASAP]:* （デフォルト）配信を *偶数*.
+
+   >[!CAUTION]
+   >
+   >このオプションは、パフォーマンスに悪影響を与える可能性があります。 配信を完全に優先し、パフォーマンスの最適化よりも費用を優先する場合にのみ使用してください。
 
 **[!UICONTROL Placement Pre-bid Filters]:** （オプション）入札を実行するために満たす必要がある最大 5 つのフィルター。 入札前フィルターを最適化戦術として使用できますが、各ルールでは、この配置で入札できる商談が制限される場合があることに注意してください。 フィルターを追加または編集するには：
 

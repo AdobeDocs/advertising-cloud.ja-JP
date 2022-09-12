@@ -3,9 +3,9 @@ title: パフォーマンスキャンペーンの設定のベストプラクテ�
 description: 最も低い CPA または最も高い ROAS 用に最適化された配置を含む、パフォーマンス重視のキャンペーンの設定に関するベストプラクティスを説明します。
 feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 1fd95b3193fba50ce7cd85b2ad6256a0ba346011
 workflow-type: tm+mt
-source-wordcount: '1232'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -83,9 +83,11 @@ Advertising Cloudは、獲得単価が最も低い (CPA) か、広告費用対�
    * 新しいパッケージが既存のパッケージと同じ目標を持つ場合は、オプションで既存のパッケージをリンクして、アルゴリズムが既存の機械学習データを使用できるようにします。
    * 適切な [!UICONTROL Target CPA] または [!UICONTROL Target ROAS].
 
-* **ペーシングフィル戦略：** 選択 *[!UICONTROL Even]* フライト日全体を通して均等にペーシングすることで、パフォーマンスの目標を最大化します。
+* **フライトぺーシングと日中ペーシング：** 両方のタイプのペーシングに対して、を選択します。 *[!UICONTROL Even]* 毎日、フライト全体を通して均等にペーシングすることで、パフォーマンスの目標を最大化します。
 
-   用途 *[!UICONTROL FrontLoad]* および *[!UICONTROL Aggressive Front Load]* 配信を完全に優先順位付けし、パフォーマンスの最適化よりも支出する場合にのみペーシングを行うことをお勧めします。これは、これらの戦略が目的のパフォーマンス KPI に悪影響を与える可能性があるためです。
+   >[!CAUTION]
+   >
+   >用途 *[!UICONTROL FrontLoad]* および *[!UICONTROL Aggressive Front Load]* フライトぺーシング用に *[!UICONTROL ASAP]* 配信を完全に優先し、パフォーマンスの最適化よりも費用をかける場合にのみ、日中のペーシングのペースを調整できます。これらの戦略は、目的のパフォーマンス KPI に悪影響を与える可能性があるからです。
 
 ## 手順 4 — 配置構造を作成する
 

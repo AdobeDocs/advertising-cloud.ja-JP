@@ -3,9 +3,9 @@ title: ダウンロード/アップロード済みスプレッドシートの列
 description: ダウンロードおよびアップロードした Excel QA スプレッドシートの列を参照します。
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: a3ddbe1aed444636e7bf45e7d52c8d5ee8ec1382
+source-git-commit: 3bec820ee1ae9bc4d3bf0ea31e3577730c980eb9
 workflow-type: tm+mt
-source-wordcount: '772'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 0%
 | [!UICONTROL Goals] | [!UICONTROL Optimization Target] | 目標のターゲット値。 | — |
 | [!UICONTROL Goals] | [!UICONTROL Pace on] | 配置が *[!UICONTROL Budget]* または *[!UICONTROL Impressions]*. | — |
 | [!UICONTROL Goals] | [!UICONTROL Max Bid] | プレースメントの最大入札額。 | はい |
-| [!UICONTROL Goals] | [!UICONTROL Pacing Fill Strategy] | 配置のペーシングフィル戦略： *[!UICONTROL evenly]*, *[!UICONTROL frontload]*&#x200B;または *[!UICONTROL aggressive frontload]*. | はい |
+| [!UICONTROL Goals] | [!UICONTROL Flight Pacing] | 配置のフライトペーシング戦略： *[!UICONTROL evenly]*, *[!UICONTROL frontload]*&#x200B;または *[!UICONTROL aggressive frontload]*. | はい |
 | [!UICONTROL Goals] | [!UICONTROL  Pre-Bid Filters] | 適用する入札前のフィルター条件。 | — |
 | [!UICONTROL Goals] | [!UICONTROL Bidding Rules] | 入札ルール（非推奨）が *[!UICONTROL ON]* または *[!UICONTROL OFF]*. | — |
 | [!UICONTROL Goals] | [!UICONTROL Frequency Cap] | 指定した配置の主な頻度キャップ [!UICONTROL Frequency Cap Interval]. | はい |

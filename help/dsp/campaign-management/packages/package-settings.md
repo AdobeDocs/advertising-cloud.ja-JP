@@ -3,9 +3,9 @@ title: パッケージ設定
 description: 使用可能なパッケージ設定の説明を参照してください。
 feature: DSP Packages
 exl-id: b4d415d1-86a5-40bd-b645-1709b267c174
-source-git-commit: 7fe6eb31d3330c5470077ca2766c41ae07c6c67f
+source-git-commit: 6331166f563e1404c077eb848eed049b4eb0706d
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -88,16 +88,25 @@ ht-degree: 0%
 
 * *[!UICONTROL Impressions]:* このオプションでは、指定された数量が指定された間隔内に達するまで、インプレッションを配信します。 このオプションを選択する場合は、インプレッション数と間隔を指定します。 *常に* *[!UICONTROL Daily],* *[!UICONTROL Monthly],* または *[!UICONTROL Weekly]*.
 
-**[!UICONTROL Pacing Fill Strategy]:** （パッケージレベルのペーシングのみのパッケージ）広告配信のペースを調整する方法：
+**[!UICONTROL Flight pacing]:** （パッケージレベルでペーシングのみのパッケージ）フライト全体で広告配信を遅らせる方法は次のとおりです。
 
 * *[!UICONTROL Even]:* フライトの前半の配信のターゲットの 50%を含む、各フライトを通して配信を均等に配置します。
 
 * *[!UICONTROL Slightly Ahead]:* （デフォルト）配信を加速し、飛行時間の途中で 55～65%完了するようにします。
 
-<!-- replaced with ASAP -->
 * *[!UICONTROL Frontload]:* 配信を加速し、飛行中に 65～75%完了するようにします。
 
 * *[!UICONTROL Aggressive Frontload]:* 配信を加速し、飛行中に 75～85%完了するようにします。
+
+**[!UICONTROL Intraday pacing]:** （パッケージレベルのペーシングのみのパッケージ）フライト内の毎日の広告配信を遅らせる方法は、次のとおりです。
+
+* *[!UICONTROL Even]:* （デフォルト）在庫の可用性に基づいて配信の規模を拡大/縮小します。 一般に、オークション量が多いときは昼間に 1 時間あたりより多くの広告が配信され、朝晩に配信される広告は少なくなります。
+
+* *[!UICONTROL ASAP]:* 配信を 2 倍の速度に高速化 *偶数*.
+
+   >[!CAUTION]
+   >
+   >このオプションは、パフォーマンスに悪影響を与える可能性があります。 配信を完全に優先し、パフォーマンスの最適化よりも費用を優先する場合にのみ使用してください。
 
 ## [!UICONTROL Flighting]
 
