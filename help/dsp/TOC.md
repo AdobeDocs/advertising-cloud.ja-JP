@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP ガイド
 user-guide-description: Advertising Cloud DSP を使用してディスプレイ広告戦略を管理、最適化およびレポートするために必要な主要機能、タスク、設定およびその他のリソースについて学習します。
 breadcrumb-title: DSP ガイド
 index: true
-source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
+source-git-commit: ea9c5ba9263be2c1607d682ac035caae70621020
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '936'
 ht-degree: 6%
 
 ---
@@ -135,8 +135,19 @@ ht-degree: 6%
          + [について [!UICONTROL CCPA Opt-out-of-Sale] セグメント](/help/dsp/audiences/ccpa-opt-out-about.md)
          + [の作成と実装 [!UICONTROL CCPA Opt-out-of-Sale] セグメント](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
          + [取得 [!UICONTROL Consumer Opt-Out-of-Sale] レポート](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
+      + [セグメント情報の編集](/help/dsp/audiences/segment-edit.md)
+      + [セグメントの共有または共有の停止](/help/dsp/audiences/segment-share.md)
+      + [セグメントの表示追跡ピクセル](/help/dsp/audiences/segment-view-pixels.md)
+      + [セグメントの削除](/help/dsp/audiences/segment-delete.md)
    + オーディエンス管理 {#reusable-audiences}
       + [再利用可能なオーディエンスを作成](/help/dsp/audiences/reusable-audience-create.md)
+      + [再利用可能なオーディエンスを複製](/help/dsp/audiences/reusable-audience-duplicate.md)
+      + [再利用可能なオーディエンスを編集](/help/dsp/audiences/reusable-audience-edit.md)
+      + [再利用可能なオーディエンスに関する詳細の表示](/help/dsp/audiences/reusable-audience-view-details.md)
+      + [再利用可能なオーディエンスの共有](/help/dsp/audiences/reusable-audience-share.md)
+      + [再利用可能なオーディエンスのエクスポート](/help/dsp/audiences/reusable-audience-export.md)
+      + [再利用可能なオーディエンスのセグメントキーをクリップボードにコピーする](/help/dsp/audiences/reusable-audience-clipboard.md)
+      + [再利用可能なオーディエンスの削除](/help/dsp/audiences/reusable-audience-delete.md)
       + [オーディエンス設定](/help/dsp/audiences/audience-settings.md)
       + [オーディエンスセグメントロジックの構文](/help/dsp/audiences/audience-segment-logic-syntax.md)
    + ソースの管理 {#sources}
