@@ -3,7 +3,7 @@ title: 広告の仕様
 description: 一般的な広告仕様およびパブリッシャー固有の広告仕様を参照します。
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: 40228a7de376cd4884d4cf7141c75516bc1a97ec
+source-git-commit: 8bc43253f15859c3b7dd7441fcbb4f34ecc98566
 workflow-type: tm+mt
 source-wordcount: '841'
 ht-degree: 0%
@@ -116,36 +116,36 @@ ht-degree: 0%
 
 #### その他の発行者要件
 
-* **[!DNL Spotify]**
-   * 長さ：最大 30 秒
-   * ファイルタイプ：OGG
-   * 最大ファイルサイズ：500MB
-   * ボリューム：-14 に正規化された RMSdBFS ピークを —0.2 dBFS に正規化
-
-* **[!DNL SoundCloud]**
-   * 長さ：6、15、30 秒
-   * ファイルタイプ：MP3
-   * 最大ファイルサイズ：5 MB
-
-* **[!DNL Pandora]**
-   * 長さ：15 または 30 秒
-   * ファイルタイプ：MP4（アプリ内）、MP3（デスクトップ）
-   * 最大ファイルサイズ：2.2 MB
-
-* **[!DNL TuneIn]**
-   * 長さ：10、15、30 秒
-   * ファイルタイプ：MP3、OGG
-   * ボリューム：44.1 kHz
-
 * **[!DNL iHeartRadio]**
    * 長さ：5、15、30、60 秒
    * ファイルタイプ：MP3
    * 最大ファイルサイズ：320 kbps
    * ボリューム：44.1 kHz
 
+* **[!DNL Pandora]**
+   * 長さ：15 または 30 秒
+   * ファイルタイプ：MP4（アプリ内）、MP3（デスクトップ）
+   * 最大ファイルサイズ：2.2 MB
+
+* **[!DNL SoundCloud]**
+   * 長さ：6、15、30 秒
+   * ファイルタイプ：MP3
+   * 最大ファイルサイズ：5 MB
+
+* **[!DNL Spotify]**
+   * 長さ：最大 30 秒
+   * ファイルタイプ：OGG
+   * 最大ファイルサイズ：500MB
+   * ボリューム：-14 に正規化された RMSdBFS ピークを —0.2 dBFS に正規化
+
 * **[!DNL TargetSpot]**
    * 長さ：15、30、60 秒
    * ファイルタイプ：MP3
+
+* **[!DNL TuneIn]**
+   * 長さ：10、15、30 秒
+   * ファイルタイプ：MP3、OGG
+   * ボリューム：44.1 kHz
 
 ### コンパニオンバナー広告の要件（オプション）
 
@@ -153,29 +153,29 @@ ht-degree: 0%
 
 #### その他の発行者要件
 
-* **[!DNL Spotify]:**
-   * ファイルタイプ：静的JPG、PNG
-   * 最大ファイルサイズ：200 KB
+* **[!DNL iHeartRadio]:**
+   * ファイルタイプ：JPEG,JPG, PNG,GIF,SWF,HTML
+   * 最大ファイルサイズ：2.2 MB
    * Dimension:300x250
-
-* **[!DNL SoundCloud]:**
-   * ファイルタイプ：静的JPG、PNG
-   * 最大ファイルサイズ：400 KB 未満
-   * Dimension:1024x1024
 
 * **[!DNL Pandora]:**
    * ファイルタイプ：JPEG、GIF
    * 最大ファイルサイズ：サイズ：100 KB
    * Dimension:300x250（モバイルまたはデスクトップ）または 500x500（デスクトップ）
 
+* **[!DNL SoundCloud]:**
+   * ファイルタイプ：静的JPG、PNG
+   * 最大ファイルサイズ：400 KB 未満
+   * Dimension:1024x1024
+
+* **[!DNL Spotify]:**
+   * ファイルタイプ：静的JPG、PNG
+   * 最大ファイルサイズ：200 KB
+   * Dimension:300x250
+
 * **[!DNL TuneIn]:**
    * ファイルタイプ：JPEG、JPG、PNG、GIF、HTML
    * 最大ファイルサイズ：2 MB
-   * Dimension:300x250
-
-* **[!DNL iHeartRadio]:**
-   * ファイルタイプ：JPEG,JPG, PNG,GIF,SWF,HTML
-   * 最大ファイルサイズ：2.2 MB
    * Dimension:300x250
  
 
