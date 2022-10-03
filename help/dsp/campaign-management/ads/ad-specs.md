@@ -3,9 +3,9 @@ title: 広告の仕様
 description: 一般的な広告仕様およびパブリッシャー固有の広告仕様を参照します。
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: 3c5a114339c2bf41637027c8580316626656fbba
+source-git-commit: 40228a7de376cd4884d4cf7141c75516bc1a97ec
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '841'
 ht-degree: 0%
 
 ---
@@ -54,15 +54,13 @@ ht-degree: 0%
 
 #### Connected TV 広告に関する追加の公開者要件
 
-* **フル：** Hulu&#39;s を参照 [広告の仕様](https://advertising.hulu.com/ad-products/video-commercial/).
-
-* **最適量：** Paramount&#39;s を参照 [広告の仕様](https://www.paramount.com/digital-ads).
+* **A+E ネットワーク：** A+E ネットワークを見る [広告の仕様](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
 
 * **検出：** 検出の参照 [広告の仕様](/help/dsp/assets/discovery-networks-ad-specs.pdf).
 
-* **最大 HBO:** HBO Max を参照 [広告の仕様](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
+* **ディズニー ( フル ):** ディズニーズを見る [広告の仕様](https://hulu.disneyadsales.com/ad-products/video-commercial/).
 
-* **A+E ネットワーク：** A+E ネットワークを見る [広告の仕様](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
+* **最大 HBO:** HBO Max を参照 [広告の仕様](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
 
 * **NBCUniversal:**
 
@@ -72,32 +70,7 @@ ht-degree: 0%
 
    * [クジャク](https://together.nbcuni.com/nbcu-creative-guidelines/peacock/)
 
-* **ディズニー：**
-
-   * ESPN Livestreaming:
-
-      **ビットレート：** > 14000 kbps
-      **形式：** .mp4
-      **タグの種類：** VAST 2.0
-      **クリエイティブサイズ：** 1280x720 または 1920x1080
-
-   * 全エピソードプログラミング (FEP):ESPN、ABC、フリーフォーム、Nat Geo、および FX
-
-      * **ビットレート：** > 14000 kbps:
-
-         **形式：** .mp4
-
-         **タグの種類：** VAST 2.0
-
-         **クリエイティブサイズ：** 1280x720 または 1920x1080
-
-      * **ビットレート：** > 1000 kbps （低解像度）または15000 kbps （高解像度）:
-
-         **形式：** .mp4
-
-         **タグの種類：** VAST 2.0（デスクトップ上での VPAID 1.0 のみ）
-
-         **クリエイティブサイズ：** 1280x720 または 1920x1080
+* **最適量：** Paramount&#39;s を参照 [広告の仕様](https://www.paramount.com/digital-ads).
 
 ## ディスプレイ広告
 
