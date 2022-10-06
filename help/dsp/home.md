@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: a3f676bd085571392a4add32f69fe0da4d4ae912
+source-git-commit: 3c951d738d5ef571b8f762df1f89ebd0360cd0f6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '842'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 0%
 
 | 日付 | 機能 | 説明 | 詳細情報 |
 | ---- | ------- | ----------- | -------------------- |
+| 2022 年 10 月 7 日 | キャンペーン | Campaigns ビューで、ペーシング関連の新しい指標列を使用できます。「昨日の OTS」（ターゲットの費用）、「昨日の配信」、「昨日の目標」、「今日の OTS」（ターゲットの費用）、「今日の配信」、「今日の目標」。 | 参照：[カスタム列表示の作成](/help/dsp/campaign-management/reports/column-view-create.md)&quot;および&quot;[カスタム列表示の編集](/help/dsp/campaign-management/reports/column-view-edit.md).&quot; |
 | 2022 年 9 月 13 日 | パッケージと配置のペーシング | フライトぺーシングと日中ペーシングに対して、個別のペーシング制御を利用できるようになりました。 以前は、1 つの戦略で両方が制御されていました。 既存のパッケージおよび配置の設定は、次のようにマッピングされました。<ul><li>レガシー **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Even]*  — 現在は次のように設定されています： **[!UICONTROL Flight pacing]**=*[!UICONTROL Even]* および **[!UICONTROL Intraday pacing]**=*[!UICONTROL Even]*</li><li>レガシー **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Slightly Ahead]*  — 現在は次のように設定されています： **[!UICONTROL Flight pacing]**=*[!UICONTROL Slightly Ahead]* および **[!UICONTROL Intraday pacing]**=*[!UICONTROL Even]*</li><li>レガシー **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Frontload]*  — 現在は次のように設定されています： **[!UICONTROL Flight pacing]**=*[!UICONTROL Frontload]* および **[!UICONTROL Intraday pacing]**=*[!UICONTROL ASAP]*</li><li>レガシー **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Aggressive Frontload]*  — 現在は次のように設定されています： **[!UICONTROL Flight pacing]**=*[!UICONTROL Aggressive Frontload]* および **[!UICONTROL Intraday pacing]**=*[!UICONTROL ASAP]*</li></ul> | 参照：[パッケージ設定](/help/dsp/campaign-management/packages/package-settings.md)&quot;および&quot;[配置設定](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |
 | 2022 年 7 月 27 日 | 在庫 | オークションインサイトは、保証済みと保証されていないプライベート契約の両方の契約構成を分析できる新しいトラブルシューティングツールです。 このツールは、データのビジュアライゼーションを使用して、特定の期間内にキーオークション属性に対して受け取った値のトレンドと相対比率を表示します。<br><br>パブリッシャーからの入札リクエストデータに対する透明性を確保することで、時間のかかるトラブルシューティング手順を避けることができます。 | 参照：[非公開契約のオークションインサイトの表示](/help/dsp/inventory/private-deal-auction-insights.md).&quot; |
 | 2022 年 6 月 30 日 | 在庫 | 新しい [!UICONTROL Inventory] > [!UICONTROL Deals] ビューには、 [!UICONTROL Campaigns] 追加のフィルター、列のカスタマイズ、カスタムビュー、列の並べ替え、データビジュアライゼーション（グラフ）ビューを保存するオプションを含むビュー。 各行でコマンドメニューを開くには、 [!UICONTROL ...] 契約名の後に。 | 参照：[在庫機能の概要](/help/dsp/inventory/inventory-overview.md).&quot; |
