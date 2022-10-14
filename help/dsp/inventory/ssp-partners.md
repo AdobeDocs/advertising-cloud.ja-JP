@@ -3,9 +3,9 @@ title: SSP パートナー
 description: 利用可能なサプライサイドプラットフォーム (SSP) とオープン交換パートナーの一覧を参照してください。
 feature: DSP Private Inventory
 exl-id: 8487f4ce-0232-4145-ad8b-b0631fd0ab7f
-source-git-commit: f6319fdee2e8509e0d0a960b6855a2c28d05d50a
+source-git-commit: 2c539b39962e1c8c54d6b2e8f48c010c814ce531
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 0%
 | [!DNL DailyMotion] | 該当なし | [!DNL TubeMogul] またはAdobe Advertising Cloud | いいえ | 米国+EMEA | USD、EUR | x | x | x |  |  |  |  |
 | [!DNL DistrictM] |  | Adobe | いいえ | US/CA | USD |  |  |  | x | x |  |  |
 | [!DNL EMX Digital] |  | Adobe Advertising Cloud | いいえ | US/CA | USD | x | x | x |  |  |  |  |
+| [!DNL Equativ] ( 以前の [!DNL SmartAdServer]) |  | [!DNL TubeMogul] またはAdobe Advertising Cloud | いいえ | グローバル | USD、EUR | x | x |  | x | x |  |  |
 | [!DNL FreeWheel] ( 以前の [!DNL StickyAds]) | [!DNL Comcast] | [!DNL TubeMogul] またはAdobe Advertising Cloud | はい | グローバル | USD, EUR, AUD, GBP | x | x | x |  |  |  |  |
 | [!DNL Fyber]/[!DNL Inneractive] |  | [!DNL TubeMogul] | いいえ | グローバル | USD | x | x |  |  |  |  |  |
 | [!DNL Google AdX] ( 今 [!DNL Google Authorized Buyers]) | [!DNL Google] | AdobeNA - 44912714<br>AdobeEU - 94893418<br>AdobeAPAC - 89185975 | はい | グローバル | USD、BRL | x | x | x | x | x |  | x |
@@ -39,7 +40,6 @@ ht-degree: 0%
 | [!DNL OpenX] | [!DNL OpenX] | [!DNL TubeMogul] またはAdobe Advertising Cloud | はい | グローバル | USD | x |  |  | x | x |  |  |
 | [!DNL PubMatic New ortb2.2] | [!DNL Pubmatic] | [!DNL TubeMogul] またはAdobe Advertising Cloud | いいえ | グローバル | USD | x | x | x | x | x |  |  |
 | [!DNL ShareThrough] |  | [!DNL TubeMogul] またはAdobe Advertising Cloud | いいえ | グローバル | USD | x | x |  | x | x | x |  |
-| [!DNL Smart Ad Server] |  | [!DNL TubeMogul] またはAdobe Advertising Cloud | いいえ | グローバル | USD、EUR | x | x |  | x | x |  |  |
 | [!DNL SmartClip] |  | Adobe Advertising Cloud | いいえ | EMEA | すべての通貨 | x | x | x | x | x |  |  |
 | [!DNL SmartStream] |  | Adobe Advertising Cloud | いいえ | EMEA | EUR、USD | x | x |  |  |  |  |  |
 | [!DNL Sortable] |  | Adobe Advertising Cloud | いいえ | CA | USD |  |  |  | x | x |  |  |

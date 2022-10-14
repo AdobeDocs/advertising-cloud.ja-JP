@@ -3,9 +3,9 @@ title: パフォーマンスキャンペーンの設定のベストプラクテ�
 description: 最も低い CPA または最も高い ROAS 用に最適化された配置を含む、パフォーマンス重視のキャンペーンの設定に関するベストプラクティスを説明します。
 feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: 1fd95b3193fba50ce7cd85b2ad6256a0ba346011
+source-git-commit: 22821c0fe8c2864ab36d7aa1141a7527cc08a35b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1249'
 ht-degree: 0%
 
 ---
@@ -123,6 +123,8 @@ CPA または ROAS の最適化は、パッケージレベルで設定します�
 * **[!UICONTROL Site Tier]**: [!UICONTROL All sites]
 
 ### オーディエンスのターゲティング
+
+<!-- Say something about limiting unnecessary constraints/limitations, including dayparting, which limit your chances for ad exposure. Use only when it's required for your audience. -->
 
 * **[!UICONTROL Included Audiences]:**
    * プロスペクト配置の場合、類似したオーディエンスカテゴリと類似したオーディエンスサイズを 1 つのプレースメントにグループ化します。 次に、パフォーマンスに応じて、次のいずれかの操作を行います。
