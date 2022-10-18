@@ -3,7 +3,7 @@ title: Advertising Cloud ID 使用者 [!DNL Analytics]
 description: Advertising Cloud ID 使用者 [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: 8f0765251234b09eddaee721018285aee6b44b6a
+source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 *Advertising Cloud DSPおよびAdvertising Cloud Searchに適用*
 
-Advertising Cloudでは、オンサイトパフォーマンストラッキングに 2 つの ID を使用します。の *EF ID* そして *AMO ID*.
+Advertising Cloudは、オンサイトパフォーマンストラッキングに 2 つの ID を使用します。の *EF ID* そして *AMO ID*.
 
 広告インプレッションが発生すると、Advertising Cloudは AMO ID と EF ID の値を作成して保存します。 広告を閲覧した訪問者が広告をクリックせずにサイトに入ったとき、 [!DNL Analytics] は、Advertising Cloudから [!DNL Analytics for Advertising Cloud] JavaScript コード。 ビュースルートラフィックの場合、 [!DNL Analytics] は追加の ID(`SDID`) で始まり、EF ID と AMO ID をステッチするために使用されます。 [!DNL Analytics]. クリックスルートラフィックの場合、これらの ID は `s_kwcid` および `ef_id` クエリー文字列パラメーター。
 
