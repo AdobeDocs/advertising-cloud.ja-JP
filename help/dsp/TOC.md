@@ -8,10 +8,10 @@ user-guide-title: Advertising Cloud DSP ガイド
 user-guide-description: Advertising Cloud DSP を使用してディスプレイ広告戦略を管理、最適化およびレポートするために必要な主要機能、タスク、設定およびその他のリソースについて学習します。
 breadcrumb-title: DSP ガイド
 index: true
-source-git-commit: ea9c5ba9263be2c1607d682ac035caae70621020
+source-git-commit: 8db395fce0006ce300b3e588c205ca9c87e30fb2
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '950'
+ht-degree: 6%
 
 ---
 
@@ -63,6 +63,7 @@ ht-degree: 0%
       + [パッケージの複製](/help/dsp/campaign-management/packages/package-duplicate.md)
       + [パッケージに配置を添付する](/help/dsp/campaign-management/packages/package-attach-placement.md)
       + [パッケージのアーカイブまたはアーカイブ解除](/help/dsp/campaign-management/packages/package-archive-unarchive.md)
+      + [パッケージの変更ログの表示](/help/dsp/campaign-management/packages/package-change-log.md)
       + [パッケージ設定](/help/dsp/campaign-management/packages/package-settings.md)
    + 配置 {#placements}
       + [配置管理について](/help/dsp/campaign-management/placements/placement-about.md)
@@ -73,6 +74,7 @@ ht-degree: 0%
       + [プレースメントへの広告の添付](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
       + [プレースメントの広告スケジュールの編集](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
       + [配置の詳細レポートの表示](/help/dsp/campaign-management/placements/placement-view-report.md)
+      + [配置の変更ログの表示](/help/dsp/campaign-management/placements/placement-change-log.md)
       + [配置の一時停止またはアクティブ化](/help/dsp/campaign-management/placements/placement-pause-activate.md)
       + [配置のアーカイブまたはアーカイブ解除](/help/dsp/campaign-management/placements/placement-archive-unarchive.md)
       + [配置設定](/help/dsp/campaign-management/placements/placement-settings.md)

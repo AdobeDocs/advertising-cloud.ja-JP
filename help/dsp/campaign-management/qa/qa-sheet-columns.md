@@ -3,9 +3,9 @@ title: ダウンロード/アップロード済みスプレッドシートの列
 description: ダウンロードおよびアップロードした Excel QA スプレッドシートの列を参照します。
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 1f7b76cec0c9d9af0fcfbad1bafb30505ffb2036
+source-git-commit: 12056598ae436123a867e6eaefde47657242dc73
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '781'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,8 @@ ht-degree: 0%
 | [!UICONTROL Goals] | [!UICONTROL Optimization Target] | 目標のターゲット値。 | — |
 | [!UICONTROL Goals] | [!UICONTROL Pace on] | 配置が *[!UICONTROL Budget]* または *[!UICONTROL Impressions]*. | — |
 | [!UICONTROL Goals] | [!UICONTROL Max Bid] | プレースメントの最大入札額。 | はい |
-| [!UICONTROL Goals] | [!UICONTROL Flight Pacing] | 配置のフライトペーシング戦略： *[!UICONTROL evenly]*, *[!UICONTROL slightly ahead]*, *[!UICONTROL frontload]*&#x200B;または *[!UICONTROL aggressive frontload]*. | はい |
+| [!UICONTROL Goals] | [!UICONTROL Flight Pacing] | 配置のフライトペーシング戦略： *[!UICONTROL Even]*, *[!UICONTROL slightly ahead]*, *[!UICONTROL frontload]*&#x200B;または *[!UICONTROL aggressive frontload]*. | はい |
+| [!UICONTROL Goals] | [!UICONTROL Intraday Pacing] | 配置の日中のペーシング戦略： *[!UICONTROL Even]* または *[!UICONTROL ASAP]*. | はい |
 | [!UICONTROL Goals] | [!UICONTROL  Pre-Bid Filters] | 適用する入札前のフィルター条件。 | — |
 | [!UICONTROL Goals] | [!UICONTROL Bidding Rules] | 入札ルール（非推奨）が *[!UICONTROL ON]* または *[!UICONTROL OFF]*. | — |
 | [!UICONTROL Goals] | [!UICONTROL Frequency Cap] | 指定した配置の主な頻度キャップ [!UICONTROL Frequency Cap Interval]. | はい |

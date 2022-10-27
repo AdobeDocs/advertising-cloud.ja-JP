@@ -3,9 +3,9 @@ title: キー配置設定をすばやく編集
 description: 主要な配置設定をすばやく変更する方法を説明します。
 feature: DSP Placements
 exl-id: 107ec263-a0f2-491b-8380-2cceaf51cae9
-source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,7 @@ ht-degree: 0%
 >* [配置の複製](placement-duplicate.md)
 >* [プレースメントの広告スケジュールの編集](placement-edit-ad-schedule.md)
 >* [配置の一時停止またはアクティブ化](placement-pause-activate.md)
+>* [配置の変更ログの表示](placement-change-log.md)
 >* [配置設定](placement-settings.md)
 >* [ビデオ：一括編集ツールを使用した配置の編集方法](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-edit-placement-tools.html)
 

@@ -3,9 +3,9 @@ title: 配置設定
 description: 使用可能な配置設定の説明を参照してください。
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 7bbeb3013ad7cd84bf3a25f5ebf8b16a82a6f591
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '3403'
 ht-degree: 0%
 
 ---
@@ -463,6 +463,7 @@ ht-degree: 0%
 >* [配置管理について](placement-about.md)
 >* [配置の作成](placement-create.md)
 >* [配置の編集](placement-edit.md)
+>* [配置の変更ログの表示](placement-change-log.md)
 >* [キーボードショートカット](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
 >* [Campaign Managementに関する FAQ](/help/dsp/campaign-management/campaign-management-faq.md)
 

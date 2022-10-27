@@ -3,9 +3,9 @@ title: パッケージ設定
 description: 使用可能なパッケージ設定の説明を参照してください。
 feature: DSP Packages
 exl-id: b4d415d1-86a5-40bd-b645-1709b267c174
-source-git-commit: 6331166f563e1404c077eb848eed049b4eb0706d
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '797'
 ht-degree: 0%
 
 ---
@@ -120,5 +120,6 @@ ht-degree: 0%
 >* [パッケージの作成](package-create.md)
 >* [パッケージの編集](package-edit.md)
 >* [パッケージに配置を添付する](package-attach-placement.md)
+>* [パッケージの変更ログの表示](package-change-log.md)
 >* [Campaign Managementに関する FAQ](/help/dsp/campaign-management/campaign-management-faq.md)
 

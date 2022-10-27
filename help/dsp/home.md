@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 3c951d738d5ef571b8f762df1f89ebd0360cd0f6
+source-git-commit: 9e1def0c5998ac35dbb2b466ed6ebc31f83fd026
 workflow-type: tm+mt
-source-wordcount: '842'
+source-wordcount: '949'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,11 @@ ht-degree: 0%
 
 | 日付 | 機能 | 説明 | 詳細情報 |
 | ---- | ------- | ----------- | -------------------- |
+| 2022 年 10 月 27 日 | キャンペーン | 選択した日付範囲で行われた変更を示す変更ログが、各パッケージおよび配置に対して使用できるようになりました。 | 参照：[パッケージの変更ログの表示](/help/dsp/campaign-management/packages/package-change-log.md)&quot;および&quot;[配置の変更ログの表示](/help/dsp/campaign-management/placements/placement-change-log.md).&quot; |
+|  |  | これで、 [!UICONTROL Intraday Pacing] 複数の配置に対する設定を同時に使用できます。 | 参照：[配置の編集](/help/dsp/campaign-management/placements/placement-edit.md#edit-multiple-placements)&quot;および&quot;[配置設定](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |
+|  |  | 「[!UICONTROL Intraday Pacing]」列は、Excel QA スプレッドシートで使用できます。 | 参照：[ダウンロード/アップロード済みスプレッドシートの列](/help/dsp/campaign-management/qa/qa-sheet-columns.md).&quot; |
+|  |  | 「[!UICONTROL Intraday Pacing]「 」列は、Campaigns ビューで使用できます。 | 参照：[カスタム列表示の作成](/help/dsp/campaign-management/reports/column-view-create.md)&quot;および&quot;[カスタム列表示の編集](/help/dsp/campaign-management/reports/column-view-edit.md).&quot; |
+|  |  | パッケージビューと配置ビューは、 [!UICONTROL Intraday Pacing] 設定。 | 参照：[キャンペーンデータをフィルタ](/help/dsp/campaign-management/reports/campaign-data-filter.md).&quot; |
 | 2022 年 10 月 7 日 | キャンペーン | Campaigns ビューで、ペーシング関連の新しい指標列を使用できます。「昨日の OTS」（ターゲットの費用）、「昨日の配信」、「昨日の目標」、「今日の OTS」（ターゲットの費用）、「今日の配信」、「今日の目標」。 | 参照：[カスタム列表示の作成](/help/dsp/campaign-management/reports/column-view-create.md)&quot;および&quot;[カスタム列表示の編集](/help/dsp/campaign-management/reports/column-view-edit.md).&quot; |
 | 2022 年 9 月 13 日 | パッケージと配置のペーシング | フライトぺーシングと日中ペーシングに対して、個別のペーシング制御を利用できるようになりました。 以前は、1 つの戦略で両方が制御されていました。 既存のパッケージおよび配置の設定は、次のようにマッピングされました。<ul><li>レガシー **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Even]*  — 現在は次のように設定されています： **[!UICONTROL Flight pacing]**=*[!UICONTROL Even]* および **[!UICONTROL Intraday pacing]**=*[!UICONTROL Even]*</li><li>レガシー **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Slightly Ahead]*  — 現在は次のように設定されています： **[!UICONTROL Flight pacing]**=*[!UICONTROL Slightly Ahead]* および **[!UICONTROL Intraday pacing]**=*[!UICONTROL Even]*</li><li>レガシー **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Frontload]*  — 現在は次のように設定されています： **[!UICONTROL Flight pacing]**=*[!UICONTROL Frontload]* および **[!UICONTROL Intraday pacing]**=*[!UICONTROL ASAP]*</li><li>レガシー **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Aggressive Frontload]*  — 現在は次のように設定されています： **[!UICONTROL Flight pacing]**=*[!UICONTROL Aggressive Frontload]* および **[!UICONTROL Intraday pacing]**=*[!UICONTROL ASAP]*</li></ul> | 参照：[パッケージ設定](/help/dsp/campaign-management/packages/package-settings.md)&quot;および&quot;[配置設定](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |
 | 2022 年 7 月 27 日 | 在庫 | オークションインサイトは、保証済みと保証されていないプライベート契約の両方の契約構成を分析できる新しいトラブルシューティングツールです。 このツールは、データのビジュアライゼーションを使用して、特定の期間内にキーオークション属性に対して受け取った値のトレンドと相対比率を表示します。<br><br>パブリッシャーからの入札リクエストデータに対する透明性を確保することで、時間のかかるトラブルシューティング手順を避けることができます。 | 参照：[非公開契約のオークションインサイトの表示](/help/dsp/inventory/private-deal-auction-insights.md).&quot; |

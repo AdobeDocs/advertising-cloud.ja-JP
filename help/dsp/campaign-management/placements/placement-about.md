@@ -3,16 +3,16 @@ title: Advertising Cloud DSPでの配置管理について
 description: 配置管理について説明します。
 feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: 0d6d5e807053f042e0da1da65fed5e33a34dd4a9
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
 
 # Advertising Cloud DSPでの配置管理について
 
-配置には、同じ広告タイプの 1 つ以上の広告に対するターゲティングパラメーターが含まれます。 単一のキャンペーンまたはパッケージ用のプレースメントを作成し、そのプレースメントに広告を割り当てることができます。 各キャンペーンまたはプレースメントには、指定した広告ローテーションを持つ複数のプレースメントを含めることができます。 デフォルトでは、広告は均等に回転されます。
+配置には、同じ広告タイプの 1 つ以上の広告に対するターゲティングパラメーターが含まれます。 単一のキャンペーンまたはパッケージ用のプレースメントを作成して、そのプレースメントに広告を割り当てることができます。 各キャンペーンまたはプレースメントには、指定した広告ローテーションを持つ複数のプレースメントを含めることができます。 デフォルトでは、広告は均等に回転されます。
 
 アクティブなパッケージまたはキャンペーンにアクティブなプレースメントを割り当てると、プレースメント内のアクティブで承認済みの広告は、プレースメントのターゲティングパラメーターに基づいて実行できるようになります。
 
@@ -45,8 +45,9 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [配置の作成](/help/dsp/campaign-management/placements/placement-create.md)
->* [配置設定](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [配置の作成](placement-create.md)
+>* [配置の変更ログの表示](placement-change-log.md)
+>* [配置設定](placement-settings.md)
 
    >*[パフォーマンスのトラブルシューティング](/help/dsp/optimization/troubleshooting-performance.md)
 
