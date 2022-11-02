@@ -2,9 +2,10 @@
 title: Advertising Cloud ID を使用した作成 [!DNL Marketing Channels] ルール
 description: Advertising Cloud ID を使用しての処理ルールを作成する方法を説明します。 [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 4fcdd586-e9c5-4405-a6dc-7799d2bac93e
+source-git-commit: d136b1fe6f6fd3861d0850e07efe7c320da4a7cc
 workflow-type: tm+mt
-source-wordcount: '766'
+source-wordcount: '767'
 ht-degree: 0%
 
 ---
@@ -83,7 +84,7 @@ AMO EF ID(EF ID) は、 [!DNL Analytics for Advertising Cloud] 統合とも呼�
 
 #### ビュースルールを表示
 
-表示ビュースルーチャネルを作成するには、EF ID が「:i」で終わるルールを作成します。 訪問者が広告をクリックしなかったので、ビュースルートラッキングには `ef_id` または `s_kwcid` 」と入力します。 したがって、必要な条件は 1 つだけです。
+表示ビュースルーチャネルを作成するには、EF ID が「:i」で終わるルールを作成します。 訪問者が広告をクリックしなかったので、ビュースルートラッキングには `ef_id` または `s_kwcid` 」と入力する必要があるので、ルールに必要な条件は 1 つだけです。
 
 ![表示ビュースルールの例](/help/integrations/assets/a4adc-mc-rule-display-vt.png)
 

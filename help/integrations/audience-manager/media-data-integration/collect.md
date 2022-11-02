@@ -2,7 +2,8 @@
 title: Advertising Cloud DSP Campaigns からのクリックおよびインプレッションデータの収集
 description: Audience Managerピクセルを使用してAdvertising Cloud DSP広告から cookie ベースのインプレッションとクリックイベントをキャプチャする方法を説明します。
 feature: Integration with Adobe Audience Manager
-source-git-commit: b4dae983d390aaa5476951aa0c4c39648f07975c
+exl-id: eb717148-00ab-428a-97b9-e8396a5c47b0
+source-git-commit: 8de057df8bf2b67f20a915e6e711902f11176747
 workflow-type: tm+mt
 source-wordcount: '1062'
 ht-degree: 0%
@@ -40,11 +41,15 @@ Audience Managerで、 [データソース](https://experienceleague.adobe.com/d
 
 **インプレッション追跡ピクセル：**
 
-`[Audience Manager customer domain].demdex.net/event?d_event=imp&d_src=[source id]&d_campaign=${TM_CAMPAIGN_ID_NUM}` を使用 [オプションの追加パラメーター](#parameters) 先頭に `&`
+`[Audience Manager customer domain].demdex.net/event?d_event=imp&d_src=[source id]&d_campaign=${TM_CAMPAIGN_ID_NUM}`
+
+と [オプションの追加パラメーター](#parameters) 先頭に `&`
 
 **クリック追跡ピクセル：**
 
-`[Audience Manager customer domain].demdex.net/event?d_event=click&d_src=[source id]&d_rd=[redirect URL]&d_campaign=${TM_CAMPAIGN_ID_NUM}` と [オプションの追加パラメーター](#parameters) 先頭に `&`
+`[Audience Manager customer domain].demdex.net/event?d_event=click&d_src=[source id]&d_rd=[redirect URL]&d_campaign=${TM_CAMPAIGN_ID_NUM}`
+
+と [オプションの追加パラメーター](#parameters) 先頭に `&`
 
 ここで、
 
