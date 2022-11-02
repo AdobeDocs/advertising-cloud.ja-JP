@@ -3,10 +3,10 @@ user-guide-title: Adobe Experience Cloud との統合
 user-guide-description: Advertising Cloud DSP および Advertising Cloud Search と他の Adobe Experience Cloud 製品およびサービスとの統合について学習します。
 breadcrumb-title: Experience Cloud との統合
 index: true
-source-git-commit: 0ca3c49788cc5f688b72051e55d44b5768fead62
+source-git-commit: cc6042df60950ae09dccce262d6c32deed6bc313
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '201'
+ht-degree: 13%
 
 ---
 
@@ -43,4 +43,5 @@ ht-degree: 0%
       + [DSP Campaigns からインプレッションとクリックデータを収集](/help/integrations/audience-manager/media-data-integration/collect.md)
       + [使用例](/help/integrations/audience-manager/media-data-integration/use-cases.md)
    + [Advertising Cloudのお客様向けのAdobeAudience Analytics](/help/integrations/audience-manager/audience-analytics.md)
++ [Adobe TargetでAdvertising Cloud DSP Ads の A/B テストを設定する](/help/integrations/target/overview-ab-tests.md)
 + [ビデオTutorialsAdvertising Cloud Integrations に関する](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/overview.html)<!-- rename if the tutorials TOC structure changes -->

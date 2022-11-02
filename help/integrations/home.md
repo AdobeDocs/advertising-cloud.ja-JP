@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 0808d101-3c6b-4671-b9e3-6f588427f8b5
-source-git-commit: 9d6177c90fb5507b4e1d281847e7ce3fe89ab9d3
+source-git-commit: 136933f5304edd8f16b8dcb649860f0fb07cf3fb
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 0%
 
 | 日付 | 機能 | 説明 | 詳細情報 |
 | ---- | ------- | ----------- | -------------------- |
+| 2022 年 11 月 1 日 | ヘルプ | 新しいドキュメントで、Advertising Cloud DSPとAdobe Targetの間でクリックスルーおよびビュースルーのシグナル共有を実装し、で A/B テストアクティビティを設定する方法を説明します。 [!DNL Target] DSP広告の設定と、テストデータを表示するAdobe Analytics Analysis Workspaceの設定方法について説明します。 | 参照：[Adobe TargetでAdvertising Cloud DSP Ads の A/B テストを設定する](/help/integrations/target/overview-ab-tests.md).&quot; |
 | 2022 年 8 月 18 日 | ヘルプ | 新しい章では、Advertising CloudがAdobe Audience Managerと統合されるすべての方法について説明します。 | 「[Advertising CloudとAdobe Audience Managerの統合](/help/integrations/audience-manager/overview.md).&quot; |
 | 2021 年 4 月 28 日 | [!DNL Analytics for Advertising Cloud] | 理由と追加方法を説明します [!DNL Analytics for Advertising Cloud] マクロを [!DNL Google Campaign Manager 360] クリックデータをAdobe Analyticsに送信するための広告タグ。 | 参照：[追加 [!DNL Analytics for Advertising Cloud] マクロ先 [!DNL Google Campaign Manager 360] 広告タグ](/help/integrations/analytics/macros-google-campaign-manager.md).&quot; |
 | 2021 年 4 月 19 日 | [!DNL Analytics for Advertising Cloud] | マクロをに追加する理由と方法を説明します [!DNL Flashtalking] クリックデータをAdobe Analyticsに送信するための広告タグ。 | 参照：[追加 [!DNL Analytics for Advertising Cloud] マクロ先 [!DNL Flashtalking] 広告タグ](/help/integrations/analytics/macros-flashtalking.md).&quot; |
