@@ -2,7 +2,8 @@
 title: パッケージ変更ログの表示
 description: パッケージに加えられた変更を表示する方法を説明します。
 feature: DSP Packages
-source-git-commit: 2f892f1f9521c4768c1cac4bd0cb0c35261ab147
+exl-id: 1d611c20-7857-41db-adf4-743dab44341e
+source-git-commit: 1098fa5fc9207300b5b9c75cf07f24ecfe1dfc69
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -17,7 +18,7 @@ ht-degree: 0%
 
 1. メインメニューで、 **[!UICONTROL Campaigns]**.
 1. キャンペーンの名前をクリックします。
-1. の **[!UICONTROL Placements]** タブで、パッケージ名の横にある「  **[!UICONTROL ...]>[!UICONTROL Change logs]**.
+1. の **[!UICONTROL Packages]** タブで、パッケージ名の横にある「  **[!UICONTROL ...]>[!UICONTROL Change logs]**.
 
 >[!MORELIKETHIS]
 >
