@@ -1,51 +1,53 @@
 ---
-title: キャンペーンデータのフィルター
-description: 表示されるキャンペーンデータを絞り込むフィルターを適用する方法を説明します。
+title: キャンペーンデータをフィルタ
+description: 表示されるキャンペーンデータを絞り込むためのフィルターの適用方法を説明します。
 feature: DSP Campaign Data Views
 exl-id: 784f025c-a96b-45bb-8326-e2e5216197e3
-source-git-commit: 2b151d7eef19a7ee3a1286b06dbee0a0a6e28d04
+source-git-commit: 432804e93ed8433fbfa9981c327a2fee94490938
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 1%
 
 ---
 
-# キャンペーンデータのフィルター
+# キャンペーンデータをフィルタ
 
-1. メインツールバーで、「![ フィルターボタン ](/help/dsp/assets/filter.png)」をクリックします。
+1. メインツールバーで、 ![フィルターボタン](/help/dsp/assets/filter.png).
 1. 適用する各フィルターに対して、左の列のフィルター名をクリックし、フィルター値を指定します。
 1. クリック **[!UICONTROL Apply]**.
 
 ## 使用可能なフィルター
 
-[!UICONTROL Campaigns]、[!UICONTROL Packages] および [!UICONTROL Placements] ビューでは、次のフィルターを使用できます。
+次のフィルターを [!UICONTROL Campaigns], [!UICONTROL Packages]、および [!UICONTROL Placements] ビュー：
 
-* [!UICONTROL Campaigns] フィルターの表示：
+* [!UICONTROL Campaigns] フィルターを表示：
    * [!UICONTROL Campaign status]
    * [!UICONTROL Advertiser]
-* [!UICONTROL Packages] フィルターの表示：
+* [!UICONTROL Packages] フィルターを表示：
    * [!UICONTROL Custom flights] （存在するかどうか）
    * [!UICONTROL Custom goal] （該当する場合）
    * [!UICONTROL End end date]
    * [!UICONTROL Optimization goal]
-   * [!UICONTROL Pacing strategy]
+   * [!UICONTROL Flight pacing]
+   * [!UICONTROL Intraday pacing]
    * [!UICONTROL Package status]
    * [!UICONTROL Start date]
-* [!UICONTROL Placements] フィルターの表示：
+* [!UICONTROL Placements] フィルターを表示：
    * [!UICONTROL Custom ad scheduling]
    * [!UICONTROL Custom goal] （該当する場合）
    * [!UICONTROL End date]
-   * [!UICONTROL Max bid] ([!UICONTROL less than]、 [!UICONTROL greater than]または [!UICONTROL equal to] 指定した値 )
+   * [!UICONTROL Max bid] ([!UICONTROL less than], [!UICONTROL greater than]または [!UICONTROL equal to] 指定した値 )
    * [!UICONTROL Optimization goal]
    * [!UICONTROL Pacing on] ([!UICONTROL impressions] または [!UICONTROL spend])
-   * [!UICONTROL Pacing strategy]
+   * [!UICONTROL Flight pacing]
+   * [!UICONTROL Intraday pacing]
    * [!UICONTROL Package]
    * [!UICONTROL Placement status]
    * [!UICONTROL Placement type]
    * [!UICONTROL Placement sub-type]
    * [!UICONTROL Start date]
    * [!UICONTROL Creation date]
-* [!UICONTROL Ads] フィルターの表示：
+* [!UICONTROL Ads] フィルターを表示：
    * [!UICONTROL Adobe ad approval status]
    * [!UICONTROL Ad ID]
    * [!UICONTROL Ad name]
