@@ -3,9 +3,9 @@ title: プライベート在庫について
 description: プライベート在庫について
 feature: DSP Private Inventory
 exl-id: 6b3923ca-ccd1-450e-bff0-139e3838c999
-source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
+source-git-commit: 7feb0e398c416805b376062d9f3dfec819fac2ee
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ RTB を超えた広告主は、専用のメディアトランザクションを�
 
 Deal ID は、次のいずれかの方法で使用できます。
 
-* （アクティベーションが必要なオプション機能） [!UICONTROL Deal ID Inbox]以下の SSP（サプライサイドプラットフォーム）を使用して、パブリッシャーが合意した、保証された、保証されていないプライベートインベントリの契約を確認し、すばやく受け入れることができます。 [!DNL FreeWheel], [!DNL Google Authorized Buyers] ( 旧称： [!DNL AdX]) および [!DNL Magnite DV+] ( 以前の [!DNL Rubicon]) を [!UICONTROL Deal ID inbox].
+* （アクティベーションが必要なオプション機能） [!UICONTROL Deal ID Inbox]以下の SSP（サプライサイドプラットフォーム）のパブリッシャーからの、同意を得た保証済みおよび保証されていないプライベートインベントリの契約を、すばやく確認して受け入れることができます。 [!DNL FreeWheel], [!DNL Google Authorized Buyers] ( 旧称： [!DNL AdX]) および [!DNL Magnite DV+] ( 以前の [!DNL Rubicon]) を [!UICONTROL Deal ID inbox].
 
    詳しくは、[について [!UICONTROL Deal ID Inbox]](deal-id-inbox-about.md).&quot;
 
@@ -36,7 +36,9 @@ Deal ID は、次のいずれかの方法で使用できます。
 
 内 [!UICONTROL Inventory] > [!UICONTROL Deals] 表示すると、非公開契約の設定を作成できます。 いくつかの取引設定を編集することもできます。配置と広告をリストし、追加の配置と広告を個人契約に付加する。個人契約にアクセスできる広告主とアカウントを編集する。契約の実績レポートの表示非公開契約のオークションのインサイトを表示したり、契約をアーカイブまたはアーカイブ解除したりします。<!-- ; or edit the attribute tags for a deal -->
 
-さらに、フィルターの適用、表示される列のカスタマイズ、オプションでカスタムビューの保存、列の並べ替え、データをグラフとして表示することで、既存の取引データの表示方法をカスタマイズできます。
+「Deal Health」列は、個々の個人契約のヘルスステータスを示します。&quot;成功&quot;、&quot;警告&quot;、&quot;重大&quot;、&quot;使用不可&quot;のいずれかです。&quot; ステータスをクリックすると、契約が期待どおりに実行されない理由や支出がない理由、潜在的な問題のトラブルシューティング手順など、詳細を確認できます。
+
+フィルターの適用、表示される列のカスタマイズ、オプションでカスタムビューの保存、列の並べ替え、データをグラフとして表示することで、既存の取引データの表示方法をカスタマイズできます。
 
 >[!MORELIKETHIS]
 >
