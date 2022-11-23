@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: f353912c0e5969a119b2b6018a2dfe2d7a0e9510
+source-git-commit: eb33bbadcae751e6bfc492b5ecddcd7569c7a336
 workflow-type: tm+mt
-source-wordcount: '989'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 | 日付 | 機能 | 説明 | 詳細情報 |
 | ---- | ------- | ----------- | -------------------- |
-| 2022 年 11 月 23 日 | 契約 | この [!UICONTROL Inventory] > [!UICONTROL Deals] 表示に「[!UICONTROL Deal Health]」列には、個々の個人契約の健康状態が示されます。&quot;[!UICONTROL Success],&quot; &quot;[!UICONTROL Warning],&quot; &quot;[!UICONTROL Critical],&quot;または&quot;[!UICONTROL Unavailable].&quot; ステータスをクリックすると、契約が期待どおりに実行されない理由や支出がない理由、潜在的な問題のトラブルシューティング手順など、詳細を確認できます。 | — |
+| 2022 年 11 月 23 日 | 契約 | この [!UICONTROL Inventory] > [!UICONTROL Deals] 表示に「[!UICONTROL Deal Health]」列には、個々の個人契約の健康状態が示されます。&quot;[!UICONTROL Success],&quot; &quot;[!UICONTROL Warning],&quot; &quot;[!UICONTROL Critical],&quot;または&quot;[!UICONTROL Unavailable].&quot; ステータスをクリックすると、契約が期待どおりに実行されない理由や支出がない理由、潜在的な問題をトラブルシューティングする手順など、詳細を確認できます。 | — |
 | 2022 年 10 月 27 日 | [!UICONTROL Campaigns] | 選択した日付範囲で行われた変更を示す変更ログが、各パッケージおよび配置に対して使用できるようになりました。 | 参照：[パッケージの変更ログの表示](/help/dsp/campaign-management/packages/package-change-log.md)&quot;および&quot;[配置の変更ログの表示](/help/dsp/campaign-management/placements/placement-change-log.md).&quot; |
 |  |  | これで、 [!UICONTROL Intraday Pacing] 複数の配置に対する設定を同時に使用できます。 | 参照：[配置の編集](/help/dsp/campaign-management/placements/placement-edit.md#edit-multiple-placements)&quot;および&quot;[配置設定](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |
 |  |  | 「[!UICONTROL Intraday Pacing]」列は、Excel QA スプレッドシートで使用できます。 | 参照：[ダウンロード/アップロード済みスプレッドシートの列](/help/dsp/campaign-management/qa/qa-sheet-columns.md).&quot; |
