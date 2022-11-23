@@ -3,9 +3,9 @@ title: Advertising Cloud ID 使用者 [!DNL Analytics]
 description: Advertising Cloud ID 使用者 [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
+source-git-commit: 525bc48104f928ccf9a3bb792b7e33c7e590cf4a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1194'
 ht-degree: 0%
 
 ---
@@ -132,19 +132,19 @@ AMO ID の例：AC!iIMvXqlOa6Nia2lDvtgw!GrV6o2oV2qQLjQiXLC7
 
 の AMO ID [!DNL Search] 各検索エンジンで異なる形式に従います。 すべての検索エンジンの形式は、次のように始まります。
 
-```AL!{ef_userid}!{ef_sid}```
+```AL!{userid}!{sid}```
 
 場所：
 
 * `AL` は、検索チャネルのチャネル ID です。
-* `{ef_userid}` は、Advertising Cloudが広告主に割り当てる一意の数値ユーザー ID です。
-* `{ef_sid}` は、Advertising Cloudが指定した検索エンジンに使用する数値 ID です（例： ）。 `3` 対象 [!DNL Google Ads] または `10` 対象 [!DNL Microsoft Advertising].
+* `{userid}` は、Advertising Cloudが広告主に割り当てる一意の数値ユーザー ID です。
+* `{sid}` は、Advertising Cloudが指定した検索エンジンに使用する数値 ID です（例： ）。 `3` 対象 [!DNL Google Ads] または `10` 対象 [!DNL Microsoft Advertising].
 
 以下は、いくつかの検索エンジンでの完全な AMO ID 形式です。 他の検索エンジンの AMO ID 形式については、 [!DNL Adobe] アカウントチーム。
 
 の AMO ID フォーマット [!DNL Google Ads]:
 
-```AL!{ef_userid}!{ef_sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}```
+```AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}```
 
 場所：
 
@@ -156,7 +156,7 @@ AMO ID の例：AC!iIMvXqlOa6Nia2lDvtgw!GrV6o2oV2qQLjQiXLC7
 
 の AMO ID フォーマット [!DNL Microsoft Advertising]:
 
-```AL!{ef_userid}!{ef_sid}!{AdId}!{OrderItemId}```
+```AL!{userid}!{sid}!{AdId}!{OrderItemId}```
 
 場所：
 
