@@ -3,9 +3,9 @@ title: 認定広告配信パートナー
 description: 認定済み広告サーバーと広告ユニットをすべて表示します。
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: 07d8194fff4f468cfb4b8262085f06be83761990
+source-git-commit: d66da8302b08d1f3d9a90c5eaf9caee4c30e05a0
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -43,10 +43,11 @@ ht-degree: 0%
 | [!DNL Innovid] | X | X |  | X |  |
 | [!DNL Inskin] |  |  | X |  | 高い影響を与えるスキン（Cavai 対話型広告を含む）は、Inskin インベントリネットワーク全体で 180x150 のディスプレイ取引 ID から提供する必要があります。 |
 | [!DNL Jivox] |  | X |  |  |  |
-| [!DNL Kargo] |  | X |  |  | 320 x 50 アンカー、BYOC、ホバー、ブレークアウト、離脱、サイドキック。300x250 Outstream, HighRise;標準のデスクトップディスプレイ（特定の広告プラグイン ID は不要）。</br></br>お問い合わせ [!DNL Adobe] 広告ユニットの設定に関するサポートが必要な場合は、アカウントチームにお問い合わせください。 |
+| [!DNL Kargo] |  | X |  | X | 320 x 50 アンカー、BYOC、ホバー、ブレークアウト、離脱、サイドキック。300x250 Outstream, HighRise;標準のデスクトップディスプレイ（特定の広告プラグイン ID は不要）ビデオアンカー（VAST のみ）。</br></br>お問い合わせ [!DNL Adobe] 広告ユニットの設定に関するサポートが必要な場合は、アカウントチームにお問い合わせください。 |
 | [!DNL Linkstorm] |  |  | X |  |  |
 | [!DNL mCanvas] |  |  | X |  |  |
 | [!DNL Medialets] |  | X |  |  |  |
+| [!DNL Minute Media] |  | X |  |  | デスクトップスキン (970 x 250) |
 | [!DNL Moat] | X | X |  | X |  |
 | [!DNL PLAYGROUND XYZ] |  |  | X |  |  |
 | [!DNL Pubmatic] |  |  |  | X | VAST のみ |
