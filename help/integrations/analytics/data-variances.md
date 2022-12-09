@@ -3,9 +3,9 @@ title: A と B の間で予想されるデータの相違 [!DNL Analytics] とAd
 description: A と B の間で予想されるデータの相違 [!DNL Analytics] とAdvertising Cloud
 feature: Integration with Adobe Analytics
 exl-id: 34685e04-d4f9-4e27-b83e-b56164244b2b
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 76d6e94d69f4bd47d982c36e6c24a0e7031a823c
 workflow-type: tm+mt
-source-wordcount: '3282'
+source-wordcount: '3285'
 ht-degree: 0%
 
 ---
@@ -99,7 +99,7 @@ Advertising Cloudでは、関連するクリック日/イベント日（クリ�
 
 ## の属性 [!DNL Analytics Marketing Channels]
 
-[[!DNL Analytics Marketing Channels] レポート](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/marketing-channels-admin.html) では、ヒット情報の個々の側面に基づいて様々なマーケティングチャネルを識別するルールを設定できます。 Advertising Cloudで追跡したチャネル ([!UICONTROL Display Click Through], [!UICONTROL Display View Through]、および [!UICONTROL Paid Search]) [!DNL Marketing Channels] を使用して、 `ef_id` チャネルを識別するクエリー文字列パラメーター。 <!-- Move most of the above text to "Marketing Channels" chapter once it's created, and add link here. --> ただし、 [!DNL Marketing Channels] レポートではAdvertising Cloudチャネルを追跡できますが、いくつかの理由でデータがAdvertising Cloudレポートと一致しない場合があります。 詳しくは、次の節を参照してください。
+[[!DNL Analytics Marketing Channels] レポート](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/analyze-mc.html) では、ヒット情報の個々の側面に基づいて様々なマーケティングチャネルを識別するルールを設定できます。 Advertising Cloudで追跡したチャネル ([!UICONTROL Display Click Through], [!UICONTROL Display View Through]、および [!UICONTROL Paid Search]) [!DNL Marketing Channels] を使用して、 `ef_id` チャネルを識別するクエリー文字列パラメーター。 <!-- Move most of the above text to "Marketing Channels" chapter once it's created, and add link here. --> ただし、 [!DNL Marketing Channels] レポートではAdvertising Cloudチャネルを追跡できますが、いくつかの理由でデータがAdvertising Cloudレポートと一致しない場合があります。 詳しくは、次の節を参照してください。
 
 >[!NOTE]
 >
@@ -127,7 +127,7 @@ Advertising Cloudレポートは、Advertising Cloudを通じてトラフィッ�
 
 ## Adobe Analyticsのデータの違い [!DNL Paid Search Detection]
 
-この [レガシー [!DNL Paid Search Detection]](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/paid-search-detection.html) の特徴 [!DNL Analytics] 企業が [有料検索トラフィックとオーガニック検索トラフィックを追跡するルールを定義する](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/t-paid-search-detection.html) を参照してください。 この [!DNL Paid Search Detection] ルールでは、クエリ文字列と参照ドメインの両方を使用して、有料検索トラフィックと自然検索トラフィックを識別します。 この [!DNL Paid Search Detection] レポートは、 [検索方法](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html) レポート。指定したイベント（買い物かごのチェックアウトなど）が発生したとき、または訪問が終了したときに期限切れになります。
+この [レガシー [!DNL Paid Search Detection]](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/paid-search-detection/paid-search-detection.html) の特徴 [!DNL Analytics] 企業が [有料検索トラフィックとオーガニック検索トラフィックを追跡するルールを定義する](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/t-paid-search-detection.html) を参照してください。 この [!DNL Paid Search Detection] ルールでは、クエリ文字列と参照ドメインの両方を使用して、有料検索トラフィックと自然検索トラフィックを識別します。 この [!DNL Paid Search Detection] レポートは、 [検索方法](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html) レポート。指定したイベント（買い物かごのチェックアウトなど）が発生したとき、または訪問が終了したときに期限切れになります。
 
 次に、 [!DNL Paid Search Detection] ルールセット：
 
@@ -145,7 +145,7 @@ Advertising Cloudレポートは、Advertising Cloudを通じてトラフィッ�
 
 ### を設定する理由 [!DNL Paid Search Detection]?
 
-この [!DNL Paid Search Detection] レポートでは、 [[!DNL Analytics Marketing Channels] レポート](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/marketing-channels-admin.html). 有料検索トラフィックと自然検索トラフィックを区別することは、自然検索が完全なマーケティングエコシステムにもたらす価値を理解するうえで役立ちます。
+この [!DNL Paid Search Detection] レポートでは、 [[!DNL Analytics Marketing Channels] レポート](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/analyze-mc.html). 有料検索トラフィックと自然検索トラフィックを区別することは、自然検索が完全なマーケティングエコシステムにもたらす価値を理解するうえで役立ちます。
 
 ## のクリックスルーデータ検証 [!DNL Analytics for Advertising Cloud] {#data-validation}
 
