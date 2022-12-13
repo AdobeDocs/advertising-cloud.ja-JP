@@ -3,9 +3,9 @@ title: 単一の広告の作成
 description: 単一のサードパーティ広告を作成する方法を説明します。
 feature: DSP Ads
 exl-id: d93c6a66-a5cb-4117-97e8-424422200fce
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: bf5cb724c51e4a91add7911157bd74c90314d07c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 1. データテーブルの上にある **[!UICONTROL Create]**. 内 [!UICONTROL Ad Types] メニューの「 」セクションで、 [広告の種類](ad-about.md#ad-types).
 
-1. 以下の広告設定を指定します。 [オーディオ広告](ad-settings-audio.md), [接続された TV](ad-settings-connected-tv.md), [広告の表示](ad-settings-display.md), [モバイル広告](ad-settings-mobile.md), [ネイティブ広告](ad-settings-native.md)または [プリロール広告](ad-settings-pre-roll.md):
+1. 以下の広告設定を指定します。 [オーディオ広告](ad-settings-audio.md), [接続された TV](ad-settings-connected-tv.md), [広告の表示](ad-settings-display.md), [モバイル広告](ad-settings-mobile.md), [ネイティブ広告](ad-settings-native.md), [プリロール広告](ad-settings-pre-roll.md) または [ユニバーサルビデオ広告](ad-settings-universal-video.md):
 
    1. の [!UICONTROL Insert Ad Tag] 画面に、認定されたサードパーティの広告配信パートナーからの広告に関する情報を入力し、 **[!UICONTROL Go]**.
 
