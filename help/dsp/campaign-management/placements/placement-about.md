@@ -3,9 +3,9 @@ title: Advertising Cloud DSPでの配置管理について
 description: 配置管理について説明します。
 feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: c6a3d9703d06a44e38aae3bc6ec3f5f77e93082d
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,7 @@ ht-degree: 0%
 * ネイティブ
 * オーディオ
 * 接続済み TV
+* ユニバーサルビデオ
 
 ## この [!UICONTROL Placements] ダッシュボード
 
