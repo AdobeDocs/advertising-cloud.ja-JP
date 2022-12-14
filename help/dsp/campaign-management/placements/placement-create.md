@@ -3,7 +3,7 @@ title: 配置の作成
 description: プレースメントの作成方法を説明します。
 feature: DSP Placements
 exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
-source-git-commit: cb77fd450db1798f190f3b6eb51054553440bac9
+source-git-commit: 86f8df0c438a68dabba8f5b2abeb106d3320d7ef
 workflow-type: tm+mt
 source-wordcount: '652'
 ht-degree: 1%
@@ -77,7 +77,7 @@ ht-degree: 1%
 
       1. クリック **[!UICONTROL Create a New Ad].**
 
-      1. 以下の広告設定を指定します。 [オーディオ広告](/help/dsp/campaign-management/ads/ad-settings-audio.md), [接続された TV](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [広告の表示](/help/dsp/campaign-management/ads/ad-settings-display.md), [モバイル広告](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [ネイティブ広告](/help/dsp/campaign-management/ads/ad-settings-native.md), [プリロール広告](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)または [ユニバーサルビデオ広告](ad-settings-universal-video.md).
+      1. 以下の広告設定を指定します。 [オーディオ広告](/help/dsp/campaign-management/ads/ad-settings-audio.md), [接続された TV](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [広告の表示](/help/dsp/campaign-management/ads/ad-settings-display.md), [モバイル広告](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [ネイティブ広告](/help/dsp/campaign-management/ads/ad-settings-native.md), [プリロール広告](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)または [ユニバーサルビデオ広告](/help/dsp/campaign-management/ads/ad-settings-universal-video.md).
 
       1. クリック **[!UICONTROL Save & Submit for Review]**.
 
