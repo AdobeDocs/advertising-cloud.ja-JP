@@ -3,9 +3,9 @@ title: Advertising Cloud DSPマクロ
 description: 一般的な追跡に使用可能なマクロを参照し、サードパーティのディスプレイ広告のクリックを追跡します。
 feature: DSP Ads
 exl-id: e31cc2e5-ad1f-4555-a87b-0e4c3731fe5f
-source-git-commit: fbadd81a34c375f00fa3e420ea3c46fc9143daf8
+source-git-commit: b3fc18cf84713adcff5a4208db537b03904cfa08
 workflow-type: tm+mt
-source-wordcount: '931'
+source-wordcount: '935'
 ht-degree: 0%
 
 ---
@@ -102,4 +102,5 @@ DSPは、次の場合に、サードパーティの表示タグにディスプ�
 >* [モバイル広告設定](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
 >* [ネイティブ広告設定](/help/dsp/campaign-management/ads/ad-settings-native.md)
 >* [プリロール広告の設定](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [ユニバーサルビデオ広告設定](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
 

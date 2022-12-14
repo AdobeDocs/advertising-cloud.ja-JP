@@ -3,9 +3,9 @@ title: 配置の作成
 description: プレースメントの作成方法を説明します。
 feature: DSP Placements
 exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: cb77fd450db1798f190f3b6eb51054553440bac9
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '652'
 ht-degree: 1%
 
 ---
@@ -77,7 +77,7 @@ ht-degree: 1%
 
       1. クリック **[!UICONTROL Create a New Ad].**
 
-      1. 以下の広告設定を指定します。 [オーディオ広告](/help/dsp/campaign-management/ads/ad-settings-audio.md), [接続された TV](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [広告の表示](/help/dsp/campaign-management/ads/ad-settings-display.md), [モバイル広告](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [ネイティブ広告](/help/dsp/campaign-management/ads/ad-settings-native.md)または [プリロール広告](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md).
+      1. 以下の広告設定を指定します。 [オーディオ広告](/help/dsp/campaign-management/ads/ad-settings-audio.md), [接続された TV](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [広告の表示](/help/dsp/campaign-management/ads/ad-settings-display.md), [モバイル広告](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [ネイティブ広告](/help/dsp/campaign-management/ads/ad-settings-native.md), [プリロール広告](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)または [ユニバーサルビデオ広告](ad-settings-universal-video.md).
 
       1. クリック **[!UICONTROL Save & Submit for Review]**.
 
@@ -87,16 +87,25 @@ ht-degree: 1%
    * キャンペーンに既存の広告を添付するには：
 
       1. クリック **[!UICONTROL Select an Ad]**.
+
       1. 次のいずれかの操作を行います。
+
          * 一度に 1 つの広告を追加するには：
+
             1. 広告名の横にある **[!UICONTROL Select].**
+
             1. （オプション）添付する追加の広告ごとに、 **[!UICONTROL Attach Another Ad]**&#x200B;をクリックし、この処理を繰り返します。
          * 一度に最大 20 個の広告を追加するには：
+
             1. 広告リストの上にあるチェックボックスを選択します。
+
             1. 追加する各広告の横にあるチェックボックスを選択します。
+
             1. クリック **[!UICONTROL Attach]**.
+
             1. 広告名の横にある **[!UICONTROL Select]**.
       1. （オプション）プレースメント内の特定の広告に対して、デフォルトのフライト期間と広告のローテーションを上書きするには、次の手順を実行します。
+
          1. クリック **[!UICONTROL Custom Schedule Ads]**.
 
          1. 次のいずれかの操作を行います。
@@ -113,6 +122,8 @@ ht-degree: 1%
          1. 右上で、 **[!UICONTROL Continue]**.
 
          1. フライトの詳細を確認し、 **[!UICONTROL Save & Finish]**.
+
+
 
 
 
