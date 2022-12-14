@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP ガイド
 user-guide-description: Advertising Cloud DSP を使用してディスプレイ広告戦略を管理、最適化およびレポートするために必要な主要機能、タスク、設定およびその他のリソースについて学習します。
 breadcrumb-title: DSP ガイド
 index: true
-source-git-commit: 8db395fce0006ce300b3e588c205ca9c87e30fb2
+source-git-commit: 6996de4d7b3ee06bceb99292c4fe03878e7b61c9
 workflow-type: tm+mt
-source-wordcount: '950'
+source-wordcount: '954'
 ht-degree: 6%
 
 ---
@@ -97,6 +97,7 @@ ht-degree: 6%
          + [モバイル広告設定](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
          + [ネイティブディスプレイ広告設定](/help/dsp/campaign-management/ads/ad-settings-native.md)
          + [プリロール広告の設定](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+         + [ユニバーサルビデオ広告設定](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
       + [サポートされる広告タイプの仕様](/help/dsp/campaign-management/ads/ad-specs.md)
    + キャンペーンレポート {#campaign-reports}
       + [プラットフォーム内レポートについて](/help/dsp/campaign-management/reports/campaign-reports-about.md)

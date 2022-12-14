@@ -3,9 +3,9 @@ title: 使用可能なレポート列
 description: カスタムレポートで使用可能な列の説明を参照してください。
 feature: DSP Custom Reports
 exl-id: c96e46ae-2fb2-4364-9c51-f160c00693ba
-source-git-commit: 966b4b4ca42b66880e1b7cf29005eeb256887149
+source-git-commit: 01668542af9ad3dda8c8284845bb3ab4242c75f8
 workflow-type: tm+mt
-source-wordcount: '1659'
+source-wordcount: '1677'
 ht-degree: 0%
 
 ---
@@ -61,6 +61,9 @@ ht-degree: 0%
 | [!UICONTROL Dimension] | [!UICONTROL Pixel] | [!UICONTROL Conversion Name] | （廃止）レガシーに割り当てられたコンバージョン名 [!DNL TubeMogul] コンバージョンイベント。 |
 | [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Placement ID] | Advertising Cloudでの配置の一意の ID。 |
 | [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Placement Name] | ユーザーによって割り当てられた配置の名前。 |
+| [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Budget] | 配置予算。 |
+| [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Max Bid] | プレースメントの最大入札額。 |
+| [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Device Environment] | 配置のターゲットとなるデバイス環境：(*[!UICONTROL Desktop]*, *[!UICONTROL Mobile]*、または *[!UICONTROL Connected TV])*. |
 | [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Placement End Date] | 配置の終了日。 |
 | [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Placement Start Date] | 配置の開始日。 |
 | [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Placement Tags] | 配置のカスタム識別子として使用される配置タグ。 |
