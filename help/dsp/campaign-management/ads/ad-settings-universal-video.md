@@ -2,14 +2,16 @@
 title: ユニバーサルビデオ広告設定
 description: ユニバーサルビデオ広告で使用可能な広告設定の説明を参照してください。
 feature: DSP Ads
-source-git-commit: fa91f2c30841bde2b943dee31d373fec343bdc75
+source-git-commit: 2d344d2ae0438433eb679a5f31f471c2eac4fe26
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '452'
 ht-degree: 0%
 
 ---
 
 # ユニバーサルビデオ広告設定
+
+*ベータ版機能を開く*
 
 ## [!UICONTROL Insert Ad Tag]
 

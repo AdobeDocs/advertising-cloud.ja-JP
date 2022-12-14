@@ -3,16 +3,16 @@ title: 広告の仕様
 description: 一般的な広告仕様およびパブリッシャー固有の広告仕様を参照します。
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: b867ace878a0c1e6391476e267c9161e5ecea921
+source-git-commit: b25521d35134ca453c889fc1a71e4c81f982a77b
 workflow-type: tm+mt
-source-wordcount: '841'
+source-wordcount: '843'
 ht-degree: 0%
 
 ---
 
 # サポートされる広告タイプの仕様
 
-## ビデオ広告（プリロールおよび CTV）
+## ビデオ広告（プリロール、CTV、ユニバーサルビデオ）
 
 ### サポートされる画面
 
