@@ -3,7 +3,7 @@ title: の概要 [!DNL Analytics for Advertising]
 description: の概要 [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 31367c8b-3410-4110-9ae6-11defe625355
-source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
 source-wordcount: '1076'
 ht-degree: 0%
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 [Adobe広告 ID （内） [!DNL Analytics]](ids.md) は、他の eVar と同様に機能し、カスタムの永続的な有効期限が設定されます。 デフォルトでは、Adobe広告の実装時に、アトリビューションルックバックウィンドウは 60 日に設定されています。 この設定を変更するには、 [!DNL Adobe] アカウントチーム。
 
-Adobe広告ディメンションには、サフィックス「(AMO ID)」が付きます (「広告タイプ (AMO ID)」など )。 参照：[Analysis WorkspaceのAdobe広告指標](advertising-cloud-metrics-in-analytics.md)」をクリックします。
+Adobe広告ディメンションには、サフィックス「(AMO ID)」が付きます (「広告タイプ (AMO ID)」など )。 参照：[Analysis WorkspaceのAdobe広告指標](advertising-metrics-in-analytics.md)」をクリックします。
 
 >[!NOTE]
 >
@@ -78,7 +78,7 @@ Adobe広告ディメンションには、サフィックス「(AMO ID)」が付�
 
 Adobe広告チームが、有料メディアのパフォーマンスに適したイベントを特定し、Adobe広告 ( [!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Transaction Properties].
 
-参照：[Analytics の指標 (Adobe広告 )](analytics-data-in-advertising-cloud.md)」をクリックします。
+参照：[Analytics の指標 (Adobe広告 )](analytics-data-in-advertising.md)」をクリックします。
 
 ### サイトリターゲティングのための Analytics セグメント
 
@@ -111,6 +111,6 @@ Analysis Workspaceで目標に合わせてAdobe広告データを追跡する方
 >* [Analytics で使用されるAdobe広告 ID](ids.md)
 >* [広告用 Analytics の JavaScript コード](/help/integrations/analytics/javascript.md)
 >* [A と B の間で予想されるデータの相違 [!DNL Analytics] およびAdobe広告](data-variances.md)
->* [Analysis WorkspaceのAdobe広告指標](/help/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
->* [[!DNL Analytics] Adobe広告のデータ](/help/integrations/analytics/analytics-data-in-advertising-cloud.md)
+>* [Analysis WorkspaceのAdobe広告指標](/help/integrations/analytics/advertising-metrics-in-analytics.md)
+>* [[!DNL Analytics] Adobe広告のデータ](/help/integrations/analytics/analytics-data-in-advertising.md)
 

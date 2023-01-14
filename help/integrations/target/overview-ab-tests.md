@@ -2,9 +2,9 @@
 title: Adobe TargetでAdobe広告広告用の A/B テストを設定する
 description: で A/B テストを設定する方法を説明します。 [!DNL Target] (DSPおよび [!DNL Search] 広告。
 exl-id: 97055645-4b2f-4795-830d-9ce89ae2ad15
-source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
-source-wordcount: '1654'
+source-wordcount: '1647'
 ht-degree: 0%
 
 ---
@@ -220,7 +220,7 @@ Analysis Workspace内で、アクティビティとエクスペリエンスの�
 * [A/B テストの概要](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html) - DSP広告で使用できる A/B テストアクティビティを表します。
 * [エクスペリエンスとオファー](https://experienceleague.adobe.com/docs/target/using/experiences/experiences.html)  — 説明 [!DNL Target] DSPのテストユーザーが公開されるオンサイトコンテンツを決定するためのツール。
 * [シグナル、特性、セグメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html) - DSPビュースルーテストに役立つAudience Managerツールの一部を定義します。
-* [広告用 Analytics の概要](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html) - Analytics for Advertising を導入します。これにより、Analytics インスタンス内でのクリックスルーおよびビュースルーサイトでのインタラクションを追跡できます。
+* [広告用 Analytics の概要](/help/integrations/analytics/overview.md) - Analytics for Advertising を導入します。これにより、Analytics インスタンス内でのクリックスルーおよびビュースルーサイトでのインタラクションを追跡できます。
 
 <!-- 
 >[!MORELIKETHIS]

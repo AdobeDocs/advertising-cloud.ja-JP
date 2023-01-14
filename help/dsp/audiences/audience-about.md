@@ -3,7 +3,7 @@ title: Advertising DSPの Audience Management について
 description: Audience Management 機能について説明します。
 feature: DSP Audiences, DSP Segments
 exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
 source-wordcount: '1036'
 ht-degree: 0%
@@ -20,7 +20,7 @@ DSPでは、オーディエンスセグメントとオーディエンスセッ�
 
    * [CCPA オプトアウトオブセールセグメント](/help/dsp/audiences/ccpa-opt-out-segment-create.md) を使用して、カリフォルニア州消費者プライバシー法 (CCPA) に従って、Web サイト上の消費者のオプトアウトオブセール要求からユーザー ID を追跡します。 販売オプトアウトリクエストからユーザー ID の月別レポートを取得できます。
 
-      CCPA オプトアウトオブAdobeリクエストに対する販売広告のサポートについて詳しくは、 [カリフォルニア州消費者プライバシー法に対するAdobe広告のサポート：消費者のオプトアウトのサポート](/help/privacy/ad-cloud-ccpa-opt-out-of-sale.md).
+      CCPA オプトアウトオブAdobeリクエストに対する販売広告のサポートについて詳しくは、 [カリフォルニア州消費者プライバシー法に対するAdobe広告のサポート：消費者のオプトアウトのサポート](/help/privacy/ccpa-opt-out-of-sale.md).
 
 * オーディエンスライブラリを作成するには、 [再利用可能なオーディエンス](/help/dsp/audiences/reusable-audience-create.md). 保存されたオーディエンスは、使用可能なオーディエンスセグメントと、その他の保存されたオーディエンスで構成されます。 保存したオーディエンスに加えた変更は、そのオーディエンスをターゲットにしたすべてのプレースメントに自動的に適用されたり、オーディエンスを除外したりします。また、保存したオーディエンスを含む他のすべてのオーディエンスにも適用されます。
 

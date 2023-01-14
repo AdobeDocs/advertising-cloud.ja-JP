@@ -8,7 +8,7 @@ user-guide-title: Advertising DSPガイド
 user-guide-description: Advertising DSP を使用してディスプレイ広告戦略を管理、最適化およびレポートするために必要な主要機能、タスク、設定およびその他のリソースについて学習します。
 breadcrumb-title: DSP ガイド
 index: true
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
 source-wordcount: '948'
 ht-degree: 5%
@@ -36,10 +36,10 @@ ht-degree: 5%
    + [アカウント資金](/help/dsp/introduction/billing/account-funding.md)
    + [サポートされる通貨](/help/dsp/currency.md)
    + 消費者プライバシーのサポート {#privacy}
-      + [EU 一般データ保護規則のサポート](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-gdpr.html)
+      + [EU 一般データ保護規則のサポート](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/gdpr.html)
       + CCPA のサポート {#ccpa}
-         + [カリフォルニア州消費者プライバシー法のサポート：消費者データのアクセスと削除](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ad-cloud-ccpa-access-delete.html)
-         + [カリフォルニア州消費者プライバシー法のサポート：消費者のオプトアウト (COS)](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ad-cloud-ccpa-opt-out-of-sale.html)
+         + [カリフォルニア州消費者プライバシー法のサポート：消費者データのアクセスと削除](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-access-delete.html)
+         + [カリフォルニア州消費者プライバシー法のサポート：消費者のオプトアウト (COS)](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html)
    + ポリシーとガイドライン {#policies}
       + [広告要件ポリシー](https://experienceleague.adobe.com/docs/advertising-cloud/policies/ad-requirements-policy.html)
       + [Acceptable Health Segment Guidelines](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)

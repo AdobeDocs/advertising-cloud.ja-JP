@@ -3,7 +3,7 @@ title: A と B の間で予想されるデータの相違 [!DNL Analytics] お�
 description: A と B の間で予想されるデータの相違 [!DNL Analytics] およびAdobe広告
 feature: Integration with Adobe Analytics
 exl-id: 34685e04-d4f9-4e27-b83e-b56164244b2b
-source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
 source-wordcount: '3278'
 ht-degree: 0%
@@ -223,7 +223,7 @@ EF ID は「`test_ef_id`」と入力し、AMO ID は「`test_amo_id#redirectAnch
 
 ### Adobe以外の広告Dimensionに対するAdobe広告トラフィック指標の使用
 
-Adobe広告は Analytics に [広告固有のトラフィック指標およびDSPと [!DNL からの関連ディメンション [!DNL Search]]](advertising-cloud-metrics-in-analytics.md). Adobeの広告提供の指標は、指定されたAdobeの広告ディメンションにのみ適用され、データは、 [!DNL Analytics].
+Adobe広告は Analytics に [広告固有のトラフィック指標およびDSPと [!DNL からの関連ディメンション [!DNL Search]]](advertising-metrics-in-analytics.md). Adobeの広告提供の指標は、指定されたAdobeの広告ディメンションにのみ適用され、データは、 [!DNL Analytics].
 
 例えば、 [!UICONTROL AMO Clicks] および [!UICONTROL AMO Cost] 指標 (Adobe広告ディメンション ) をアカウント別に指定すると、合計が表示されます [!UICONTROL AMO Clicks] および [!UICONTROL AMO Cost] アカウント別。
 
@@ -243,7 +243,7 @@ Adobe広告は Analytics に [広告固有のトラフィック指標およびDS
 >
 >* [の概要 [!DNL Analytics for Advertising]](overview.md)
 >* [Adobe広告 ID が [!DNL Analytics]](/help/integrations/analytics/ids.md)
->* [Analysis WorkspaceのAdobe広告指標](/help/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
->* [[!DNL Analytics] Adobe広告のデータ](/help/integrations/analytics/analytics-data-in-advertising-cloud.md)
+>* [Analysis WorkspaceのAdobe広告指標](/help/integrations/analytics/advertising-metrics-in-analytics.md)
+>* [[!DNL Analytics] Adobe広告のデータ](/help/integrations/analytics/analytics-data-in-advertising.md)
 >* [Adobe広告と [!DNL Marketing Channels]](/help/integrations/analytics/marketing-channels/mc-data-variances.md)
 

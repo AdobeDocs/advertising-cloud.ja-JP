@@ -3,9 +3,9 @@ title: 広告ターゲティング用のAdobe Audience Managerセグメントの
 description: インポート方法を学ぶ [!DNL Adobe] Adobe Audience Managerを使用して Advertising DSPと Search にオーディエンスを追加
 feature: Integration with Adobe Audience Manager
 exl-id: 08a40148-b7d2-442b-81e8-f3aec4fca7df
-source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
-source-wordcount: '773'
+source-wordcount: '764'
 ht-degree: 0%
 
 ---
@@ -138,7 +138,7 @@ Segment membership data is sent only after one of the following events occurs:
 
 DSPでは、セグメント名はAudience Managerの分類別に整理され、で対応するセグメントメンバーシップカウントと共に使用できます。
 
-* [配置設定](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/campaign-management/placements/placement-settings.html?#audience-targeting):の [!UICONTROL Adobe Segments] タブ [!UICONTROL Audience Targeting] 」セクションに入力します。
+* [配置設定](/help/dsp/campaign-management/placements/placement-settings.md#audience-targeting):の [!UICONTROL Adobe Segments] タブ [!UICONTROL Audience Targeting] 」セクションに入力します。
 
 * In [オーディエンス設定](/help/dsp/audiences/audience-settings.md):の [!UICONTROL Adobe Segments] タブをクリックします。
 

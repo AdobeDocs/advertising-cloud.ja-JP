@@ -3,9 +3,9 @@ title: について [!UICONTROL CCPA Opt-out-of-Sale] セグメントとレポ�
 description: CCPA オプトアウトオブセールのリクエストから ID を追跡するセグメントの作成方法と、ID のレポートを取得する方法について説明します。
 feature: CCPA, DSP Segments
 exl-id: 9256d34e-d0dd-4abf-bc96-2b599caf2a8e
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Adobe広告は、顧客がアカウントのオプトアウトオブセールの
 
 >[!MORELIKETHIS]
 >
->* [カリフォルニア州消費者プライバシー法に対するAdobe広告のサポート：消費者のオプトアウトのサポート](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html)
+>* [カリフォルニア州消費者プライバシー法に対するAdobe広告のサポート：消費者のオプトアウトのサポート](/help/privacy/ccpa-opt-out-of-sale.md)
 >* [の作成と実装 [!UICONTROL CCPA Opt-Out-of-Sale] セグメント](ccpa-opt-out-segment-create.md)
 >* [消費者オプトアウトオブセールレポートの取得](ccpa-opt-out-segment-report-retrieve.md)
 >* [Audience Management について](audience-about.md)
