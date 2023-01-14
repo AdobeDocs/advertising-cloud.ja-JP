@@ -1,18 +1,18 @@
 ---
-title: Advertising Cloud DSPの Audience Management について
+title: Advertising DSPの Audience Management について
 description: Audience Management 機能について説明します。
 feature: DSP Audiences, DSP Segments
 exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
-source-git-commit: 3b44e8e019bfc4bab2ee65ac028313752cb4a0e0
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1036'
 ht-degree: 0%
 
 ---
 
-# Advertising Cloud DSPの Audience Management について
+# Advertising DSPの Audience Management について
 
-Advertising Cloud DSPでは、オーディエンスセグメントとオーディエンスセットを作成および管理できます。これらは、配置のターゲットとして使用できます。
+DSPでは、オーディエンスセグメントとオーディエンスセットを作成および管理できます。これらは、配置のターゲットとして使用できます。
 
 * セグメントを作成および実装することで、独自のファーストパーティオーディエンスデータを収集できます。 後で、広告を含むセグメント内のユーザーを再ターゲット化したり、セグメント内のユーザーが広告を受け取らないようにしたりできます。 次のタイプのセグメントを作成できます。
 
@@ -20,7 +20,7 @@ Advertising Cloud DSPでは、オーディエンスセグメントとオーデ�
 
    * [CCPA オプトアウトオブセールセグメント](/help/dsp/audiences/ccpa-opt-out-segment-create.md) を使用して、カリフォルニア州消費者プライバシー法 (CCPA) に従って、Web サイト上の消費者のオプトアウトオブセール要求からユーザー ID を追跡します。 販売オプトアウトリクエストからユーザー ID の月別レポートを取得できます。
 
-      CCPA オプトアウトオブセールのリクエストに対するAdvertising Cloudのサポートについて詳しくは、 [Adobe Advertising Cloud州消費者プライバシー法のサポート：消費者のオプトアウトのサポート](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html).
+      CCPA オプトアウトオブAdobeリクエストに対する販売広告のサポートについて詳しくは、 [カリフォルニア州消費者プライバシー法に対するAdobe広告のサポート：消費者のオプトアウトのサポート](/help/privacy/ad-cloud-ccpa-opt-out-of-sale.md).
 
 * オーディエンスライブラリを作成するには、 [再利用可能なオーディエンス](/help/dsp/audiences/reusable-audience-create.md). 保存されたオーディエンスは、使用可能なオーディエンスセグメントと、その他の保存されたオーディエンスで構成されます。 保存したオーディエンスに加えた変更は、そのオーディエンスをターゲットにしたすべてのプレースメントに自動的に適用されたり、オーディエンスを除外したりします。また、保存したオーディエンスを含む他のすべてのオーディエンスにも適用されます。
 
@@ -60,7 +60,7 @@ DSPでは、サードパーティセグメントの複雑な組み合わせを�
 
    サードパーティセグメントには、追加料金が発生します。各セグメント名の横に表示されます。
 
-* (Adobe Experience Platform、 [!DNL Real-Time CDP]、Adobe Audience Manager、またはAdvertising Cloud JavaScript コンバージョンタグのみを使用するAdobe Analytics) [!DNL Real-Time CDP]、Audience Managerで作成、またはAudience ManagerからAdobe Experience Cloudに公開 [!DNL Analytics].
+* (Adobe Experience Platform、 [!DNL Real-Time CDP]、Adobe Audience Manager、またはAdobe Analytics (Adobe広告 JavaScript コンバージョンタグのみを使用 ) [!DNL Real-Time CDP]、Audience Managerで作成、またはAudience ManagerからAdobe Experience Cloudに公開 [!DNL Analytics].
 
    セグメントを使用するための価格は事前にネゴシエートされており、DSPでは表示されません。
 

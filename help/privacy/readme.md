@@ -1,12 +1,12 @@
 ---
-source-git-commit: ee08ad4b0061d0a6e7459e92dc32f4f10d081451
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '26'
 ht-degree: 0%
 
 ---
-# Advertising Cloudの消費者プライバシーサポートドキュメント
+# Adobe広告に関する消費者プライバシーサポートのドキュメント
 
-このフォルダーは、Advertising Cloudでの消費者のプライバシーサポート用です。
+このフォルダーは、消費者のプライバシーをAdobe広告でサポートするためのものです。
 
 **注意：このページは、お客様向けドキュメントには公開されていません。**

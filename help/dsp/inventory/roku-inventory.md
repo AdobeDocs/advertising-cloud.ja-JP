@@ -1,24 +1,24 @@
 ---
 title: 使用 [!DNL Roku] 在庫
-description: 'とのDSPパートナーシップについて学ぶ [!DNL Roku]（在庫オプション、承認されたサードパーティトラッキングベンダー、および以下のベストプラクティスを含む） [!DNL Roku] — 特定の配置。 '
+description: とのDSPパートナーシップについて学ぶ [!DNL Roku]（在庫オプション、承認されたサードパーティトラッキングベンダー、および以下のベストプラクティスを含む） [!DNL Roku] — 特定の配置。
 feature: DSP On Demand Inventory, DSP Private Inventory
 exl-id: 0cd42782-f006-4aa8-b879-322f86cfac4b
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '516'
 ht-degree: 0%
 
 ---
 
 # 使用 [!DNL Roku] 在庫
 
-Advertising Cloud DSPは、 [!DNL Roku].
+Advertising DSPは、 [!DNL Roku].
 
-## 201.Advertising Cloud DSPと [!DNL Roku] パートナーシップ
+## DSPと [!DNL Roku] パートナーシップ
 
-Roku とAdvertising Cloud DSPは、お客様の [!DNL DSP] オーディエンス [!DNL Roku] での 1:1 決定論的オーディエンスのターゲティングのための ID [!DNL Roku] 在庫。
+Roku とDSPは、お客様の [!DNL DSP] オーディエンス [!DNL Roku] での 1:1 決定論的オーディエンスのターゲティングのための ID [!DNL Roku] 在庫。
 
-Advertising Cloud DSPは、Roku 独自のDSP(OneView) 以外で、これらのターゲティング機能にのみアクセスできます。 また、Advertising Cloud DSPは、 [!DNL Roku] 他のすべての接続済みテレビ (CTV) 在庫の横にある供給。 理由： [!DNL Roku] では、すべての標準的な RTB とインプレッションピクセル信号を共有するわけではなく、Roku が販売する CTV サプライ全体を対象にしたり測定したりできるDSPは他にありません。
+Roku 独自のDSP(OneView) 以外では、Advertising DSPはこれらのターゲティング機能にのみアクセスできます。 また、測定権限を持つDSPは Advertising DSPのみです [!DNL Roku] 他のすべての接続済みテレビ (CTV) 在庫の横にある供給。 理由： [!DNL Roku] では、すべての標準的な RTB とインプレッションピクセル信号を共有するわけではなく、Roku が販売する CTV サプライ全体を対象にしたり測定したりできるDSPは他にありません。
 
 ## [!DNL Roku] 在庫オプション
 

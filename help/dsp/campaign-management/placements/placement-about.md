@@ -1,16 +1,16 @@
 ---
-title: Advertising Cloud DSPでの配置管理について
+title: Advertising DSPでの配置管理について
 description: 配置管理について説明します。
 feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: c6a3d9703d06a44e38aae3bc6ec3f5f77e93082d
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
 
-# Advertising Cloud DSPでの配置管理について
+# Advertising DSPでの配置管理について
 
 配置には、同じ広告タイプの 1 つ以上の広告に対するターゲティングパラメーターが含まれます。 単一のキャンペーンまたはパッケージ用のプレースメントを作成して、そのプレースメントに広告を割り当てることができます。 各キャンペーンまたはプレースメントには、指定した広告ローテーションを持つ複数のプレースメントを含めることができます。 デフォルトでは、広告は均等に回転されます。
 

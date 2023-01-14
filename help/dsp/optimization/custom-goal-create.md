@@ -3,24 +3,24 @@ title: カスタム目標の作成
 description: カスタム目標の作成
 feature: DSP Optimization
 exl-id: 440ded21-92d3-41ad-839f-ebc8376aa932
-source-git-commit: 8aea9eb1358e23a5b25e0353ced80c1550fa0057
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '504'
 ht-degree: 0%
 
 ---
 
 # カスタム目標の作成
 
-カスタム目標は、 *目標* Advertising Cloud Searchの
+カスタム目標は、 *目標* 範囲 [!DNL Adobe Advertising Search].
 
-カスタム目標を作成するには、Advertising Cloud DSPアカウントを [!DNL Search] 内から同じAdobe Experience Cloud組織 ID を持つアカウント [!DNL Search] クライアント設定。 DSPアカウントが [!DNL Search] アカウント、 [!DNL Adobe] アカウントチーム。
+カスタム目標を作成するには、DSPアカウントを [!DNL Search] 内から同じAdobe Experience Cloud組織 ID を持つアカウント [!DNL Search] クライアント設定。 DSPアカウントが [!DNL Search] アカウント、 [!DNL Adobe] アカウントチーム。
 
 >[!TIP]
 >
 >詳しくは、 [カスタム目標の作成に関するベストプラクティス](custom-goal-best-practices.md) カスタム目標の設定方法に関するヒントを参照してください。
 
-1. （米国の企業）でAdvertising Cloud Searchにログインする [`https://enterprise-na.efrontier.com`](https://enterprise-na.efrontier.com) または（他のすべての国の会社） [`https://enterprise-intl.efrontier.com`](https://enterprise-intl.efrontier.com).
+1. ログイン [!DNL Adobe Advertising Search] （米国の会社）で [`https://enterprise-na.efrontier.com`](https://enterprise-na.efrontier.com) または（他のすべての国の会社） [`https://enterprise-intl.efrontier.com`](https://enterprise-intl.efrontier.com).
 1. 目標に含める指標が追跡され、製品で利用できること、および表示名が含まれていることを確認します。
    1. メインメニューで、 **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Transaction Properties]**.
    1. 指標を見つけ、 **[!UICONTROL Show in UI and Reports]** は指標に対して有効になっています。
@@ -31,7 +31,7 @@ ht-degree: 0%
    1. 目標設定を入力します。
       1. 内 **[!UICONTROL Change Objective Name]** 「 」フィールドに、目標名を入力します。
 
-         目標名は、 [!UICONTROL Custom Goals] Advertising Cloud DSPパッケージ設定のリスト
+         目標名は、 [!UICONTROL Custom Goals] リストをDSPパッケージ設定に表示します。
 
       1. プロパティを目的に関連付けます。
 
@@ -65,7 +65,7 @@ ht-degree: 0%
       1. 設定の下部で、 **[!UICONTROL Save]**.
 
 
-目標を作成したら、最適化目標が「 」の場合に、カスタム目標としてAdvertising Cloud DSPパッケージに割り当てることができます。[!UICONTROL Highest ROAS - Custom Goal]&quot;または&quot;[!UICONTROL Lowest CPA - Custom Goal].&quot;
+目標を作成したら、最適化目標が「 」の場合に、カスタム目標としてDSPパッケージに割り当てることができます。[!UICONTROL Highest ROAS - Custom Goal]&quot;または&quot;[!UICONTROL Lowest CPA - Custom Goal].&quot;
 
 >[!TIP]
 >

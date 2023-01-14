@@ -1,13 +1,13 @@
 ---
-source-git-commit: 0654347afd1caf5e9bd8ccabf41a8a591e604df5
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
-# Advertising Cloudのコラボレーションドキュメント
+# Adobe広告のコラボレーションドキュメント
 
-これは、Adobe Advertising Cloudのドキュメントリポジトリで、クロス製品ドキュメントやDSPドキュメントも含まれています。 ( 後で、検索用のドキュメントが含まれ、場合によっては (?) クリエイティブの場合 )
+これは、クロスAdobeおよびDSPドキュメントを含む、製品広告のドキュメントリポジトリです。 ( 後で、検索用のドキュメントが含まれ、場合によっては (?) クリエイティブの場合 )
 
 **注意：このページは、お客様向けドキュメントには公開されていません。**
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 その他の公開手順、スタイルガイド、サンプルおよびその他のリソースについては、以下を参照してください。
 
-+ [投稿作成者のガイドライン **特にAdvertising Cloud**](https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=EfficientFrontier&amp;title=Contributing+Author+Guidelines+for+Advertising+Cloud+Help)
++ [投稿作成者のガイドライン **特にAdobe広告用**](https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=EfficientFrontier&amp;title=Contributing+Author+Guidelines+for+Advertising+Cloud+Help)
 + [すべてのオーサリングAdobe](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html)
 
 関連項目：

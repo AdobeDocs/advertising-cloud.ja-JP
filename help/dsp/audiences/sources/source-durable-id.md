@@ -1,10 +1,11 @@
 ---
-title: '永続 ID パートナーから認証済みセグメントをアクティブ化する '
+title: 永続 ID パートナーから認証済みセグメントをアクティブ化する
 description: 永続的な ID ソリューションを使用して認証済みのオーディエンスをアクティブ化する方法について説明します。
 feature: DSP Audiences
-source-git-commit: 155ab740084bebfba5fd992a23706129668fcc90
+exl-id: 44635b74-1874-4781-bd1a-a4dadae049e0
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 *ベータ版機能*
 
-Advertising Cloud DSPの永続的な ID ソリューションを通じて認証済みオーディエンスをアクティブ化するには、セグメントを [!DNL RampIDs]：入札可能な環境で認識可能です。 これは、次のいずれかの方法で実行できます。
+Advertising DSPの永続的な ID ソリューションを通じて認証済みオーディエンスをアクティブ化するには、セグメントを [!DNL RampIDs]：入札可能な環境で認識可能です。 これは、次のいずれかの方法で実行できます。
 
 * DSPと [!DNL Adobe Real-Time Customer Data Profile (CDP)] そして [!DNL Adobe-LiveRamp Retrieval API].
 
@@ -49,7 +50,7 @@ Advertising Cloud DSPの永続的な ID ソリューションを通じて認証�
 
    * 共有元のセグメントをターゲティング [!DNL LiveRamp] 標準のセグメントアクティベーションプロセスを使用して、
 
-   * Advertising Cloudのサポートチームと協力して、適切なデータ配布を検証します。
+   * 適切なデータ配布を検証するには、Adobeの Advertising サポートチームと協力してください。
 
 DSPとの統合の詳細については、以下を参照してください。 [!DNL LiveRamp]，連絡先 `adcloud-support@adobe.com`.
 
@@ -58,6 +59,6 @@ DSPとの統合の詳細については、以下を参照してください。 [
 >* [オーディエンスソースからの認証済みセグメントのアクティブ化について](source-about.md)
 >* [オーディエンスソースを作成してファーストパーティオーディエンスをアクティブ化する](source-create.md)
 >* [Audience Source 設定](source-settings.md)
->* [Adobe Advertising Cloud DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
+>* [AdobeAdvertising DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* [Audience Management について](/help/dsp/audiences/audience-about.md)
 

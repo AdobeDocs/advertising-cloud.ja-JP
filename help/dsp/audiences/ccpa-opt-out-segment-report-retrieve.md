@@ -3,9 +3,9 @@ title: 消費者オプトアウトオブセールレポートの取得
 description: 販売オプトアウトリクエスト用に送信された ID のレポートを取得する方法を説明します。
 feature: CCPA, DSP Segments
 exl-id: 8ada787a-6dcf-455b-88f4-701743e68292
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->オプションで、Advertising Cloudを使用して消費者のオプトアウトオブセールレポートを取得できます [!DNL Trafficking API]. 手順については、 [!DNL Trafficking API]. 組織が [!DNL Trafficking API] しかし、詳細に興味がある場合は、 [!DNL Adobe] アカウントチーム。
+>オプションで、DSPを使用して消費者のオプトアウトオブセールレポートを取得できます [!DNL Trafficking API]. 手順については、 [!DNL Trafficking API]. 組織が [!DNL Trafficking API] しかし、詳細に興味がある場合は、 [!DNL Adobe] アカウントチーム。
 
 1. メインメニューで、 **[!UICONTROL Audiences]>[!UICONTROL Segments]**.
 1. セグメントリストの上にある **[!UICONTROL Access CCPA Reports]**.
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising Cloud州消費者プライバシー法のサポート：消費者のオプトアウトのサポート](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html)
+>* [カリフォルニア州消費者プライバシー法に対するAdobe広告のサポート：消費者のオプトアウトのサポート](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html)
 >* [について [!UICONTROL CCPA Opt-out-of-Sale] セグメントとレポート](ccpa-opt-out-about.md)
 >* [の作成と実装 [!UICONTROL CCPA Opt-Out-of-Sale] セグメント](ccpa-opt-out-segment-create.md)
 >* [Audience Management について](audience-about.md)

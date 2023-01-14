@@ -2,9 +2,10 @@
 title: ユニバーサルビデオ広告設定
 description: ユニバーサルビデオ広告で使用可能な広告設定の説明を参照してください。
 feature: DSP Ads
-source-git-commit: 2d344d2ae0438433eb679a5f31f471c2eac4fe26
+exl-id: 0be86b84-78f9-4429-a8b7-8195891875ca
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -43,7 +44,7 @@ ht-degree: 0%
 
 **[!UICONTROL VAST Tag]:** (VAST タグのみを使用する広告。読み取り専用 ) 広告ソースとして入力したサードパーティの VAST タグ。
 
-**[!UICONTROL Final VAST Tag]:** (VAST タグのみを使用する広告。読み取り専用 ) 広告ソースとして入力し、必要に応じて [Advertising Cloud DSPトラッキングマクロ](/help/dsp/campaign-management/macros.md) 挿入されています（該当する場合）。
+**[!UICONTROL Final VAST Tag]:** (VAST タグのみを使用する広告。読み取り専用 ) 広告ソースとして入力し、必要に応じて [Advertising DSPトラッキングマクロ](/help/dsp/campaign-management/macros.md) 挿入されています（該当する場合）。
 
 **[!UICONTROL Wmode]:** ウィンドウモード： *[!UICONTROL window]*, *[!UICONTROL transparent]*&#x200B;または *[!UICONTROL opaque]*. この設定を適用できない場合は、空白のままにします。
 
@@ -75,5 +76,5 @@ ht-degree: 0%
 >* [単一の広告の作成](ad-create.md)
 >* [広告に関連付けられた配置のリスト](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [広告の仕様](ad-specs.md)
->* [Advertising Cloud DSPマクロ](/help/dsp/campaign-management/macros.md)
+>* [DSPマクロ](/help/dsp/campaign-management/macros.md)
 

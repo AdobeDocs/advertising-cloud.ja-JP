@@ -1,22 +1,22 @@
 ---
-title: 実装の前提条件と主な情報 [!DNL Analytics for Advertising Cloud]
-description: 実装の前提条件と主な情報 [!DNL Analytics for Advertising Cloud]
+title: 実装の前提条件と主な情報 [!DNL Analytics for Advertising]
+description: 実装の前提条件と主な情報 [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
-source-git-commit: 11a13816ccd2ef0c47efa615c54c0f7ce2f83734
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '840'
 ht-degree: 0%
 
 ---
 
-# 実装の前提条件と主な情報 [!DNL Analytics for Advertising Cloud]
+# 実装の前提条件と主な情報 [!DNL Analytics for Advertising]
 
-*Advertising Cloud DSPとAdvertising Cloud Searchの広告主*
+*Advertising DSPおよび[!DNL Advertising Search]*
 
-Advertising CloudをAdobe Analyticsと統合する前に、次の情報を確認してください。
+Adobe AnalyticsとAdobe広告を統合する前に、次の情報を確認してください。
 
-## でのAdvertising Cloudデータのレポートの要件 [!DNL Analytics]
+## でのAdobe広告データのレポート要件 [!DNL Analytics]
 
 * 次のいずれかを実行します。
    * Adobe Experience Platform Web SDK: `alloy.js`
@@ -28,42 +28,42 @@ Advertising CloudをAdobe Analyticsと統合する前に、次の情報を確認
 >
 >データの正確性を向上させるには、各ライブラリの最新バージョンを使用します。
 
-## Analytics セグメントをAdvertising Cloudと共有するための要件
+## Analytics セグメントをAdobe広告と共有する際の要件
 
 * Experience CloudID サービス： `visitorAPI.js` バージョン 2.1 以降
 * Adobe Analytics: `!DNL appMeasurement.js` バージョン 1.8 以降
 
-## 報告の要件 [!DNL Analytics] Advertising Cloudのデータ
+## 報告の要件 [!DNL Analytics] Adobe広告のデータ
 
-Advertising Cloud実装チームに以下の情報を提供します。
+以下をAdobe広告実装チームに提供します。
 
-* この [!DNL Analytics] 有料メディアアクティビティのレポートや、Advertising Cloudでの最適化とレポートのためのサイトアクティビティのフィードに使用されるレポートスイート ID です。
+* この [!DNL Analytics] 有料メディアアクティビティのレポートや、Adobe広告での最適化とレポートのためのサイトアクティビティのフィードに使用されるレポートスイート ID です。
 * 会社のExperience Cloud組織 ID （組織 ID）。
 
 これらの ID はどちらも [Adobe Experience Cloud Debugger の「概要」タブ](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html).
 
 ![Experience Cloud Debugger概要画面](/help/integrations/assets/a4adc-debugger-summary.png)
 
-## [!DNL Analytics] Advertising Cloudのデータ {#lookback-a4adc}
+## [!DNL Analytics] Adobe広告のデータ {#lookback-a4adc}
 
-理由： [!DNL Analytics] レポートと最適化のためにデータがAdvertising Cloudに送信される場合、データは、Advertising Cloudの広告主に対して設定されたインプレッションウィンドウやクリックルックバックウィンドウを含むアトリビューションルールに従います。
+理由： [!DNL Analytics] レポートと最適化のためにデータがAdobe広告に送信され、データは、Adobe広告の広告主に対して設定されたインプレッションおよびクリックのルックバックウィンドウを含むアトリビューションルールに従います。
 
-![Advertising Cloudの広告主レベルのルックバックウィンドウ設定](/help/integrations/assets/a4adc-lookbacks.png)
+![Adobe広告における広告主レベルのルックバックウィンドウ設定](/help/integrations/assets/a4adc-lookbacks.png)
 
-* Advertising Cloudアトリビューションクリックルックバックウィンドウ：最初のクリックが発生してからの日数。クリックはコンバージョンに関連付けられます。 デフォルトでは、この値は 60 日です。最大 90 日
-* Advertising Cloudアトリビューションインプレッションのルックバックウィンドウ：インプレッションがコンバージョンに関連付けられる広告インプレッションが発生してからの日数。 デフォルトでは、この値は 14 日です。最大 30 日
+* Adobe広告アトリビューションのルックバックウィンドウをクリック：最初のクリックが発生してからの日数。クリックはコンバージョンに関連付けられます。 デフォルトでは、この値は 60 日です。最大 90 日
+* Adobe広告アトリビューションインプレッションのルックバックウィンドウ：インプレッションがコンバージョンに関連付けられる広告インプレッションが発生してからの日数。 デフォルトでは、この値は 14 日です。最大 30 日
 
    >[!NOTE]
    >
-   > インプレッションのルックバックウィンドウはAdvertising Cloudに固有で、 [!DNL Analytics for Advertising Cloud]、レポート。
+   > インプレッションのルックバックウィンドウはAdobe広告に固有で、 [!DNL Analytics for Advertising]、レポート。
 
-この [!DNL Analytics for Advertising Cloud] JavaScript では、これらの設定を使用して、ビュースルーエントリまたはクリックスルーエントリをサイトへの有効と見なすまでの距離を判断します。 ビュースルー数とクリックスルー数の決定方法について詳しくは、[Analytics で使用されるAdvertising Cloud ID](ids.md).&quot;
+この [!DNL Analytics for Advertising] JavaScript では、これらの設定を使用して、ビュースルーエントリまたはクリックスルーエントリをサイトへの有効と見なすまでの距離を判断します。 ビュースルー数とクリックスルー数の決定方法について詳しくは、[Analytics で使用されるAdobe広告 ID](ids.md).&quot;
 
-## Advertising Cloudでのデータ [!DNL Analytics]
+## でのAdobe広告データ [!DNL Analytics]
 
-[!DNL Analytics] は、広告主のeVar永続化設定に従って、Analytics ヒット内にAdvertising Cloud ID(AMO ID) を設定します。この設定は、クリックスルーとビュースルーの両方に適用されます。 永続性設定は、Advertising Cloudのバックエンドで設定され、 [!DNL Adobe] アカウントチームが変更できます。
+[!DNL Analytics] は、広告主のeVar永続性設定（クリックスルー数とビュースルー数の両方に適用）に従って、Analytics ヒット内に広告 ID(AMO ID) を設定します。 永続性設定は、Adobe広告のバックエンドで設定され、 [!DNL Adobe] アカウントチームが変更できます。
 
-* [!DNL Analytics for Advertising Cloud] eVarの有効期限：AMO ID のデフォルトで 60 日間
+* [!DNL Analytics for Advertising] eVarの有効期限：AMO ID のデフォルトで 60 日間
 
 >[!NOTE]
 >
@@ -81,17 +81,17 @@ Advertising Cloud実装チームに以下の情報を提供します。
 
 ## 導入の前に知っておくべきこと
 
-* Advertising Cloud実装チームが統合を設定します。
+* Adobe広告の実装チームが統合を設定します。
 
-* この統合に対して追加のコストは請求されず、サーバー呼び出しによって追加の費用が発生することもありません [!DNL Analytics] Advertising Cloud料
+* この統合に対して追加のコストは請求されず、サーバー呼び出しによって追加の費用が発生することもありません [!DNL Analytics] またはAdobe広告料。
 
-* [!DNL Analytics for Advertising Cloud] は、広告サーバーに依存しません。ビュースルーまたはクリックスルーは、任意の広告サーバーから発生する場合があり、サイトへのエントリ時に適切な ID が生成されます。
+* [!DNL Analytics for Advertising] は、広告サーバーに依存しません。ビュースルーまたはクリックスルーは、任意の広告サーバーから発生する場合があり、サイトへのエントリ時に適切な ID が生成されます。
 
-* 統合が渡すのは [!DNL Analytics] 後続の有料メディアおよび広告活動の入札最適化のための標準およびカスタムイベントをAdvertising Cloudに送信。 合わない [!DNL Analytics] セグメント、計算指標、eVar(Advertising Cloudへの eVar) を使用して、入札を最適化できます。
+* 統合が渡すのは [!DNL Analytics] 後続の有料メディアおよび広告活動の入札最適化のための標準およびカスタムイベントをAdobe広告に対して。 合わない [!DNL Analytics] セグメント、計算指標、eVar をAdobe広告に追加し、入札を最適化しました。
 
-* Advertising Cloudが内で永続的な ID を作成する [!DNL Analytics] ユーザーがサイトに入る前にクリックまたは表示された最後の広告に基づき、 [クリックおよびビュースルーのルックバックウィンドウ](#lookback-a4adc) Advertising Cloudで設定されます。 サイト訪問者がプロファイル内で両方のタイプのサイトエントリインタラクションをおこなう場合で、クリックがルックバック期間内の場合、訪問者のクリックスルー ID は、サイトレポートのビュースルー ID よりも優先されます。
+* Adobe広告が内に永続的な ID を作成する [!DNL Analytics] ユーザーがサイトに入る前にクリックまたは表示された最後の広告に基づき、 [クリックおよびビュースルーのルックバックウィンドウ](#lookback-a4adc) Adobe広告で設定 サイト訪問者がプロファイル内で両方のタイプのサイトエントリインタラクションをおこなう場合で、クリックがルックバック期間内の場合、訪問者のクリックスルー ID は、サイトレポートのビュースルー ID よりも優先されます。
 
-* [!DNL Analytics for Advertising Cloud] Adobe Analyticsのコンバージョントラッキングでは、設定可能なトラッキングルックバックウィンドウが使用されます（デフォルトで 60 日間）。 Advertising Cloudレポートは、このトラッキングルックバックウィンドウの終わりに、サイトのコンバージョンとエンゲージメントを反映しています。
+* [!DNL Analytics for Advertising] Adobe Analyticsのコンバージョントラッキングでは、設定可能なトラッキングルックバックウィンドウが使用されます（デフォルトで 60 日間）。 Adobe広告レポートは、このトラッキングルックバックウィンドウの終わりに、サイトのコンバージョンとエンゲージメントを反映しています。
 
 * すべての広告タイプがサポートされています。 ただし、一部の広告環境がサポートされているわけではありません。
 
@@ -99,19 +99,19 @@ Advertising Cloud実装チームに以下の情報を提供します。
 
 * [!DNL Analytics] コンバージョンは現在追跡されており、同じデバイス上の訪問者にのみ関連付けられます。
 
-* [!DNL Analytics for Advertising Cloud] では、アプリ内ビュースルーコンバージョンをサポートしていません。
+* [!DNL Analytics for Advertising] では、アプリ内ビュースルーコンバージョンをサポートしていません。
 
 * ビュースルートラッキングは、 [!DNL Analytics].
 
 ### 追加の ID
 
-サイトにExperience CloudID サービスを実装すると、 [!DNL Analytics] またはAdvertising Cloudには追加の ID が含まれています。
+サイトにExperience CloudID サービスを実装すると、 [!DNL Analytics] またはAdobe広告には、追加の ID が含まれています。
 
 例： `sdid=2F3C18E511F618CC-45F83E994AEE93A0`
 
-正確なデータ統合のために、 [!DNL Analytics for Advertising Cloud] コンテンツを配信または目標指標を記録するアクティビティには、対応する [!DNL Analytics] 同じ追加の ID を共有するヒット。
+正確なデータ統合のために、 [!DNL Analytics for Advertising] コンテンツを配信または目標指標を記録するアクティビティには、対応する [!DNL Analytics] 同じ追加の ID を共有するヒット。
 
-を使用して [!DNL Analytics]に設定する場合は、 [!DNL Analytics] ヒット数。 内 [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html)の場合、この ID は「 Advertising Cloud 」タブで `sdid` パラメーター。
+を使用して [!DNL Analytics]に設定する場合は、 [!DNL Analytics] ヒット数。 内 [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html)の場合、この ID は、「Adobe広告」タブで `sdid` パラメーター。
 
 >[!NOTE]
 >
@@ -119,6 +119,6 @@ Advertising Cloud実装チームに以下の情報を提供します。
 
 >[!MORELIKETHIS]
 >
->* [の概要 [!DNL Analytics for Advertising Cloud]](overview.md)
->* [Advertising Cloud向け Analytics 用 JavaScript コード](/help/integrations/analytics/javascript.md)
+>* [の概要 [!DNL Analytics for Advertising]](overview.md)
+>* [広告用 Analytics の JavaScript コード](/help/integrations/analytics/javascript.md)
 

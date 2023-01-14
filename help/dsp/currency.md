@@ -1,24 +1,24 @@
 ---
 title: サポートされる通貨
-description: サポートされている通貨のリストを参照してください。
+description: サポートされる通貨の一覧を参照してください。
 feature: DSP Custom Reports, DSP Campaign Data Views
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+exl-id: 7cbce17b-12f0-49e5-8acd-adf9b7d01557
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
+# 通貨広告でサポートされるAdobe
 
-# Adobe Advertising Cloudでサポートされている通貨
-
-Advertising Cloudは、次の通貨をサポートしています。
+Adobe広告は、次の通貨をサポートしています。
 
 >[!NOTE]
 >
->Adobe Analyticsは、[より大きな通貨セット](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/currency.html)をサポートします。
+>Adobe Analyticsサポート [より多くの通貨](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/currency.html).
 
-## DSPとCreative
+## DSPと Creative
 
 | コード | 通貨名 |
 | ------ | -------------- |
@@ -40,12 +40,12 @@ Advertising Cloudは、次の通貨をサポートしています。
 | SGD | シンガポールドル |
 | THB | タイバーツ |
 | TRY | トルコリラ |
-| USD | 米国ドル |
+| USD | 米ドル |
 
 >[!NOTE]
 >
-> [!DNL DSP] は次の通貨でのみ請求を提供します。CAD、DKK、EUR、GBP、HKD、JPY、NZD、SGD、およびUSD。
+> [!DNL DSP] は次の通貨でのみ請求を提供します。CAD、DKK、EUR、GBP、HKD、JPY、NZD、SGD、および USD。
 
-## 検索
+## [!DNL Adobe Advertising Search]
 
-サポートされている検索エンジンでサポートされているすべての通貨。 これは、 [!DNL Google Ads]](https://developers.google.com/adwords/api/docs/appendix/codes-formats#currency-codes)でサポートされる[と同じです。
+サポートされている検索エンジンでサポートされるすべての通貨。 これはと同じです。 [～に支持されている人々 [!DNL Google Ads]](https://developers.google.com/adwords/api/docs/appendix/codes-formats#currency-codes).

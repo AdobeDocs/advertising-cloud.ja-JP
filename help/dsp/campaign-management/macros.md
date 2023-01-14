@@ -1,18 +1,18 @@
 ---
-title: Advertising Cloud DSPマクロ
+title: Advertising DSPマクロ
 description: 一般的な追跡に使用可能なマクロを参照し、サードパーティのディスプレイ広告のクリックを追跡します。
 feature: DSP Ads
 exl-id: e31cc2e5-ad1f-4555-a87b-0e4c3731fe5f
-source-git-commit: b3fc18cf84713adcff5a4208db537b03904cfa08
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '929'
 ht-degree: 0%
 
 ---
 
-# Advertising Cloud DSPマクロ
+# Advertising DSPマクロ
 
-マクロは、命令の短いコマンドまたは略記法で、通常は形式に従います `${MACRO_NAME}`. クリエイティブコードまたはクリックスルー URL に含まれるマクロは、広告サーバーが理解できる長いコード文字列に展開されます。 Advertising Cloud DSP広告サーバーは、広告が提供またはクリックされると、マクロを実行します。
+マクロは、命令の短いコマンドまたは略記法で、通常は形式に従います `${MACRO_NAME}`. クリエイティブコードまたはクリックスルー URL に含まれるマクロは、広告サーバーが理解できる長いコード文字列に展開されます。 DSP広告サーバーは、広告が提供またはクリックされるとマクロを実行します。
 
 広告サーバーマクロは、重要な情報をDSPまたはサードパーティの広告サーバーに渡すのに役立ちます。 マクロは、サードパーティとカスタムのクリエイティブコードまたはメタデータ（サードパーティのピクセルなど）のトラフィック指定時に最も一般的に使用されます。
 
@@ -80,7 +80,7 @@ ht-degree: 0%
 
 DSPは、次の場合に、サードパーティの表示タグにディスプレイクリックマクロを自動的に挿入します。
 
-* Advertising Cloud広告サーバーパートナーからの広告タグのエクスポート <!-- [Needs PM confirmation.] -->
+* 広告サーバーパートナーからの広告タグのエクスポート <!-- [Needs PM confirmation.] -->
 * バルクアップロード [!DNL Flashtalking] または [!DNL Google DoubleClick for Advertisers] DSPで直接タグを追加
 
 ディスプレイ広告の作成時にクリックマクロが見つからない場合は、DSPに警告メッセージが表示され、適切なディスプレイクリックマクロをタグの正しい領域に手動で挿入するよう求められます。

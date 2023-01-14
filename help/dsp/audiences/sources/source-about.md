@@ -2,9 +2,10 @@
 title: オーディエンスソースからの認証済みセグメントのアクティブ化について
 description: 顧客データプラットフォームからファーストパーティセグメントを取り込む方法について説明します。
 feature: DSP Audiences
-source-git-commit: aac60e8fddce1db3d0101a617fca3af970043648
+exl-id: 3e6ede23-2b27-4b1d-bfa2-e823824633c4
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -14,7 +15,7 @@ ht-degree: 0%
 <!-- Doesn't specifically explain what you can do in our UI -->
 *ベータ版機能*
 
-Advertising Cloud DSPは、顧客データプラットフォーム (CDP) 内で作成された認証済みのシグナルで構成されるファーストパーティセグメントを取り込むことができます。 取り込んだセグメントを配置のターゲットとして使用できます。
+DSPは、顧客データプラットフォーム (CDP) 内で作成された認証済みのシグナルで構成されるファーストパーティセグメントを取り込むことができます。 取り込んだセグメントを配置のターゲットとして使用できます。
 
 ## [!DNL Adobe Real-Time Customer Data Profile]
 
@@ -32,7 +33,7 @@ In [!DNL Real-time CDP], *宛先* は、シームレスなデータアクティ�
 
 1. [オーディエンスソースの作成](source-create.md) オーディエンスをDSPアカウントまたは広告主アカウントにインポートする場合。
 
-1. [の設定 [!DNL Real-Time CDP] Experience Platformの宛先接続](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html).<!-- Verify URL once it's published. -->
+1. [の設定 [!DNL Real-Time CDP] Experience Platformの宛先接続](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html).
 
 その他のサポートについては、 [!DNL Adobe] アカウントチームまたは `adcloud-support@adobe.com`.
 
@@ -41,7 +42,7 @@ In [!DNL Real-time CDP], *宛先* は、シームレスなデータアクティ�
 >* [永続 ID パートナーから認証済みセグメントをアクティブ化](source-durable-id.md)
 >* [オーディエンスソースを作成してファーストパーティオーディエンスをアクティブ化する](source-create.md)
 >* [Audience Source 設定](source-settings.md)
->* [Adobe Advertising Cloud DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
+>* [AdobeAdvertising DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* Adobe Experience Platform [宛先カタログの概要](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html)
 >* [Audience Management について](/help/dsp/audiences/audience-about.md)
 

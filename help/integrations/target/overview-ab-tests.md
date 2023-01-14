@@ -1,22 +1,23 @@
 ---
-title: Adobe TargetでAdvertising Cloud DSP Ads の A/B テストを設定する
-description: で A/B テストを設定する方法を説明します。 [!DNL Target] DSP広告用。
-source-git-commit: 465f3c18a7d85d54bca5ff2f565694a9b211a7ed
+title: Adobe TargetでAdobe広告広告用の A/B テストを設定する
+description: で A/B テストを設定する方法を説明します。 [!DNL Target] (DSPおよび [!DNL Search] 広告。
+exl-id: 97055645-4b2f-4795-830d-9ce89ae2ad15
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1654'
 ht-degree: 0%
 
 ---
 
-# Adobe TargetでAdvertising Cloud DSP Ads の A/B テストを設定する
+# Adobe Targetでの A/B テストの Advertising DSPおよび [!DNL Advertising Search] 広告
 
 <!-- Add [!UICONTROL and [!DNL tags throughout as needed. -->
 
 <!-- Break into sub-files, or just leave as one? -->
 
-*Advertising Cloud DSPのみの広告主*
+*Advertising DSPのみの広告主*
 
-Adobe Advertising Cloud DSPとAdobe Targetを使用すると、マーケターは、有料メディアやオンサイトメッセージにわたって、パーソナライズされた接続されたエクスペリエンスをより簡単に提供できます。 2 つの製品間でシグナルを共有することで、次のことができます。
+Adobe広告とAdobe Targetを使用すると、マーケターは、有料メディアやオンサイトメッセージにわたって、パーソナライズされた接続されたエクスペリエンスをより簡単に提供できます。 製品間でシグナルを共有することで、次のことができます。
 
 * 顧客の広告露出をDSPキャンペーンから自社のオンサイトエクスペリエンスにリンクすることで、サイトのフォールスルー率を低下させます。
 
@@ -34,7 +35,7 @@ Adobe Advertising Cloud DSPとAdobe Targetを使用すると、マーケター�
 
 * [!DNL Target]
 
-* [[!DNL Analytics] Advertising Cloud](/help/integrations/analytics/overview.md) 統合<!-- necessary for testing view-throughs, which most advertisers want to do -->
+* [[!DNL Analytics] （広告用）](/help/integrations/analytics/overview.md) 統合<!-- necessary for testing view-throughs, which most advertisers want to do -->
 
 * [[!DNL Analytics] 対象 [!DNL Target]](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html) 統合
 
@@ -50,15 +51,15 @@ Adobe Advertising Cloud DSPとAdobe Targetを使用すると、マーケター�
 
 ![ランディングページの URL に追加されたクリックスルー URL](/help/integrations/assets/target-ct-url.jpg)
 
-### クリックスルー URL へのDSPマクロの追加
+### (DSPのみ ) クリックスルー URL にDSPマクロを追加する
 
 <!-- If we ever write instructions for ads on other ad servers (such as Sizmek ads in DCO), then work that into the following section. -->
 
 FlashトーキングまたはGoogle Campaign Manager 360 内で、各広告のクリックスルー URL を手動で更新し、AMO ID 変数を取得するために必要なマクロを含めます。 AMO ID 変数は、クリックデータをAdobe Analyticsに送信し、A/B テスト用の配置キーを共有するために使用されます。 手順については、次のページを参照してください。
 
-* [追加 [!DNL Analytics for Advertising Cloud] マクロ先 [!DNL Flashtalking] 広告タグ](/help/integrations/analytics/macros-flashtalking.md)
+* [追加 [!DNL Analytics for Advertising] マクロ先 [!DNL Flashtalking] 広告タグ](/help/integrations/analytics/macros-flashtalking.md)
 
-* [追加 [!DNL Analytics for Advertising Cloud] マクロ先 [!DNL Google Campaign Manager 360] 広告タグ](/help/integrations/analytics/macros-google-campaign-manager.md)
+* [追加 [!DNL Analytics for Advertising] マクロ先 [!DNL Google Campaign Manager 360] 広告タグ](/help/integrations/analytics/macros-google-campaign-manager.md)
 
 DSPアカウントチームと Advertising Solutions Group(aac-advertising-solutions-group@adobe.com) に連絡して、必要な配置キーを取得し、設定を完了し、各クリックスルー URL に配置キーが入力されていることを確認します。
 
@@ -72,7 +73,7 @@ DSPアカウントチームと Advertising Solutions Group(aac-advertising-solut
 
 1. 広告タグとDSPの配置設定にAudience Managerインプレッションイベントピクセルを実装します。
 
-   手順については、[Advertising Cloud DSP Campaigns からメディア露出データを収集](/help/integrations/audience-manager/media-data-integration/collect.md).&quot;
+   手順については、[Advertising DSP Campaigns からメディア露出データを収集](/help/integrations/audience-manager/media-data-integration/collect.md).&quot;
 
    必ず [DSPマクロ](/help/dsp/campaign-management/macros.md) を使用して、インプレッションイベントピクセルが渡すすべてのデータをキャプチャします。 `${TM_PLACEMENT_ID_NUM}` （数値のプレースメント ID）。
 
@@ -181,11 +182,11 @@ Analysis Workspaceで、 [!DNL Analytics for Target panel] を分析するには
 
 #### 指標
 
-* テストが実行されたAdvertising Cloudキャンペーン、パッケージまたは配置に固有のパネルを、ワークスペース内に作成します。 概要ビジュアライゼーションを使用して、Advertising Cloudの指標を Target のテストパフォーマンスと同じレポートに表示します。
+* テストを実行したAdobe広告キャンペーン、パッケージまたは配置に固有のパネルを、ワークスペース内に作成します。 概要ビジュアライゼーションを使用して、Adobe広告指標を Target テストパフォーマンスと同じレポートに表示します。
 
 * オンサイト指標（訪問回数、コンバージョン数など）を使用してパフォーマンスを測定することを優先します。
 
-* Advertising Cloudの集計メディア指標（インプレッション数、クリック数、コストなど）を Target 指標と一致させることはできません。
+* Adobe広告の集計メディア指標（インプレッション数、クリック数、コストなど）を Target 指標と一致させることはできません。
 
 #### Dimension
 
@@ -219,7 +220,7 @@ Analysis Workspace内で、アクティビティとエクスペリエンスの�
 * [A/B テストの概要](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html) - DSP広告で使用できる A/B テストアクティビティを表します。
 * [エクスペリエンスとオファー](https://experienceleague.adobe.com/docs/target/using/experiences/experiences.html)  — 説明 [!DNL Target] DSPのテストユーザーが公開されるオンサイトコンテンツを決定するためのツール。
 * [シグナル、特性、セグメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html) - DSPビュースルーテストに役立つAudience Managerツールの一部を定義します。
-* [Advertising Cloud向け Analytics の概要](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html) - Advertising Cloud用 Analytics を導入します。この ID を使用すると、Analytics インスタンス内でのクリックスルーおよびビュースルーサイトでのインタラクションを追跡できます。
+* [広告用 Analytics の概要](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html) - Analytics for Advertising を導入します。これにより、Analytics インスタンス内でのクリックスルーおよびビュースルーサイトでのインタラクションを追跡できます。
 
 <!-- 
 >[!MORELIKETHIS]

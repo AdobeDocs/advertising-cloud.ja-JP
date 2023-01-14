@@ -3,9 +3,9 @@ title: ダウンロード/アップロード済みスプレッドシートの列
 description: ダウンロードおよびアップロードした Excel QA スプレッドシートの列を参照します。
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 12056598ae436123a867e6eaefde47657242dc73
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '782'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 | [!UICONTROL Basic] | [!UICONTROL Package Name] | 親パッケージの名前（該当する場合）。 | — |
 | [!UICONTROL Goals] | [!UICONTROL Start Date] | 配置の開始日。 | — |
 | [!UICONTROL Goals] | [!UICONTROL End Date] | 配置の終了日。 | — |
-| [!UICONTROL Goals] | [!UICONTROL Day parting] | 時間帯区分が *[!UICONTROL ON]* または *[!UICONTROL OFF]*.<br><b>注意：</b> 実際の時間帯区分スケジュールを確認するには、 [!DNL DSP]. | — |
+| [!UICONTROL Goals] | [!UICONTROL Day parting] | 時間帯区分が *[!UICONTROL ON]* または *[!UICONTROL OFF]*.<br><b>注意：</b> 実際の時間帯区分スケジュールを確認するには、DSPで配置設定を開きます。 | — |
 | [!UICONTROL Goals] | [!UICONTROL Budget] | 配置予算（存在する場合）。 | はい |
 | [!UICONTROL Goals] | [!UICONTROL Budget Interval] | 予算間隔： &lt;i span=&quot;&quot; id=&quot;0&quot; translate=&quot;no&quot; />*, *[!UICONTROL Weekly]*, *[!UICONTROL Monthly]*&#x200B;または *[!UICONTROL All Time]*.[!UICONTROL >Daily] | はい |
 | [!UICONTROL Goals] | [!UICONTROL Optimization Goal] | パッケージの目的。 | — |

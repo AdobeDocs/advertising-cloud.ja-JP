@@ -1,17 +1,18 @@
 ---
 title: 広告ターゲティング用のAdobe Audience Managerセグメントのインポート
-description: インポート方法を学ぶ [!DNL Adobe] Adobe Audience Managerを使用したAdvertising Cloud DSPへのオーディエンスと検索
+description: インポート方法を学ぶ [!DNL Adobe] Adobe Audience Managerを使用して Advertising DSPと Search にオーディエンスを追加
 feature: Integration with Adobe Audience Manager
-source-git-commit: 9593400e48f5918850447daacfbdaaa9015e94cd
+exl-id: 08a40148-b7d2-442b-81e8-f3aec4fca7df
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '773'
 ht-degree: 0%
 
 ---
 
 # 広告ターゲティング用のAdobe Audience Managerセグメントのインポート
 
-Advertising Cloud DSPとAdvertising Cloud Searchは、すべての広告主や代理店のメタデータ、階層データ、一意のオーディエンスデータを取り込むことができます [!DNL Adobe] audiences<!-- segments or audiences? Standardize terms per AAM's docs -->. これには、以下のデータが含まれます。
+Advertising DSP and [!DNL Advertising Search] は、すべての広告主や代理店のメタデータ、階層データ、一意のオーディエンスデータを取り込むことができます [!DNL Adobe] audiences<!-- segments or audiences? Standardize terms per AAM's docs -->. これには、以下のデータが含まれます。
 
 * Adobe Audience Managerセグメント
 
@@ -19,9 +20,9 @@ Advertising Cloud DSPとAdvertising Cloud Searchは、すべての広告主や�
 
 * Adobe Experience Cloudで [!DNL People core service]
 
-* Adobe Experience Platformで作成され、Audience Manager経由でAdvertising Cloudに送信されたセグメント
+* Adobe Experience Platformで作成され、Audience Managerを介してAdobe広告に送信されるセグメント
 
-アクセスするには [!DNL Adobe] DSPまたは [!DNL Creative]の場合、オーディエンスをDSPにインポートする必要があります。 アクセスするには [!DNL Adobe] オーディエンス [!DNL Search]の場合、オーディエンスを [!DNL Search].
+アクセスするには [!DNL Adobe] DSPまたは [!DNL Creative]の場合、オーディエンスをDSPにインポートする必要があります。 アクセスするには [!DNL Adobe] [!DNL のオーディエンス [!DNL Search]」の場合、オーディエンスを [!DNL] にインポートする必要があります。 [!DNL Search]].
 
 ## 前提条件
 
@@ -39,7 +40,7 @@ Advertising Cloud DSPとAdvertising Cloud Searchは、すべての広告主や�
 
 * ( 広告主がAudience Managerと [!DNL Analytics]) 各 Web ページへの呼び出しを減らすには、既存のAudience Managerを削除します [!DNL Data Integration Library] データ収集用のコードと、各 [!DNL Analytics] レポートスイートを使用します。 詳しくは、[サーバー側転送の概要](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).
 
-* （推奨）一致率を高めるには、ファーストパーティの Web サイトデータのみをAdvertising Cloudに送信します。 広告主が顧客関係管理システムのサードパーティのデータやオフラインのデータをバンドルする場合、データの漏洩によって一致率が低下する可能性があります。
+* （推奨）一致率を高めるには、ファーストパーティの Web サイトデータのみをAdobe広告に送信します。 広告主が顧客関係管理システムのサードパーティのデータやオフラインのデータをバンドルする場合、データの漏洩によって一致率が低下する可能性があります。
 
 ## Audience ManagerオーディエンスをDSPにインポート
 
@@ -49,7 +50,7 @@ Advertising Cloud DSPとAdvertising Cloud Searchは、すべての広告主や�
 
 1. この [!DNL Adobe] アカウントチームは、広告主レベルの設定「 」を設定する必要があります。[!UICONTROL Adobe Analytics Cloud].&quot;
 
-1. この [!DNL Adobe] アカウントチームはリクエストを送信する必要があります<!-- Submit a request as a JIRA task? --> データ運用チームに<!-- implementation team? --> Advertising Cloud DSPのネイティブ API 統合を使用して、組織のAudience Managerセグメントをインポートする場合。
+1. この [!DNL Adobe] アカウントチームはリクエストを送信する必要があります<!-- Submit a request as a JIRA task? --> データ運用チームに<!-- implementation team? --> :Advertising DSPのネイティブ API 統合を使用して、組織のAudience Managerセグメントを読み込みます。
 
 ### どのような変更がAudience Managerに
 
@@ -107,7 +108,7 @@ API は自動的に以下をおこないます。
 <!--
 ### How DSP Syncs the Data
 
-DSP syncs the data automatically using the [!DNL Adobe Experience Cloud Identity (ECID) Service]. During synchronization, the [!DNL ECID Service] calls Advertising Cloud at [!DNL cm.eversttech.net]. Because Advertising Cloud is a trusted domain, ID syncs take place from parent pages rather than within the destination publishing iframes, as they do with most third-party activation partners. Audience Manager identifies unique users by device IDs, using the [Audience Manager [!DNL Unique User ID (AAM UUID)]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/ids-in-aam.html#global-device-ids), also called the [!DNL Device ID].
+DSP syncs the data automatically using the [!DNL Adobe Experience Cloud Identity (ECID) Service]. During synchronization, the [!DNL ECID Service] calls Adobe Advertising at [!DNL cm.eversttech.net]. Because Adobe Advertising is a trusted domain, ID syncs take place from parent pages rather than within the destination publishing iframes, as they do with most third-party activation partners. Audience Manager identifies unique users by device IDs, using the [Audience Manager [!DNL Unique User ID (AAM UUID)]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/ids-in-aam.html#global-device-ids), also called the [!DNL Device ID].
  
 ![Synchronization of [!DNL Adobe] audiences in DSP](/help/integrations/assets/audience-manager-sync.png)
 
@@ -119,13 +120,13 @@ Segment membership data is sent only after one of the following events occurs:
 
 * (Advertisers with DSP):
 
-  * The segment is targeted in an Advertising Cloud display ad.
+  * The segment is targeted in an Adobe Advertising display ad.
 
   * The segment is added to the [!DNL Adobe AdCloud Cross-Channel] batch and real-time destinations within the Audience Manager user interface.
 
 * (Advertisers with [!DNL Search]):
 
-  * The segment is targeted in an Advertising Cloud search ad.
+  * The segment is targeted in an Adobe Advertising search ad.
 
   * The segment is added to the [!DNL Adobe Media Optimizer] batch and HTTP destinations within the Audience Manager user interface.
  -->
@@ -141,17 +142,17 @@ DSPでは、セグメント名はAudience Managerの分類別に整理され、�
 
 * In [オーディエンス設定](/help/dsp/audiences/audience-settings.md):の [!UICONTROL Adobe Segments] タブをクリックします。
 
-### Advertising Cloud Creative
+### Advertising Creative 内
 
 In [!DNL Creative]の場合、セグメントはターゲットノードのエクスペリエンス設定で使用できます。
 
-### In [!DNL Search]
+### In [!DNL Advertising Search]
 
-In [!DNL Search]を使用する場合、セグメントは [!DNL Google] オーディエンスを [!UICONTROL Data Source] &quot;[!UICONTROL Adobe Audience]から [!UICONTROL Campaigns] > [!UICONTROL Audiences] > [!UICONTROL Library].
+[!DNL [!DNL Search]」と入力すると、 [!DNL Google] オーディエンスを [!UICONTROL Data Source] &quot;[!UICONTROL Adobe Audience]から [!UICONTROL Campaigns] > [!UICONTROL Audiences] > [!UICONTROL Library].
 
 各 [!DNL Google] オーディエンスを作成します。 [!DNL Google] は、オーディエンスサイズを提供します。
 
 >[!MORELIKETHIS]
 >
->* [Advertising CloudとAdobe Audience Managerの統合](/help/integrations/audience-manager/overview.md)
+>* [Adobe Audience ManagerとのAdobe広告の統合](/help/integrations/audience-manager/overview.md)
 

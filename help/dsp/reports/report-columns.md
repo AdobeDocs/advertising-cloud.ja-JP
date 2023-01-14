@@ -3,9 +3,9 @@ title: 使用可能なレポート列
 description: カスタムレポートで使用可能な列の説明を参照してください。
 feature: DSP Custom Reports
 exl-id: c96e46ae-2fb2-4364-9c51-f160c00693ba
-source-git-commit: 01668542af9ad3dda8c8284845bb3ab4242c75f8
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '1677'
+source-wordcount: '1660'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,14 @@ ht-degree: 0%
 | 指標タイプ | サブタイプ | 列名 | 説明 |
 |-----------|-------|-----------|-----------|
 | [!UICONTROL Dimension] | [!UICONTROL Ad] | [!UICONTROL Ad External ID] | 外部広告サーバーによって割り当てられた広告 ID。 |
-| [!UICONTROL Dimension] | [!UICONTROL Ad] | [!UICONTROL Ad ID] | Advertising Cloudの広告の一意の識別子。 |
+| [!UICONTROL Dimension] | [!UICONTROL Ad] | [!UICONTROL Ad ID] | DSPでの広告の一意の識別子。 |
 | [!UICONTROL Dimension] | [!UICONTROL Ad] | [!UICONTROL Ad Name] | ユーザーによって割り当てられた広告の名前。 |
 | [!UICONTROL Dimension] | [!UICONTROL Ad] | [!UICONTROL Ad Type] | 広告の形式。 |
 | [!UICONTROL Dimension] | [!UICONTROL Ad] | [!UICONTROL Status] | ユーザーによって変更された広告の分類、または日付で示された広告の分類は、次のように入力します。 *[!UICONTROL live]*, *[!UICONTROL scheduled]*, *[!UICONTROL completed]*&#x200B;または *[!UICONTROL archived]*. |
 | [!UICONTROL Dimension] | [!UICONTROL Advertiser] | [!UICONTROL Advertiser Name] | 広告主の名前。 |
 | [!UICONTROL Dimension] | [!UICONTROL Campaign] | [!UICONTROL Budget] | キャンペーンにユーザーが割り当てた合計予算です。 |
 | [!UICONTROL Dimension] | [!UICONTROL Campaign] | [!UICONTROL Campaign End Date] | キャンペーンの終了日。 |
-| [!UICONTROL Dimension] | [!UICONTROL Campaign] | [!UICONTROL Campaign ID] | Advertising Cloudのキャンペーンの一意の ID。 |
+| [!UICONTROL Dimension] | [!UICONTROL Campaign] | [!UICONTROL Campaign ID] | DSPでのキャンペーンの一意の ID。 |
 | [!UICONTROL Dimension] | [!UICONTROL Campaign] | [!UICONTROL Campaign Name] | ユーザーによって割り当てられたキャンペーンの名前。 |
 | [!UICONTROL Dimension] | [!UICONTROL Campaign] | [!UICONTROL Campaign Start Date] | キャンペーンの最初の日付。 |
 | [!UICONTROL Dimension] | [!UICONTROL Date/Time] | [!UICONTROL Day (YYYY-MM-DD)] | 年、月、日。 |
@@ -42,7 +42,7 @@ ht-degree: 0%
 | [!UICONTROL Dimension] | [!UICONTROL Device] | [!UICONTROL Operating System Version] | 広告が表示されたオペレーティングシステムのバージョン ( 例： [!UICONTROL Windows 10] または [!UICONTROL iOS Mojave]) |
 | [!UICONTROL Dimension] | [!UICONTROL Device] | [!UICONTROL Operating System] | 広告が表示されたオペレーティングシステム ( 例： [!UICONTROL Apple iOS] または [!UICONTROL Android]) をクリックします。 |
 | [!UICONTROL Dimension] | [!UICONTROL Feed] | [!UICONTROL Deal ID] | 外部供給パートナーを通じて契約に割り当てられた一意の ID。 |
-| [!UICONTROL Dimension] | [!UICONTROL Feed] | [!UICONTROL Feed Name] | Advertising Cloudで入力された、契約のユーザーが割り当てた名前。 |
+| [!UICONTROL Dimension] | [!UICONTROL Feed] | [!UICONTROL Feed Name] | DSPで入力された、契約にユーザーが割り当てた名前。 |
 | [!UICONTROL Dimension] | [!UICONTROL Feed] | [!UICONTROL Feed Source] | 在庫を提供するサプライサイドのパートナー。 これは通常、パブリッシャーですが、SSP でもかまいません。 |
 | [!UICONTROL Dimension] | [!UICONTROL Feed] | [!UICONTROL Inventory Type] | 在庫の分類： *[!UICONTROL Private],* *[!UICONTROL On Demand],* または *[!UICONTROL Public]*. |
 | [!UICONTROL Dimension] | [!UICONTROL Feed] | [!UICONTROL SSP] | メディアの属性を持つサプライサイドパートナー (SSP)。 |
@@ -53,13 +53,13 @@ ht-degree: 0%
 | [!UICONTROL Dimension] | [!UICONTROL Geos] | [!UICONTROL State] | レポートされるデータの属性の対象となる状態。 |
 | [!UICONTROL Dimension] | [!UICONTROL Packages] | [!UICONTROL Package End Date] | パッケージの終了日。 |
 | [!UICONTROL Dimension] | [!UICONTROL Packages] | [!UICONTROL Package Goal Type] | パッケージのペーシング目標量。 この金額は、支出またはインプレッションのいずれかです。 |
-| [!UICONTROL Dimension] | [!UICONTROL Packages] | [!UICONTROL Package ID] | Advertising Cloudでのパッケージの一意の ID。 |
+| [!UICONTROL Dimension] | [!UICONTROL Packages] | [!UICONTROL Package ID] | DSP内のパッケージの一意の識別子。 |
 | [!UICONTROL Dimension] | [!UICONTROL Packages] | [!UICONTROL Package Name] | パッケージの名前 |
 | [!UICONTROL Dimension] | [!UICONTROL Packages] | [!UICONTROL Package Start Date] | パッケージの開始日。 |
 | [!UICONTROL Dimension] | [!UICONTROL Packages] | [!UICONTROL Placement End Date] | 配置の終了日。 |
 | [!UICONTROL Dimension] | [!UICONTROL Pixel] | [!UICONTROL Conversion ID] | （廃止）DSPが従来の [!DNL TubeMogul] コンバージョンイベント。 |
 | [!UICONTROL Dimension] | [!UICONTROL Pixel] | [!UICONTROL Conversion Name] | （廃止）レガシーに割り当てられたコンバージョン名 [!DNL TubeMogul] コンバージョンイベント。 |
-| [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Placement ID] | Advertising Cloudでの配置の一意の ID。 |
+| [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Placement ID] | DSPでの配置の一意の ID。 |
 | [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Placement Name] | ユーザーによって割り当てられた配置の名前。 |
 | [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Budget] | 配置予算。 |
 | [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Max Bid] | プレースメントの最大入札額。 |
@@ -74,10 +74,10 @@ ht-degree: 0%
 | [!UICONTROL Dimension] | [!UICONTROL Segment] | [!UICONTROL Segment Membership Key] | セグメントに関連付けられた一意のキー。 |
 | [!UICONTROL Dimension] | [!UICONTROL Segment] | [!UICONTROL Segment Membership Name] | セグメントの名前。 |
 | [!UICONTROL Dimension] | [!UICONTROL Segment] | [!UICONTROL Segment Membership Provider Name] | セグメントに関連付けられているデータプロバイダーの名前。 |
-| [!UICONTROL Dimension] | [!UICONTROL Site] | [!UICONTROL Site ID] | Advertising Cloudでのサイトまたはアプリの一意の ID。 |
+| [!UICONTROL Dimension] | [!UICONTROL Site] | [!UICONTROL Site ID] | DSPでのサイトまたはアプリの一意の識別子。 |
 | [!UICONTROL Dimension] | [!UICONTROL Site] | [!UICONTROL Site Name] | サイトの名前。 |
 | [!UICONTROL Dimension] | [!UICONTROL Video] | [!UICONTROL Video Duration] | ビデオの長さ。アップロード後に処理されます。 |
-| [!UICONTROL Dimension] | [!UICONTROL Video] | [!UICONTROL Video ID] | Advertising Cloudのビデオクリエイティブの一意の識別子。 |
+| [!UICONTROL Dimension] | [!UICONTROL Video] | [!UICONTROL Video ID] | DSPのビデオクリエイティブの一意の識別子。 |
 | [!UICONTROL Dimension] | [!UICONTROL Video] | [!UICONTROL Video Name] | ユーザーによって割り当てられたクリエイティブの名前。 |
 | [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL % Distinct Uniques] | この [!UICONTROL App/Site Distinct Uniques] ～で割られる [!UICONTROL App/Site Uniques]. |
 | [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL App/Site Distinct Uniques] | このアプリでのみ到達されたデバイスの合計数。 複数のパブリッシャーで広告に公開されるビューアは、この値には含まれません。 |
@@ -85,8 +85,8 @@ ht-degree: 0%
 | [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Cost per Unique] | この [!UICONTROL Total Spend] ～で割られる [!UICONTROL App/Site Uniques]. |
 | [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated % Reached] | 露光を受けた、対象世帯の推定割合。 |
 | [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Average Frequency] | ユニーク訪問者に表示されたインプレッションの平均数。 一部のインベントリでは、パブリッシャーはデバイス識別子を渡さず、これらのインプレッションはこの値に含まれません。 同様の指標が [!UICONTROL Frequency (by App/Site)] レポートに含めることができますが、その指標は推定されません。 |
-| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Impressions (Device/Browser)] | ( [!UICONTROL Frequency (by Impression)] レポート ) 特定の頻度ブレークアウトの推定インプレッション数。 Advertising Cloudの見積もりは、インプレッションのサンプルに基づいています。 一部のインベントリでは、パブリッシャーはデバイス識別子を渡さず、これらのインプレッションはこの値に含まれません。 同様の指標が [!UICONTROL Frequency (by App/Site)] レポートに含めることができますが、その指標は推定されません。 |
-| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Uniques (Device/Browser)] | ( [!UICONTROL Frequency (by Impression)] （レポート）特定の頻度で記録された個別のブラウザーまたはデバイスの数。 Advertising Cloudの見積もりは、インプレッションのサンプルに基づいています。 一部の在庫では、デバイス識別子を渡さないでください。また、これらのインプレッションはこの値には含まれません。 同様の指標が [!UICONTROL Frequency (by App/Site)] レポートに含めることができますが、その指標は推定されません。 |
+| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Impressions (Device/Browser)] | ( [!UICONTROL Frequency (by Impression)] レポート ) 特定の頻度ブレークアウトの推定インプレッション数。 DSPの推定は、インプレッションのサンプルに基づいておこなわれます。 一部のインベントリでは、パブリッシャーはデバイス識別子を渡さず、これらのインプレッションはこの値に含まれません。 同様の指標が [!UICONTROL Frequency (by App/Site)] レポートに含めることができますが、その指標は推定されません。 |
+| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Uniques (Device/Browser)] | ( [!UICONTROL Frequency (by Impression)] （レポート）特定の頻度で記録された個別のブラウザーまたはデバイスの数。 DSPの推定は、インプレッションのサンプルに基づいておこなわれます。 一部の在庫では、デバイス識別子を渡さないでください。また、これらのインプレッションはこの値には含まれません。 同様の指標が [!UICONTROL Frequency (by App/Site)] レポートに含めることができますが、その指標は推定されません。 |
 | [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Universe] | 日付範囲内でDSP（オークション）が閲覧したユニーク世帯の合計です。 |
 | [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Extended Impressions] | ユーザーベースのクロスデバイスターゲティングでデバイスグラフを使用した結果として提供されたインプレッションの合計数です。 |
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Gross CPA] | 獲得あたりの平均総コスト ( [!UICONTROL Gross Spend] / [!UICONTROL Custom Goal]. |
@@ -104,18 +104,18 @@ ht-degree: 0%
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Total Other eCPM] | 他の手数料のインプレッション数 1,000 回あたりの平均純コスト ( [!UICONTROL Net Spend (Other)] / [!UICONTROL Impressions] x 1000 です。 |
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL % bid at Max CPM] | 最大 CPM で入札された合計入札額の割合。 |
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Unique Users Bid On] | プレースメントに対するDSPの入札のユニークユーザーの数。 |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Data Net Spend] | Advertising Cloudを通じて請求されたオーディエンスセグメントデータ料金の合計純コストです。 |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Media Net Spend] | Advertising Cloudを通じて請求される、技術費を含む請求可能なメディアの合計純コスト。 |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Other Net Spend] | Advertising Cloudを通じて請求されるその他のサービス料（サードパーティの検証パートナー、広告配信など）の合計コスト |
+| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Data Net Spend] | DSPを通じて請求されたオーディエンスセグメントデータ料金の合計純コストです。 |
+| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Media Net Spend] | DSPを通じて請求される、技術費を含む請求可能なメディアの合計純コスト。 |
+| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Other Net Spend] | DSPを通じて請求されるその他のサービス料（サードパーティの検証パートナー、広告配信など）の合計コスト。 |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Estimated Tax on Data] | サードパーティオーディエンスセグメントおよびデータサービスに対する推定税金。 |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Estimated Tax on Media] | Advertising Cloudのメディアコストの再請求およびテクニカルフィードサービスに適用される税を含むメディアに対する推定税。 |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Estimated Tax on Other] | Advertising Cloudを通じて請求されるその他のサービス料（サードパーティの検証パートナー、トピックのターゲティングなどを含む）に対する推定税。 |
+| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Estimated Tax on Media] | DSPでのメディアコストの再請求および技術費用サービスに適用される税を含む、メディアに対する推定税。 |
+| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Estimated Tax on Other] | DSPを通じて請求される他のサービス料（サードパーティの検証パートナー、トピックのターゲティングなどを含む）に対する推定税。 |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Margin %] | （利益管理が有効な場合）利益率。利益率は、([!UICONTROL Gross Spend] - [!UICONTROL Net Spend]) / [!UICONTROL Gross Spend]. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Media Cost] | 請求不可および請求可能なメディアコストの合計（テクニカル費用なし）。 |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Net vCPM] | 表示可能なインプレッション数 1,000 回あたりの平均純コスト ( [!UICONTROL Net Spend] / [!UICONTROL Viewable Impressions] x 1000 です。 |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Non-Billable Data Net Spend] | Advertising Cloudを通じて請求されない、オーディエンスセグメントデータ料金の合計純コストです。 |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Non-Billable Media Fees] | Advertising Cloudを通じて請求されない、技術費を含む、請求不可のメディアの合計純コスト |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Non-Billable Other Net Spend] | Advertising Cloudを通じて請求されないその他のサービス料（サードパーティの検証パートナー、広告配信など）の合計コスト。 |
+| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Non-Billable Data Net Spend] | DSPを通じて請求されない、オーディエンスセグメントデータ料金の合計純コストです。 |
+| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Non-Billable Media Fees] | DSPを通じて請求されない、技術費を含む、請求不可のメディアの合計純コスト。 |
+| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Non-Billable Other Net Spend] | DSPを通じて請求されないその他のサービス料（サードパーティの検証パートナー、広告配信など）の合計コスト。 |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Profit] | [!UICONTROL Gross Spend] - [!UICONTROL Net Spend] |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Data Net Spend] | オーディエンスセグメントデータフィードの合計純コスト。 |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Media Net Spend] | メディアの合計純コスト（技術費を含む）。 |

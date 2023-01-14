@@ -3,16 +3,16 @@ title: クロスデバイス対応ソリューション
 description: クロスデバイス機能の詳細を説明します。
 feature: DSP Introduction
 exl-id: 29f8ec41-35a6-4a29-a638-82a2929a8fe6
-source-git-commit: d7afcc2200adc41e583d21712226cb25f35aab66
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '1006'
+source-wordcount: '999'
 ht-degree: 0%
 
 ---
 
 # クロスデバイス対応ソリューション
 
-Advertising Cloud DSPと [!DNL LiveRamp] では、ブランドが追跡したデバイスだけでなく、ユーザーの既知のすべてのデバイスに対してオーディエンスを拡張できます。 また、この統合では、すべてのデバイスで頻度キャップとアトリビューション測定をおこなうこともできます。
+Advertising DSPとの統合 [!DNL LiveRamp] では、ブランドが追跡したデバイスだけでなく、ユーザーの既知のすべてのデバイスに対してオーディエンスを拡張できます。 また、この統合では、すべてのデバイスで頻度キャップとアトリビューション測定をおこなうこともできます。
 
 サポートされるユーザーベースのデバイスグラフを使用すると、次のことが可能になります。
 
@@ -76,9 +76,9 @@ Advertising Cloud DSPと [!DNL LiveRamp] では、ブランドが追跡したデ
 
 ## People-Based Attribution Measurement
 
-*Advertising Cloudコンバージョントラッキングのみを使用する広告主*
+*広告コンバージョントラッキングをAdobeにした広告主のみ*
 
-ユーザーベースのアトリビューションを使用すると、メディア視聴が発生したデバイスとは異なるデバイスで発生したコンバージョンをアトリビューションできます。 ユーザーベースのアトリビューション指標は、サイトにAdvertising Cloudコンバージョンピクセルを実装したDSP、Advertising Cloud Search、Advertising Cloud Creative for advertisers で利用できます。
+ユーザーベースのアトリビューションを使用すると、メディア視聴が発生したデバイスとは異なるデバイスで発生したコンバージョンをアトリビューションできます。 ユーザーベースのアトリビューション測定は、DSP全体で使用でき、 [!DNL Adobe Advertising Creative]、および [!DNL Adobe Advertising Search] サイトにAdobe広告コンバージョンピクセルを実装している広告主向け。
 
 ### ユーザーベースのアトリビューション測定を有効にする
 

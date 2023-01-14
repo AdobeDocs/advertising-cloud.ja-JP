@@ -1,20 +1,20 @@
 ---
-title: Advertising Cloud DSPで利用可能なサードパーティデータプロバイダー
+title: Advertising DSPで利用可能なサードパーティデータプロバイダー
 description: 利用可能なすべてのサードパーティデータプロバイダーの一覧を参照します。
 feature: DSP Audiences
 exl-id: f67d81a0-bd31-48d8-9bcf-1888afd43894
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
 <!-- feature: audiences -->
 
-# Advertising Cloud DSPで利用可能なサードパーティデータプロバイダー
+# Advertising DSPで利用可能なサードパーティデータプロバイダー
 
-次のサードパーティデータプロバイダーのデータカテゴリとセグメントは、 [!DNL DSP]. これらのセグメントは、主に米国のオーディエンスで使用できます。
+次のサードパーティデータプロバイダーのデータカテゴリおよびセグメントは、DSPで配置ターゲットとして使用できます。 これらのセグメントは、主に米国のオーディエンスで使用できます。
 
 各セグメントの使用料金は、配置設定のセグメント名の横に、保存されたオーディエンス設定に表示されます。
 

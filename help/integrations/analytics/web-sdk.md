@@ -1,25 +1,26 @@
 ---
 title: の使用 [!DNL Last Event Service] を使用した JavaScript ライブラリ [!DNL Web SDK]
-description: を使用してから切り替える手順を説明します。 [!DNL Analytics] [!DNL visitorAPI] library to the [!DNL Experience Platform] [!DNL Web SDK] library for your [!DNL Analytics for Advertising Cloud] 実装。
+description: を使用してから切り替える手順を説明します。 [!DNL Analytics] [!DNL visitorAPI] ライブラリを [!DNL Experience Platform] [!DNL Web SDK] ライブラリ [!DNL Analytics for Advertising] 実装。
 feature: Integration with Adobe Analytics
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 96537244-1c5c-4d9a-a44e-ba7fcea9381d
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
 # の使用 [!DNL Last Event Service] Adobe Experience Platformを使用した JavaScript ライブラリ [!DNL Web SDK]
 
-*Advertising CloudとAdobe Analyticsの統合のみの広告主*
+*Advertising とAdobe AnalyticsのAdobeの統合のみの広告主*
 
 組織が従来のAdobe Analytics `visitorAPI.js` データ収集用のライブラリでは、オプションで [Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html) ライブラリ (`alloy.js`) を使用して、 [!DNL Edge Network].
 
-この [!DNL Analytics for Advertising Cloud] [!DNL Last Event Service] JavaScript ライブラリは、そのまま、追加の ID(`SDID`) をクリックします。 この [!DNL Web SDK] ただし、ライブラリでは [!DNL stitch ID]. 次の手順で [!DNL Web SDK] 対象 [!DNL Analytics for Advertising Cloud](1) [!DNL Last Event Service] のタグを Web ページで使用し、2) を使用して [!DNL Web SDK] `sendEvent` 適切なコマンド
+この [!DNL Analytics for Advertising] [!DNL Last Event Service] JavaScript ライブラリは、そのまま、追加の ID(`SDID`) をクリックします。 この [!DNL Web SDK] ただし、ライブラリでは [!DNL stitch ID]. 次の手順で [!DNL Web SDK] 対象 [!DNL Analytics for Advertising](1) [!DNL Last Event Service] のタグを Web ページで使用し、2) を使用して [!DNL Web SDK] `sendEvent` 適切なコマンド
 
 ## 手順 1:を編集 [!DNL Last Event Service] タグを生成して `[!DNL StitchID]`
 
-内 [!DNL Analytics for Advertising Cloud] [!DNL Last Event Service] タグを追加して、 `[!DNL StitchID]` ライブラリにバンドルされているランダム ID ジェネレーターを使用する。
+内 [!DNL Analytics for Advertising] [!DNL Last Event Service] タグを追加して、 `[!DNL StitchID]` ライブラリにバンドルされているランダム ID ジェネレーターを使用する。
 
 **レガシータグ：**
 
@@ -72,6 +73,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [の概要 [!DNL Analytics for Advertising Cloud]](overview.md)
->* [用 JavaScript コード [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/javascript.md)
+>* [の概要 [!DNL Analytics for Advertising]](overview.md)
+>* [用 JavaScript コード [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md)
 

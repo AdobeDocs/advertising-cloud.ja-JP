@@ -1,18 +1,18 @@
 ---
-title: Advertising Cloud DSPのCampaign Managementの概要
+title: Advertising DSPのCampaign Managementの概要
 description: キャンペーン管理の階層とコンポーネントについて説明します。
 feature: DSP Packages, DSP Placements, DSP Ads
 exl-id: c94e08d0-0dd5-4cf9-8df2-9eb4c591375c
-source-git-commit: d180b91f7bf5ae72a51e5335638a98c5fc4b4e86
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
 
-# Advertising Cloud DSPのCampaign Managementの概要
+# Advertising DSPのCampaign Managementの概要
 
-Advertising Cloud DSPキャンペーンの階層は次のとおりです。
+DSPキャンペーンの階層は次のとおりです。
 
 * Campaign
    * パッケージ
@@ -20,7 +20,7 @@ Advertising Cloud DSPキャンペーンの階層は次のとおりです。
          * 広告
 
 <!-- Do clients think in terms of insertion orders? If yes, then work in the following info.:
-In Advertising Cloud DSP, an insertion order is represented as a campaign, and line items are represented as packages. Each package will include placements, which can use different strategies and tactics to deliver the line item requirements.
+In Advertising DSP, an insertion order is represented as a campaign, and line items are represented as packages. Each package will include placements, which can use different strategies and tactics to deliver the line item requirements.
 -->
 
 ## [!UICONTROL Campaigns]
@@ -49,7 +49,7 @@ A [配置](/help/dsp/campaign-management/placements/placement-about.md) は、�
 
 >[!MORELIKETHIS]
 >
->* [キャンペーン管理について](/help/dsp/campaign-management/campaigns/campaign-about.md)
+>* [Campaign Managementについて](/help/dsp/campaign-management/campaigns/campaign-about.md)
 >* [パッケージ管理について](/help/dsp/campaign-management/packages/package-about.md)
 >* [配置管理について](/help/dsp/campaign-management/placements/placement-about.md)
 >* [広告管理について](/help/dsp/campaign-management/ads/ad-about.md)

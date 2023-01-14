@@ -4,19 +4,19 @@ role: User, Admin
 cloud: Experience Cloud
 solution: Advertising Cloud
 product: advertising cloud
-user-guide-title: Advertising Cloud DSP ガイド
-user-guide-description: Advertising Cloud DSP を使用してディスプレイ広告戦略を管理、最適化およびレポートするために必要な主要機能、タスク、設定およびその他のリソースについて学習します。
+user-guide-title: Advertising DSPガイド
+user-guide-description: Advertising DSP を使用してディスプレイ広告戦略を管理、最適化およびレポートするために必要な主要機能、タスク、設定およびその他のリソースについて学習します。
 breadcrumb-title: DSP ガイド
 index: true
-source-git-commit: e902deb79c42e8fb13697439198259004a957525
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '954'
-ht-degree: 6%
+source-wordcount: '948'
+ht-degree: 5%
 
 ---
 
 
-# Advertising Cloud DSP ガイド {#dsp}
+# Advertising DSPガイド {#dsp}
 
 <!-- add back to about below "Edit the Advertisers with Access to a Deal ID" when reintroduced:
       + [Edit the Attribute Tags for a Deal ID](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
@@ -28,7 +28,7 @@ ht-degree: 6%
 
 + [最新情報](/help/dsp/home.md)
 + はじめに {#introduction}
-   + [Adobe Advertising Cloud DSPの概要](/help/dsp/introduction/dsp-about.md)
+   + [Adobe広告DSPの概要](/help/dsp/introduction/dsp-about.md)
    + 主な特長 {#features}
       + [最適化](/help/dsp/introduction/features/optimization.md)
       + [ブランドの安全性とメディア品質](/help/dsp/introduction/features/brand-safety-media-quality.md)
@@ -117,7 +117,7 @@ ht-degree: 6%
       + [キャンペーンの配置設定のダウンロード](/help/dsp/campaign-management/qa/qa-sheet-download.md)
       + [キャンペーンの配置設定のアップロード](/help/dsp/campaign-management/qa/qa-sheet-upload.md)
       + [ダウンロード/アップロード済みスプレッドシートの列](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
-   + [Advertising Cloud DSPマクロ](/help/dsp/campaign-management/macros.md)
+   + [DSPマクロ](/help/dsp/campaign-management/macros.md)
    + [キーボードショートカット](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
    + [Campaign Managementに関する FAQ](/help/dsp/campaign-management/campaign-management-faq.md)
 + 最適化 {#optimization}

@@ -3,7 +3,7 @@ title: 広告の編集
 description: 広告の編集方法を説明します。
 feature: DSP Ads
 exl-id: ef140d61-f04e-4c1c-acdd-9985730dfb07
-source-git-commit: 348b3ae49fdd2e408c4585c6dc6a7e3ba03b2d84
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -13,9 +13,13 @@ ht-degree: 0%
 # 広告の編集
 
 1. メインメニューで、 **[!UICONTROL Campaigns]**.
+
 1. キャンペーンの名前をクリックします。
+
 1. サブメニューで、 **[!UICONTROL Ads]**.
+
 1. 広告名の横にある  **... >[!UICONTROL Edit]**.
+
 1. の広告設定を編集 [オーディオ広告](ad-settings-audio.md), [接続された TV](ad-settings-connected-tv.md), [広告の表示](ad-settings-display.md), [モバイル広告](ad-settings-mobile.md), [ネイティブ広告](ad-settings-native.md), [プリロール広告](ad-settings-pre-roll.md)または [ユニバーサルビデオ広告](ad-settings-universal-video.md).
 
    >[!NOTE]

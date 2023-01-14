@@ -1,19 +1,20 @@
 ---
 title: の基本 [!DNL Marketing Channels]
-description: 以下に関する主な情報を学ぶ： [!DNL Analytics Marketing Channels] that [!DNL Analytics for Advertising Cloud] ユーザーは理解する必要があります。
+description: 以下に関する主な情報を学ぶ： [!DNL Analytics Marketing Channels] その [!DNL Analytics for Advertising] ユーザーは理解する必要があります。
 feature: Integration with Adobe Analytics
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 27b6fb07-0b63-4ff1-a316-20b9a2b60fe9
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '568'
 ht-degree: 0%
 
 ---
 
 # の基本 [!DNL Analytics Marketing Channels]
 
-*Advertising CloudとAdobe Analyticsの統合のみの広告主*
+*Advertising とAdobe AnalyticsのAdobeの統合のみの広告主*
 
-このページでは、 [!DNL Analytics Marketing Channels] その [!DNL Analytics for Advertising Cloud] ユーザーは理解する必要があります。
+このページでは、 [!DNL Analytics Marketing Channels] その [!DNL Analytics for Advertising] ユーザーは理解する必要があります。
 
 に関する完全なドキュメントについては、 [!DNL Marketing Channels]を参照してください。[使用の手引き [!DNL Marketing Channels]](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-getting-started-mchannel.html).&quot;
 
@@ -37,13 +38,13 @@ ht-degree: 0%
 
 Adobeは、Analytics チームと協力して、 [!DNL Marketing Channels] 処理ルールを使用して、ビジネスに関連するすべてのチャネルを追跡します。 これにより、強力なアトリビューションレポートを作成できます。
 
-Advertising Cloudがカスタムマーケティングチャネルの作成に必要なシグナルにどのように貢献できるかについては、[広告 ID を使用した作成 [!DNL Marketing Channels] ルール](mc-ids.md).&quot;
+Adobe広告が、カスタムマーケティングチャネルの作成に必要なシグナルにどのように貢献できるかを理解するには、[広告 ID を使用した作成 [!DNL Marketing Channels] ルール](mc-ids.md).&quot;
 
 >[!MORELIKETHIS]
 >
->* [Advertising Cloud ID を使用した作成 [!DNL Marketing Channels] 処理ルール](mc-ids.md)
->* [Advertising Cloudと [!DNL Marketing Channels]](mc-data-variances.md)
->* [使用 [!DNL Analytics Marketing Channels] Advertising Cloud Data を使用](mc-ac-data.md)
->* [ビデオ：Advertising Cloudを使用したレポート [!DNL Marketing Channels]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html)
->* [の概要 [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/overview.md)
+>* [Adobe広告 ID を使用した作成 [!DNL Marketing Channels] 処理ルール](mc-ids.md)
+>* [チャネル広告とチャネル広告でチャネルデータが異なるAdobeを使用する理由 [!DNL Marketing Channels]](mc-data-variances.md)
+>* [使用 [!DNL Analytics Marketing Channels] とAdobe広告データ](mc-ac-data.md)
+>* [ビデオ：使用 [!DNL Marketing Channels] (Adobe広告レポート用 )](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html)
+>* [の概要 [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)
 

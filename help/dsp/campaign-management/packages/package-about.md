@@ -1,16 +1,16 @@
 ---
-title: Advertising Cloud DSPでのパッケージ管理について
+title: Advertising DSPのパッケージ管理について
 description: パッケージ管理について説明します。
 feature: DSP Packages
 exl-id: 06d77698-62ae-466b-8cf7-c9148907ba6d
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
 
-# Advertising Cloud DSPでのパッケージ管理について
+# Advertising DSPのパッケージ管理について
 
 パッケージを使用して、設定された予算、パフォーマンス目標、カスタムペーシング戦略に対する配信用の配置をグループ化します。 DSPは、予算をパッケージ内の最もパフォーマンスの高い配置に移行することで、パッケージを最適化します。 配置形式、在庫のタイプ、データプロバイダー、ペルソナ、またはその他の区別可能な特性別にパッケージを整理できます。 パッケージはオプションです。
 

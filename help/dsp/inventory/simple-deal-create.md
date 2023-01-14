@@ -3,9 +3,9 @@ title: '" [!UICONTROL Simple Ad Serving] 契約」'
 description: 「 [!UICONTROL Simple Ad Serving] 契約」
 feature: DSP Simple Ad Serving
 exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
-source-git-commit: 089d91f7d1b06e29d27ac95a46834127d19c141d
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
       1. クリック **[!UICONTROL Next]**.
    1. 「 Feed Details 」で、フィードの詳細を編集し、 **[!UICONTROL Next]**.
 
-      Advertising Cloud DSPは、「SAS Placement - &lt;」という名前の配置を自動的に生成します。*契約名*>、&quot;（広告の） 配置では、契約は [!UICONTROL Inventory Targets] 」セクションに入力します。 その他のすべてのターゲット設定オプションは適用できません。
+      DSPは、「SAS Placement - &lt;」という名前の配置を自動的に生成します。*契約名*>、&quot;（広告の） 配置では、契約は [!UICONTROL Inventory Targets] 」セクションに入力します。 その他のすべてのターゲット設定オプションは適用できません。
 
 
 

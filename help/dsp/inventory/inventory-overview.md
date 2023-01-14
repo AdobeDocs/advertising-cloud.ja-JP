@@ -1,18 +1,18 @@
 ---
-title: Advertising Cloud DSPの在庫機能の概要
+title: Advertising DSPの在庫機能の概要
 description: 使用可能な在庫機能について説明します。
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
-source-git-commit: e80eccbf2f87c1ad86a2cb689b44ca67e08248be
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
-# Advertising Cloud DSPの在庫機能の概要
+# Advertising DSPの在庫機能の概要
 
-Advertising Cloud DSPは、公開インベントリでスケールを検索する場合でも、 [!DNL On Demand]または、パブリッシャーとの 1:1 のプライベートマーケットプレイス (PMP) 取引を設定して、特定のオーディエンスまたはサイトに対してアクティブ化します。 キャンペーンの目標は、キャンペーンのパフォーマンスニーズに最も適した在庫のタイプを指定するのに役立ちます。 トップサプライサイドプラットフォーム (SSP) との統合により、PMP のシームレスなセットアップとアクティブ化が可能になります。
+DSPは、パブリックインベントリでスケールを検索する場合でも、 [!DNL On Demand]または、パブリッシャーとの 1:1 のプライベートマーケットプレイス (PMP) 取引を設定して、特定のオーディエンスまたはサイトに対してアクティブ化します。 キャンペーンの目標は、キャンペーンのパフォーマンスニーズに最も適した在庫のタイプを指定するのに役立ちます。 トップサプライサイドプラットフォーム (SSP) との統合により、PMP のシームレスなセットアップとアクティブ化が可能になります。
 
 DSPで在庫契約にアクセスしたり、特定したりしたら、それらをキャンペーンの配置ターゲットとして使用できます。
 

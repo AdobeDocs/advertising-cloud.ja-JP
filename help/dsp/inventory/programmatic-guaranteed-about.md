@@ -3,16 +3,16 @@ title: プログラムで保証された契約について
 description: プログラムで保証された (PG) 取引と、提供の認定を受けている SSP について説明します。
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 8cf85ae3-027d-4d9d-95a0-ac39d651627a
-source-git-commit: 96f756b0f5239e2378d0a4da18335d909f96ab94
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
 # プログラムで保証された契約について
 
-プログラム的に保証された (PG) 取引は、広告サーバータグを介するのではなく、取引 ID を介して発行者と直接購入する保証があります。 PG は、お客様および発行者が管理する柔軟性が高く、通常のタグの購入よりも透明性が高くなります。 請求とレポートは、Advertising Cloud DSPを通じて統合され、時間を節約できます。
+プログラム的に保証された (PG) 取引は、広告サーバータグを介するのではなく、取引 ID を介して発行者と直接購入する保証があります。 PG は、お客様および発行者が管理する柔軟性が高く、通常のタグの購入よりも透明性が高くなります。 請求とレポートはDSPを通じて統合され、時間を節約できます。
 
 ## PG 契約の機能
 

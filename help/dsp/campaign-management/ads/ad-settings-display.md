@@ -3,9 +3,9 @@ title: ディスプレイ広告の設定
 description: ディスプレイ広告に使用可能な広告設定の説明を参照してください。
 feature: DSP Ads
 exl-id: ae88dfab-0b0c-42ab-9135-422b20a4b6cd
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '443'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 **[!UICONTROL Display Code]:** （サードパーティ広告のみ）サードパーティのクリエイティブアセットの URL。 任意 [timestamp] および [[timestamp]] パラメーターは実際の値に置き換えられます。
 
-**[!UICONTROL Final Display Code]:** （サードパーティ広告のみ）サードパーティのクリエイティブアセットの URL で、必要なもの [Advertising Cloud DSPトラッキングマクロ](/help/dsp/campaign-management/macros.md) 挿入されています（該当する場合）。
+**[!UICONTROL Final Display Code]:** （サードパーティ広告のみ）サードパーティのクリエイティブアセットの URL で、必要なもの [Advertising DSPトラッキングマクロ](/help/dsp/campaign-management/macros.md) 挿入されています（該当する場合）。
 
 **[!UICONTROL Ad Size]:** 広告の幅と高さ。 これは、 [サポートされる標準のディスプレイ広告サイズ](ad-specs.md). 広告をアップロードする前に、広告のサイズを手動で入力するか、 [!UICONTROL Display Code]. 広告サイズを入力しない場合、アップロードされた広告または広告タグのサイズは、自動的に読み取り専用として入力されます。 ディメンションが標準ディスプレイ内にサイズ（例：300x250 の広告サイズではなく 301x250）がない場合、ディスプレイ広告は保存されません。
 
@@ -68,5 +68,5 @@ ht-degree: 0%
 >* [単一の広告の作成](ad-create.md)
 >* [広告に関連付けられた配置のリスト](ad-list-placements.md)
 >* [広告の仕様](ad-specs.md)
->* [Advertising Cloud DSPマクロ](/help/dsp/campaign-management/macros.md)
+>* [DSPマクロ](/help/dsp/campaign-management/macros.md)
 

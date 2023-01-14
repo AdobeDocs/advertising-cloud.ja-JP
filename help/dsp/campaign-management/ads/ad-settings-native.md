@@ -3,9 +3,9 @@ title: ネイティブディスプレイ広告設定
 description: ネイティブディスプレイ広告で使用可能な広告設定の説明を参照してください。
 feature: DSP Ads
 exl-id: 3ae59e63-ae64-41b2-8734-3df2da020c7c
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 **[!UICONTROL Landing Page]:** ユーザーが広告をクリックしたときに閲覧者が到着した URL。
 
-**[!UICONTROL Final Landing Page]:** この [!UICONTROL Landing Page] 必要な [Advertising Cloud DSPトラッキングマクロ](/help/dsp/campaign-management/macros.md) 挿入されています（該当する場合）。
+**[!UICONTROL Final Landing Page]:** この [!UICONTROL Landing Page] 必要な [Advertising DSPトラッキングマクロ](/help/dsp/campaign-management/macros.md) 挿入されています（該当する場合）。
 
 **[!UICONTROL Sponsored By (Advertiser Name)]:** 広告の広告主。
 
@@ -62,5 +62,5 @@ ht-degree: 0%
 >* [単一の広告の作成](ad-create.md)
 >* [広告に関連付けられた配置のリスト](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [広告の仕様](ad-specs.md)
->* [Advertising Cloud DSPマクロ](/help/dsp/campaign-management/macros.md)
+>* [DSPマクロ](/help/dsp/campaign-management/macros.md)
 

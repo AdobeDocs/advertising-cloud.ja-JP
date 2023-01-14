@@ -3,9 +3,9 @@ title: プリロール広告の設定
 description: プリロール広告で使用可能な広告設定の説明を参照してください。
 feature: DSP Ads
 exl-id: 638d5a3d-3dff-40b6-a3ba-7ab3f08282b9
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '549'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 **[!UICONTROL VAST Tag]:** (VAST タグのみを使用する広告。読み取り専用 ) 広告ソースとして入力したサードパーティの VAST タグ。
 
-**[!UICONTROL Final VAST Tag]:** (VAST タグのみを使用する広告。読み取り専用 ) 広告ソースとして入力し、必要に応じて [Advertising Cloud DSPトラッキングマクロ](/help/dsp/campaign-management/macros.md) 挿入されています（該当する場合）。
+**[!UICONTROL Final VAST Tag]:** (VAST タグのみを使用する広告。読み取り専用 ) 広告ソースとして入力し、必要に応じて [Advertising DSPトラッキングマクロ](/help/dsp/campaign-management/macros.md) 挿入されています（該当する場合）。
 
 **[!UICONTROL Wmode]:** （インタラクティブプリロールのみ）ウィンドウモード： *[!UICONTROL window]*, *[!UICONTROL transparent]*&#x200B;または *[!UICONTROL opaque]*.
 
@@ -88,5 +88,5 @@ ht-degree: 0%
 >* [単一の広告の作成](ad-create.md)
 >* [広告に関連付けられた配置のリスト](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [広告の仕様](ad-specs.md)
->* [Advertising Cloud DSPマクロ](/help/dsp/campaign-management/macros.md)
+>* [DSPマクロ](/help/dsp/campaign-management/macros.md)
 

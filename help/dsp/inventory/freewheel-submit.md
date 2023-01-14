@@ -2,7 +2,8 @@
 title: PG 契約の広告をに提出 [!DNL FreeWheel]
 description: パブリッシャーとのプログラム的に保証された契約に対して、広告の承認をリクエストする方法を説明します。 [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 6cb41f3b-29e4-4feb-9c31-578ab40bd4f7
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
@@ -22,8 +23,11 @@ ht-degree: 0%
 1. と共に使用する広告の広告キーをコピーします。 [!DNL Freewheel] 契約：
 
    1. キャンペーンの名前をクリックします。
+
    1. サブメニューで、 **[!UICONTROL Ads]**.
+
    1. クリック  **[!UICONTROL ...]>[!UICONTROL Edit]** 広告名の横に表示されます。
+
    1. 広告設定が開いたら、ブラウザーのアドレスバーに表示される URL の英数字の広告キーをコピーします。
 
       例えば、次の URL では、広告キーは `3NtNC5ZbaGZtqbei8jD3`
@@ -35,6 +39,7 @@ ht-degree: 0%
    1. 次のいずれかの操作を行います。
 
       * 広告名の横にある  **[!UICONTROL ...]** > **[!UICONTROL submit to FreeWheel]**.
+
       * メインメニューで、 **[!UICONTROL Inventory]** > **[!UICONTROL Deals]**. 契約行で、「 ![オプションメニュー](/help/dsp/assets/options-menu.png) > **[!UICONTROL submit to FreeWheel]**.
    1. 契約 ID を確認し、 **[!UICONTROL Ad Key]** 手順 1 でコピーし、次に「 **[!UICONTROL Submit]**.
 

@@ -3,9 +3,9 @@ title: プライベート在庫について
 description: プライベート在庫について
 feature: DSP Private Inventory
 exl-id: 6b3923ca-ccd1-450e-bff0-139e3838c999
-source-git-commit: 7feb0e398c416805b376062d9f3dfec819fac2ee
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ RTB を超えた広告主は、専用のメディアトランザクションを�
 
 ## 契約 ID
 
-パブリッシャーと直接の関係を持っている場合は、Advertising Cloud DSPのプレースメントで、独自のプライベート契約と、ネゴシエートされた在庫と価格を使用して、メディアの購入プロセスとワークフローを合理化できます。 DSPは、アカウントの設定時にすべてのパブリッシャーと統合されます。 後でその他の発行者にアクセスしたい場合は、 [!DNL Adobe] アクセスを設定するアカウントチーム。 <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
+パブリッシャーと直接の関係を持っている場合は、Advertising DSPの配置で、自社のプライベート契約と、ネゴシエートされた在庫と価格を使用して、メディアの購入プロセスとワークフローを合理化できます。 DSPは、アカウントの設定時にすべてのパブリッシャーと統合されます。 後でその他の発行者にアクセスしたい場合は、 [!DNL Adobe] アクセスを設定するアカウントチーム。 <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
 
 契約 ID を持つすべての個人取引は、次の方法で資金を調達し、請求します [!DNL Adobe].
 

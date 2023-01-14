@@ -1,9 +1,9 @@
 ---
 title: 広告主アカウント設定
 description: 使用可能な広告主設定の説明を参照してください。
-source-git-commit: d7afcc2200adc41e583d21712226cb25f35aab66
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '871'
 ht-degree: 0%
 
 ---
@@ -38,31 +38,31 @@ ht-degree: 0%
 
 （オプション） DSPアカウントにリンクされた追加のExperience Cloud製品。 製品は、 [!UICONTROL Adobe IMS IDs] 」セクションに入力します。
 
-**[!UICONTROL Attribution services]> [!UICONTROL Adobe Media Optimizer]:** (Advertising Cloud Searchを持つ広告主、またはAdvertising Cloudコンバージョンピクセルを使用する広告主 ) A [!DNL Search] DSPがアトリビューションデータを交換するアカウント。
+**[!UICONTROL Attribution services]> [!UICONTROL Adobe Media Optimizer]:** ( [!DNL Adobe Advertising Search] または (Adobe広告コンバージョンピクセルを使用する ) A [!DNL Search] DSPがアトリビューションデータを交換するアカウント。
 
-**[!UICONTROL Report suites]> [!UICONTROL Adobe Analytics]:** (Adobe Analyticsの広告主オプション；は、 Advertising Cloudコンバージョントラッキングタグを使用して収集され、 [!DNL EF Redirect] およびトークンのみ ) 1 つ以上 [!DNL Analytics] パブリッシャーおよびサプライサイドのパートナーからDSPが収集したデータを送信するレポートスイート。 また、Analytics は、クライアントのサイトから収集したデータをDSPに送信します。
+**[!UICONTROL Report suites]> [!UICONTROL Adobe Analytics]:** (Adobe Analyticsの広告主オプション；は、 [!DNL EF Redirect] およびトークンのみ ) 1 つ以上 [!DNL Analytics] パブリッシャーおよびサプライサイドのパートナーからDSPが収集したデータを送信するレポートスイート。 また、Analytics は、クライアントのサイトから収集したデータをDSPに送信します。
 
-データをレポートスイートに表示する場合は、 [!DNL Search] 広告主レベルの設定を[!UICONTROL Enable tracking for SAINT feeds]」を有効にする必要があります。 また、 [!DNL Analytics] Advertising Cloudからデータを受け取るようにアカウントを設定する必要があります。
+データをレポートスイートに表示する場合は、 [!DNL Search] 広告主レベルの設定を[!UICONTROL Enable tracking for SAINT feeds]」を有効にする必要があります。 また、 [!DNL Analytics] アカウント広告からデータを受け取るようにアカウントをAdobeする必要があります。
 
 >[!WARNING]
 >
 >以前にリンクしたレポートスイートを削除すると、DSPはそのスイートとのデータ交換を停止します。 データの変動を期待する。
 
-との統合について詳しくは、 [!DNL Analytics]を参照してください。[の概要 [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/overview.md).&quot;
+との統合について詳しくは、 [!DNL Analytics]を参照してください。[の概要 [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md).&quot;
 
 **[!UICONTROL Audiences]> [!UICONTROL Adobe Analytics Cloud]:** (Adobe Audience Manager又はAdobe Analyticsの広告主（オプション）Audience Managerまたは [!DNL Analytics] DSPがすべての広告主のAdobeオーディエンスのセグメントメタデータ、階層データおよび一意のオーディエンスデータを取り込むアカウント。 これには、以下のデータが含まれます。
 
 * Audience Managerセグメント
 * [!DNL Analytics] Adobe Experience Cloudに公開されたセグメント
 * Adobe Experience Cloudで [!DNL People core service]
-* Adobe Experience Platformで作成され、Audience Manager経由でAdvertising Cloudに送信されたセグメント
+* Adobe Experience Platformで作成され、Audience Managerを介してAdobe広告に送信されるセグメント
 
 初期同期には約 24 時間かかります。 その後、データはリアルタイムで同期され、1～2 秒の遅延が発生します。
 <!-- I don't think this is true anymore:
-Segment membership data is sent to Advertising Cloud only after one of the following:
+Segment membership data is sent to Adobe Advertising only after one of the following:
 
-* The segment is targeted in an Advertising Cloud placement or audience library
-* The segment is added to the Advertising Cloud batch and real-time destinations within the Audience Manager user interface
+* The segment is targeted in an Adobe Advertising placement or audience library
+* The segment is added to the Adobe Advertising batch and real-time destinations within the Audience Manager user interface
 -->
 
 ## [!UICONTROL Targeting] 設定

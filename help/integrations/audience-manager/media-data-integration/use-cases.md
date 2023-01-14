@@ -1,21 +1,22 @@
 ---
 title: 使用例
-description: Advertising Cloud DSPのメディアデータをAudience Managerと共有する使用例について説明します
+description: Advertising DSPのメディアデータをAudience Managerと共有する使用例について説明します
 feature: Integration with Adobe Audience Manager
-source-git-commit: 3980af19efa785c437cacbf479ca3eabbed73b1b
+exl-id: 21d80cf6-f817-495a-bae4-fc9e44f1eda4
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '791'
 ht-degree: 0%
 
 ---
 
 # Adobe Audience Managerでのメディア露出データのキャプチャの使用例
 
-*Advertising Cloud DSPのみの広告主*
+*Advertising DSPのみの広告主*
 
-*Advertising CloudとAdobe Audience Managerの統合のみの広告主*
+*Advertising とAdobe Audience ManagerのAdobeの統合のみの広告主*
 
-Advertising Cloud DSPのメディア公開データをキャプチャして、次のようなメリットを得ることができます <!-- ad impression data? --> Audience Manager
+Advertising DSPのメディア露出データをキャプチャすることでメリットが得られる方法を次に示します <!-- ad impression data? --> Audience Manager
 
 ## 最新性と頻度の管理
 
@@ -51,7 +52,7 @@ Audience Managerでインプレッションデータをキャプチャすると�
 
 キャンペーンのインプレッションとクリックデータがAudience Manager内で使用可能になったら、特定のキャンペーンまたは戦術にさらされた、または特定のキャンペーンや戦術に対してインタラクションがおこなわれたユーザーの特性およびセグメントを作成できます。 を使用 [[!DNL Audience Analytics] 統合](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html)の場合、Audience Managerセグメントを [!DNL Analytics] を参照してください。 潜在的な使用例を次に示します。
 
-* **DSP広告とAdvertising Cloud Search広告のインタラクション分析：** 標準 [[!DNL Analytics for Advertising Cloud] 統合](/help/integrations/analytics/overview.md) では、DSPと [!DNL Search] どちらのチャネルも、AMO ID 属性ルールに従う AMO ID を使用するので、検索クリックで表示ビュースルーが上書きされます。 Audience ManagerでDSP露出セグメントを作成すると、 [!DNL Audience Analytics] DSPとの間の相互作用を分析するには [!DNL Search] 広告 [!DNL Analytics].
+* **DSPと [!DNL Adobe Advertising Search] 広告：** 標準 [[!DNL Analytics for Advertising] 統合](/help/integrations/analytics/overview.md) では、DSPと [!DNL] の間のやり取りに関するインサイトを提供しません。 [!DNL Search]] の場合は、両方のチャネルで AMO ID 属性ルールに従う AMO ID が使用され、検索クリックで表示ビュースルーが上書きされます。 Audience ManagerでDSP露出セグメントを作成すると、 [!DNL Audience Analytics] DSPと [!DNL] の間のインタラクションを分析するには、以下を実行します。 [!DNL Search]] 広告 [!DNL Analytics].
 
 * **頻度分析：** 特定の広告またはキャンペーンに対するAudience Managerの表示回数に基づいて、ユーザーでセグメントを作成できます。 その後、Analytics で様々な露出セグメントを分析し、DSPの露出数に応じてユーザーの行動がどのように変化するかを確認できます。
 
@@ -81,5 +82,5 @@ Audience Managerでインプレッションデータをキャプチャすると�
 >[!MORELIKETHIS]
 >
 >* [DSP Media Exposure データのAdobe Audience Managerへの送信の概要](overview.md)
->* [Advertising Cloud DSP Campaigns からのクリックおよびインプレッションデータの収集](collect.md)
+>* [Advertising DSP Campaigns からクリックおよびインプレッションデータを収集](collect.md)
 

@@ -3,9 +3,9 @@ title: オーディオ広告設定
 description: オーディオ広告で使用可能な広告設定の説明を参照してください。
 feature: DSP Ads
 exl-id: 746b6f40-ff59-4bbe-bfc0-3579d4461e4a
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 **[!UICONTROL VAST Tag]:** （VAST タグのみを使用する広告）サードパーティの広告ソースの URL。 VAST タグにオーディオメディアファイルのみが含まれていることを確認します。
 
-**[!UICONTROL Final VAST Tag]:** （VAST タグを使用する広告のみ）必要な [Advertising Cloud DSPトラッキングマクロ](/help/dsp/campaign-management/macros.md) 挿入されています（該当する場合）。
+**[!UICONTROL Final VAST Tag]:** （VAST タグを使用する広告のみ）必要な [Advertising DSPトラッキングマクロ](/help/dsp/campaign-management/macros.md) 挿入されています（該当する場合）。
 
 **[!UICONTROL Select Rate]:** （権限を持つユーザーのみ）Adobeを通じて請求される事前にネゴシエートされた料金、またはネゴシエートした料金の 1 つで、ベンダーを通じて請求されます。 料金を追加するには、 [!DNL Adobe] アカウントチーム。
 
@@ -68,5 +68,5 @@ ht-degree: 0%
 >* [単一の広告の作成](ad-create.md)
 >* [広告に関連付けられた配置のリスト](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [広告の仕様](ad-specs.md)
->* [Advertising Cloud DSPマクロ](/help/dsp/campaign-management/macros.md)
+>* [DSPマクロ](/help/dsp/campaign-management/macros.md)
 

@@ -1,26 +1,26 @@
 ---
-title: Advertising Cloud ID を使用した作成 [!DNL Marketing Channels] ルール
-description: Advertising Cloud ID を使用しての処理ルールを作成する方法を説明します。 [!DNL Analytics Marketing Channels].
+title: Adobe広告 ID を使用した作成 [!DNL Marketing Channels] ルール
+description: Adobe広告 ID を使用しての処理ルールを作成する方法を説明します。 [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
 exl-id: 4fcdd586-e9c5-4405-a6dc-7799d2bac93e
-source-git-commit: d136b1fe6f6fd3861d0850e07efe7c320da4a7cc
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '767'
+source-wordcount: '768'
 ht-degree: 0%
 
 ---
 
-# Advertising Cloud ID を使用した作成 [!DNL Marketing Channels] 処理ルール
+# Adobe広告 ID を使用した作成 [!DNL Marketing Channels] 処理ルール
 
-*Advertising CloudとAdobe Analyticsの統合のみの広告主*
+*Advertising とAdobe AnalyticsのAdobeの統合のみの広告主*
 
-Advertising Cloud ID ([AMO ID と EF ID](../ids.md)) を設定します。 [!DNL Marketing Channels] Adobe Analyticsの処理ルール Advertising Cloud ID をAdvertising Cloudキャンペーンに固有のルールに使用します。
+Adobe広告 ID ([AMO ID と EF ID](../ids.md)) を設定します。 [!DNL Marketing Channels] Adobe Analyticsの処理ルール Adobe広告 ID は、Adobe広告キャンペーンに固有のルールに使用します。
 
 ## 処理ルール内の AMO ID
 
-AMO ID は、内でAdvertising Cloudデータをレポートするために使用される主なトラッキングコードです [!DNL Analytics]. AMO ID は、内で詳細なレポートを提供するために、Adobeが管理する動的な値を連結したものです。 [!DNL Analytics]. これは、 [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) または rVar ディメンション (AMO ID)。 AMO ID は、で設定できます。 [!DNL Analytics] 次の 2 つの方法で、
+AMO ID は、内で広告データをレポートするために使用される主なAdobeコードです [!DNL Analytics]. AMO ID は、内で詳細なレポートを提供するために、Adobeが管理する動的な値を連結したものです。 [!DNL Analytics]. これは、 [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) または rVar ディメンション (AMO ID)。 AMO ID は、で設定できます。 [!DNL Analytics] 次の 2 つの方法で、
 
-* クリックスルートラッキング：Advertising Cloudが `s_kwcid` リンク内のクエリー文字列パラメーター、および [!DNL Analytics] クリックスルーが発生した場合に、ランディングページ URL からパラメーターを取得します。
+* クリックスルートラッキング：Adobe広告は `s_kwcid` リンク内のクエリー文字列パラメーター、および [!DNL Analytics] クリックスルーが発生した場合に、ランディングページ URL からパラメーターを取得します。
 * ビュースルートラッキング ([!DNL DSP] ):最後のイベントサービスは、サーバー側のビュースルーを検出し、AMO ID をに送信します。 [!DNL Analytics]. この場合、URL には `s_kwcid` パラメーター。
 
 AMO ID 内の動的な値は、追跡されたマーケティングチャネルを示します。
@@ -62,7 +62,7 @@ AMO ID 内の動的な値は、追跡されたマーケティングチャネル�
 
 ## 処理ルール内の EF ID
 
-AMO EF ID(EF ID) は、 [!DNL Analytics for Advertising Cloud] 統合とも呼ばれます。 その主な目的は、トラッキングとパス [!DNL Analytics] イベントデータをAdvertising Cloudに送信します。 同じ訪問者に対してまったく同じ広告である場合でも、クリックスルーまたはビュースルーが発生するたびに、一意の EF ID が生成されます。 EF ID は、 [!DNL Analytics] の変数制限あたりのユニーク値が通常 500,000 個を超えるので、レポートユーザーインターフェイスを使用します。 [!DNL Analytics]レポートで使用できなくなります。 Advertising Cloudの指標とメタデータは、EF ID には適用されません。これらは AMO ID にのみ適用されます。 Advertising Cloudでキャンペーンを最適化するには、追加された精度のトラッキングが必要なので、両方の ID が必要です。
+AMO EF ID(EF ID) は、 [!DNL Analytics for Advertising] 統合とも呼ばれます。 その主な目的は、トラッキングとパス [!DNL Analytics] イベントデータからAdobe広告。 同じ訪問者に対してまったく同じ広告である場合でも、クリックスルーまたはビュースルーが発生するたびに、一意の EF ID が生成されます。 EF ID は、 [!DNL Analytics] の変数制限あたりのユニーク値が通常 500,000 個を超えるので、レポートユーザーインターフェイスを使用します。 [!DNL Analytics]レポートで使用できなくなります。 Adobe広告の指標とメタデータは、EF ID には適用されません。これらは AMO ID にのみ適用されます。 Adobe広告でキャンペーンを最適化するには、追跡に追加された精度が必要なので、両方の ID が必要です。
 
 ただし、EF ID ディメンションは [!DNL Analytics] レポートの場合、EF ID はマーケティングチャネルの作成に役立ちます。 EF ID サフィックスは、チャネル（表示または検索）と、訪問がクリックスルーまたはビュースルーによって駆動されたかどうかを示します。 EF ID の区切り文字は、AMO ID 内の感嘆符ではなくコロンです。
 
@@ -91,8 +91,8 @@ AMO EF ID(EF ID) は、 [!DNL Analytics for Advertising Cloud] 統合とも呼�
 >[!MORELIKETHIS]
 >
 >* [の基本 [!DNL Analytics Marketing Channels]](mc-overview.md)
->* [Advertising Cloudと [!DNL Marketing Channels]](mc-data-variances.md)
->* [使用 [!DNL Analytics Marketing Channels] Advertising Cloud Data を使用](mc-ac-data.md)
->* [ビデオ：Advertising Cloudを使用したレポート [!DNL Marketing Channels]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html)
->* [Advertising Cloud ID 使用者 [!DNL Analytics]](/help/integrations/analytics/ids.md)
+>* [チャネル広告とチャネル広告でチャネルデータが異なるAdobeを使用する理由 [!DNL Marketing Channels]](mc-data-variances.md)
+>* [使用 [!DNL Analytics Marketing Channels] とAdobe広告データ](mc-ac-data.md)
+>* [ビデオ：使用 [!DNL Marketing Channels] (Adobe広告レポート用 )](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html)
+>* [Adobe広告 ID が [!DNL Analytics]](/help/integrations/analytics/ids.md)
 

@@ -3,9 +3,9 @@ title: 配置設定
 description: 使用可能な配置設定の説明を参照してください。
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 0f5bdf041c0de60730efe5190d438a6d29752034
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '3422'
+source-wordcount: '3418'
 ht-degree: 0%
 
 ---
@@ -169,7 +169,7 @@ ht-degree: 0%
 
 **[!UICONTROL Inventory Sources]:** ターゲットとして含める、または除外する在庫ソース。 ほとんどの配置タイプでは、すべての在庫タイプと各タイプのすべてのソースがデフォルトで含まれます。 の場合 [!DNL Roku] 配置を使用する場合は、在庫のタイプとソースを指定する必要があります。 次のタイプの在庫から選択できます。
 
-* [!UICONTROL Public]:（Roku を除くすべての配置タイプ）Advertising Cloudがアクセスできるすべてのオープン為替在庫です。 公開在庫を含めたり除外したりできます。
+* [!UICONTROL Public]:（Roku を除くすべての配置タイプ）DSPがアクセスできるすべてのオープン為替在庫。 公開在庫を含めたり除外したりできます。
 
    リストは、ソース別またはフィード別に表示できます。 フィード別にリストを表示する場合、フィード名、フィードキー、または選択した特性タグで検索できます。
 
@@ -226,7 +226,7 @@ ht-degree: 0%
 >
 >パフォーマンスキャンペーンのベストプラクティスは、次を選択することです。 *[!UICONTROL All Sites]*.
 
-**[!UICONTROL Site Categories]:** ( オプション、次の場合に使用可能 **[!UICONTROL Paste list of targeted sites]** が *[!UICONTROL Off]*) 選択したサイト層内のサイトカテゴリのうち、ターゲットとして含める、または除外する（両方を除く）もの。 サイトの件名に基づいてAdvertising Cloudがマッピングした垂直方向のサイトリストから選択します。
+**[!UICONTROL Site Categories]:** ( オプション、次の場合に使用可能 **[!UICONTROL Paste list of targeted sites]** が *[!UICONTROL Off]*) 選択したサイト層内のサイトカテゴリのうち、ターゲットとして含める、または除外する（両方を除く）もの。 サイトの件名に基づいてDSPがマッピングした縦方向のサイトリストから選択します。
 
 1. クリック ![編集](/help/dsp/assets/edit.png).
 1. 含めるか除外するサイトカテゴリを指定します。
@@ -257,7 +257,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* Advertising Cloud DSP [グローバルブロックサイトリスト](/help/dsp/introduction/features/brand-safety-media-quality.md)：広告で安全でないと見なされるサイトを含みます。
+>* DSP [グローバルブロックサイトリスト](/help/dsp/introduction/features/brand-safety-media-quality.md)：広告で安全でないと見なされるサイトを含みます。
 >* ブロックされたサイトリストは、常にターゲットサイトリストを上書きします。 配置が広告の同じターゲットを除外して含む場合、そのターゲットは除外されます。
 
 

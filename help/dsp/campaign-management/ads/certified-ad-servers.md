@@ -3,7 +3,7 @@ title: 認定広告配信パートナー
 description: 認定済み広告サーバーと広告ユニットをすべて表示します。
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: ffd88b7f3274740db2d91697b0e208f61b2260d5
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -58,7 +58,7 @@ ht-degree: 0%
 | [!DNL Spirable] |  | X |  |  |  |
 | [!DNL SUBLIME] |  |  | X |  |  |
 | [!DNL SundaySky] |  |  |  | X |  |
-| [!DNL Teads] |  | X |  |  | Advertising Cloud DSPは、Outstream のインベントリで VPAID をサポートしていません。 |
+| [!DNL Teads] |  | X |  |  | Outstream のインベントリで VPAID をサポートしていません。 |
 | [!DNL Trueffect] |  | X |  |  |  |
 | [!DNL Undertone] |  |  | X |  | DSPで 180 x 150 としてアップロードされたカスタム Page Grabber 広告ユニット</br></br>Index Exchange が 180x150 のオークションを渡し、オークションでDSPが入札してインプレッションを提供すると、クリエイティブはフルページのディスプレイ広告に展開します。</br></br>最初は、Page Grabber、Expandable Destification、Screen Shift の広告ユニットに関する認定を受けていました。 プロセス用にマークされたステップを含む、再認証が必要です。 |
 | [!DNL Vox] |  |  | X |  | [!DNL Athena] 広告の単位 |

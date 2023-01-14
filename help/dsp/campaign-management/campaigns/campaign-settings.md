@@ -3,9 +3,9 @@ title: キャンペーン設定
 description: 使用可能なキャンペーン設定の説明を参照してください。
 feature: DSP Campaigns
 exl-id: ff2e22ff-8073-4532-884b-36e0c1f22641
-source-git-commit: d7afcc2200adc41e583d21712226cb25f35aab66
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '921'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,9 @@ ht-degree: 0%
 
 * **[!UICONTROL Margin Type]:** 利益のタイプ。 マージン管理を有効にしてキャンペーンを保存すると、マージンのタイプを変更できなくなります。
 
-   * *[!UICONTROL Fixed]:* （デフォルト）Advertising Cloud DSPが、 [!UICONTROL Gross Budget].
+   * *[!UICONTROL Fixed]:* （デフォルト）DSPが、 [!UICONTROL Gross Budget].
 
-   * *[!UICONTROL Dynamic]:* 別の [!UICONTROL Budget Reserve %] および [!UICONTROL Gross Budget] キャンペーン内の各パッケージおよび配置に対して Advertising Cloud DSPは、特定の利益を保証することなく、各配置の財務効率に基づいて最適化されます。 これは、一定金額の単位または単位タイプを一定のレートで配信することに同意した複数の明細品目で構成される挿入注文に使用します。
+   * *[!UICONTROL Dynamic]:* 別の [!UICONTROL Budget Reserve %] および [!UICONTROL Gross Budget] キャンペーン内の各パッケージおよび配置に対して DSPは、特定の利益を保証することなく、各配置の財務効率に基づいて最適化されます。 これは、一定金額の単位または単位タイプを一定のレートで配信することに同意した複数の明細品目で構成される挿入注文に使用します。
 
 * **[!UICONTROL Fixed Margin %]:** （余白が固定されたキャンペーンのみ）各広告掲載順のデフォルトのマークアップです。 <!-- impression? -->（割合） この金額はから引かれている [!UICONTROL Gross Budget] ：ネットキャンペーン予算を定義します。
 
@@ -64,11 +64,11 @@ ht-degree: 0%
 
 1. 税金を控除する各手数料タイプの横にあるチェック・ボックスを選択します。 料金のタイプは次のとおりです。
 
-   * *[!UICONTROL Include estimated tax - ads fee]:* キャンペーン管理料に対する税金を含む、すべてのAdvertising Cloud DSPメディア支出に適用されます。
+   * *[!UICONTROL Include estimated tax - ads fee]:* キャンペーン管理料に対する税金を含む、すべての Advertising DSPメディア支出に適用されます。
 
-   * *[!UICONTROL Include estimated tax - ad serving fee]:* メディアとデータを除く、Advertising Cloud DSPのすべての支出に適用されます。 キャンペーン管理手数料に対する税金は除外されます
+   * *[!UICONTROL Include estimated tax - ad serving fee]:* メディアとデータを除く、Advertising DSPに関するすべての費用に適用されます。 キャンペーン管理手数料に対する税金は除外されます
 
-   * *[!UICONTROL Include estimated tax - data fee]:* Advertising Cloud DSPでのすべてのデータ支出に適用されます。
+   * *[!UICONTROL Include estimated tax - data fee]:* Advertising DSPのすべてのデータ支出に適用されます。
 
 1. クリック **[!UICONTROL Submit]**.
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 >* これらの値は、アカウントの料金設定でも設定できます。<!--[fee settings](/help/dsp/admin/tax-withholdings.md). -->
 
 
-**[!UICONTROL Cross Device Level]:** (2020 年 6 月 23 日以降に作成された既存のキャンペーンの場合は読み取り専用。（2020 年 6 月 23 日より前に作成されたキャンペーンでは使用できない） Advertising Cloudが広告をターゲットにし、頻度キャップを適用するレベル。 *同じデバイス* デバイスまたは *人* を使用して、既知のすべてのデバイスにわたってユーザーをターゲットに設定することができます。
+**[!UICONTROL Cross Device Level]:** (2020 年 6 月 23 日以降に作成された既存のキャンペーンの場合は読み取り専用。（2020 年 6 月 23 日より前に作成されたキャンペーンでは使用できません） DSPが広告をターゲットにし、頻度キャップを適用するレベルです。 *同じデバイス* デバイスまたは *人* を使用して、既知のすべてのデバイスにわたってユーザーをターゲットに設定することができます。
 
 **[!UICONTROL Device Graph]:** ( 既存のキャンペーンの場合は読み取り専用、ユーザーベースのクロスデバイスターゲティングのみを使用するキャンペーン ) クロスデバイスターゲティングと頻度管理に使用するデバイスグラフ。
 

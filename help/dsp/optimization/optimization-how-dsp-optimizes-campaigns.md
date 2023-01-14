@@ -3,16 +3,16 @@ title: キャンペーンの最適化方法
 description: キャンペーンでDSPがパッケージを最適化する方法を説明します。
 feature: DSP Optimization
 exl-id: 054582ef-b677-4725-b25c-b82bf3e5b43e
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '681'
 ht-degree: 0%
 
 ---
 
-# キャンペーンの最適化方法
+# Advertising DSPによるキャンペーンの最適化方法
 
-このページでは、Advertising Cloud DSP最適化エンジン（を利用）の概要を説明します。 [!DNL Adobe Sensei]は、キャンペーンのパッケージを最適化します。 キャンペーンを手動で最適化する方法に関するヒントとテクニックについては、 [!DNL Adobe] アカウントチーム。 <!-- add link to trading playbook if we add it to help -->
+このページでは、DSP最適化エンジン ( [!DNL Adobe Sensei]は、キャンペーンのパッケージを最適化します。 キャンペーンを手動で最適化する方法に関するヒントとテクニックについては、 [!DNL Adobe] アカウントチーム。 <!-- add link to trading playbook if we add it to help -->
 
 パッケージの最適化目標は、次の 2 つのレベルで動作します。
 

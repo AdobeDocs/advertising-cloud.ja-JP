@@ -3,9 +3,9 @@ title: カスタムレポート設定
 description: カスタムレポート設定の説明を参照してください。
 feature: DSP Custom Reports
 exl-id: 1d37fc96-0f9b-4eb2-ba8d-9534f627adaf
-source-git-commit: 4e389d687f8974028181a03534aff1abf6b43831
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '972'
+source-wordcount: '966'
 ht-degree: 0%
 
 ---
@@ -57,11 +57,11 @@ ht-degree: 0%
 
 **[!UICONTROL Report Headers]:** 次を実行するかどうか *[!UICONTROL Include]* または *[!UICONTROL Do Not Include]* 列ヘッダー。
 
-**[!UICONTROL Attribution Rule Settings]:** ( すべて [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment]、および [!UICONTROL Site] レポート [!UICONTROL Conversion Metrics] または [!UICONTROL Custom Goals] 列；Advertising Cloudコンバージョントラッキングのみを使用する広告主 ) レポート内で、コンバージョンにつながる一連のイベントのコンバージョンデータをどのように属性付けるか。 ルール間の違いを比較する場合は、複数のルールを選択できます。
+**[!UICONTROL Attribution Rule Settings]:** ( すべて [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment]、および [!UICONTROL Site] レポート [!UICONTROL Conversion Metrics] または [!UICONTROL Custom Goals] 列；Adobe広告コンバージョントラッキングのみを使用する広告主 ) レポート内で、コンバージョンにつながる一連のイベントのコンバージョンデータをどのようにアトリビュートするかを説明します。 ルール間の違いを比較する場合は、複数のルールを選択できます。
 
 >[!NOTE]
 >
->コンバージョンパスには、Advertising Cloud Searchで設定した、広告主のインプレッションまたはクリックルックバックウィンドウ内のインプレッション数およびクリック数が含まれます。 コンバージョン属性中のインプレッション数よりも、クリック数の方が優先されます。 コンバージョンパス内のクリックは、アトリビューションルールに基づいてフルクレジットを受け取ります。 インプレッションは、コンバージョンパスでクリックが追跡されない場合にのみクレジットを受け取ります。
+>コンバージョンパスには、広告主のインプレッションまたはクリックのルックバックウィンドウ内のインプレッション数およびクリック数が含まれます。これらは、 [!DNL Adobe Advertising Search]. コンバージョン属性中のインプレッション数よりも、クリック数の方が優先されます。 コンバージョンパス内のクリックは、アトリビューションルールに基づいてフルクレジットを受け取ります。 インプレッションは、コンバージョンパスでクリックが追跡されない場合にのみクレジットを受け取ります。
 
 * *[!UICONTROL Last Event]:* コンバージョンパスの最後のクリックまたはインプレッションにコンバージョンを関連付けます。
 
@@ -75,11 +75,11 @@ ht-degree: 0%
 
 * *[!UICONTROL U-shaped]:* コンバージョンパス内のすべてのイベントにコンバージョンをアトリビュートしますが、最初と最後のイベントに最も重み付けを適用し、コンバージョンパスの途中にあるイベントに対する重み付けを徐々に軽減します。
 
-* *[!UICONTROL Display Only]:*  コンバージョンパスの最後のDSPクリックまたはインプレッションにコンバージョンを関連付けます。 これには、ビデオおよび接続された TV 広告が含まれ、Advertising Cloud Search広告のクリックは除外されます。
+* *[!UICONTROL Display Only]:*  コンバージョンパスの最後のDSPクリックまたはインプレッションにコンバージョンを関連付けます。 これには、ビデオおよび接続されたテレビ広告が含まれ、クリック数は除外されます。 [!DNL Adobe Advertising Search] 広告。
 
 * *[!UICONTROL Social Only]:* 廃止
 
-<!-- See also [How Attribution Rules Are Calculated for Adobe Advertising Cloud](). -->
+<!-- See also [How Attribution Rules Are Calculated for Adobe Advertising](). -->
 
 **[!UICONTROL Paths as Columns]:**  ( すべて [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment]、および [!UICONTROL Site] レポート [!UICONTROL Conversion Metrics] または [!UICONTROL Custom Goals] 列 ) 同じデバイスで以前のイベントが発生した場合にレポートするコンバージョンのタイプ。 最大 3 つのタイプを含めることができます。 選択したタイプごとに、各コンバージョン指標に対して個別の列が追加され、指定したサフィックス ([!UICONTROL (tl)], [!UICONTROL (ct)]または [!UICONTROL (vt)]):
 

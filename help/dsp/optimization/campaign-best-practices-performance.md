@@ -3,16 +3,16 @@ title: パフォーマンスキャンペーンの設定のベストプラクテ�
 description: 最も低い CPA または最も高い ROAS 用に最適化された配置を含む、パフォーマンス重視のキャンペーンの設定に関するベストプラクティスを説明します。
 feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: 22821c0fe8c2864ab36d7aa1141a7527cc08a35b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '1249'
+source-wordcount: '1247'
 ht-degree: 0%
 
 ---
 
 # パフォーマンスキャンペーンの設定のベストプラクティス
 
-Advertising Cloudは、獲得単価が最も低い (CPA) か、広告費用対効果 (ROAS) が最も高い配置に対して、パフォーマンスに焦点を当てたキャンペーンを最適化できます。
+DSPは、獲得単価が最も低い (CPA) または広告費用対効果 (ROAS) が最も高い配置に対して、パフォーマンスに焦点を当てたキャンペーンを最適化できます。
 
 パフォーマンスキャンペーンについては、次のベストプラクティスを参照してください。
 
@@ -55,7 +55,7 @@ Advertising Cloudは、獲得単価が最も低い (CPA) か、広告費用対�
 
 #### リターゲティングに推奨される配置戦略
 
-* 広告主がAdobe AnalyticsまたはAdobe Audience Managerの顧客の場合は、ファーストパーティセグメント（ホームページの訪問者、製品ページ、買い物かごの放棄者など）を作成し、Advertising Cloudで配置ターゲットとして使用できます。
+* 広告主がAdobe AnalyticsまたはAdobe Audience Managerの顧客の場合は、ファーストパーティセグメント（ホームページの訪問者、製品ページ、買い物かごの放棄者など）を作成し、DSPでの配置ターゲットとして使用できます。
 
 * オーディエンスターゲット設定プレースメントに多くの予算を割り当てないようにします。 原則として、1 か月に 30 ドルのユーザーを 1,000 人ずつ予算にします。
 

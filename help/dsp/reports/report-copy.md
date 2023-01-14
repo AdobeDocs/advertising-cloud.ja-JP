@@ -2,20 +2,22 @@
 title: カスタムレポートの複製
 description: 既存のレポートを複製してカスタムレポートを作成する方法を説明します。
 feature: DSP Custom Reports
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 40f6d10d-5abf-410d-b382-6c8ddbc10921
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 1%
 
 ---
 
-
 # カスタムレポートの複製
 
 カスタムレポートを複製して、類似した設定の新しいレポートを作成します。
 
 1. メインメニューで、 **[!UICONTROL Reports]**.
+
 1. レポート行の「オプション」列で、 **[!UICONTROL options]>[!UICONTROL Copy]**.
+
 1. （オプション） [レポート設定](/help/dsp/reports/report-settings.md) 必要に応じて。
 
    デフォルトのレポート名は「\&lt;」です。*既存のレポート名*\> \#2&quot;（またはシーケンス内の次の番号）

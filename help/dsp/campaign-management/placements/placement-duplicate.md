@@ -3,7 +3,7 @@ title: 配置を複製
 description: 1 つ以上の配置の複製方法を説明します。
 feature: DSP Placements
 exl-id: d22a61a8-4f1b-41ee-b4fb-3124bec81a2f
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -24,16 +24,27 @@ ht-degree: 0%
 参照：[重複していないもの](#placement-not-duplicated)」と入力します。
 
 1. メインメニューで、 **[!UICONTROL Campaigns]**.
+
 1. キャンペーンの名前をクリックします。
+
 1. サブメニューで、 **[!UICONTROL Placements]**.
+
 1. 次のいずれかの操作を行います。
+
    * 配置を複製するには、  **[!UICONTROL ...]>[!UICONTROL Duplicate]** をクリックします。
+
    * 複数の配置を複製するには：
+
       1. 複製する各配置の横にあるチェックボックスを選択します。
+
       1. バルクアクションツールバーで、 **[!UICONTROL Duplicate]**.
+
 1. 新しい配置設定を指定します。
+
    1. （単一の配置）新しい配置名を入力します。
+
    1. 内 **[!UICONTROL Choose Package (Required)]** メニューで、親パッケージまたは**を選択します[!UICONTROL No package]*.
+
    1. （オプション）デフォルト設定を変更します。
 
    設定は、選択したすべての配置に適用されます。

@@ -1,29 +1,30 @@
 ---
-title: Adobe Advertising Cloud Acceptable Health Segments
+title: Adobe広告が受け入れ可能なヘルスセグメント
 description: ヘルス関連のオーディエンスセグメントをターゲット設定する代替手段として使用する、許容可能なヘルス関連のオーディエンスセグメントおよび戦術に関するガイドラインを参照してください。
 feature: Policies
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: fd4fdf5e-9159-4a89-8447-12051deae61b
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
 
-# Adobe Advertising Cloud Acceptable Health Segment Guidelines
+# Adobe広告が受け入れ可能なヘルスセグメントのガイドライン
 
-*Adobe Advertising Cloud DSPとAdobe Advertising Cloud Search*
+*Adobe広告DSPの場合[!DNL Adobe Advertising Search]*
 
 次のガイドラインは、受け入れがたい、許容可能なヘルス関連のオーディエンスセグメントの概要を示しています。 また、ヘルス関連のオーディエンスセグメントをターゲティングする代わりにとして使用する戦術をお勧めします。
 
 これらのガイドラインは、 [!DNL Network Advertising Alliance (NAI)].
 
-関連トピック [Advertising Cloud Ads Requirements Policy](/help/policies/ad-requirements-policy.md) ：ヘルス関連のオーディエンスセグメントがAdobe Advertising Cloudのターゲティングポリシーごとに使用可能かどうかを判断します。
+関連トピック [AdobeAdvertising Ads 要件ポリシー](/help/policies/ad-requirements-policy.md) ：ヘルス関連のオーディエンスセグメントが、Adobe広告のターゲティングポリシーごとに使用できるかどうかを判断します。
 
 ## 使用すべきでないヘルスセグメント
 
 * 保護された医療情報 (PHI)\*、ユーザーレベルの医療記録、医薬品処方、または類似の医療/医療ソースに依存し、そのユーザーの状態や治療に関する実際の知識を提供するセグメント。
 
-   \* Adobe Advertising Cloudは [!DNL HIPAA]対応ソリューション
+   \*Adobe広告は [!DNL HIPAA]対応ソリューション
 
 * 癌、精神的健康、薬物中毒、性的感染症、主に子供に影響を与える状態、その他の多くの感受性の健康状態（糖尿病、乾癬、関節リウマチ、線維筋痛症など）など、健康状態（または関連治療）をターゲットにするセグメント。
 

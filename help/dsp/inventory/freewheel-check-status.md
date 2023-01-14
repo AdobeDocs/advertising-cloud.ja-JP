@@ -3,9 +3,9 @@ title: '[!DNL] の広告のステータスの確認 [!DNL FreeWheel]] PG 契約'
 description: 広告のステータスを見つける方法を説明します [!DNL Freewheel] プログラム的に保証された取引。
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 57c365f6-41cf-4ab6-b71d-fe9984eaf115
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: よくある質問
 description: xxx
-source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ## タイトル
 
-https://adobeadcloud.zendesk.com/agent/tickets/14214デフォルトでは、Adobe Analyticsは、すべてのレポートでキャプチャされたイベントをすべてレポートします。 &quot;[!UICONTROL Unspecified]「 」イベントは、Advertising Cloudに接続されなかったフォーム完了イベントを表します。 例えば、広告プラットフォームレポートでは、電子メールキャンペーンによって駆動されるオーガニックコンバージョンやコンバージョンは、「未指定」に分類されます。
+https://adobeadcloud.zendesk.com/agent/tickets/14214デフォルトでは、Adobe Analyticsは、すべてのレポートでキャプチャされたイベントをすべてレポートします。 &quot;[!UICONTROL Unspecified]「 」イベントは、Adobe広告に接続されなかったフォーム完了イベントを表します。 例えば、広告プラットフォームレポートでは、電子メールキャンペーンによって駆動されるオーガニックコンバージョンやコンバージョンは、「未指定」に分類されます。
 
 このフィルターを使用して、「未指定（なし）を含む」オプションのチェックマークを外すことで、未指定のイベントをレポートから削除できます。 <!-- Not sure if this is in DSP or in Analytics Workspace -->
 

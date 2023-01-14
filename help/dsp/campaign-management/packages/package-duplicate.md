@@ -3,7 +3,7 @@ title: パッケージの複製
 description: パッケージの複製方法を説明します。
 feature: DSP Packages
 exl-id: 4c37883f-5feb-4513-9573-ed4e32606132
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -22,18 +22,27 @@ ht-degree: 0%
 参照：[重複していないもの](#package-not-duplicated)」と入力します。
 
 1. メインメニューで、 **[!UICONTROL Campaigns]**.
+
 1. キャンペーン名をクリックして、 [!UICONTROL Packages] 表示
+
 1. パッケージ名の横にある  **[!UICONTROL ...]>[!UICONTROL Duplicate]**.
+
 1. 新しいパッケージ設定を指定します。
+
    1. 新しいパッケージ名を入力します。
+
    1. （オプション）デフォルト設定を変更します。
 
       デフォルトでは：
 
       * 新しいパッケージが元の広告主とキャンペーンに割り当てられます。
+
       * 新しいパッケージは、現在の日にアクティブになります。<!-- and the flight continues for NN  days. -->
+
       * 元のパッケージ内の配置は、新しいパッケージにコピーされます。
+
       * 広告と配置レベルのイベントピクセルは、新しいパッケージにコピーされません。
+
 1. クリック **[!UICONTROL Submit]**.
 
 ## 重複していないもの {#package-not-duplicated}
