@@ -2,10 +2,9 @@
 title: Campaign Launch チェックリスト
 description: キャンペーンを開始する前に必要な操作について説明します。
 feature: DSP Placements, DSP Ads
-exl-id: bf0147d0-0b58-435d-a2de-5b98e0d3488c
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

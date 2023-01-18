@@ -2,8 +2,7 @@
 title: 編集 [!UICONTROL Simple Ad Serving] 契約設定
 description: の設定を編集する方法を説明します [!UICONTROL Simple Ad Serving] 契約
 feature: DSP Simple Ad Serving
-exl-id: 025b299b-05ba-4e4e-ac92-8a738303bc32
-source-git-commit: f1fce966c8db2f4cde72ecf1cc900f3d5fb1a1a5
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 1%

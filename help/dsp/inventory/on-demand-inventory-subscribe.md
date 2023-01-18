@@ -2,10 +2,9 @@
 title: 購読してへのアクセスをリクエスト [!DNL On Demand] プレミアム在庫取引
 description: 購読方法とへのアクセス権のリクエスト方法を説明します。[!DNL On Demand] 契約
 feature: DSP On Demand Inventory
-exl-id: e66e5bad-526e-4b71-8072-332dd173f105
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

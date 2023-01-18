@@ -2,10 +2,9 @@
 title: '"[!DNL On Demand] アジア太平洋地域のプレミアムインベントリ発行者»'
 description: 利用可能な [!DNL On Demand] アジア太平洋地域のプレミアム在庫発行者。
 feature: DSP On Demand Inventory
-exl-id: dda5f9fb-2efb-475b-9219-dfa6294f3e01
-source-git-commit: 2c94b6c02b4e24878639dd9edbc0455e1751f679
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '448'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

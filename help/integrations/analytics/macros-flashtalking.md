@@ -2,10 +2,9 @@
 title: 追加 [!DNL Analytics for Advertising] マクロ先 [!DNL Flashtalking] 広告タグ
 description: 理由と追加方法を説明します [!DNL Analytics for Advertising] マクロを [!DNL Flashtalking] 広告タグ
 feature: Integration with Adobe Analytics
-exl-id: 4b060668-723c-4cd2-b70e-409501ec67de
-source-git-commit: 04b57aec29e2d737bc33375614137543bead240c
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

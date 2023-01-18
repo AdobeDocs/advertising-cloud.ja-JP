@@ -2,9 +2,9 @@
 title: 再利用可能なオーディエンスに関する詳細のエクスポート
 description: 再利用可能なオーディエンスの設定、オーディエンスのサイズ、ターゲット配置を表示する方法を説明します。
 feature: DSP Audiences
-source-git-commit: 0a437213957f914643b4eff63aba65cf582824c6
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

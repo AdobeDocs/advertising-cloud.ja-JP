@@ -2,9 +2,9 @@
 title: 再利用可能なオーディエンスのセグメントキーをクリップボードにコピーする
 description: 再利用可能なオーディエンスの設定とオーディエンスサイズを表示する方法を説明します。
 feature: DSP Audiences
-source-git-commit: 2629fe2c188e04b7fbfd7e17f9a6b076d68b7396
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

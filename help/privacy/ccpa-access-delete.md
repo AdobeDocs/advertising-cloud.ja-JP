@@ -2,10 +2,9 @@
 title: カリフォルニア州消費者プライバシー法に対するAdobe広告のサポート：消費者データのアクセスと削除のサポート
 description: サポートされるデータリクエストの種類、必須セットアップとフィールド値、および従来の製品 ID と返されたデータフィールドを使用した API アクセスリクエストの例について説明します。
 feature: CCPA
-exl-id: 1330da6c-a944-4bb5-8539-488d97f56175
-source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '1076'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

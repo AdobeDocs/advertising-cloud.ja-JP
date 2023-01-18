@@ -2,7 +2,7 @@
 title: セグメント情報の編集
 description: カスタムまたは CCPA オプトアウトオブセールセグメントに関する情報を編集する方法について説明します。
 feature: DSP Segments
-source-git-commit: d7dbc81caecf515ed719da5cb5893e015213a1b1
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%

@@ -2,8 +2,7 @@
 title: パフォーマンスのトラブルシューティング
 description: 一般的なパフォーマンスの問題を参照し、それらのトラブルシューティング方法を確認します。
 feature: DSP Optimization
-exl-id: adb32257-dede-4623-9840-33221c218443
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '518'
 ht-degree: 0%

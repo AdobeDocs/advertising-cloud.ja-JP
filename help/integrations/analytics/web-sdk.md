@@ -2,8 +2,7 @@
 title: の使用 [!DNL Last Event Service] を使用した JavaScript ライブラリ [!DNL Web SDK]
 description: を使用してから切り替える手順を説明します。 [!DNL Analytics] [!DNL visitorAPI] ライブラリを [!DNL Experience Platform] [!DNL Web SDK] ライブラリ [!DNL Analytics for Advertising] 実装。
 feature: Integration with Adobe Analytics
-exl-id: 96537244-1c5c-4d9a-a44e-ba7fcea9381d
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%

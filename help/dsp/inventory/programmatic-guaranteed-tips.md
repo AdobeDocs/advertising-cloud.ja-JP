@@ -2,10 +2,9 @@
 title: プログラム的に保証された契約の交渉に関するヒント
 description: プログラム的に保証された (PG) 取引の交渉に関するヒント、および購入者と発行者の責任のリストについて説明します。
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
-exl-id: b754f993-b52f-4527-a246-bf232038c7cd
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

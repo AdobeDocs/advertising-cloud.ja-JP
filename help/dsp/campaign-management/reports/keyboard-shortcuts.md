@@ -2,8 +2,7 @@
 title: キーボードショートカット
 description: 配置設定で使用できるキーボードショートカットを参照します。
 feature: DSP Placements
-exl-id: bef0406c-9c10-48ec-b069-b887ef8f66ae
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -12,18 +11,18 @@ ht-degree: 0%
 
 # キーボードショートカット
 
-配置設定内で、キーボードショートカットを使用してすばやく移動します。<!-- and to create ads and placements -->
+配置設定内で、キーボードショートカットを使用してすばやく移動する<!-- and to create ads and placements -->.
 
-| 適用可能なページ | ショートカット | 説明 |
+| 該当するページ | ショートカット | 説明 |
 | ---------------| ----------- | ---------------------- |
-| 配置設定 | o | [!UICONTROL Goals]設定に移動します。 |
-| 配置設定 | g | [!UICONTROL Geos]設定に移動します。 |
-| 配置設定 | i | [!UICONTROL Inventory]設定に移動します。 |
-| 配置設定 | s | [!UICONTROL Sites]設定に移動します。 |
-| 配置設定 | a | [!UICONTROL Audience]設定に移動します。 |
-| 配置設定 | b | [!UICONTROL Brand Safety]設定に移動します。 |
-| 配置設定 | t | [!UICONTROL Tracking]設定に移動します。 |
-| 配置設定 | l | [!UICONTROL Adobe Labs]設定に移動します。 |
+| 配置設定 | o | をクリックして、 [!UICONTROL Goals] 設定 |
+| 配置設定 | g | をクリックして、 [!UICONTROL Geos] 設定 |
+| 配置設定 | i | をクリックして、 [!UICONTROL Inventory] 設定 |
+| 配置設定 | s | をクリックして、 [!UICONTROL Sites] 設定 |
+| 配置設定 | a | をクリックして、 [!UICONTROL Audience] 設定 |
+| 配置設定 | b | をクリックして、 [!UICONTROL Brand Safety] 設定 |
+| 配置設定 | t | をクリックして、 [!UICONTROL Tracking] 設定 |
+| 配置設定 | l | をクリックして、 [!UICONTROL Adobe Labs] 設定 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -34,7 +33,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [プレースメントの作成](/help/dsp/campaign-management/placements/placement-create.md)
->* [プレースメントの編集](/help/dsp/campaign-management/placements/placement-edit.md)
+>* [配置の作成](/help/dsp/campaign-management/placements/placement-create.md)
+>* [配置の編集](/help/dsp/campaign-management/placements/placement-edit.md)
 >* [配置設定](/help/dsp/campaign-management/placements/placement-settings.md)
 

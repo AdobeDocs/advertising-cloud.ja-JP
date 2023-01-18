@@ -2,10 +2,9 @@
 title: プリロール広告の設定
 description: プリロール広告で使用可能な広告設定の説明を参照してください。
 feature: DSP Ads
-exl-id: 638d5a3d-3dff-40b6-a3ba-7ab3f08282b9
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

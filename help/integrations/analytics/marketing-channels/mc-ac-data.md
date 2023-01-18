@@ -2,10 +2,9 @@
 title: 使用 [!DNL Marketing Channels] とAdobe広告データ
 description: でのAdobe広告データの使用方法 [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
-exl-id: c9403a03-58aa-4633-bb97-51afc30843ad
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '708'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

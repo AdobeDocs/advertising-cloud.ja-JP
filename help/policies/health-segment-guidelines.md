@@ -2,8 +2,7 @@
 title: Adobe広告が受け入れ可能なヘルスセグメント
 description: ヘルス関連のオーディエンスセグメントをターゲット設定する代替手段として使用する、許容可能なヘルス関連のオーディエンスセグメントおよび戦術に関するガイドラインを参照してください。
 feature: Policies
-exl-id: fd4fdf5e-9159-4a89-8447-12051deae61b
-source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 0%

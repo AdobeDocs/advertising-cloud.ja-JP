@@ -2,10 +2,9 @@
 title: 広告の複製
 description: 広告の複製方法を説明します。
 feature: DSP Ads
-exl-id: 65c29be7-ca88-4608-bde2-5f1267d095ef
-source-git-commit: 2bce8d51a31293fef1197a230050940719b9ff57
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

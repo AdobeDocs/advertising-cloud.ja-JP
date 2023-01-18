@@ -2,10 +2,9 @@
 title: カリフォルニア州消費者プライバシー法に対するAdobe広告のサポート：消費者のオプトアウトオブセールのサポート
 description: 消費者のオプトアウトオブセールのリクエストをキャプチャするためのサポートについて説明します。
 feature: CCPA
-exl-id: 2c0cd4f5-798f-479a-99cd-f555cd676766
-source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '1003'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

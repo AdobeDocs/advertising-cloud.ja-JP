@@ -2,8 +2,7 @@
 title: データ列の並べ替え
 description: キャンペーン管理ビューでデータ列を並べ替える方法を説明します。
 feature: DSP Campaign Data Views
-exl-id: ed27246a-a31e-4ad2-bc30-446478fc58d1
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -12,7 +11,7 @@ ht-degree: 0%
 
 # データ列の並べ替え
 
-任意のデータ列を昇順（A ～ Zまたは1 ～ 10）または降順（Z ～ Aまたは10 ～ 1）で並べ替えることができます。
+任意のデータ列を昇順 (A ～ Z、1 ～ 10) または降順 (Z ～ A、10 ～ 1) で並べ替えることができます。
 
 * 列ヘッダーをクリックして、昇順と降順を切り替えます。
 
@@ -21,6 +20,6 @@ ht-degree: 0%
 >* [プラットフォーム内レポートについて](campaign-reports-about.md)
 >* [カスタム列表示の作成](column-view-create.md)
 >* [列表示の変更](column-view-change.md)
->* [キャンペーンデータのフィルタリング](campaign-data-filter.md)
+>* [キャンペーンデータをフィルタ](campaign-data-filter.md)
 >* [データビジュアライゼーションの管理](campaign-data-visualization-manage.md)
 

@@ -2,11 +2,10 @@
 title: レポートの宛先の作成
 description: カスタムレポートの配信先を作成する方法を説明します。
 feature: DSP Custom Reports
-exl-id: 33c58a98-a7d3-4d05-99e7-5e55ba3e625a
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

@@ -2,8 +2,7 @@
 title: 広告の編集
 description: 広告の編集方法を説明します。
 feature: DSP Ads
-exl-id: ef140d61-f04e-4c1c-acdd-9985730dfb07
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%

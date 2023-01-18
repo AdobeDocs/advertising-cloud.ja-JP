@@ -2,7 +2,7 @@
 title: 再利用可能なオーディエンスの共有
 description: アカウントで利用可能な他の広告主と再利用可能なオーディエンスを共有する方法を説明します。
 feature: DSP Audiences
-source-git-commit: b0166338edca9f8928aa72241c815f0149e78689
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%

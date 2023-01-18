@@ -2,7 +2,7 @@
 title: 再利用可能なオーディエンスに関する詳細の表示
 description: 再利用可能なオーディエンスの設定とオーディエンスサイズを表示する方法を説明します。
 feature: DSP Audiences
-source-git-commit: b835b9d8549faff6d4dbf9f03d14205028828880
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%

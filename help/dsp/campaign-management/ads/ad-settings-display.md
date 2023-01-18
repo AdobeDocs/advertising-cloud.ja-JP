@@ -2,8 +2,7 @@
 title: ディスプレイ広告の設定
 description: ディスプレイ広告に使用可能な広告設定の説明を参照してください。
 feature: DSP Ads
-exl-id: ae88dfab-0b0c-42ab-9135-422b20a4b6cd
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '443'
 ht-degree: 0%

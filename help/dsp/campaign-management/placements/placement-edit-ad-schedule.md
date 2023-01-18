@@ -2,10 +2,9 @@
 title: プレースメントの広告スケジュールの編集
 description: プレースメントに関連付けられた広告の広告スケジュールを変更する方法を説明します。
 feature: DSP Placements
-exl-id: 880522d3-efcd-4ff9-8cef-bf6be626869c
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

@@ -2,8 +2,7 @@
 title: Flashtalking を使用した広告の作成
 description: Flashtalking とのDSPの有料広告提供パートナーシップについて説明します。
 feature: DSP Ads
-exl-id: d303b47e-18f1-4241-826e-dfffc0078e8f
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '34'
 ht-degree: 0%

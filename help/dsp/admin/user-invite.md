@@ -1,9 +1,9 @@
 ---
 title: 組織アカウントへの新しいユーザーの招待
 description: 新しいユーザーを招待してアカウントに参加させる方法を説明します。
-source-git-commit: cd1ded08b07735cb3e156ec401e3ea1a920183d3
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

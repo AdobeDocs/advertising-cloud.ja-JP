@@ -1,7 +1,7 @@
 ---
 title: アラート購読の管理
 description: 自動 E メールアラートを管理する方法を説明します。
-source-git-commit: 1cce72f4cd898034c7bf7bfeee8c5b37f43c0a59
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%

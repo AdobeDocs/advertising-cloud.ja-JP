@@ -2,10 +2,9 @@
 title: 配置設定
 description: 使用可能な配置設定の説明を参照してください。
 feature: DSP Placements
-exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '3418'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

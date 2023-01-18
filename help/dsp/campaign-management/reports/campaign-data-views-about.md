@@ -2,8 +2,7 @@
 title: Campaign のデータビューについて
 description: キャンペーン、パッケージ、プレースメントおよび広告のデータビューをカスタマイズする方法について説明します。
 feature: DSP Campaign Data Views
-exl-id: acc312b9-2de4-4e2f-9b59-b91f23d82357
-source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -45,6 +44,6 @@ ht-degree: 0%
 >* [データビジュアライゼーションの管理](campaign-data-visualization-manage.md)
 >* [プレースメントのサイト、広告、頻度の詳細を表示](placement-details-view.md)
 >* [配置診断レポートの表示](placement-diagnostics.md)
->* [キャンペーン管理ビューからのデータのエクスポート](campaign-export-data.md)
+>* [Campaign Managementビューからのデータの書き出し](campaign-export-data.md)
 >* [ビデオ：DSPアカウント構造とユーザーインターフェイス](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/ui.html)
 

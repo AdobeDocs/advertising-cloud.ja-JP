@@ -2,8 +2,7 @@
 title: 契約 ID の属性タグの編集
 description: ディール ID の属性タグを作成および編集する方法について説明します。
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
-exl-id: 9a0190e7-26d0-4236-abbb-f1264b5d61e9
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%

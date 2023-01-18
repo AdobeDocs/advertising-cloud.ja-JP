@@ -2,7 +2,7 @@
 title: セグメントの共有または共有の停止
 description: カスタムまたは CCPA オプトアウトオブセールセグメントを他のDSPユーザーアカウントと共有または共有しない方法について説明します。
 feature: DSP Segments
-source-git-commit: a29258fd09efabafa0d9b44ac3c52506ac835167
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%

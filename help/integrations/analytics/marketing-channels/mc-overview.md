@@ -2,10 +2,9 @@
 title: の基本 [!DNL Marketing Channels]
 description: 以下に関する主な情報を学ぶ： [!DNL Analytics Marketing Channels] その [!DNL Analytics for Advertising] ユーザーは理解する必要があります。
 feature: Integration with Adobe Analytics
-exl-id: 27b6fb07-0b63-4ff1-a316-20b9a2b60fe9
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

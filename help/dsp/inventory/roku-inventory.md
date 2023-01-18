@@ -2,10 +2,9 @@
 title: 使用 [!DNL Roku] 在庫
 description: とのDSPパートナーシップについて学ぶ [!DNL Roku]（在庫オプション、承認されたサードパーティトラッキングベンダー、および以下のベストプラクティスを含む） [!DNL Roku] — 特定の配置。
 feature: DSP On Demand Inventory, DSP Private Inventory
-exl-id: 0cd42782-f006-4aa8-b879-322f86cfac4b
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

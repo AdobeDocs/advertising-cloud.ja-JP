@@ -2,10 +2,9 @@
 title: '''[!DNL Adobe] [!DNL Audience Analytics] (Adobe広告のお客様向け )'
 description: 使用方法を学ぶ [!DNL Adobe] [!DNL Audience Analytics] 広告のユースケース
 feature: Integration with Adobe Audience Manager
-exl-id: e05ba560-d3d5-4024-b1ba-956e878a2578
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

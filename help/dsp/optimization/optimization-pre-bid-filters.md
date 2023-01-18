@@ -2,10 +2,9 @@
 title: 配置レベルの事前入札フィルターとその使用方法
 description: 使用可能な配置レベルの入札前フィルターを参照し、その使用方法を確認します。
 feature: DSP Optimization
-exl-id: c699e970-84ca-429b-8062-81804e6c9f21
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '448'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

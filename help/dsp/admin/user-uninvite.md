@@ -1,9 +1,9 @@
 ---
 title: 保留中のユーザーの招待解除
 description: 保留中のユーザーの招待を取り消す方法を説明します。
-source-git-commit: 315fd6189e1805f9f1f4184cc0aa47d12740616a
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

@@ -2,10 +2,9 @@
 title: 追加 [!DNL Analytics for Advertising] マクロ先 [!DNL Google Campaign Manager 360] 広告タグ
 description: 理由と追加方法を説明します [!DNL Analytics for Advertising] マクロを [!DNL Google Campaign Manager 360] 広告タグ
 feature: Integration with Adobe Analytics
-exl-id: 05084a85-5890-4a82-b3eb-4520f44f9d66
-source-git-commit: 7c467f7a6eb2522fb998539ba01ceef8c89c3853
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

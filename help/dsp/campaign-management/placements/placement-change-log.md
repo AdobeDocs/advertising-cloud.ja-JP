@@ -2,9 +2,9 @@
 title: 配置変更ログを表示する
 description: 配置に加えられた変更を表示する方法を説明します。
 feature: DSP Placements
-source-git-commit: ea77f93b72ffa9ffd755879a21b16cc28fac625e
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

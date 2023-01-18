@@ -2,10 +2,9 @@
 title: パッケージ変更ログの表示
 description: パッケージに加えられた変更を表示する方法を説明します。
 feature: DSP Packages
-exl-id: 1d611c20-7857-41db-adf4-743dab44341e
-source-git-commit: 1098fa5fc9207300b5b9c75cf07f24ecfe1dfc69
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
