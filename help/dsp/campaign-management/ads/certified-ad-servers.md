@@ -2,7 +2,8 @@
 title: 認定広告配信パートナー
 description: 認定済み広告サーバーと広告ユニットをすべて表示します。
 feature: DSP Ads
-source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
+exl-id: 1435efdd-8823-4f07-b9e4-65bd4789226e
+source-git-commit: 818a9d342347247abdbde565f53288dff4454e78
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -20,7 +21,7 @@ ht-degree: 0%
 | [!DNL Adform] | X | X |  | X |  |
 | [!DNL ADITION Technologies] |  | X |  |  |  |
 | [!DNL ADman Media] | X |  |  |  |  |
-| [!DNL Adobe Advertising Cloud Creative] |  | X |  |  |  |
+| [!DNL Adobe Advertising Creative] |  |  |  |  |  |
 | [!DNL ADventori] |  | X |  |  |  |
 | [!DNL Artsai] |  | X |  | X |  |
 | [!DNL Atlas] |  |  |  | X |  |
