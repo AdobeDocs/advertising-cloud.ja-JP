@@ -8,10 +8,10 @@ user-guide-title: Advertising DSPガイド
 user-guide-description: Advertising DSP を使用してディスプレイ広告戦略を管理、最適化およびレポートするために必要な主要機能、タスク、設定およびその他のリソースについて学習します。
 breadcrumb-title: DSP ガイド
 index: true
-source-git-commit: d928b19b868ffc87d5962391f06d765f9da7c13a
+source-git-commit: 62966cd8d903d20b42444ac65d7c70a3a3806a1e
 workflow-type: tm+mt
-source-wordcount: '930'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -35,15 +35,8 @@ ht-degree: 5%
       + [クロスデバイス対応ソリューション](/help/dsp/introduction/features/cross-device-solutions.md)
    + [アカウント資金](/help/dsp/introduction/billing/account-funding.md)
    + [サポートされる通貨](/help/dsp/currency.md)
-   + 消費者プライバシーのサポート {#privacy}
-      + [EU 一般データ保護規則のサポート](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/gdpr.html)
-      + CCPA のサポート {#ccpa}
-         + [カリフォルニア州消費者プライバシー法のサポート：消費者データのアクセスと削除](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-access-delete.html)
-         + [カリフォルニア州消費者プライバシー法のサポート：消費者のオプトアウト (COS)](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html)
-   + ポリシーとガイドライン {#policies}
-      + [広告要件ポリシー](/help/policies/ad-requirements-policy.md)
-      + [Acceptable Health Segment Guidelines](/help/policies/health-segment-guidelines.md)
-      + [[!DNL DSP] データ使用のガイドライン](/help/policies/data-usage-guidelines.md)
+   + [消費者プライバシーのサポート](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+   + [ポリシーとガイドライン](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
    + [高度な測定ソリューション](/help/dsp/introduction/advanced-measurement-services.md)
 + Campaign Management {#campaign-management}
    + [Campaign Management構造の概要](/help/dsp/campaign-management/campaign-management-overview.md)
@@ -231,6 +224,6 @@ ht-degree: 5%
    + 通知 {#notifications}
       + [アラート購読について](/help/dsp/admin/alerts-about.md)
       + [アラート購読の管理](/help/dsp/admin/alerts-manage.md)
-+ [Adobe Experience Cloud との統合](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
++ [Adobe Experience Cloud との統合](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
 + [カスタマーサポート](https://helpx.adobe.com/jp/contact/enterprise-support.ec.html)
 + [Adobe Experience Cloud のリリースノート](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
