@@ -8,7 +8,7 @@ user-guide-title: Advertising DSPガイド
 user-guide-description: Advertising DSP を使用してディスプレイ広告戦略を管理、最適化およびレポートするために必要な主要機能、タスク、設定およびその他のリソースについて学習します。
 breadcrumb-title: DSP ガイド
 index: true
-source-git-commit: f04fdb7f4f9787804e526b49da2aad0f4e15679a
+source-git-commit: e9d9d51302d32b06af805917db2f46e5f6daee62
 workflow-type: tm+mt
 source-wordcount: '910'
 ht-degree: 5%
@@ -36,10 +36,10 @@ ht-degree: 5%
    + [アカウント資金](/help/dsp/introduction/billing/account-funding.md)
    + [サポートされる通貨](/help/dsp/currency.md)
    + 消費者プライバシーのサポート {#privacy}
-      + [EU 一般データ保護規則のサポート](/help/privacy/advertising-gdpr.md)
+      + [EU 一般データ保護規則のサポート](/help/privacy/gdpr.md)
       + CCPA のサポート {#ccpa}
-         + [カリフォルニア州消費者プライバシー法のサポート：消費者データのアクセスと削除](/help/privacy/ccpa-access-delete.md)
-         + [カリフォルニア州消費者プライバシー法のサポート：消費者のオプトアウト (COS)](/help/privacy/ccpa-opt-out-of-sale.md)
+         + [カリフォルニア州消費者プライバシー法のサポート：消費者データのアクセスと削除](/help/privacy/ccpa/ccpa-access-delete.md)
+         + [カリフォルニア州消費者プライバシー法のサポート：消費者のオプトアウト (COS)](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
    + ポリシーとガイドライン {#policies}
       + [広告要件ポリシー](/help/policies/ad-requirements-policy.md)
       + [Acceptable Health Segment Guidelines](/help/policies/health-segment-guidelines.md)
