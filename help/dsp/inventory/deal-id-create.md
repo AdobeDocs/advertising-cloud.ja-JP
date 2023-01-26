@@ -3,9 +3,9 @@ title: Deal ID の詳細の手動作成
 description: Deal ID の詳細を手動で入力する方法を説明します。
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 20a57919-c68f-4c9d-a8e1-f49484f74655
-source-git-commit: bc5f05faf96d455bd8954e7f7f44cc9fe849e562
+source-git-commit: c2b83922ba5d4b40ad5a436f0ea052d051fb1d37
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    1. 内 [!UICONTROL Deal ID basics] 「 」セクションで、契約の詳細と、契約にアクセスできる広告主を指定します。 保証された契約の場合は、トラッキングの目的でのみ、計画されたフライト日と推定インプレッション数も指定する必要があります。
 
-      「在庫/契約」表示に「PG Impression Pacing」支出列を含めることで、保証された契約のペーシングを追跡できます。
+      「在庫/掘り出し物」ビューに「PG Impression Pacing」支出列を含めることで、保証された掘り出し物のペーシングを追跡できます。
 
    1. ( 管理者ユーザーのみ、（オプション） [!UICONTROL Technical] 「 」セクションで、必要に応じてデフォルト設定を編集します。
 
